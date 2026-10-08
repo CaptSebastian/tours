@@ -30,7 +30,19 @@
       ]
     },
     "het-scheepvaartmuseum": {
-      "file": "Amsterdam - Prins Hendrikkade - View East towards Scheepvaartmuseum (Maritime Museum) 1656 by Daniël Stalpaert.jpg"
+      "q": [
+        "Lands Zeemagazijn",
+        "Nederlands Scheepvaartmuseum Kattenburgerplein",
+        "Scheepvaartmuseum Amsterdam gebouw"
+      ],
+      "exclude": [
+        "Pyrmont",
+        "Australian",
+        "View East towards",
+        "interieur",
+        "interior",
+        "2022"
+      ]
     },
     "high-and-dry": {
       "file": "Brouwersgracht pakhuizen.jpg"
