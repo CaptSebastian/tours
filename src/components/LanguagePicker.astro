@@ -16,8 +16,8 @@ interface Props {
 }
 const { target, heading } = Astro.props;
 const codes = enabledLocales.map((l) => l.code);
-// Volgorde in de keuzelijst: Nederlands, dan Engels, dan de rest
-const firstOrder = ['nl', 'en'];
+// Volgorde in de keuzelijst: Nederlands, Engels, daarna ruwweg naar hoeveel bezoekers Amsterdam uit dat taalgebied krijgt
+const firstOrder = ['nl', 'en', 'de', 'fr', 'it', 'es', 'pt', 'zh', 'hi', 'he', 'pl', 'sv', 'tr', 'ja', 'ko', 'el', 'ar', 'uk', 'ru'];
 const pickerLocales = [...enabledLocales].sort((a, b) => {
   const ia = firstOrder.indexOf(a.code), ib = firstOrder.indexOf(b.code);
   return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
