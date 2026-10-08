@@ -64,25 +64,7 @@
       "file": "Amstel river, Halvemaanbrug, Amsterdam.jpg"
     },
     "hart-museum": {
-      "q": [
-        "Amstelhof fronton",
-        "Amstelhof timpaan",
-        "Amstelhof ingang",
-        "Amstelhof Amsterdam gevel",
-        "Hermitage Amsterdam entrance",
-        "Amstelhof Amsterdam"
-      ],
-      "exclude": [
-        "Magere",
-        "magere",
-        "brug",
-        "Brug",
-        "bridge",
-        "Bridge",
-        "Blauwbrug",
-        "nacht",
-        "night"
-      ]
+      "file": "Hermitage Amsterdam (26184742802).jpg"
     },
     "de-magere-brug": {
       "file": "Magere Brug.jpg"

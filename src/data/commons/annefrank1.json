@@ -85,30 +85,7 @@
       ]
     },
     "hart-museum": {
-      "all": true,
-      "portrait": true,
-      "q": [
-        "incategory:Amstelhof",
-        "incategory:\"Hermitage Amsterdam\"",
-        "Amstelhof Amsterdam",
-        "Hermitage Amsterdam building",
-        "H'ART Museum Amsterdam"
-      ],
-      "exclude": [
-        "Magere",
-        "magere",
-        "brug",
-        "Brug",
-        "bridge",
-        "Bridge",
-        "nacht",
-        "night",
-        "interior",
-        "interieur",
-        "exhibition",
-        "tentoonstelling",
-        "Oosterhuis"
-      ]
+      "file": "Hermitage Amsterdam (26184742802).jpg"
     },
     "city-hall-national-ballet-theatre": {
       "q": [
