@@ -43,7 +43,7 @@ const mapUrl = (name: string, address: string) =>
       const rows = items.filter((i) => i.cat === c.key);
       return (
         <section class="tip-cat" data-cat={c.key}>
-          <h2>{c.name} <small class="count">{rows.length}</small></h2>
+          <h2>{c.name}</h2>
           {c.note && <p class="muted small">{c.note}</p>}
           <ul>
             {rows.map((i) => (
@@ -82,7 +82,6 @@ const mapUrl = (name: string, address: string) =>
         if (ok) n++;
       });
       sec.hidden = n === 0;
-      sec.querySelector('.count')!.textContent = String(n);
       shown += n;
     });
     empty.hidden = shown > 0;

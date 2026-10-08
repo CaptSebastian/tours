@@ -264,7 +264,6 @@ nav { display: flex; align-items: center; gap: .25rem; }
 .tips-list { padding: 1rem 0 4rem; }
 .tip-cat { padding-top: 2rem; }
 .tip-cat h2 { display: flex; align-items: baseline; gap: .6rem; }
-.count { font: 600 .8rem var(--font-body); color: var(--muted); }
 .tip-cat ul { list-style: none; margin: .75rem 0 0; padding: 0; display: grid; gap: .75rem; }
 .tip {
   display: grid; grid-template-columns: 1fr auto; gap: 1rem; align-items: start;
