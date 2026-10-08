@@ -53,14 +53,24 @@
       "cat": "coffee",
       "name": "De Koffieschenkerij",
       "address": "Oudekerksplein 27",
-      "text": "Daily 9am-6pm. Coffee and cake in the former sacristy of the Oude Kerk, with a hidden courtyard."
+      "text": "Daily 9am-6pm. Coffee and cake in the former sacristy of the Oude Kerk, with a hidden courtyard.",
+      "image": "/images/commons/tips-de-koffieschenkerij.webp",
+      "photoCredit": {
+        "text": "Yair Haklai · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_the_Oude_Kerk_(Amsterdam).jpg"
+      }
     },
     {
       "id": "cafe-winkel-43",
       "cat": "coffee",
       "name": "Café Winkel 43",
       "address": "Noordermarkt 43",
-      "text": "Famous for its apple pie, with a terrace on the market square by the Noorderkerk. No reservations, just grab a seat."
+      "text": "Famous for its apple pie, with a terrace on the market square by the Noorderkerk. No reservations, just grab a seat.",
+      "image": "/images/commons/tips-cafe-winkel-43.webp",
+      "photoCredit": {
+        "text": "Unknown author Unknown author · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Stadsarchief_Amsterdam,_Noordermarkt_met_Noorderkerk,_ca._1915,_Afb_PBKD00108000006.jpg"
+      }
     },
     {
       "id": "de-laatste-kruimel",
@@ -74,14 +84,24 @@
       "cat": "coffee",
       "name": "Café Americain",
       "address": "Leidseplein 28",
-      "text": "A classic grand café in the American Hotel, with an Art Deco interior from 1928, Tiffany lamps and a terrace on the square. Coffee, lunch, afternoon tea and dinner."
+      "text": "A classic grand café in the American Hotel, with an Art Deco interior from 1928, Tiffany lamps and a terrace on the square. Coffee, lunch, afternoon tea and dinner.",
+      "image": "/images/commons/tips-cafe-americain.webp",
+      "photoCredit": {
+        "text": "Jvhertum · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:American_hotel_amsterdam_4.jpg"
+      }
     },
     {
       "id": "the-kitchen-at-de-bijenkorf",
       "cat": "coffee",
       "name": "The Kitchen at De Bijenkorf",
       "address": "Dam 1",
-      "text": "At the top of the department store. Coffee with a slice of cake, with views over the city and a small terrace. Check opening hours beforehand, sources differ."
+      "text": "At the top of the department store. Coffee with a slice of cake, with views over the city and a small terrace. Check opening hours beforehand, sources differ.",
+      "image": "/images/commons/tips-the-kitchen-at-de-bijenkorf.webp",
+      "photoCredit": {
+        "text": "C messier · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:De_Bijenkorf,_Amsterdam_1975.jpg"
+      }
     },
     {
       "id": "rudi-s-original-stroopwafels",
@@ -105,14 +125,24 @@
       "cat": "snacks",
       "name": "FEBO",
       "address": "Oudezijds Voorburgwal 33",
-      "text": "The classic snack wall for late nights: croquette, frikandel or satay croquette from the little hatch. Open late into the night, check the hours beforehand."
+      "text": "The classic snack wall for late nights: croquette, frikandel or satay croquette from the little hatch. Open late into the night, check the hours beforehand.",
+      "image": "/images/commons/tips-febo.webp",
+      "photoCredit": {
+        "text": "FaceMePLS from The Hague, The Netherlands · CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:%22FEBO%27_Lange_Elisabethstraat_Utrecht_(15506266488).jpg"
+      }
     },
     {
       "id": "stubbe-s-haring",
       "cat": "snacks",
       "name": "Stubbe's Haring",
       "address": "Singel 8n",
-      "text": "By the Haarlemmersluis. A herring stall for more than a hundred years. Hollandse Nieuwe with onion and pickled gherkin, or in a bun. Stand and eat, no seating. Check opening hours beforehand."
+      "text": "By the Haarlemmersluis. A herring stall for more than a hundred years. Hollandse Nieuwe with onion and pickled gherkin, or in a bun. Stand and eat, no seating. Check opening hours beforehand.",
+      "image": "/images/commons/tips-stubbe-s-haring.webp",
+      "photoCredit": {
+        "text": "Takeaway · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Haring_04.jpg"
+      }
     },
     {
       "id": "vishuisje-simon-en-simon",
@@ -146,7 +176,12 @@
       ],
       "name": "Proeflokaal A. van Wees",
       "address": "Herengracht 319",
-      "text": "Historic tasting house with bitterballen of wild boar, tiger prawn, classic beef and a vegetarian mushroom and aubergine one. Also the place to taste very good jenever."
+      "text": "Historic tasting house with bitterballen of wild boar, tiger prawn, classic beef and a vegetarian mushroom and aubergine one. Also the place to taste very good jenever.",
+      "image": "/images/commons/tips-proeflokaal-a-van-wees.webp",
+      "photoCredit": {
+        "text": "Andy Li · CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bitterballen_with_Dijon_mustard_-_Taproom_%E2%80%98t_Blauwe_Theehuis_2024-11-26.jpg"
+      }
     },
     {
       "id": "cafe-luxembourg",
@@ -156,7 +191,12 @@
       ],
       "name": "Café Luxembourg",
       "address": "Spui",
-      "text": "Famous café with three prize-winning bitterballen: beef, shrimp and Dutch cheese."
+      "text": "Famous café with three prize-winning bitterballen: beef, shrimp and Dutch cheese.",
+      "image": "/images/commons/tips-cafe-luxembourg.webp",
+      "photoCredit": {
+        "text": "Txllxt TxllxT · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Spui_-_View_on_Athenaeum_Boekhandel_%26_American_Bookstore.jpg"
+      }
     },
     {
       "id": "cafe-de-tuin",
@@ -183,7 +223,12 @@
       ],
       "name": "Pension Homeland",
       "address": "Marineterrein, Kattenburgerstraat",
-      "text": "Own brewery with more than ten house-brewed beers, plus café, restaurant and a sunny terrace, in the former officers' mess."
+      "text": "Own brewery with more than ten house-brewed beers, plus café, restaurant and a sunny terrace, in the former officers' mess.",
+      "image": "/images/commons/tips-pension-homeland.webp",
+      "photoCredit": {
+        "text": "Fons Heijnsbroek · CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Urban_winter_trees_with_bare_branches_at_the_Marineterrein_-_free_photo_Amsterdam_by_Fons_Heijnsbroek_01-2022.jpg"
+      }
     },
     {
       "id": "proeflokaal-t-arendsnest",
@@ -197,14 +242,24 @@
       "cat": "cafes",
       "name": "Café Papeneiland",
       "address": "Prinsengracht 2",
-      "text": "On the corner of Brouwersgracht. One of the oldest cafés in the city (1642), with Delft tiles and famous for its apple pie."
+      "text": "On the corner of Brouwersgracht. One of the oldest cafés in the city (1642), with Delft tiles and famous for its apple pie.",
+      "image": "/images/commons/tips-cafe-papeneiland.webp",
+      "photoCredit": {
+        "text": "Paul2 · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Papeneiland-amsterdam.jpg"
+      }
     },
     {
       "id": "cafe-t-smalle",
       "cat": "cafes",
       "name": "Café 't Smalle",
       "address": "Egelantiersgracht 12",
-      "text": "A traditional brown café in a former distillery from 1780, with a canal-side terrace."
+      "text": "A traditional brown café in a former distillery from 1780, with a canal-side terrace.",
+      "image": "/images/commons/tips-cafe-t-smalle.webp",
+      "photoCredit": {
+        "text": "Hay Kranen · CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Smallepad_school_Amsterdam_-_Q84052305_-_Outside_view_2.jpg"
+      }
     },
     {
       "id": "cafe-de-prins",
@@ -214,7 +269,12 @@
       ],
       "name": "Café de Prins",
       "address": "Prinsengracht 124",
-      "text": "A cosy café near the Westerkerk, known for its candles, poffertjes and cheese fondue."
+      "text": "A cosy café near the Westerkerk, known for its candles, poffertjes and cheese fondue.",
+      "image": "/images/commons/tips-cafe-de-prins.webp",
+      "photoCredit": {
+        "text": "Marcel mulder · CC BY-SA 3.0 nl",
+        "url": "https://commons.wikimedia.org/wiki/File:Prinsengracht_124.JPG"
+      }
     },
     {
       "id": "restaurant-moeders",
@@ -245,14 +305,24 @@
       ],
       "name": "Pllek",
       "address": "T.T. Neveritaweg 59",
-      "text": "Amsterdam-Noord, near the NDSM shipyard (by ferry across the IJ). Organic and sustainable restaurant in a raw industrial setting, with a city beach and views over the IJ."
+      "text": "Amsterdam-Noord, near the NDSM shipyard (by ferry across the IJ). Organic and sustainable restaurant in a raw industrial setting, with a city beach and views over the IJ.",
+      "image": "/images/commons/tips-pllek.webp",
+      "photoCredit": {
+        "text": "Marion Golsteijn · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Stadsstrand_Pllek.JPG"
+      }
     },
     {
       "id": "de-belhamel",
       "cat": "dinner",
       "name": "De Belhamel",
       "address": "Brouwersgracht 60",
-      "text": "On the corner with the Herengracht. Seasonal Dutch cooking with Mediterranean influences, in an Art Nouveau interior with canal views. A quiet spot away from the crowds."
+      "text": "On the corner with the Herengracht. Seasonal Dutch cooking with Mediterranean influences, in an Art Nouveau interior with canal views. A quiet spot away from the crowds.",
+      "image": "/images/commons/tips-de-belhamel.webp",
+      "photoCredit": {
+        "text": "Cornelis Springer · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:C._Springer_-_Gezicht_op_de_Herengracht_en_de_Brouwersgracht_te_Amsterdam_-_NK2270_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg"
+      }
     },
     {
       "id": "hannekes-boom",
@@ -343,7 +413,12 @@
       "cat": "fine",
       "name": "Flore",
       "address": "Nieuwe Doelenstraat 2-14",
-      "text": "In Hotel De L'Europe, on the Amstel. Formerly Bord'Eau. Chef Bas van Kranen, two Michelin stars."
+      "text": "In Hotel De L'Europe, on the Amstel. Formerly Bord'Eau. Chef Bas van Kranen, two Michelin stars.",
+      "image": "/images/commons/tips-flore.webp",
+      "photoCredit": {
+        "text": "Peterkz · CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Hotel_De_l%27Europe_Amsterdam.jpg"
+      }
     },
     {
       "id": "vinkeles",
@@ -357,14 +432,24 @@
       "cat": "fine",
       "name": "RIJKS",
       "address": "Museumstraat 1",
-      "text": "Inside the Rijksmuseum. Chef Joris Bijdendijk was named best chef of the year in 2025."
+      "text": "Inside the Rijksmuseum. Chef Joris Bijdendijk was named best chef of the year in 2025.",
+      "image": "/images/commons/tips-rijks.webp",
+      "photoCredit": {
+        "text": "Basile Morin · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_atrium_glass_roof_seen_from_below_in_Amsterdam.jpg"
+      }
     },
     {
       "id": "de-kas",
       "cat": "fine",
       "name": "De Kas",
       "address": "Kamerlingh Onneslaan 3",
-      "text": "In Frankendael. Michelin star and green star, organic, in a greenhouse."
+      "text": "In Frankendael. Michelin star and green star, organic, in a greenhouse.",
+      "image": "/images/commons/tips-de-kas.webp",
+      "photoCredit": {
+        "text": "Marion Golsteijn · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Frankendael_Hermitage.jpg"
+      }
     },
     {
       "id": "lars",
@@ -385,7 +470,12 @@
       "cat": "fine",
       "name": "More at De L'Europe",
       "address": "Nieuwe Doelenstraat 2-14",
-      "text": "Hoofdstad Brasserie (lighter), Hèt Terras (large terrace on the Amstel), Freddy's Bar and Chapter 1896 (cocktails with a view of the Amstel)."
+      "text": "Hoofdstad Brasserie (lighter), Hèt Terras (large terrace on the Amstel), Freddy's Bar and Chapter 1896 (cocktails with a view of the Amstel).",
+      "image": "/images/commons/tips-more-at-de-l-europe.webp",
+      "photoCredit": {
+        "text": "Jvhertum · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Hotel_de_l%27europe.jpg"
+      }
     },
     {
       "id": "the-duchess",
@@ -423,7 +513,12 @@
       "cat": "museums",
       "name": "KattenKabinet",
       "address": "Herengracht 497",
-      "text": "Art museum about cats in a canal house from 1667, with real cats. Tue-Sun noon-5pm."
+      "text": "Art museum about cats in a canal house from 1667, with real cats. Tue-Sun noon-5pm.",
+      "image": "/images/commons/tips-kattenkabinet.webp",
+      "photoCredit": {
+        "text": "Andy Li · CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:KattenKabinet_entrance_2024-11-27.jpg"
+      }
     },
     {
       "id": "hortus-botanicus",
@@ -433,28 +528,48 @@
       ],
       "name": "Hortus Botanicus",
       "address": "Plantage Middenlaan 2A",
-      "text": "Botanical garden since 1638, with a butterfly house. Daily 10am-5pm."
+      "text": "Botanical garden since 1638, with a butterfly house. Daily 10am-5pm.",
+      "image": "/images/commons/tips-hortus-botanicus.webp",
+      "photoCredit": {
+        "text": "Agnes Monkelbaan · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Hortus_Botanicus_Amsterdam._(actm.).jpg"
+      }
     },
     {
       "id": "museum-van-loon",
       "cat": "museums",
       "name": "Museum Van Loon",
       "address": "Keizersgracht 672",
-      "text": "Canal house from 1672 with a garden and coach house. Wed-Sun 10am-5pm, closed Mon and Tue."
+      "text": "Canal house from 1672 with a garden and coach house. Wed-Sun 10am-5pm, closed Mon and Tue.",
+      "image": "/images/commons/tips-museum-van-loon.webp",
+      "photoCredit": {
+        "text": "Jean-Christophe BENOIST · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Museum_Van_Loon_-_Gardens.jpg"
+      }
     },
     {
       "id": "foam",
       "cat": "museums",
       "name": "Foam",
       "address": "Keizersgracht 609",
-      "text": "Photography museum, right next to Van Loon. Daily 10am-6pm, Thu-Fri until 9pm."
+      "text": "Photography museum, right next to Van Loon. Daily 10am-6pm, Thu-Fri until 9pm.",
+      "image": "/images/commons/tips-foam.webp",
+      "photoCredit": {
+        "text": "Otter · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_FOAM_-_tentoonstelling_Augusta_Curiel_Yere_Mi_Sten_20250706.jpg"
+      }
     },
     {
       "id": "rijksmuseum",
       "cat": "museums",
       "name": "Rijksmuseum",
       "address": "Museumstraat 1",
-      "text": "Daily 9am-5pm. Don't miss the public bike passage under the museum."
+      "text": "Daily 9am-5pm. Don't miss the public bike passage under the museum.",
+      "image": "/images/commons/tips-rijksmuseum.webp",
+      "photoCredit": {
+        "text": "Trougnouf (Benoit Brummer) · CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_facade_of_the_Rijksmuseum_Amsterdam_(DSCF0528).jpg"
+      }
     },
     {
       "id": "entr-vr-museum",
@@ -474,14 +589,24 @@
       ],
       "name": "NEMO Science Museum",
       "address": "Oosterdok 2",
-      "text": "A science museum for young and old with experiments, workshops and a rooftop square with views over the city."
+      "text": "A science museum for young and old with experiments, workshops and a rooftop square with views over the city.",
+      "image": "/images/commons/tips-nemo-science-museum.webp",
+      "photoCredit": {
+        "text": "Ank Kumar · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:2018_-_NEMO_Science_Museum,_Amsterdam,_Netherlands_(_Ank_Kumar_)_04.jpg"
+      }
     },
     {
       "id": "swimming-at-the-marineterrein",
       "cat": "active",
       "name": "Swimming at the Marineterrein",
       "address": "Kattenburgerstraat 5",
-      "text": "Swim in the inner harbour with views of the Maritime Museum and NEMO, right in the city centre. Free to access."
+      "text": "Swim in the inner harbour with views of the Maritime Museum and NEMO, right in the city centre. Free to access.",
+      "image": "/images/commons/tips-swimming-at-the-marineterrein.webp",
+      "photoCredit": {
+        "text": "Fons Heijnsbroek · CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Urban_winter_trees_with_bare_branches_at_the_Marineterrein_-_free_photo_Amsterdam_by_Fons_Heijnsbroek_01-2022.jpg"
+      }
     },
     {
       "id": "kuuma-sauna",
@@ -495,7 +620,12 @@
       "cat": "active",
       "name": "De Hollandsche Manege",
       "address": "Vondelstraat 140",
-      "text": "A neoclassical riding hall from 1882 with a public café-restaurant where you can watch the riders."
+      "text": "A neoclassical riding hall from 1882 with a public café-restaurant where you can watch the riders.",
+      "image": "/images/commons/tips-de-hollandsche-manege.webp",
+      "photoCredit": {
+        "text": "Adolf Leonard van Gendt (1835-1901) · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:A.L._van_Gendt_Hollandsche_Manege_1.jpg"
+      }
     },
     {
       "id": "vrog",
@@ -516,7 +646,12 @@
       "cat": "out",
       "name": "Reguliersdwarsstraat",
       "address": "Reguliersdwarsstraat",
-      "text": "Near Rembrandtplein. Well-known LGBTQ+ street, home to the first gay bar in 1963."
+      "text": "Near Rembrandtplein. Well-known LGBTQ+ street, home to the first gay bar in 1963.",
+      "image": "/images/commons/tips-reguliersdwarsstraat.webp",
+      "photoCredit": {
+        "text": "Paul2 · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Reguliersdwarsstraat.JPG"
+      }
     },
     {
       "id": "coffeeshop-siberie",
@@ -537,7 +672,12 @@
       "cat": "out",
       "name": "Paradiso",
       "address": "Weteringschans 6-8",
-      "text": "Concerts and parties in a former church near Leidseplein."
+      "text": "Concerts and parties in a former church near Leidseplein.",
+      "image": "/images/commons/tips-paradiso.webp",
+      "photoCredit": {
+        "text": "Martijn vdS from The Netherlands · CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Alela_Diane_in_Paradiso,_Amsterdam_(3425183020).jpg"
+      }
     },
     {
       "id": "bitterzoet",
@@ -551,42 +691,72 @@
       "cat": "out",
       "name": "Tuschinski",
       "address": "Reguliersbreestraat 26",
-      "text": "A beautiful Art Deco cinema, worth a look inside."
+      "text": "A beautiful Art Deco cinema, worth a look inside.",
+      "image": "/images/commons/tips-tuschinski.webp",
+      "photoCredit": {
+        "text": "C messier · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Tuschinski_Theater_2894.jpg"
+      }
     },
     {
       "id": "the-movies",
       "cat": "out",
       "name": "The Movies",
       "address": "Haarlemmerdijk 159-163",
-      "text": "Small Art Deco cinema with dark lacquered wood, said by the tourist board to be the oldest in Amsterdam."
+      "text": "Small Art Deco cinema with dark lacquered wood, said by the tourist board to be the oldest in Amsterdam.",
+      "image": "/images/commons/tips-the-movies.webp",
+      "photoCredit": {
+        "text": "Alf van Beem · CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:The_Movies,_Haarlemmerdijk.jpg"
+      }
     },
     {
       "id": "fo-guang-shan-he-hua-temple",
       "cat": "places",
       "name": "Fo Guang Shan He Hua Temple",
       "address": "Zeedijk 106-118",
-      "text": "The largest Chinese-style temple on the European mainland. Free entry, shoes off. Tue-Sat noon-5pm, Sun 10am-5pm, closed Mon."
+      "text": "The largest Chinese-style temple on the European mainland. Free entry, shoes off. Tue-Sat noon-5pm, Sun 10am-5pm, closed Mon.",
+      "image": "/images/commons/tips-fo-guang-shan-he-hua-temple.webp",
+      "photoCredit": {
+        "text": "Fred Romero from Paris, France · CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Fo_Guang_Shan_He_Hua_Temple_(30214737411).jpg"
+      }
     },
     {
       "id": "entrepotdok",
       "cat": "places",
       "name": "Entrepotdok",
       "address": "Entrepotdok",
-      "text": "19th-century warehouses, now homes and houseboats, next to Artis. Always open and free."
+      "text": "19th-century warehouses, now homes and houseboats, next to Artis. Always open and free.",
+      "image": "/images/commons/tips-entrepotdok.webp",
+      "photoCredit": {
+        "text": "Jvhertum · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Entrepotdok_amsterdam.jpg"
+      }
     },
     {
       "id": "ndsm-werf",
       "cat": "places",
       "name": "NDSM-werf",
       "address": "NDSM-plein",
-      "text": "Former shipyard in Amsterdam-Noord. Take the ferry (line F3) from Centraal Station: free for pedestrians and cyclists, at least twice an hour."
+      "text": "Former shipyard in Amsterdam-Noord. Take the ferry (line F3) from Centraal Station: free for pedestrians and cyclists, at least twice an hour.",
+      "image": "/images/commons/tips-ndsm-werf.webp",
+      "photoCredit": {
+        "text": "FaceMePLS from The Hague, The Netherlands · CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:NDSM_werf_Amsterdam_(15411760015).jpg"
+      }
     },
     {
       "id": "picasso-in-the-vondelpark",
       "cat": "places",
       "name": "Picasso in the Vondelpark",
       "address": "Vondelpark",
-      "text": "The sculpture \"Figure découpée / l'Oiseau\" (1965), known locally as \"the Fish\". Picasso gave it to the city for the park's 100th anniversary, out of friendship with Willem Sandberg."
+      "text": "The sculpture \"Figure découpée / l'Oiseau\" (1965), known locally as \"the Fish\". Picasso gave it to the city for the park's 100th anniversary, out of friendship with Willem Sandberg.",
+      "image": "/images/commons/tips-picasso-in-the-vondelpark.webp",
+      "photoCredit": {
+        "text": "Trougnouf (Benoit Brummer) · CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Figure_d%C3%A9coup%C3%A9e_(DSCF3006).jpg"
+      }
     },
     {
       "id": "a-dam-lookout",
@@ -596,35 +766,60 @@
       ],
       "name": "A'DAM Lookout",
       "address": "Overhoeksplein 5",
-      "text": "Observation tower with 360-degree views, reached by the free ferry from Centraal Station. The highlight is the Over The Edge swing: you swing over the edge of the roof at almost 100 metres."
+      "text": "Observation tower with 360-degree views, reached by the free ferry from Centraal Station. The highlight is the Over The Edge swing: you swing over the edge of the roof at almost 100 metres.",
+      "image": "/images/commons/tips-a-dam-lookout.webp",
+      "photoCredit": {
+        "text": "MrAronymous · CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:A%27DAM_Toren_en_de_skyline_van_Amsterdam.jpg"
+      }
     },
     {
       "id": "het-stenen-hoofd",
       "cat": "places",
       "name": "Het Stenen Hoofd",
       "address": "Westerdoksdijk 1",
-      "text": "A former harbour pier from 1902, now a public park on the IJ and a popular spot to walk your dog. Freely accessible."
+      "text": "A former harbour pier from 1902, now a public park on the IJ and a popular spot to walk your dog. Freely accessible.",
+      "image": "/images/commons/tips-het-stenen-hoofd.webp",
+      "photoCredit": {
+        "text": "Boon, N.J. (uitgever) · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Westerdoksdijk_met_zwembad_en_de_haven_van_zeilverenigingen_%27de_Koninklijke%27_en_%27het_IJ%27._Rechts_het_Stenen_Hoofd,_Afb_PRKBB00281000003.jpg"
+      }
     },
     {
       "id": "marineterrein-and-the-voc-ship",
       "cat": "places",
       "name": "Marineterrein and the VOC ship",
       "address": "Kattenburgerplein 1",
-      "text": "On the water at the Marineterrein, with the replica of the VOC ship Amsterdam next to the Maritime Museum nearby."
+      "text": "On the water at the Marineterrein, with the replica of the VOC ship Amsterdam next to the Maritime Museum nearby.",
+      "image": "/images/commons/tips-marineterrein-and-the-voc-ship.webp",
+      "photoCredit": {
+        "text": "User:Kolossos · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Schiff-Clara-Schuhmann.jpg"
+      }
     },
     {
       "id": "brouwersgracht",
       "cat": "places",
       "name": "Brouwersgracht",
       "address": "Brouwersgracht",
-      "text": "At the corner of Herengracht and Prinsengracht. Three canals meet here."
+      "text": "At the corner of Herengracht and Prinsengracht. Three canals meet here.",
+      "image": "/images/commons/tips-brouwersgracht.webp",
+      "photoCredit": {
+        "text": "Jvhertum · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Brouwersgracht_Apr_2_2011_2.jpg"
+      }
     },
     {
       "id": "damrak",
       "cat": "places",
       "name": "Damrak",
       "address": "Damrak",
-      "text": "In the late afternoon. Lovely light on the facades."
+      "text": "In the late afternoon. Lovely light on the facades.",
+      "image": "/images/commons/tips-damrak.webp",
+      "photoCredit": {
+        "text": "Basile Morin · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg"
+      }
     },
     {
       "id": "amsterdamsche-vishandel-anno-1938",
@@ -666,7 +861,12 @@
       "cat": "shops",
       "name": "Antiekcentrum",
       "address": "Elandsgracht 109",
-      "text": "In the Jordaan. The largest indoor antiques market in the Netherlands, 55 dealers. Free entry."
+      "text": "In the Jordaan. The largest indoor antiques market in the Netherlands, 55 dealers. Free entry.",
+      "image": "/images/commons/tips-antiekcentrum.webp",
+      "photoCredit": {
+        "text": "Alf van Beem · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Elandsgracht_(ship,_1995)_IMO_9081332_Westhaven,_Port_of_Amsterdam.JPG"
+      }
     },
     {
       "id": "alladin-s-notenhoek",
@@ -680,56 +880,96 @@
       "cat": "shops",
       "name": "Tony's Chocolonely Super Store",
       "address": "Oudebrugsteeg 15",
-      "text": "Near the Damrak, about a 5-minute walk from Centraal Station. Daily 10am-7pm, free entry. Make your own bar, taste the bars and learn about the cocoa problem. Small, often a queue, steep stairs and not wheelchair accessible."
+      "text": "Near the Damrak, about a 5-minute walk from Centraal Station. Daily 10am-7pm, free entry. Make your own bar, taste the bars and learn about the cocoa problem. Small, often a queue, steep stairs and not wheelchair accessible.",
+      "image": "/images/commons/tips-tony-s-chocolonely-super-store.webp",
+      "photoCredit": {
+        "text": "Piecesofuk · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Oudebrugsteeg.jpg"
+      }
     },
     {
       "id": "condomerie",
       "cat": "shops",
       "name": "Condomerie Het Gulden Vlies",
       "address": "Warmoesstraat 141",
-      "text": "Specialist condom shop with condoms in every size, colour and flavour. A fun gift. Mon-Wed 11am-6pm, Thu 11am-7pm, Fri-Sat 11am-9pm, Sun 1-5pm."
+      "text": "Specialist condom shop with condoms in every size, colour and flavour. A fun gift. Mon-Wed 11am-6pm, Thu 11am-7pm, Fri-Sat 11am-9pm, Sun 1-5pm.",
+      "image": "/images/commons/tips-condomerie.webp",
+      "photoCredit": {
+        "text": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 11:27, 16 August 2021 (UTC) · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Condomerie,_Amsterdam_(2021)_02.jpg"
+      }
     },
     {
       "id": "pc-hooftstraat",
       "cat": "shops",
       "name": "P.C. Hooftstraat",
       "address": "P.C. Hooftstraat",
-      "text": "A surprisingly chic shopping street in Amsterdam: fashion houses such as Chanel, Dior, Louis Vuitton and Gucci, and jewellers like Cartier and Tiffany. Right by the Rijksmuseum and the Vondelpark."
+      "text": "A surprisingly chic shopping street in Amsterdam: fashion houses such as Chanel, Dior, Louis Vuitton and Gucci, and jewellers like Cartier and Tiffany. Right by the Rijksmuseum and the Vondelpark.",
+      "image": "/images/commons/tips-pc-hooftstraat.webp",
+      "photoCredit": {
+        "text": "Alf van Beem · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Pieter_Cornelisz_Hooftstraat_foto_2.JPG"
+      }
     },
     {
       "id": "albert-cuypmarkt",
       "cat": "markets",
       "name": "Albert Cuypmarkt",
       "address": "Albert Cuypstraat",
-      "text": "De Pijp. Mon-Sat 9am-6pm. With 260 stalls the largest daily market in Europe: vegetables, clothes, flowers, herring and fresh stroopwafels."
+      "text": "De Pijp. Mon-Sat 9am-6pm. With 260 stalls the largest daily market in Europe: vegetables, clothes, flowers, herring and fresh stroopwafels.",
+      "image": "/images/commons/tips-albert-cuypmarkt.webp",
+      "photoCredit": {
+        "text": "Michiel1972 at Dutch Wikipedia · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Albert_Cuypmarkt.jpg"
+      }
     },
     {
       "id": "noordermarkt",
       "cat": "markets",
       "name": "Noordermarkt",
       "address": "Noorderkerkplein",
-      "text": "Jordaan. Mon 9am-1pm (flea market and fabrics), Sat 9am-4pm (organic farmers' market)."
+      "text": "Jordaan. Mon 9am-1pm (flea market and fabrics), Sat 9am-4pm (organic farmers' market).",
+      "image": "/images/commons/tips-noordermarkt.webp",
+      "photoCredit": {
+        "text": "Jacob Olie · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Noordermarkt_34_tm_43_(vrnl)_Jacob_Olie_(max_res).jpg"
+      }
     },
     {
       "id": "waterlooplein",
       "cat": "markets",
       "name": "Waterlooplein",
       "address": "Waterlooplein",
-      "text": "Mon-Sat during the day. Flea market with vintage clothes, antiques and bric-a-brac."
+      "text": "Mon-Sat during the day. Flea market with vintage clothes, antiques and bric-a-brac.",
+      "image": "/images/commons/tips-waterlooplein.webp",
+      "photoCredit": {
+        "text": "Txllxt TxllxT · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Waterlooplein_-_Waterlooplein_Market.jpg"
+      }
     },
     {
       "id": "bloemenmarkt-flower-market",
       "cat": "markets",
       "name": "Bloemenmarkt (flower market)",
       "address": "Singel",
-      "text": "Mon-Sat about 9am-5.30pm, Sun 11am-5.30pm."
+      "text": "Mon-Sat about 9am-5.30pm, Sun 11am-5.30pm.",
+      "image": "/images/commons/tips-bloemenmarkt-flower-market.webp",
+      "photoCredit": {
+        "text": "Massimo Catarinella · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:SingelBloemenmarkt.jpg"
+      }
     },
     {
       "id": "dappermarkt",
       "cat": "markets",
       "name": "Dappermarkt",
       "address": "Dapperstraat",
-      "text": "Oost. Mon-Sat 9am-5pm. Food from all over the world, clothes and household goods."
+      "text": "Oost. Mon-Sat 9am-5pm. Food from all over the world, clothes and household goods.",
+      "image": "/images/commons/tips-dappermarkt.webp",
+      "photoCredit": {
+        "text": "Iijjccoo ( talk ) · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Dappermarkt_netherlands.JPG"
+      }
     },
     {
       "id": "ten-katemarkt",
@@ -743,28 +983,48 @@
       "cat": "markets",
       "name": "Lindengracht",
       "address": "Lindengracht",
-      "text": "Jordaan. Saturday only."
+      "text": "Jordaan. Saturday only.",
+      "image": "/images/commons/tips-lindengracht.webp",
+      "photoCredit": {
+        "text": "FaceMePLS from The Hague, The Netherlands · CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:%27Sapje%3F%27_Lindengracht_Amsterdam_(5413430469).jpg"
+      }
     },
     {
       "id": "westerstraat",
       "cat": "markets",
       "name": "Westerstraat",
       "address": "Westerstraat",
-      "text": "Jordaan. Monday only. Fabrics, clothes and shoes."
+      "text": "Jordaan. Monday only. Fabrics, clothes and shoes.",
+      "image": "/images/commons/tips-westerstraat.webp",
+      "photoCredit": {
+        "text": "Arch · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_175.JPG"
+      }
     },
     {
       "id": "nieuwmarkt",
       "cat": "markets",
       "name": "Nieuwmarkt",
       "address": "Nieuwmarkt",
-      "text": "Sat organic farmers' market, Sun antiques market from May to September."
+      "text": "Sat organic farmers' market, Sun antiques market from May to September.",
+      "image": "/images/commons/tips-nieuwmarkt.webp",
+      "photoCredit": {
+        "text": "Dietmar Rabich · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Waag_--_2015_--_7258.jpg"
+      }
     },
     {
       "id": "ij-hallen",
       "cat": "markets",
       "name": "IJ-Hallen",
       "address": "NDSM-plein 1",
-      "text": "Noord. Flea market, one weekend a month."
+      "text": "Noord. Flea market, one weekend a month.",
+      "image": "/images/commons/tips-ij-hallen.webp",
+      "photoCredit": {
+        "text": "Fred Romero from Paris, France · CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_IJ-Hallen_(30300600955).jpg"
+      }
     },
     {
       "id": "poffertjes-at-the-market",
@@ -774,7 +1034,13 @@
       ],
       "name": "Poffertjes at the market",
       "address": "Noordermarkt",
-      "text": "According to one source the Amsterdamse Poffertjes stall stands at the Noordermarkt (Sat) and sometimes at the Albert Cuypmarkt (Mon, Tue, Thu). Check this."
+      "text": "According to one source the Amsterdamse Poffertjes stall stands at the Noordermarkt (Sat) and sometimes at the Albert Cuypmarkt (Mon, Tue, Thu). Check this.",
+      "image": "/images/commons/tips-poffertjes-at-the-market.webp",
+      "photoCredit": {
+        "text": "Illustratedjc · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Poffertjes-Melkhuis_(cropped).jpg"
+      }
     }
-  ]
+  ],
+  "commonsConfig": "1f3afd300502"
 }
