@@ -65,12 +65,7 @@
       "cat": "coffee",
       "name": "Café Winkel 43",
       "address": "Noordermarkt 43",
-      "text": "Famous for its apple pie, with a terrace on the market square by the Noorderkerk. No reservations, just grab a seat.",
-      "image": "/images/commons/tips-cafe-winkel-43.webp",
-      "photoCredit": {
-        "text": "Unknown author Unknown author · Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Stadsarchief_Amsterdam,_Noordermarkt_met_Noorderkerk,_ca._1915,_Afb_PBKD00108000006.jpg"
-      }
+      "text": "Famous for its apple pie, with a terrace on the market square by the Noorderkerk. No reservations, just grab a seat."
     },
     {
       "id": "de-laatste-kruimel",
@@ -223,12 +218,7 @@
       ],
       "name": "Pension Homeland",
       "address": "Marineterrein, Kattenburgerstraat",
-      "text": "Own brewery with more than ten house-brewed beers, plus café, restaurant and a sunny terrace, in the former officers' mess.",
-      "image": "/images/commons/tips-pension-homeland.webp",
-      "photoCredit": {
-        "text": "Fons Heijnsbroek · CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:Urban_winter_trees_with_bare_branches_at_the_Marineterrein_-_free_photo_Amsterdam_by_Fons_Heijnsbroek_01-2022.jpg"
-      }
+      "text": "Own brewery with more than ten house-brewed beers, plus café, restaurant and a sunny terrace, in the former officers' mess."
     },
     {
       "id": "proeflokaal-t-arendsnest",
@@ -254,12 +244,7 @@
       "cat": "cafes",
       "name": "Café 't Smalle",
       "address": "Egelantiersgracht 12",
-      "text": "A traditional brown café in a former distillery from 1780, with a canal-side terrace.",
-      "image": "/images/commons/tips-cafe-t-smalle.webp",
-      "photoCredit": {
-        "text": "Hay Kranen · CC BY 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Smallepad_school_Amsterdam_-_Q84052305_-_Outside_view_2.jpg"
-      }
+      "text": "A traditional brown café in a former distillery from 1780, with a canal-side terrace."
     },
     {
       "id": "cafe-de-prins",
@@ -317,12 +302,7 @@
       "cat": "dinner",
       "name": "De Belhamel",
       "address": "Brouwersgracht 60",
-      "text": "On the corner with the Herengracht. Seasonal Dutch cooking with Mediterranean influences, in an Art Nouveau interior with canal views. A quiet spot away from the crowds.",
-      "image": "/images/commons/tips-de-belhamel.webp",
-      "photoCredit": {
-        "text": "Cornelis Springer · Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:C._Springer_-_Gezicht_op_de_Herengracht_en_de_Brouwersgracht_te_Amsterdam_-_NK2270_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg"
-      }
+      "text": "On the corner with the Herengracht. Seasonal Dutch cooking with Mediterranean influences, in an Art Nouveau interior with canal views. A quiet spot away from the crowds."
     },
     {
       "id": "hannekes-boom",
@@ -413,12 +393,7 @@
       "cat": "fine",
       "name": "Flore",
       "address": "Nieuwe Doelenstraat 2-14",
-      "text": "In Hotel De L'Europe, on the Amstel. Formerly Bord'Eau. Chef Bas van Kranen, two Michelin stars.",
-      "image": "/images/commons/tips-flore.webp",
-      "photoCredit": {
-        "text": "Peterkz · CC BY 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Hotel_De_l%27Europe_Amsterdam.jpg"
-      }
+      "text": "In Hotel De L'Europe, on the Amstel. Formerly Bord'Eau. Chef Bas van Kranen, two Michelin stars."
     },
     {
       "id": "vinkeles",
@@ -444,12 +419,7 @@
       "cat": "fine",
       "name": "De Kas",
       "address": "Kamerlingh Onneslaan 3",
-      "text": "In Frankendael. Michelin star and green star, organic, in a greenhouse.",
-      "image": "/images/commons/tips-de-kas.webp",
-      "photoCredit": {
-        "text": "Marion Golsteijn · CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Frankendael_Hermitage.jpg"
-      }
+      "text": "In Frankendael. Michelin star and green star, organic, in a greenhouse."
     },
     {
       "id": "lars",
@@ -601,12 +571,7 @@
       "cat": "active",
       "name": "Swimming at the Marineterrein",
       "address": "Kattenburgerstraat 5",
-      "text": "Swim in the inner harbour with views of the Maritime Museum and NEMO, right in the city centre. Free to access.",
-      "image": "/images/commons/tips-swimming-at-the-marineterrein.webp",
-      "photoCredit": {
-        "text": "Fons Heijnsbroek · CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:Urban_winter_trees_with_bare_branches_at_the_Marineterrein_-_free_photo_Amsterdam_by_Fons_Heijnsbroek_01-2022.jpg"
-      }
+      "text": "Swim in the inner harbour with views of the Maritime Museum and NEMO, right in the city centre. Free to access."
     },
     {
       "id": "kuuma-sauna",
@@ -620,12 +585,7 @@
       "cat": "active",
       "name": "De Hollandsche Manege",
       "address": "Vondelstraat 140",
-      "text": "A neoclassical riding hall from 1882 with a public café-restaurant where you can watch the riders.",
-      "image": "/images/commons/tips-de-hollandsche-manege.webp",
-      "photoCredit": {
-        "text": "Adolf Leonard van Gendt (1835-1901) · Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:A.L._van_Gendt_Hollandsche_Manege_1.jpg"
-      }
+      "text": "A neoclassical riding hall from 1882 with a public café-restaurant where you can watch the riders."
     },
     {
       "id": "vrog",
@@ -672,12 +632,7 @@
       "cat": "out",
       "name": "Paradiso",
       "address": "Weteringschans 6-8",
-      "text": "Concerts and parties in a former church near Leidseplein.",
-      "image": "/images/commons/tips-paradiso.webp",
-      "photoCredit": {
-        "text": "Martijn vdS from The Netherlands · CC BY 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Alela_Diane_in_Paradiso,_Amsterdam_(3425183020).jpg"
-      }
+      "text": "Concerts and parties in a former church near Leidseplein."
     },
     {
       "id": "bitterzoet",
@@ -778,24 +733,14 @@
       "cat": "places",
       "name": "Het Stenen Hoofd",
       "address": "Westerdoksdijk 1",
-      "text": "A former harbour pier from 1902, now a public park on the IJ and a popular spot to walk your dog. Freely accessible.",
-      "image": "/images/commons/tips-het-stenen-hoofd.webp",
-      "photoCredit": {
-        "text": "Boon, N.J. (uitgever) · Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Westerdoksdijk_met_zwembad_en_de_haven_van_zeilverenigingen_%27de_Koninklijke%27_en_%27het_IJ%27._Rechts_het_Stenen_Hoofd,_Afb_PRKBB00281000003.jpg"
-      }
+      "text": "A former harbour pier from 1902, now a public park on the IJ and a popular spot to walk your dog. Freely accessible."
     },
     {
       "id": "marineterrein-and-the-voc-ship",
       "cat": "places",
       "name": "Marineterrein and the VOC ship",
       "address": "Kattenburgerplein 1",
-      "text": "On the water at the Marineterrein, with the replica of the VOC ship Amsterdam next to the Maritime Museum nearby.",
-      "image": "/images/commons/tips-marineterrein-and-the-voc-ship.webp",
-      "photoCredit": {
-        "text": "User:Kolossos · CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Schiff-Clara-Schuhmann.jpg"
-      }
+      "text": "On the water at the Marineterrein, with the replica of the VOC ship Amsterdam next to the Maritime Museum nearby."
     },
     {
       "id": "brouwersgracht",
@@ -861,12 +806,7 @@
       "cat": "shops",
       "name": "Antiekcentrum",
       "address": "Elandsgracht 109",
-      "text": "In the Jordaan. The largest indoor antiques market in the Netherlands, 55 dealers. Free entry.",
-      "image": "/images/commons/tips-antiekcentrum.webp",
-      "photoCredit": {
-        "text": "Alf van Beem · Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Elandsgracht_(ship,_1995)_IMO_9081332_Westhaven,_Port_of_Amsterdam.JPG"
-      }
+      "text": "In the Jordaan. The largest indoor antiques market in the Netherlands, 55 dealers. Free entry."
     },
     {
       "id": "alladin-s-notenhoek",
@@ -908,7 +848,7 @@
       "image": "/images/commons/tips-pc-hooftstraat.webp",
       "photoCredit": {
         "text": "Alf van Beem · Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Pieter_Cornelisz_Hooftstraat_foto_2.JPG"
+        "url": "https://commons.wikimedia.org/wiki/File:Pieter_Cornelisz_Hooftstraat_foto_1.JPG"
       }
     },
     {
@@ -928,12 +868,7 @@
       "cat": "markets",
       "name": "Noordermarkt",
       "address": "Noorderkerkplein",
-      "text": "Jordaan. Mon 9am-1pm (flea market and fabrics), Sat 9am-4pm (organic farmers' market).",
-      "image": "/images/commons/tips-noordermarkt.webp",
-      "photoCredit": {
-        "text": "Jacob Olie · Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Noordermarkt_34_tm_43_(vrnl)_Jacob_Olie_(max_res).jpg"
-      }
+      "text": "Jordaan. Mon 9am-1pm (flea market and fabrics), Sat 9am-4pm (organic farmers' market)."
     },
     {
       "id": "waterlooplein",
@@ -955,8 +890,8 @@
       "text": "Mon-Sat about 9am-5.30pm, Sun 11am-5.30pm.",
       "image": "/images/commons/tips-bloemenmarkt-flower-market.webp",
       "photoCredit": {
-        "text": "Massimo Catarinella · CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:SingelBloemenmarkt.jpg"
+        "text": "Txllxt TxllxT · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Singel_-_Bloemenmarkt_-_Flowermarket_-_View_WNW_I.jpg"
       }
     },
     {
@@ -1042,5 +977,5 @@
       }
     }
   ],
-  "commonsConfig": "1f3afd300502"
+  "commonsConfig": "233098d14418"
 }
