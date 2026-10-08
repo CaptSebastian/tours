@@ -430,6 +430,10 @@
     "patta": {
       "name": "Patta",
       "text": "Amsterdamska marka streetwearu i sneakersów, z głównym sklepem właśnie tutaj."
+    },
+    "pc-hooftstraat": {
+      "name": "P.C. Hooftstraat",
+      "text": "Najbardziej ekskluzywna ulica handlowa Amsterdamu, pełna butików wielkich domów mody. Tuż przy Rijksmuseum i Vondelpark."
     }
   }
 }

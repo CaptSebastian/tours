@@ -430,6 +430,10 @@
     "patta": {
       "name": "Patta",
       "text": "La marque de streetwear et de baskets d’Amsterdam, avec sa boutique phare ici."
+    },
+    "pc-hooftstraat": {
+      "name": "P.C. Hooftstraat",
+      "text": "La rue commerçante la plus chic d’Amsterdam, bordée des grandes maisons de luxe. Tout près du Rijksmuseum et du Vondelpark."
     }
   }
 }

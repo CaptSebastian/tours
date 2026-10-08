@@ -430,6 +430,10 @@
     "patta": {
       "name": "Patta",
       "text": "Il marchio di streetwear e sneaker nato ad Amsterdam, con il negozio principale qui."
+    },
+    "pc-hooftstraat": {
+      "name": "P.C. Hooftstraat",
+      "text": "La via dello shopping più esclusiva di Amsterdam, con le grandi case di moda di lusso. Accanto al Rijksmuseum e al Vondelpark."
     }
   }
 }

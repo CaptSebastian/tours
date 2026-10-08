@@ -430,6 +430,10 @@
     "patta": {
       "name": "Patta",
       "text": "La marca de ropa urbana y zapatillas de la propia Ámsterdam, con su tienda principal aquí."
+    },
+    "pc-hooftstraat": {
+      "name": "P.C. Hooftstraat",
+      "text": "La calle comercial más exclusiva de Ámsterdam, llena de las grandes casas de moda de lujo. Junto al Rijksmuseum y el Vondelpark."
     }
   }
 }

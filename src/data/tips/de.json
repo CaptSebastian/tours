@@ -345,6 +345,10 @@
     "patta": {
       "name": "Patta",
       "text": "Amsterdams eigene Streetwear- und Sneaker-Marke, mit ihrem Flagship-Store hier."
+    },
+    "pc-hooftstraat": {
+      "name": "P.C. Hooftstraat",
+      "text": "Amsterdams exklusivste Einkaufsstraße mit den großen Luxus-Modehäusern. Direkt beim Rijksmuseum und Vondelpark."
     }
   }
 }

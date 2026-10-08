@@ -430,6 +430,10 @@
     "patta": {
       "name": "Patta",
       "text": "A marca de streetwear e tênis da própria Amsterdam, com a loja principal aqui."
+    },
+    "pc-hooftstraat": {
+      "name": "P.C. Hooftstraat",
+      "text": "A rua de compras mais exclusiva de Amsterdam, cheia das grandes marcas de moda de luxo. Bem ao lado do Rijksmuseum e do Vondelpark."
     }
   }
 }

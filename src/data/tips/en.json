@@ -433,6 +433,13 @@
       "text": "Specialist condom shop with condoms in every size, colour and flavour. A fun gift. Mon-Wed 11am-6pm, Thu 11am-7pm, Fri-Sat 11am-9pm, Sun 1-5pm."
     },
     {
+      "id": "pc-hooftstraat",
+      "cat": "shopping",
+      "name": "P.C. Hooftstraat",
+      "address": "P.C. Hooftstraat",
+      "text": "Amsterdam's most exclusive shopping street, lined with the big luxury fashion houses. Right by the Rijksmuseum and the Vondelpark."
+    },
+    {
       "id": "albert-cuypmarkt",
       "cat": "markets",
       "name": "Albert Cuypmarkt",
