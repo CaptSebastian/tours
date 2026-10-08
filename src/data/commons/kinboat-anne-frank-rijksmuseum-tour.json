@@ -22,13 +22,17 @@
     },
     "rijksmuseum": {
       "q": [
-        "Rijksmuseum Amsterdam",
-        "Rijksmuseum"
+        "Rijksmuseum Amsterdam Museumplein",
+        "Rijksmuseum Amsterdam gevel",
+        "Rijksmuseum Amsterdam"
       ],
       "exclude": [
-        "interieur",
+        "atrium",
         "interior",
-        "Gallery"
+        "interieur",
+        "Gallery",
+        "Library",
+        "bibliotheek"
       ]
     },
     "night-watch": {

@@ -3,16 +3,7 @@
   "card": "amsterdam-central-station",
   "stops": {
     "amsterdam-central-station": {
-      "q": [
-        "Amsterdam Centraal Station facade",
-        "Amsterdam Centraal station"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "perron",
-        "platform"
-      ]
+      "file": "Amsterdam (NL), Centraal Station -- 2015 -- 7269.jpg"
     },
     "de-schreierstoren": {
       "q": [
@@ -39,23 +30,13 @@
       ]
     },
     "het-scheepvaartmuseum": {
-      "q": [
-        "Scheepvaartmuseum Amsterdam",
-        "Het Scheepvaartmuseum"
-      ],
-      "exclude": [
-        "interieur",
-        "interior"
-      ]
+      "file": "Scheepvaartmuseum 2022.jpg"
     },
     "high-and-dry": {
       "file": "Brouwersgracht pakhuizen.jpg"
     },
     "hortus-botanicus": {
-      "q": [
-        "Hortus Botanicus Amsterdam palmenkas",
-        "Hortus Botanicus Amsterdam"
-      ]
+      "file": "Palmen- en varenkas Hortus Botanicus Amsterdam.jpg"
     },
     "portuguese-jewish-synagogue": {
       "q": [
@@ -105,9 +86,12 @@
     },
     "de-dansende-huisjes": {
       "q": [
-        "dansende huizen Amsterdam",
-        "scheve huizen Amsterdam",
-        "crooked houses Amsterdam"
+        "Damrak huizen Amsterdam",
+        "Damrak Amsterdam"
+      ],
+      "exclude": [
+        "Bestand",
+        "SK-A"
       ]
     },
     "spinoza-monument": {
@@ -119,10 +103,7 @@
       "portrait": true
     },
     "waterlooplein": {
-      "q": [
-        "Waterlooplein markt",
-        "Waterlooplein Amsterdam"
-      ]
+      "file": "People at the flea market Waterlooplein on a sunny Autumn day; free photo Amsterdam by Fons Heijnsbroek, 10-2021.jpg"
     },
     "de-sluyswacht": {
       "q": [
@@ -141,26 +122,22 @@
       ]
     },
     "de-montelbaanstoren": {
-      "q": [
-        "Montelbaanstoren Oudeschans",
-        "Montelbaanstoren"
-      ]
+      "file": "Amsterdam - Prins Hendrikkade - Brug 279 - Kikkerbilssluis - View WSW on Oudeschans & Montelbaanstoren 1606 by Hendrick de Keyser - Renaissance architecture.jpg"
     },
     "adam-lookout": {
-      "q": [
-        "A'DAM Toren Amsterdam",
-        "ADAM Toren Overhoeks",
-        "A'DAM Lookout"
-      ]
+      "file": "A'DAM Toren en de skyline van Amsterdam.jpg"
     },
     "saint-nicholas-church": {
       "q": [
-        "Sint-Nicolaasbasiliek Amsterdam",
-        "Saint Nicholas Church Amsterdam"
+        "Sint-Nicolaaskerk Prins Hendrikkade",
+        "Basilica of Saint Nicholas Amsterdam",
+        "Sint Nicolaasbasiliek Amsterdam"
       ],
       "exclude": [
+        "Kansel",
         "interieur",
-        "interior"
+        "interior",
+        "orgel"
       ]
     },
     "victoria-hotel-amsterdam": {

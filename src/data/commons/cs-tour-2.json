@@ -3,16 +3,7 @@
   "card": "amsterdam-central-station",
   "stops": {
     "amsterdam-central-station": {
-      "q": [
-        "Amsterdam Centraal Station facade",
-        "Amsterdam Centraal station"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "perron",
-        "platform"
-      ]
+      "file": "Amsterdam (NL), Centraal Station -- 2015 -- 7269.jpg"
     },
     "de-schreierstoren": {
       "q": [
@@ -39,21 +30,10 @@
       ]
     },
     "adam-lookout": {
-      "q": [
-        "A'DAM Toren Amsterdam",
-        "ADAM Toren Overhoeks",
-        "A'DAM Lookout"
-      ]
+      "file": "A'DAM Toren en de skyline van Amsterdam.jpg"
     },
     "het-scheepvaartmuseum": {
-      "q": [
-        "Scheepvaartmuseum Amsterdam",
-        "Het Scheepvaartmuseum"
-      ],
-      "exclude": [
-        "interieur",
-        "interior"
-      ]
+      "file": "Scheepvaartmuseum 2022.jpg"
     },
     "hoog-en-droog": {
       "file": "Brouwersgracht pakhuizen.jpg"
@@ -95,10 +75,7 @@
       "portrait": true
     },
     "waterlooplein": {
-      "q": [
-        "Waterlooplein markt",
-        "Waterlooplein Amsterdam"
-      ]
+      "file": "People at the flea market Waterlooplein on a sunny Autumn day; free photo Amsterdam by Fons Heijnsbroek, 10-2021.jpg"
     },
     "zuiderkerk": {
       "q": [
@@ -108,9 +85,12 @@
     },
     "de-dansende-huisjes": {
       "q": [
-        "dansende huizen Amsterdam",
-        "scheve huizen Amsterdam",
-        "crooked houses Amsterdam"
+        "Damrak huizen Amsterdam",
+        "Damrak Amsterdam"
+      ],
+      "exclude": [
+        "Bestand",
+        "SK-A"
       ]
     },
     "million-dollar-view": {
@@ -166,12 +146,15 @@
     },
     "saint-nicholas-church": {
       "q": [
-        "Sint-Nicolaasbasiliek Amsterdam",
-        "Saint Nicholas Church Amsterdam"
+        "Sint-Nicolaaskerk Prins Hendrikkade",
+        "Basilica of Saint Nicholas Amsterdam",
+        "Sint Nicolaasbasiliek Amsterdam"
       ],
       "exclude": [
+        "Kansel",
         "interieur",
-        "interior"
+        "interior",
+        "orgel"
       ]
     },
     "victoria-hotel-amsterdam": {
