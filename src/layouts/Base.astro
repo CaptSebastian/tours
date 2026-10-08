@@ -49,6 +49,22 @@ const fullTitle = title ? `${title} | ${site.name}` : `${site.name} | ${t(lang, 
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js').catch(() => {});
       }
+
+      // Kaders (stops, tourkaarten, slot van de tour) faden rustig omhoog in beeld.
+      // Alleen wat bij het laden onder de rand van het scherm staat; wat al in beeld is, staat er meteen.
+      (() => {
+        if (!('IntersectionObserver' in window)) return;
+        if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+        const io = new IntersectionObserver((entries) => {
+          for (const e of entries) if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+        }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+        const vh = innerHeight;
+        document.querySelectorAll('.stop, .tour-card, .ending, .tips-promo').forEach((el) => {
+          if (el.getBoundingClientRect().top < vh) return;
+          el.classList.add('reveal');
+          io.observe(el);
+        });
+      })();
     </script>
   </body>
 </html>
