@@ -1,10 +1,10 @@
 {
-  "title": "KINBoat Central Station Tour",
-  "menuTitle": "Central Station",
+  "title": "Stromma Damrak Tour",
+  "menuTitle": "Damrak",
   "order": 2,
   "map": "https://www.google.com/maps/d/embed?mid=1OTMyTrbzE3lEID0kwFkrI02i50L3ofI&ehbc=2E312F",
   "card": {
-    "title": "KINBoat Central Station",
+    "title": "Stromma Damrak",
     "text": "One hour open boat tour. See the old Harbour, VOC ship, Amstel, Seven bridges.",
     "image": "/images/commons/central-station-tour-1-amsterdam-central-station.webp"
   },

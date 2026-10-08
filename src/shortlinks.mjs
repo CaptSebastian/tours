@@ -5,6 +5,7 @@
 export const shortlinks = {
   alf: 'amsterdam-light-festival-14',
   cs: 'central-station-tour-1',
+  damrak: 'central-station-tour-1',
   cs2: 'cs-tour-2',
   af: 'annefrank1',
   rm: 'kinboat-anne-frank-rijksmuseum-tour',

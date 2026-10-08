@@ -9,7 +9,7 @@ export const site = {
   // Links gaan direct naar hun boekingssysteem (FareHarbor).
   // Tip: vraag de rederij om een eigen affiliate-/ref-link, dan zien ze welke boekingen via jou komen.
   bookings: [
-    { label: 'KINboat', url: 'https://fareharbor.com/embeds/book/kinboat/?full-items=yes' },
+    { label: 'Stromma', url: 'https://www.stromma.com/en-nl/amsterdam/sightseeing/canal-tours/open-boat-tours/' },
     { label: 'Eco Boats', url: 'https://fareharbor.com/embeds/book/ecoboatsamsterdam/?full-items=yes&flow=1143196&language=en' },
   ],
 };
