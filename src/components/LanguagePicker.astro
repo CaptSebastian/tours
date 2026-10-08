@@ -6,6 +6,7 @@
 import Base from '../layouts/Base.astro';
 import { enabledLocales, defaultLocale } from '../i18n/locales';
 import { site } from '../site';
+import { t } from '../i18n/ui';
 
 interface Props {
   /** Pad achter de taal, bv. 'central-station-tour-1/', 'tips/' of '' (home) */
@@ -15,14 +16,19 @@ interface Props {
 }
 const { target, heading } = Astro.props;
 const codes = enabledLocales.map((l) => l.code);
+// "Kies je taal" in alle actieve talen, zodat iedereen het herkent
+const otherTitles = enabledLocales.filter((l) => l.code !== 'en').map((l) => ({ code: l.code, dir: l.dir ?? 'ltr', text: t(l.code, 'picker.title') }));
 ---
 <Base bare title={heading}>
   <div class="picker" data-target={target} data-codes={codes.join(',')} data-default={defaultLocale}>
     <img class="picker-logo" src={site.logo} alt={site.name} />
     {heading && <p class="picker-dest">{heading}</p>}
-    <h1 class="picker-title">
-      Choose your language
-    </h1>
+    <h1 class="picker-title">Choose your language</h1>
+    {otherTitles.length > 0 && (
+      <p class="picker-sub">
+        {otherTitles.map((o, i) => (<>{i > 0 && ' · '}<span lang={o.code} dir={o.dir}>{o.text}</span></>))}
+      </p>
+    )}
     <ul class="picker-list">
       {enabledLocales.map((l) => (
         <li>
@@ -71,7 +77,8 @@ const codes = enabledLocales.map((l) => l.code);
   }
   .picker-logo { height: 56px; width: auto; }
   .picker-dest { margin: 0; color: var(--brass); font-weight: 600; letter-spacing: .08em; text-transform: uppercase; font-size: .8rem; }
-  .picker-title { margin: 0 0 .5rem; font-size: clamp(1.6rem, 6vw, 2.4rem); }
+  .picker-title { margin: 0; font-size: clamp(1.6rem, 6vw, 2.4rem); }
+  .picker-sub { margin: 0 0 .5rem; color: #a9bccb; max-width: 40ch; }
   .picker-list {
     list-style: none; margin: 0; padding: 0; width: min(100%, 520px);
     display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: .6rem;

@@ -32,7 +32,7 @@
 }
 
 /* Talen met een eigen schrift: systeemletters, want DM Sans heeft geen Cyrillisch/Chinees/Arabisch enz. */
-:lang(ru), :lang(uk), :lang(zh), :lang(ko), :lang(ar), :lang(he) {
+:lang(ru), :lang(uk), :lang(el), :lang(zh), :lang(ja), :lang(ko), :lang(ar), :lang(he) {
   --font-body: system-ui, sans-serif;
   --font-display: system-ui, sans-serif;
 }

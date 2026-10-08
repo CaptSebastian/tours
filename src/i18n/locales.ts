@@ -14,10 +14,10 @@ export const defaultLocale = 'en';
 export const locales: Locale[] = [
   { code: 'en', name: 'English', english: 'English', enabled: true },
   // Gewenste talen, in volgorde van prioriteit (zet enabled: true zodra de vertaling klaar is):
-  { code: 'ru', name: 'Русский', english: 'Russian', enabled: false },
+  { code: 'ru', name: 'Русский', english: 'Russian', enabled: true },
   { code: 'zh', name: '中文', english: 'Chinese (simplified)', enabled: false },
   { code: 'pt', name: 'Português', english: 'Portuguese', enabled: false },
-  { code: 'de', name: 'Deutsch', english: 'German', enabled: false },
+  { code: 'de', name: 'Deutsch', english: 'German', enabled: true },
   { code: 'es', name: 'Español', english: 'Spanish', enabled: false },
   { code: 'fr', name: 'Français', english: 'French', enabled: false },
   { code: 'it', name: 'Italiano', english: 'Italian', enabled: false },
@@ -26,6 +26,8 @@ export const locales: Locale[] = [
   { code: 'he', name: 'עברית', english: 'Hebrew', dir: 'rtl', enabled: false },
   { code: 'ko', name: '한국어', english: 'Korean', enabled: false },
   { code: 'uk', name: 'Українська', english: 'Ukrainian', enabled: false },
+  { code: 'el', name: 'Ελληνικά', english: 'Greek', enabled: false },
+  { code: 'ja', name: '日本語', english: 'Japanese', enabled: false },
   // Nederlands: de tips zijn al vertaald, de tours nog niet.
   { code: 'nl', name: 'Nederlands', english: 'Dutch', enabled: false },
 ];

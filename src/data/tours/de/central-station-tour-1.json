@@ -1,0 +1,122 @@
+{
+  "title": "KINBoat Hauptbahnhof-Tour",
+  "menuTitle": "Hauptbahnhof",
+  "card": {
+    "title": "KINBoat Hauptbahnhof",
+    "text": "Einstündige Fahrt im offenen Boot. Sehen Sie den alten Hafen, das VOC-Schiff, die Amstel und die sieben Brücken."
+  },
+  "stops": {
+    "amsterdam-central-station": {
+      "title": "Amsterdam Centraal (Hauptbahnhof)",
+      "body": "<p>Entworfen von Pierre Cuypers, der auch das Rijksmuseum gebaut hat. Wenn Sie beide Gebäude nebeneinander sehen, erkennen Sie die Ähnlichkeit! Das Gebäude ist etwa 300 Meter lang, steht auf 8.687 Holzpfählen, wurde in 8 Jahren gebaut und 1889 eröffnet.</p><p>Schauen Sie auf den Ostflügel: Das ist der Königliche Pavillon, gebaut für die Ankunft und Abreise der niederländischen Königsfamilie. Auf seinem Dachfirst steht der Schildträger des Königs, ein Ritter in Rüstung, der einen Schild mit dem niederländischen Löwen bewacht. Unter der Dachkante des Mittelteils sehen Sie die Wappen europäischer Handelsstädte wie London, Paris und Rom: Cuypers wollte zeigen, dass die Eisenbahn Amsterdam mit der Welt verband.</p>"
+    },
+    "de-schreierstoren": {
+      "title": "Der Schreierstoren",
+      "body": "<p>1487 als Verteidigungsturm in der mittelalterlichen Stadtmauer gebaut. Sein alter Name, Schreyhoeckstoren, bedeutet „Turm an der spitzen Ecke“: Er stand an einem scharfen Knick der Mauer.</p><p><strong>Legende:</strong> Weil <em>schreien</em> auf Niederländisch auch „weinen“ bedeutet, entstand die Geschichte, dass hier die Frauen der Seeleute weinend standen, wenn ihre Männer in See stachen. Eine schöne Geschichte, aber eine spätere volkstümliche Erklärung des Namens.</p><p><strong>Tatsache:</strong> 1609 segelte Henry Hudson von hier aus im Auftrag der Niederländischen Ostindien-Kompanie (VOC) los. Er suchte eine nördliche Route nach Asien und landete dort, wo heute New York liegt. Eine Gedenktafel am Turm erinnert an seine Reise.</p>"
+    },
+    "het-scheepvaarthuis": {
+      "title": "Das Scheepvaarthuis",
+      "body": "<p>1913 als gemeinsames Bürogebäude für sechs Amsterdamer Reedereien im typischen Stil der „Amsterdamer Schule“ gebaut. Heute ist hier das Hotel Amrâth.</p>"
+    },
+    "sea-palace": {
+      "title": "Sea Palace",
+      "body": "<p>Ein schwimmendes chinesisches Restaurant nach dem Vorbild der berühmten schwimmenden Restaurants in Hongkong. Mit seinen Pagoden-Decks ist es eines der meistfotografierten Restaurants Amsterdams und bietet einen tollen Blick über das Wasser. Sehr lecker!</p>"
+    },
+    "nemo-science-museum": {
+      "title": "NEMO Wissenschaftsmuseum",
+      "body": "<p>Der volle Name lautet „New Metropolis“: ein Wissenschaftsmuseum zum Mitmachen für Kinder, entworfen von Renzo Piano. Das Gebäude dient zugleich als Eingang zum IJ-Tunnel und hat auf der schrägen Seite eine große Terrasse.</p>"
+    },
+    "het-scheepvaartmuseum": {
+      "title": "Das Scheepvaartmuseum",
+      "body": "<p>Das ehemalige „’s Lands Zeemagazijn“ aus dem 17. Jahrhundert war das Lagerhaus der Admiralität von Amsterdam: Hier wurden alle Vorräte für die Kriegsflotte umgeschlagen. Heute ist es ein Museum für die Seefahrtsgeschichte der Niederlande.</p>"
+    },
+    "high-and-dry": {
+      "title": "Hoch und trocken",
+      "body": "<p>Die VOC handelte vor allem mit Gewürzen und anderen wertvollen Waren aus Asien. Diese wurden in den Lagerräumen der Kaufmannshäuser an den Grachten gelagert. Die Häuser hatten dafür große Dachböden und Hissbalken an der Fassade, um die kostbare Ware „hoch und trocken“ aufzubewahren.</p>"
+    },
+    "hortus-botanicus": {
+      "title": "Hortus Botanicus",
+      "body": "<p>Der 1638 gegründete Hortus Botanicus ist einer der ältesten botanischen Gärten der Welt. Der kleine Garten hat über 6.000 Bäume und Pflanzen, ein Gewächshaus mit drei verschiedenen tropischen Klimazonen und ein Schmetterlingshaus mit Hunderten von Schmetterlingen. Achten Sie auf den Palmfarn im Palmenhaus: Er ist etwa 300 Jahre alt.</p>"
+    },
+    "portuguese-jewish-synagogue": {
+      "title": "Portugiesische Synagoge",
+      "body": "<p>Die <strong>Portugiesische Synagoge</strong>, auch <strong>Esnoga</strong> oder <strong>Snoge</strong> genannt, ist eine orthodoxe jüdische Gemeinde und Synagoge, fertiggestellt 1675.</p><p>Die sephardische Gemeinde Amsterdams war im Goldenen Zeitalter eine der größten und reichsten jüdischen Gemeinden Europas, und ihre sehr große Synagoge spiegelte das wider.</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>Im 17. Jahrhundert waren viele Amsterdamer Frauen auf sich allein gestellt: Ihre Männer fuhren zur See, und ein großer Teil kam nie zurück. Für die Pflege älterer Frauen baute die Diakonie der reformierten Kirche hier den Amstelhof, begonnen 1681 auf damals billigem Land am anderen Ufer der Amstel. Bis 2007 war er ein Altenheim.</p><p>2009 wurde das Gebäude als Hermitage Amsterdam wiedereröffnet, eine Zweigstelle der Eremitage in Sankt Petersburg. Nach dem russischen Einmarsch in die Ukraine 2022 brach das Museum die Verbindungen zu Russland ab und heißt seitdem H’ART Museum.</p>"
+    },
+    "de-amstel": {
+      "title": "Die Amstel",
+      "body": "<p>Die Amstel war traditionell eine wichtige Schifffahrtsroute zwischen der Zuiderzee und dem Hinterland – und der Fluss, nach dem unsere Stadt benannt ist. Um 1270 wurde ein Damm in der Amstel gebaut, der das Fischerdorf schnell zu einer Handelsstadt machte. Das älteste Dokument, in dem Amsterdam erwähnt wird, stammt von 1275: ein Zollprivileg von Graf Floris V., das die Bewohner vom Zoll in Holland befreite. Darin heißt der Ort <em>Amestelledamme</em> („Damm in der Amstel“), daraus wurde nach und nach Amsterdam. Die Stadtrechte folgten um 1300.</p>"
+    },
+    "de-herengracht": {
+      "title": "Die Herengracht",
+      "body": "<p>Wir fahren jetzt auf der Herengracht, einem Teil der prestigeträchtigen Stadterweiterung Anfang des 17. Jahrhunderts. Dieser Abschnitt reicht von der Leidsegracht bis zur Amstel, und hier sehen Sie vor allem sehr große Gebäude: Der Stadtrat vergab hier nur große Grundstücke, um reiche Kaufmannsfamilien anzuziehen.</p><p><strong>Beliebte Geschichte:</strong> Die Steuern sollen sich nach der Breite des Hauses und der Zahl der Fenster gerichtet haben, sogar eine doppelte Treppe soll extra besteuert worden sein. Stadtführer erzählen das gern, doch Historiker bezweifeln es; wahrscheinlicher sind die hohen Grundstückspreise an der Gracht der Grund, warum die meisten Häuser so schmal sind.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "Die Reguliersgracht",
+      "body": "<p>Eine der schönsten Grachten – berühmt für ihre sieben gleichen Bogenbrücken. 1901 wollte der Stadtrat die Gracht für die neue elektrische Straßenbahn zuschütten, doch nach vielen Protesten wurde der Plan zum Glück abgelehnt. Abends sind die Bögen beleuchtet, und vom Thorbeckeplein aus ist das ein wunderschöner Anblick!</p>"
+    },
+    "de-amstelkerk": {
+      "title": "Die Amstelkerk",
+      "body": "<p>Auf dem Amstelveld steht die einzige erhaltene hölzerne Notkirche. Heute wird sie als Konzertsaal genutzt.</p>"
+    },
+    "gevelstenen": {
+      "title": "Giebelsteine",
+      "body": "<p>Diese Giebelsteine dienten den Bewohnern im 17. Jahrhundert als Orientierungspunkte. Die kleinen Kunstwerke zeigten zum Beispiel, wo der Bäcker sein Brot verkaufte oder wo man seine Schuhe reparieren lassen konnte.</p>"
+    },
+    "de-prinsengracht": {
+      "title": "Die Prinsengracht",
+      "body": "<p>Die Prinsengracht ist die äußerste der drei konzentrischen Grachten aus dem 17. Jahrhundert. Hier sehen Sie, dass die Gebäude viel schlichter sind als an der Heren- und der Keizersgracht. Viele Häuser dienten hier als Lagerhäuser und Werkstätten.</p>"
+    },
+    "de-magere-brug": {
+      "title": "Die Magere Brug",
+      "body": "<p>Die Magere Brug, die „magere Brücke“, verdankt ihren Namen wahrscheinlich der sehr schmalen Holzbrücke, die hier 1691 erstmals gebaut wurde. Eine beliebte Legende erzählt von zwei Schwestern namens Mager, die an gegenüberliegenden Ufern wohnten und die Brücke bezahlten, um sich besuchen zu können – eine schöne Geschichte, für die es aber keinen Beleg gibt.</p><p>International berühmt wurde die Brücke durch den James-Bond-Film „Diamantenfieber“ (1971). Und die neueste Legende: Verliebte Paare an Bord sollten sich genau unter der Brücke küssen – dann bleiben sie für immer verliebt!</p>"
+    },
+    "de-blauwbrug": {
+      "title": "Die Blauwbrug",
+      "body": "<p>Der Name stammt von der alten, blau gestrichenen Holzbrücke, die die Stadt mit der Insel Vlooienburg verband, bis zum Zweiten Weltkrieg ein jüdisches Viertel. Die heutige, recht prunkvolle Steinbrücke stammt von 1883; ihre Laternen, Kronen und Schiffsbugs sind von den Brücken über die Seine in Paris inspiriert.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Rathaus & Nationale Oper und Ballett",
+      "body": "<p>Der heutige Königliche Palast am Dam war ursprünglich das Amsterdamer Rathaus. Anfang des 19. Jahrhunderts zog die Stadtverwaltung an den Oudezijds Voorburgwal. Als auch dieses Gebäude zu klein wurde, entwarfen die Architekten Holzbauer, Holt und Cees Dam in den 1980er-Jahren ein neues Rathaus am Waterlooplein, dem früheren Vlooienburg. Das Gebäude ist zugleich Rathaus und Theater der Nationalen Oper und des Nationalen Balletts.</p>"
+    },
+    "de-dansende-huisjes": {
+      "title": "Die tanzenden Häuser",
+      "body": "<p>Die tanzenden Häuser sind eine Reihe schiefer alter Grachtenhäuser, die sich aneinanderlehnen. Der Grund liegt unter der Erde: Amsterdam steht auf Holzpfählen, und die feste Sandschicht, die ein Haus tragen kann, liegt etwa 13 Meter tief. Pfähle, die sie nicht erreichen oder im Lauf der Jahrhunderte verrotten, lassen ein Haus ungleichmäßig absinken. Und was bekommt man dann? Eine Reihe tanzender Häuser.</p>"
+    },
+    "spinoza-monument": {
+      "title": "Spinoza-Denkmal",
+      "body": "<p>Eine Statue des in Amsterdam geborenen Philosophen Baruch Spinoza (1632–1677), eines der großen Denker der Aufklärung, geschaffen 2008 von Nicolas Dings.</p><p>Die Ironie: 1656 verstieß die portugiesisch-jüdische Gemeinde den jungen Spinoza wegen seiner radikalen Ideen, und seine Bücher wurden später verboten. Heute ehrt ihn die Stadt mit einer Statue. Auf dem Sockel stehen seine Worte „Der Zweck des Staates ist die Freiheit“. Auf seinem Mantel sitzen Spatzen, die schon immer hier lebten, und Halsbandsittiche, Neuankömmlinge in der Stadt: zusammen stehen sie für ein Amsterdam der Einheimischen und der Zugewanderten. Die Rosen verweisen auf seinen Siegelring mit dem Wahlspruch <em>Caute</em>: „Sei vorsichtig“.</p>"
+    },
+    "waterlooplein": {
+      "title": "Waterlooplein",
+      "body": "<p>Bis zum Zweiten Weltkrieg ein großer jüdischer Markt, heute ein Flohmarkt. Wo heute das Rathaus steht, lag bis zum Krieg das jüdische Viertel. Rotterdam trägt die Narben des Krieges durch das große Bombardement, Amsterdam durch die Deportation seiner jüdischen Bevölkerung. Fast alle Bewohner dieses Viertels wurden von den deutschen Besatzern deportiert, und nur wenige überlebten. Im letzten Kriegswinter, dem „Hungerwinter“ mit Kälte und Nahrungsmangel, wurde den leeren Häusern alles Holz entrissen, damit die verbliebenen Einwohner heizen konnten. Nach dem Krieg standen die Häuser nur noch als „Skelette“ da und wurden abgerissen.</p>"
+    },
+    "de-sluyswacht": {
+      "title": "De Sluyswacht",
+      "body": "<p>Das Café de Sluyswacht wurde 1692 als Haus für den Schleusenwärter der Sint-Antoniesluis gebaut. Heute ist es ein Café und ein nationales Denkmal.</p>"
+    },
+    "museum-rembrandthuis": {
+      "title": "Museum Rembrandthaus",
+      "body": "<p>Hinter der Sint-Antoniesluis liegt das „Museum Het Rembrandthuis“, das frühere Wohnhaus des berühmten Malers Rembrandt Harmenszoon van Rijn. Rembrandt starb in Armut; sein gesamter Besitz wurde versteigert, und anhand des Auktionsverzeichnisses wurde das Haus wieder eingerichtet, einschließlich seiner Gemälde – so bekommt man einen guten Eindruck vom Inneren, denn er hatte sein Atelier zu Hause. Das erklärt auch, warum Rembrandt so viele jüdische Männer porträtierte: Er wohnte mitten im jüdischen Viertel.</p>"
+    },
+    "de-montelbaanstoren": {
+      "title": "Der Montelbaanstoren",
+      "body": "<p>Der runde untere Teil wurde um 1516 als Verteidigungsturm gebaut, um das Hafengebiet außerhalb der Stadtmauer zu schützen – direkt an der früheren Zuiderzee (heute das IJsselmeer). Amsterdam lag direkt am Meer, daher der lebhafte Handel!</p><p>1606 setzte der Architekt Hendrick de Keyser den eleganten achteckigen Aufbau mit Holzspitze darauf. Schon wenige Jahre später begann der Turm sich zu neigen und wurde buchstäblich mit Seilen wieder geradegezogen. Sein Spitzname ist „Malle Jaap“ (der verrückte Jaap), weil seine Glocken zu den unmöglichsten Zeiten läuteten.</p>"
+    },
+    "adam-lookout": {
+      "title": "A’DAM Lookout",
+      "body": "<p>A’DAM LOOKOUT ist keine gewöhnliche Aussichtsplattform. Neben dem einzigartigen 360-Grad-Blick über Amsterdam und Umgebung gibt es oben auf diesem markanten Gebäude noch viel mehr zu erleben: den Adrenalinkick auf „Over The Edge“, Amsterdams höchster Schaukel, eine VR-Achterbahnfahrt, Mittag- und Abendessen, Snacks oder Cocktails in der Sky Bar, ein digitales Souvenir und interaktive Ferngläser mit Wissenswertem über die Stadt.</p>"
+    },
+    "saint-nicholas-church": {
+      "title": "Sankt-Nikolaus-Kirche",
+      "body": "<p>Links sehen Sie die Sankt-Nikolaus-Kirche (Sint-Nicolaaskerk), eine katholische Basilika, gebaut um 1885. Der heilige Nikolaus ist der Schutzpatron der Seeleute und unserer Stadt.</p>"
+    },
+    "victoria-hotel-amsterdam": {
+      "title": "Victoria Hotel Amsterdam",
+      "body": "<p>Dieses Hotel ist eines der ältesten modernen Hotels der Niederlande und wurde 1890 eröffnet. Es war auch das erste Hotel mit elektrischem Licht in jedem Zimmer. Man sieht noch heute, dass das Hotel um einige alte Häuser herum gebaut wurde: Deren Besitzer verlangten damals so viel Geld, dass man beschloss, einfach um sie herum zu bauen. Diese Geschichte spielt eine große Rolle im Film „Publieke Werken“.</p>"
+    }
+  }
+}
