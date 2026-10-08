@@ -3,47 +3,37 @@
     "coffee": {
       "name": "Kahve ve öğle yemeği"
     },
-    "dutch": {
-      "name": "Hollanda mutfağı"
+    "snacks": {
+      "name": "Hollanda atıştırmalıkları"
     },
-    "bitterballen": {
-      "name": "Bitterballen",
-      "note": "İki listeden bir seçki. Hangisinin en iyisi olduğu zevk meselesi."
+    "cafes": {
+      "name": "Kahverengi kafeler ve tadım evleri"
+    },
+    "dinner": {
+      "name": "Akşam yemeği"
     },
     "fine": {
       "name": "Gurme restoranlar",
       "note": "Tadım menüleri kişi başı yaklaşık €100-250. En az iki hafta önceden rezervasyon yapın. Kıyafet: smart casual (şık ama rahat)."
     },
-    "view": {
-      "name": "Manzaralı, rahat restoranlar"
+    "museums": {
+      "name": "Müzeler"
     },
-    "indo": {
-      "name": "Endonezya mutfağı"
+    "active": {
+      "name": "Aktivite ve çocuklarla"
     },
-    "chicken": {
-      "name": "Tavuk"
+    "out": {
+      "name": "Eğlence ve sinema"
     },
-    "zeedijk": {
-      "name": "Zeedijk"
+    "places": {
+      "name": "Özel yerler ve manzaralar"
     },
-    "shopping": {
+    "shops": {
       "name": "Alışveriş"
     },
     "markets": {
       "name": "Pazarlar",
       "note": "Saatler farklı kaynaklardan derlendi. Gitmeden önce mutlaka kontrol edin."
-    },
-    "special": {
-      "name": "Özel yerler ve müzeler"
-    },
-    "out": {
-      "name": "Eğlence ve sinema"
-    },
-    "cafes": {
-      "name": "Tipik Amsterdam kafeleri"
-    },
-    "sunset": {
-      "name": "Gün batımı ve fotoğraf noktaları"
     }
   },
   "items": {

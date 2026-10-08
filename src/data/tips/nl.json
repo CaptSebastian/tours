@@ -1,49 +1,39 @@
 {
   "categories": {
     "coffee": {
-      "name": "Koffie en lunch"
+      "name": "Koffie & lunch"
     },
-    "dutch": {
-      "name": "Hollands eten"
+    "snacks": {
+      "name": "Hollandse hapjes"
     },
-    "bitterballen": {
-      "name": "Bitterballen",
-      "note": "Een selectie uit twee lijsten. Wat de beste is, is een kwestie van smaak."
+    "cafes": {
+      "name": "Bruine cafés & proeflokalen"
+    },
+    "dinner": {
+      "name": "Uit eten"
     },
     "fine": {
       "name": "Chique eten",
       "note": "Proefmenu's kosten ongeveer €100-250 p.p. Reserveer minimaal twee weken van tevoren. Kleding: smart casual."
     },
-    "view": {
-      "name": "Casual eten met uitzicht"
+    "museums": {
+      "name": "Musea"
     },
-    "indo": {
-      "name": "Indonesisch"
+    "active": {
+      "name": "Actief & met kinderen"
     },
-    "chicken": {
-      "name": "Kip"
+    "out": {
+      "name": "Uitgaan"
     },
-    "zeedijk": {
-      "name": "Zeedijk"
+    "places": {
+      "name": "Bijzondere plekken & uitzicht"
     },
-    "shopping": {
-      "name": "Winkelen"
+    "shops": {
+      "name": "Winkels"
     },
     "markets": {
       "name": "Markten",
       "note": "De tijden komen uit losse bronnen. Check ze voordat je gaat."
-    },
-    "special": {
-      "name": "Bijzondere plekken en musea"
-    },
-    "out": {
-      "name": "Uitgaan en film"
-    },
-    "cafes": {
-      "name": "Typisch Amsterdamse cafés"
-    },
-    "sunset": {
-      "name": "Zonsondergang en foto's"
     }
   },
   "items": {

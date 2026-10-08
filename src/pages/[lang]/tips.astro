@@ -40,7 +40,8 @@ const mapUrl = (name: string, address: string) =>
 
   <div class="wrap tips-list">
     {categories.map((c) => {
-      const rows = items.filter((i) => i.cat === c.key);
+      // Een tip kan onder meer labels staan ('also'); dan komt hij in elk van die secties voor.
+      const rows = items.filter((i) => i.cat === c.key || i.also?.includes(c.key));
       return (
         <section class="tip-cat" data-cat={c.key}>
           <h2>{c.name}</h2>

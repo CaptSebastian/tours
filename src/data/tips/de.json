@@ -3,47 +3,37 @@
     "coffee": {
       "name": "Kaffee und Mittagessen"
     },
-    "dutch": {
-      "name": "Holländisches Essen"
+    "snacks": {
+      "name": "Holländische Snacks"
     },
-    "bitterballen": {
-      "name": "Bitterballen",
-      "note": "Eine Auswahl aus zwei Listen. Welche die besten sind, ist Geschmackssache."
+    "cafes": {
+      "name": "Braune Kneipen & Probierstuben"
+    },
+    "dinner": {
+      "name": "Essen gehen"
     },
     "fine": {
       "name": "Gehobene Küche",
       "note": "Degustationsmenüs kosten etwa 100–250 € pro Person. Mindestens zwei Wochen im Voraus reservieren. Kleidung: smart casual."
     },
-    "view": {
-      "name": "Lässig essen mit Aussicht"
+    "museums": {
+      "name": "Museen"
     },
-    "indo": {
-      "name": "Indonesisch"
+    "active": {
+      "name": "Aktiv & mit Kindern"
     },
-    "chicken": {
-      "name": "Hähnchen"
+    "out": {
+      "name": "Ausgehen und Kino"
     },
-    "zeedijk": {
-      "name": "Zeedijk"
+    "places": {
+      "name": "Besondere Orte & Aussicht"
     },
-    "shopping": {
+    "shops": {
       "name": "Einkaufen"
     },
     "markets": {
       "name": "Märkte",
       "note": "Die Zeiten stammen aus verschiedenen Quellen. Bitte vorher prüfen."
-    },
-    "special": {
-      "name": "Besondere Orte und Museen"
-    },
-    "out": {
-      "name": "Ausgehen und Kino"
-    },
-    "cafes": {
-      "name": "Typische Amsterdamer Cafés"
-    },
-    "sunset": {
-      "name": "Sonnenuntergang und Fotospots"
     }
   },
   "items": {

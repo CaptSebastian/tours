@@ -3,47 +3,37 @@
     "coffee": {
       "name": "Kaffe och lunch"
     },
-    "dutch": {
-      "name": "Nederländsk mat"
+    "snacks": {
+      "name": "Holländska snacks"
     },
-    "bitterballen": {
-      "name": "Bitterballen",
-      "note": "Ett urval från två listor. Vilken som är bäst är en smaksak."
+    "cafes": {
+      "name": "Bruna kaféer och provningsrum"
+    },
+    "dinner": {
+      "name": "Middag"
     },
     "fine": {
       "name": "Fine dining",
       "note": "Avsmakningsmenyer kostar ungefär €100–250 per person. Boka minst två veckor i förväg. Klädkod: smart casual."
     },
-    "view": {
-      "name": "Avslappnad mat med utsikt"
+    "museums": {
+      "name": "Museer"
     },
-    "indo": {
-      "name": "Indonesiskt"
+    "active": {
+      "name": "Aktivt och med barn"
     },
-    "chicken": {
-      "name": "Kyckling"
+    "out": {
+      "name": "Uteliv och bio"
     },
-    "zeedijk": {
-      "name": "Zeedijk"
+    "places": {
+      "name": "Speciella platser och utsikt"
     },
-    "shopping": {
+    "shops": {
       "name": "Shopping"
     },
     "markets": {
       "name": "Marknader",
       "note": "Tiderna kommer från olika källor. Kontrollera dem innan du går."
-    },
-    "special": {
-      "name": "Speciella platser och museer"
-    },
-    "out": {
-      "name": "Uteliv och bio"
-    },
-    "cafes": {
-      "name": "Typiska Amsterdamkaféer"
-    },
-    "sunset": {
-      "name": "Solnedgång och fotoplatser"
     }
   },
   "items": {

@@ -3,47 +3,37 @@
     "coffee": {
       "name": "咖啡与午餐"
     },
-    "dutch": {
-      "name": "荷兰美食"
+    "snacks": {
+      "name": "荷兰小吃"
     },
-    "bitterballen": {
-      "name": "Bitterballen（荷式炸肉丸）",
-      "note": "从两份榜单中挑选出来的。哪家最好吃，就看个人口味啦。"
+    "cafes": {
+      "name": "传统棕色咖啡馆和品酒屋"
+    },
+    "dinner": {
+      "name": "外出用餐"
     },
     "fine": {
       "name": "高级餐厅",
       "note": "品鉴菜单每人约€100-250。请至少提前两周预订。着装要求：精致休闲。"
     },
-    "view": {
-      "name": "休闲用餐，景色一流"
+    "museums": {
+      "name": "博物馆"
     },
-    "indo": {
-      "name": "印尼菜"
+    "active": {
+      "name": "运动和亲子"
     },
-    "chicken": {
-      "name": "鸡肉"
+    "out": {
+      "name": "夜生活与电影院"
     },
-    "zeedijk": {
-      "name": "Zeedijk（海堤街）"
+    "places": {
+      "name": "特别的地方和景观"
     },
-    "shopping": {
+    "shops": {
       "name": "购物"
     },
     "markets": {
       "name": "市场",
       "note": "营业时间来自不同的信息来源，出发前请先确认。"
-    },
-    "special": {
-      "name": "特色景点与博物馆"
-    },
-    "out": {
-      "name": "夜生活与电影院"
-    },
-    "cafes": {
-      "name": "地道的阿姆斯特丹咖啡馆"
-    },
-    "sunset": {
-      "name": "看日落与拍照的好地方"
     }
   },
   "items": {

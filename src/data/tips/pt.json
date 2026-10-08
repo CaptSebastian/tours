@@ -3,47 +3,37 @@
     "coffee": {
       "name": "Café e almoço"
     },
-    "dutch": {
-      "name": "Comida holandesa"
+    "snacks": {
+      "name": "Petiscos holandeses"
     },
-    "bitterballen": {
-      "name": "Bitterballen",
-      "note": "Uma seleção a partir de duas listas. Qual é o melhor é questão de gosto."
+    "cafes": {
+      "name": "Bares tradicionais e casas de degustação"
+    },
+    "dinner": {
+      "name": "Jantar"
     },
     "fine": {
       "name": "Alta gastronomia",
       "note": "Os menus-degustação custam cerca de €100-250 por pessoa. Reserve com pelo menos duas semanas de antecedência. Traje: esporte fino."
     },
-    "view": {
-      "name": "Comer sem formalidade, com vista"
+    "museums": {
+      "name": "Museus"
     },
-    "indo": {
-      "name": "Indonésia"
+    "active": {
+      "name": "Atividades e com crianças"
     },
-    "chicken": {
-      "name": "Frango"
+    "out": {
+      "name": "Saídas à noite e cinema"
     },
-    "zeedijk": {
-      "name": "Zeedijk"
+    "places": {
+      "name": "Lugares especiais e vistas"
     },
-    "shopping": {
+    "shops": {
       "name": "Compras"
     },
     "markets": {
       "name": "Mercados e feiras",
       "note": "Os horários vêm de várias fontes. Confira antes de ir."
-    },
-    "special": {
-      "name": "Lugares especiais e museus"
-    },
-    "out": {
-      "name": "Saídas à noite e cinema"
-    },
-    "cafes": {
-      "name": "Cafés típicos de Amsterdam"
-    },
-    "sunset": {
-      "name": "Pôr do sol e lugares para fotos"
     }
   },
   "items": {

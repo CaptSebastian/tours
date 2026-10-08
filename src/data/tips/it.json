@@ -3,47 +3,37 @@
     "coffee": {
       "name": "Caffè e pranzo"
     },
-    "dutch": {
-      "name": "Cucina olandese"
+    "snacks": {
+      "name": "Snack olandesi"
     },
-    "bitterballen": {
-      "name": "Bitterballen",
-      "note": "Una selezione da due liste. Quali siano i migliori è questione di gusti."
+    "cafes": {
+      "name": "Caffè bruni e degustazioni"
+    },
+    "dinner": {
+      "name": "Cenare fuori"
     },
     "fine": {
       "name": "Alta cucina",
       "note": "I menu degustazione costano circa €100-250 a persona. Prenotate almeno due settimane prima. Abbigliamento: smart casual."
     },
-    "view": {
-      "name": "Mangiare in relax con vista"
+    "museums": {
+      "name": "Musei"
     },
-    "indo": {
-      "name": "Cucina indonesiana"
+    "active": {
+      "name": "Attività e con bambini"
     },
-    "chicken": {
-      "name": "Pollo"
+    "out": {
+      "name": "Serate e cinema"
     },
-    "zeedijk": {
-      "name": "Zeedijk"
+    "places": {
+      "name": "Luoghi speciali e panorami"
     },
-    "shopping": {
+    "shops": {
       "name": "Shopping"
     },
     "markets": {
       "name": "Mercati",
       "note": "Gli orari provengono da fonti diverse. Controllateli prima di andare."
-    },
-    "special": {
-      "name": "Luoghi speciali e musei"
-    },
-    "out": {
-      "name": "Serate e cinema"
-    },
-    "cafes": {
-      "name": "Caffè tipici di Amsterdam"
-    },
-    "sunset": {
-      "name": "Tramonti e punti per le foto"
     }
   },
   "items": {

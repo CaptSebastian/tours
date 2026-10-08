@@ -86,7 +86,7 @@ export { tourSlugs };
 // ---------- Tips ----------
 
 export interface TipCategory { key: string; name: string; note?: string }
-export interface Tip { id: string; cat: string; name: string; address: string; text: string }
+export interface Tip { id: string; cat: string; also?: string[]; name: string; address: string; text: string }
 
 type TipsBase = { categories: TipCategory[]; items: Tip[] };
 type TipsText = {

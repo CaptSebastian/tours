@@ -3,47 +3,37 @@
     "coffee": {
       "name": "Kawa i lunch"
     },
-    "dutch": {
-      "name": "Kuchnia holenderska"
+    "snacks": {
+      "name": "Holenderskie przekąski"
     },
-    "bitterballen": {
-      "name": "Bitterballen",
-      "note": "Wybór z dwóch rankingów. Które są najlepsze – kwestia gustu."
+    "cafes": {
+      "name": "Brązowe kawiarnie i degustatornie"
+    },
+    "dinner": {
+      "name": "Kolacja"
     },
     "fine": {
       "name": "Kuchnia wykwintna",
       "note": "Menu degustacyjne kosztuje około 100–250 € za osobę. Rezerwuj co najmniej dwa tygodnie wcześniej. Strój: smart casual."
     },
-    "view": {
-      "name": "Na luzie z widokiem"
+    "museums": {
+      "name": "Muzea"
     },
-    "indo": {
-      "name": "Kuchnia indonezyjska"
+    "active": {
+      "name": "Aktywnie i z dziećmi"
     },
-    "chicken": {
-      "name": "Kurczak"
+    "out": {
+      "name": "Wyjście wieczorem i kino"
     },
-    "zeedijk": {
-      "name": "Zeedijk"
+    "places": {
+      "name": "Wyjątkowe miejsca i widoki"
     },
-    "shopping": {
+    "shops": {
       "name": "Zakupy"
     },
     "markets": {
       "name": "Targi",
       "note": "Godziny pochodzą z różnych źródeł. Sprawdź je przed wyjściem."
-    },
-    "special": {
-      "name": "Wyjątkowe miejsca i muzea"
-    },
-    "out": {
-      "name": "Wyjście wieczorem i kino"
-    },
-    "cafes": {
-      "name": "Typowe amsterdamskie kawiarnie"
-    },
-    "sunset": {
-      "name": "Zachód słońca i miejsca na zdjęcia"
     }
   },
   "items": {

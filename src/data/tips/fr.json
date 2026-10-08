@@ -3,47 +3,37 @@
     "coffee": {
       "name": "Café et déjeuner"
     },
-    "dutch": {
-      "name": "Cuisine néerlandaise"
+    "snacks": {
+      "name": "En-cas hollandais"
     },
-    "bitterballen": {
-      "name": "Bitterballen",
-      "note": "Une sélection tirée de deux listes. Quelles sont les meilleures ? Question de goût."
+    "cafes": {
+      "name": "Cafés bruns et salles de dégustation"
+    },
+    "dinner": {
+      "name": "Dîner"
     },
     "fine": {
       "name": "Gastronomie",
       "note": "Les menus dégustation coûtent environ 100–250 € par personne. Réservez au moins deux semaines à l’avance. Tenue : chic décontracté."
     },
-    "view": {
-      "name": "Repas décontracté avec vue"
+    "museums": {
+      "name": "Musées"
     },
-    "indo": {
-      "name": "Indonésien"
+    "active": {
+      "name": "Activités et en famille"
     },
-    "chicken": {
-      "name": "Poulet"
+    "out": {
+      "name": "Sorties et cinéma"
     },
-    "zeedijk": {
-      "name": "Zeedijk"
+    "places": {
+      "name": "Lieux insolites et points de vue"
     },
-    "shopping": {
+    "shops": {
       "name": "Shopping"
     },
     "markets": {
       "name": "Marchés",
       "note": "Les horaires proviennent de différentes sources. Vérifiez-les avant d’y aller."
-    },
-    "special": {
-      "name": "Lieux insolites et musées"
-    },
-    "out": {
-      "name": "Sorties et cinéma"
-    },
-    "cafes": {
-      "name": "Cafés typiquement amstellodamois"
-    },
-    "sunset": {
-      "name": "Coucher de soleil et spots photo"
     }
   },
   "items": {

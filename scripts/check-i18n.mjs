@@ -29,7 +29,7 @@ for (const [slug, t] of Object.entries(tours)) {
 const tipsEn = read(join(root, 'tips/en.json'));
 const tipIds = new Set(tipsEn.items.map((i) => i.id));
 const catKeys = new Set(tipsEn.categories.map((c) => c.key));
-for (const i of tipsEn.items) if (!catKeys.has(i.cat)) err(`tips: '${i.id}' heeft onbekende categorie '${i.cat}'`);
+for (const i of tipsEn.items) for (const c of [i.cat, ...(i.also ?? [])]) if (!catKeys.has(c)) err(`tips: '${i.id}' heeft onbekende categorie '${c}'`);
 
 const langs = new Set([
   ...readdirSync(join(root, 'tours')).filter((d) => d !== 'en'),

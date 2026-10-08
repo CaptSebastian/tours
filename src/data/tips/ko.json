@@ -3,47 +3,37 @@
     "coffee": {
       "name": "커피와 점심"
     },
-    "dutch": {
-      "name": "네덜란드 음식"
+    "snacks": {
+      "name": "네덜란드 간식"
     },
-    "bitterballen": {
-      "name": "비터발렌 (Bitterballen)",
-      "note": "두 가지 리스트에서 골랐어요. 어디가 제일 맛있는지는 취향 문제예요."
+    "cafes": {
+      "name": "브라운 카페와 시음장"
+    },
+    "dinner": {
+      "name": "저녁 식사"
     },
     "fine": {
       "name": "파인 다이닝",
       "note": "테이스팅 메뉴는 1인당 약 €100-250예요. 최소 2주 전에 예약하세요. 드레스 코드: 스마트 캐주얼."
     },
-    "view": {
-      "name": "전망 좋은 캐주얼 레스토랑"
+    "museums": {
+      "name": "박물관"
     },
-    "indo": {
-      "name": "인도네시아 음식"
+    "active": {
+      "name": "액티비티 & 아이와 함께"
     },
-    "chicken": {
-      "name": "치킨"
+    "out": {
+      "name": "밤 나들이와 영화관"
     },
-    "zeedijk": {
-      "name": "제이데이크 (Zeedijk)"
+    "places": {
+      "name": "특별한 장소와 전망"
     },
-    "shopping": {
+    "shops": {
       "name": "쇼핑"
     },
     "markets": {
       "name": "시장",
       "note": "운영 시간은 여러 출처에서 모은 정보예요. 가기 전에 꼭 확인하세요."
-    },
-    "special": {
-      "name": "특별한 장소와 박물관"
-    },
-    "out": {
-      "name": "밤 나들이와 영화관"
-    },
-    "cafes": {
-      "name": "암스테르담 전통 카페"
-    },
-    "sunset": {
-      "name": "노을과 사진 명소"
     }
   },
   "items": {
