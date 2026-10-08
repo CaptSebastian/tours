@@ -49,8 +49,8 @@
         "Spiegelgracht Amsterdam"
       ],
       "exclude": [
-        "street sign",
-        "straatnaambord"
+        "Nieuwe spiegelstraat.jpg",
+        "street sign"
       ]
     },
     "de-amstelkerk": {
@@ -113,14 +113,10 @@
     },
     "proeverij-van-wees": {
       "q": [
-        "proeflokaal Amsterdam",
-        "Wynand Fockink",
         "Herengracht Amsterdam"
       ],
       "exclude": [
         "Hortus",
-        "BlogHer",
-        "SK-A",
         "7174"
       ]
     },
