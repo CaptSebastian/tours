@@ -85,12 +85,18 @@
     },
     "de-dansende-huisjes": {
       "q": [
-        "Damrak huizen Amsterdam",
-        "Damrak Amsterdam"
+        "Damrak Amsterdam",
+        "Damrak water huizen",
+        "scheve grachtenpanden Amsterdam"
       ],
       "exclude": [
+        "Demping",
+        "Papenbrug",
+        "Warmoesstraat",
         "Bestand",
-        "SK-A"
+        "SK-A",
+        "1890",
+        "19"
       ]
     },
     "million-dollar-view": {
@@ -145,17 +151,7 @@
       ]
     },
     "saint-nicholas-church": {
-      "q": [
-        "Sint-Nicolaaskerk Prins Hendrikkade",
-        "Basilica of Saint Nicholas Amsterdam",
-        "Sint Nicolaasbasiliek Amsterdam"
-      ],
-      "exclude": [
-        "Kansel",
-        "interieur",
-        "interior",
-        "orgel"
-      ]
+      "file": "Amsterdam Sint Nicolaaskerk vanaf Prins Hendrikkade 20090117.jpg"
     },
     "victoria-hotel-amsterdam": {
       "q": [
