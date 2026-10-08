@@ -3,6 +3,8 @@ import Base from '../../layouts/Base.astro';
 import { localeParams } from '../../i18n/locales';
 import { t } from '../../i18n/ui';
 import { getTips } from '../../lib/content';
+import fs from 'node:fs';
+import path from 'node:path';
 
 export function getStaticPaths() {
   return localeParams();
@@ -10,6 +12,20 @@ export function getStaticPaths() {
 
 const { lang } = Astro.params as { lang: string };
 const { categories, items, fallback } = getTips(lang);
+
+// Foto per tip. Een eigen foto in public/images/tips/<tip-id>.jpg|png|webp gaat voor;
+// bronvermelding daarvoor optioneel in public/images/tips/credits.json: { "<tip-id>": "Foto: …" }.
+// Anders de vrije foto van Wikimedia Commons (via de GitHub Action), anders geen foto.
+const ownDir = path.join(process.cwd(), 'public/images/tips');
+const ownFiles = fs.existsSync(ownDir) ? fs.readdirSync(ownDir).filter((f) => /\.(jpe?g|png|webp)$/i.test(f)) : [];
+let ownCredits: Record<string, string> = {};
+try { ownCredits = JSON.parse(fs.readFileSync(path.join(ownDir, 'credits.json'), 'utf8')); } catch {}
+const photoFor = (i: (typeof items)[number]) => {
+  const own = ownFiles.find((f) => f.replace(/\.[^.]+$/, '') === i.id);
+  if (own) return { src: `/images/tips/${own}`, credit: ownCredits[i.id] ? { text: ownCredits[i.id] } : undefined };
+  if (i.image) return { src: i.image, credit: i.photoCredit };
+  return null;
+};
 // De kaartlink gebruikt altijd de oorspronkelijke naam + adres, zodat Google Maps de plek
 // ook vindt als de naam in een andere taal of ander schrift is weergegeven.
 const mapUrl = (name: string, address: string) =>
@@ -47,16 +63,29 @@ const mapUrl = (name: string, address: string) =>
           <h2>{c.name}</h2>
           {c.note && <p class="muted small">{c.note}</p>}
           <ul>
-            {rows.map((i) => (
-              <li class="tip" data-search={`${i.name} ${i.address} ${i.text}`.toLowerCase()}>
-                <div>
-                  <p class="tip-name">{i.name}</p>
-                  <p class="tip-addr">{i.address}</p>
-                  <p class="tip-text">{i.text}</p>
-                </div>
-                <a class="tip-map" href={mapUrl(i.place, i.address)} target="_blank" rel="noopener">{t(lang, 'tips.map')}</a>
-              </li>
-            ))}
+            {rows.map((i) => {
+              const photo = photoFor(i);
+              return (
+                <li class:list={['tip', { 'has-photo': photo }]} data-search={`${i.name} ${i.address} ${i.text}`.toLowerCase()}>
+                  {photo && (
+                    <div class="tip-photo">
+                      <img src={photo.src} alt="" loading="lazy" decoding="async" />
+                      {photo.credit && (photo.credit.url
+                        ? <a class="photo-credit" href={photo.credit.url} target="_blank" rel="noopener">📷 {photo.credit.text}</a>
+                        : <span class="photo-credit">📷 {photo.credit.text}</span>)}
+                    </div>
+                  )}
+                  <div class="tip-body">
+                    <div>
+                      <p class="tip-name">{i.name}</p>
+                      <p class="tip-addr">{i.address}</p>
+                      <p class="tip-text">{i.text}</p>
+                    </div>
+                    <a class="tip-map" href={mapUrl(i.place, i.address)} target="_blank" rel="noopener">{t(lang, 'tips.map')}</a>
+                  </div>
+                </li>
+              );
+            })}
           </ul>
         </section>
       );

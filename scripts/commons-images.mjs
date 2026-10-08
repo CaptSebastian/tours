@@ -184,9 +184,50 @@ async function runTour(slug) {
   writeFileSync(join(root, 'review/commons', `${slug}.md`), report.join('\n') + '\n');
 }
 
+// ---------- Tips (src/data/commons/tips.json → src/data/tips/en.json) ----------
+async function runTips() {
+  const cfgPath = join(root, 'src/data/commons/tips.json');
+  const tipsPath = join(root, 'src/data/tips/en.json');
+  const cfgText = readFileSync(cfgPath, 'utf8');
+  const cfg = JSON.parse(cfgText);
+  const tips = JSON.parse(readFileSync(tipsPath, 'utf8'));
+  const hash = createHash('sha1').update(cfgText).digest('hex').slice(0, 12);
+  if (tips.commonsConfig === hash && !process.env.FORCE) { console.log('  ongewijzigd, overgeslagen'); return; }
+  tips.commonsConfig = hash;
+  const imgDir = join(root, 'public/images/commons');
+  const reviewDir = join(root, 'review/commons', 'tips');
+  mkdirSync(imgDir, { recursive: true });
+  rmSync(reviewDir, { recursive: true, force: true });
+  mkdirSync(reviewDir, { recursive: true });
+  const report = ['# Foto\'s voor de tips', '', '| Tip | Gekozen foto | Licentie | Fotograaf |', '|---|---|---|---|'];
+  for (const item of tips.items) {
+    const spec = cfg.items?.[item.id];
+    if (!spec) { delete item.image; delete item.photoCredit; continue; }
+    const { chosen, alternatives, query } = await choose(spec);
+    if (!chosen) { console.warn(`✗ ${item.id}: niets gevonden`); report.push(`| ${item.name} | — niets gevonden | | |`); delete item.image; delete item.photoCredit; continue; }
+    const name = `tips-${item.id}.${EXT}`;
+    await download(chosen.url, join(imgDir, name), { width: 900, quality: 72 });
+    item.image = `/images/commons/${name}`;
+    item.photoCredit = credit(chosen);
+    console.log(`✓ ${item.id}: ${chosen.file}`);
+    report.push(`| ${item.name} | [${chosen.file.replace(/^File:/, '')}](${chosen.page}) | ${chosen.license} | ${chosen.artist} |`);
+    for (const [i, alt] of alternatives.entries()) {
+      const thumb = alt.url.replace(/\/(\d+)px-/, '/330px-');
+      try { await download(thumb, join(reviewDir, `${item.id}-${i}.${EXT}`), { width: 330, quality: 60 }); } catch {}
+    }
+    if (alternatives.length > 1) report.push(`|  | alternatieven (${query}): ${alternatives.map((a, i) => `${i}: ${a.file.replace(/^File:/, '')}`).join(' · ')} | | |`);
+    await sleep(300);
+  }
+  writeFileSync(tipsPath, JSON.stringify(tips, null, 2) + '\n');
+  const used = JSON.stringify(tips);
+  for (const f of readdirSync(imgDir)) if (f.startsWith('tips-') && !used.includes(`/images/commons/${f}`)) rmSync(join(imgDir, f));
+  writeFileSync(join(root, 'review/commons', 'tips.md'), report.join('\n') + '\n');
+}
+
 const only = process.argv[2];
 const slugs = only ? [only] : readdirSync(join(root, 'src/data/commons')).filter((f) => f.endsWith('.json')).map((f) => f.replace(/\.json$/, ''));
 for (const slug of slugs) {
+  if (slug === 'tips') { console.log('\n== tips =='); await runTips(); continue; }
   if (!existsSync(join(root, 'src/data/tours/en', `${slug}.json`))) { console.warn(`Tour '${slug}' bestaat niet, overgeslagen.`); continue; }
   console.log(`\n== ${slug} ==`);
   await runTour(slug);

@@ -1,0 +1,689 @@
+{
+  "_uitleg": "Vrije foto's van Wikimedia Commons per tip-id (zelfde werkwijze als de tours: 'q' = zoektermen, 'pick' = andere treffer, 'file' = exacte bestandsnaam). Een eigen foto in public/images/tips/ gaat altijd voor.",
+  "items": {
+    "de-koffieschenkerij": {
+      "q": [
+        "Oude Kerk Amsterdam exterior",
+        "Oude Kerk Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "cafe-winkel-43": {
+      "q": [
+        "Noordermarkt Amsterdam Noorderkerk",
+        "Noorderkerk Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "cafe-americain": {
+      "q": [
+        "American Hotel Amsterdam",
+        "Hotel Americain Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "the-kitchen-at-de-bijenkorf": {
+      "q": [
+        "De Bijenkorf Amsterdam Dam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "febo": {
+      "q": [
+        "FEBO automatiek",
+        "FEBO Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "stubbe-s-haring": {
+      "q": [
+        "Hollandse Nieuwe haring",
+        "haring met uitjes"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "proeflokaal-a-van-wees": {
+      "q": [
+        "bitterballen"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "cafe-luxembourg": {
+      "q": [
+        "Spui Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "in-t-aepjen": {
+      "q": [
+        "In 't Aepjen Zeedijk",
+        "Zeedijk 1 Amsterdam houten huis"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "cafe-papeneiland": {
+      "q": [
+        "Papeneiland Amsterdam",
+        "Café Papeneiland"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "cafe-t-smalle": {
+      "q": [
+        "'t Smalle Amsterdam",
+        "Egelantiersgracht café"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "cafe-de-prins": {
+      "q": [
+        "Prinsengracht 124"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "pension-homeland": {
+      "q": [
+        "Marineterrein Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "pllek": {
+      "q": [
+        "Pllek NDSM",
+        "NDSM strand"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "de-belhamel": {
+      "q": [
+        "Brouwersgracht Herengracht Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "rijks": {
+      "q": [
+        "Rijksmuseum Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "de-kas": {
+      "q": [
+        "De Kas Frankendael",
+        "Park Frankendael"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "more-at-de-l-europe": {
+      "q": [
+        "Hotel de l'Europe Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "flore": {
+      "q": [
+        "Hotel de l'Europe Amsterdam Amstel"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "kattenkabinet": {
+      "q": [
+        "Kattenkabinet Amsterdam",
+        "Herengracht 497"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "hortus-botanicus": {
+      "q": [
+        "Hortus Botanicus Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "museum-van-loon": {
+      "q": [
+        "Museum Van Loon Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "foam": {
+      "q": [
+        "Foam fotografiemuseum Amsterdam",
+        "Keizersgracht 609"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "rijksmuseum": {
+      "q": [
+        "Rijksmuseum Amsterdam facade"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "nemo-science-museum": {
+      "q": [
+        "NEMO Science Museum Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "swimming-at-the-marineterrein": {
+      "q": [
+        "Marineterrein zwemmen",
+        "Marineterrein Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "de-hollandsche-manege": {
+      "q": [
+        "Hollandsche Manege"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "reguliersdwarsstraat": {
+      "q": [
+        "Reguliersdwarsstraat"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "paradiso": {
+      "q": [
+        "Paradiso Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "tuschinski": {
+      "q": [
+        "Tuschinski theater"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "the-movies": {
+      "q": [
+        "The Movies Haarlemmerdijk"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "fo-guang-shan-he-hua-temple": {
+      "q": [
+        "Fo Guang Shan He Hua Temple"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "entrepotdok": {
+      "q": [
+        "Entrepotdok Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "ndsm-werf": {
+      "q": [
+        "NDSM-werf Amsterdam",
+        "NDSM Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "picasso-in-the-vondelpark": {
+      "q": [
+        "Picasso Vondelpark",
+        "Figure découpée Picasso Vondelpark"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "a-dam-lookout": {
+      "q": [
+        "A'DAM Toren",
+        "A'DAM Lookout"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "het-stenen-hoofd": {
+      "q": [
+        "Stenen Hoofd Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "marineterrein-and-the-voc-ship": {
+      "q": [
+        "Amsterdam (schip, 1991)",
+        "VOC-schip Amsterdam Scheepvaartmuseum"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "brouwersgracht": {
+      "q": [
+        "Brouwersgracht Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "damrak": {
+      "q": [
+        "Damrak Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "pc-hooftstraat": {
+      "q": [
+        "P.C. Hooftstraat",
+        "PC Hooftstraat Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "condomerie": {
+      "q": [
+        "Condomerie Amsterdam",
+        "Warmoesstraat"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "tony-s-chocolonely-super-store": {
+      "q": [
+        "Oudebrugsteeg Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "antiekcentrum": {
+      "q": [
+        "Antiekcentrum Amsterdam",
+        "Elandsgracht"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "albert-cuypmarkt": {
+      "q": [
+        "Albert Cuypmarkt"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "noordermarkt": {
+      "q": [
+        "Noordermarkt Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "waterlooplein": {
+      "q": [
+        "Waterlooplein market",
+        "Waterlooplein markt"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "bloemenmarkt-flower-market": {
+      "q": [
+        "Bloemenmarkt Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "dappermarkt": {
+      "q": [
+        "Dappermarkt"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "ten-katemarkt": {
+      "q": [
+        "Ten Katemarkt"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "lindengracht": {
+      "q": [
+        "Lindengracht markt",
+        "Lindengracht Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "westerstraat": {
+      "q": [
+        "Westerstraat markt",
+        "Westerstraat Amsterdam"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "nieuwmarkt": {
+      "q": [
+        "Nieuwmarkt Amsterdam Waag"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "ij-hallen": {
+      "q": [
+        "IJ-Hallen",
+        "IJ-hallen NDSM"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    },
+    "poffertjes-at-the-market": {
+      "q": [
+        "poffertjes"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "plattegrond",
+        "map",
+        "kaart"
+      ]
+    }
+  }
+}
