@@ -114,7 +114,7 @@ Open `src/data/tours/en/<tour>.json`:
    met een korte melding — je kunt dus ook een half vertaalde taal al aanzetten.
 
 Arabisch en Hebreeuws worden automatisch van rechts naar links weergegeven.
-Talen met een eigen schrift (Russisch, Chinees, Japans, Grieks…) gebruiken de systeemletters van de telefoon.
+Talen met een eigen schrift (Russisch, Oekraïens, Chinees, Koreaans, Arabisch, Hebreeuws) gebruiken de systeemletters van de telefoon.
 
 ## Nog te doen voordat je live gaat
 
