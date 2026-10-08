@@ -34,7 +34,6 @@ const otherTitles = enabledLocales.filter((l) => l.code !== 'en').map((l) => ({ 
         <li>
           <a href={`/${l.code}/${target}`} lang={l.code} dir={l.dir ?? 'ltr'} data-code={l.code}>
             <span class="picker-name">{l.name}</span>
-            {l.code !== 'en' && <span class="picker-en">{l.english}</span>}
           </a>
         </li>
       ))}
@@ -81,17 +80,15 @@ const otherTitles = enabledLocales.filter((l) => l.code !== 'en').map((l) => ({ 
   .picker-sub { margin: 0 0 .5rem; color: #a9bccb; max-width: 40ch; }
   .picker-list {
     list-style: none; margin: 0; padding: 0; width: min(100%, 520px);
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: .6rem;
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: .5rem;
   }
   .picker-list a {
-    display: grid; gap: .1rem; padding: 1rem .75rem; border-radius: var(--radius);
+    display: grid; place-items: center; min-height: 3.5rem; padding: .75rem .4rem; border-radius: var(--radius);
     background: rgb(255 255 255 / .08); border: 1px solid rgb(255 255 255 / .18);
     color: #fff; text-decoration: none; transition: background .15s;
   }
   .picker-list a:hover, .picker-list a:focus-visible { background: rgb(255 255 255 / .16); }
-  .picker-name { font-size: 1.25rem; font-weight: 600; }
-  .picker-en { font-size: .8rem; color: #a9bccb; }
+  .picker-name { font-size: 1.05rem; font-weight: 600; }
   .suggested { grid-column: 1 / -1; }
-  .suggested a { background: var(--brass); border-color: var(--brass); color: #1b1307; }
-  .suggested .picker-en { color: #3d2a0c; }
+  .suggested a { min-height: 4rem; background: var(--brass); border-color: var(--brass); color: #1b1307; }
 </style>
