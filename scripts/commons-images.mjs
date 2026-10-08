@@ -61,7 +61,7 @@ function toCandidate(page) {
   };
 }
 
-const EXCLUDE = /Bestanddeelnr|Afb 0\d{5}/i;
+const EXCLUDE = /Bestanddeelnr|Afb 0\d{5}|RP-[FPT]-/i; // archief-persfoto's en historische prenten/foto's
 
 function acceptable(c, { allowPortrait = false, exclude = [] } = {}) {
   if (c && (EXCLUDE.test(c.file) || exclude.some((x) => c.file.toLowerCase().includes(x.toLowerCase())))) return false;

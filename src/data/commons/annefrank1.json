@@ -35,10 +35,7 @@
       ]
     },
     "facade-stones": {
-      "q": [
-        "gevelsteen Amsterdam",
-        "gable stone Amsterdam"
-      ]
+      "file": "Gevelsteen Herengracht, afbeelding van een papiermolen.jpg"
     },
     "night-watch": {
       "q": [
@@ -48,9 +45,8 @@
     },
     "spiegelkwartier": {
       "q": [
-        "Spiegelgracht Rijksmuseum",
-        "Spiegelgracht Amsterdam",
-        "Nieuwe Spiegelstraat Amsterdam"
+        "Nieuwe Spiegelstraat Amsterdam",
+        "Spiegelgracht Amsterdam"
       ],
       "exclude": [
         "street sign",
@@ -72,7 +68,7 @@
         "De Duif Amsterdam"
       ],
       "exclude": [
-        "20013589",
+        "RCE",
         "interieur"
       ]
     },
@@ -117,13 +113,15 @@
     },
     "proeverij-van-wees": {
       "q": [
-        "jenever glas",
-        "jenever",
-        "genever"
+        "proeflokaal Amsterdam",
+        "Wynand Fockink",
+        "Herengracht Amsterdam"
       ],
       "exclude": [
-        "Rijksmuseum",
-        "SK-A"
+        "Hortus",
+        "BlogHer",
+        "SK-A",
+        "7174"
       ]
     },
     "huis-bartolotti": {
