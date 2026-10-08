@@ -62,7 +62,7 @@ function toCandidate(page) {
   };
 }
 
-const EXCLUDE = /Bestanddeelnr|Afb 0\d{5}|RP-[FPT]-/i; // archief-persfoto's en historische prenten/foto's
+const EXCLUDE = /Bestanddeelnr|Afb 0\d{5}|Afb ANWR|RP-[FPT]-/i; // archief-persfoto's en historische prenten/foto's
 
 function acceptable(c, { allowPortrait = false, exclude = [] } = {}) {
   if (c && (EXCLUDE.test(c.file) || exclude.some((x) => c.file.toLowerCase().includes(x.toLowerCase())))) return false;
@@ -84,6 +84,18 @@ async function choose(spec) {
   if (spec.file) {
     const c = (await byFile(spec.file))[0];
     return { chosen: acceptable(c, { allowPortrait: true }) ? c : null, alternatives: [], note: c ? `licentie: ${c.license}` : 'bestand niet gevonden' };
+  }
+  // 'all': alle zoektermen doorzoeken en tot 12 alternatieven tonen (om rustig te kunnen kiezen)
+  if (spec.all) {
+    const seen = new Set(), ok = [];
+    for (const q of spec.q ?? []) {
+      for (const c of await search(q)) {
+        if (seen.has(c.file) || !acceptable(c, { exclude: spec.exclude ?? [], allowPortrait: Boolean(spec.portrait) })) continue;
+        seen.add(c.file); ok.push(c);
+      }
+      await sleep(300);
+    }
+    return { chosen: ok[spec.pick ?? 0] ?? ok[0] ?? null, alternatives: ok.slice(0, 12), query: (spec.q ?? []).join(' / ') };
   }
   for (const q of spec.q ?? []) {
     const ok = (await search(q)).filter((c) => acceptable(c, { exclude: spec.exclude ?? [], allowPortrait: Boolean(spec.portrait) }));
