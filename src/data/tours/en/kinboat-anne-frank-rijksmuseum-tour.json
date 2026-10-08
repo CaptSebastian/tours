@@ -1,0 +1,168 @@
+{
+  "title": "KINBoat Anne Frank Rijksmuseum Tour",
+  "menuTitle": "Anne Frank Rijksmuseum Tour",
+  "order": 5,
+  "card": {
+    "title": "KINBoat Rijksmuseum Tour",
+    "text": "Choose your favourite language in the menu and enjoy the tour.",
+    "image": "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/kta4mzl4fhu0psoguah2.jpg"
+  },
+  "stops": [
+    {
+      "id": "anne-frank-house",
+      "number": 1,
+      "title": "Anne Frank House",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Bastion-Hotels-Anne-Frank-Huis.jpg"
+      ],
+      "body": "<p>The Anne Frank House is where Anne Frank wrote her famous diary while hiding from the Nazis during World War II. The secret annex where she lived has since become a museum, attracting visitors from around the world who seek to learn about her life and the history of the Holocaust.</p>"
+    },
+    {
+      "id": "de-wester",
+      "number": 2,
+      "title": "De Wester",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/1000_F_251209732_VKJBAxYt9VKdadVXqnGPb8Fd11XTqh9B.jpg"
+      ],
+      "body": "<p>The Westerkerk was completed in 1631 and is known for its tower, about 85 meters tall, the highest church tower in the city. Rembrandt was buried here in 1669, in an unmarked grave.</p><p>While hiding in the Secret Annex nearby, Anne Frank could hear the bells of the Westertoren. She wrote in her diary how much comfort they gave her.</p>"
+    },
+    {
+      "id": "the-canal-ring",
+      "number": 3,
+      "title": "The Canal Ring",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/3f3s9rakzfx11-e1742940448787.jpg"
+      ],
+      "body": "<p>The VOC (Dutch East India Company) was a trading company that played a major role in Amsterdam’s Golden Age, and the canal ring is a unique system of <strong>concentric canals</strong> from the 17th century that was built during Amsterdam’s largest expansion. These two elements are closely connected because the wealth from VOC trade directly contributed to the construction and development of the canal ring, where rich merchants built their impressive houses.</p>"
+    },
+    {
+      "id": "high-and-dry",
+      "number": 4,
+      "title": "High and dry",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/amsterdam-holland-netherlands-building-attic-where-were-stored-goods-with-hook-rope-view_771335-2850.avif"
+      ],
+      "body": "<p>The VOC primarily traded in spices and other valuable goods from Asia, which were stored in the warehouses of merchant houses along Amsterdam’s canals. These warehouses were specially designed with large attics and <strong>hoisting beams</strong> on their facades to store the precious trade goods ‘high and dry’.</p>"
+    },
+    {
+      "id": "the-houseboat-museum",
+      "number": 5,
+      "title": "The Houseboat Museum",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Houseboatmuseum-exterior-scaled-1-1024x576.jpg"
+      ],
+      "body": "<p>Amsterdam has around 2,500 houseboats. People have lived on boats here for a long time, but houseboats really took off after the Second World War, as a solution to the housing shortage. In this museum, a former cargo ship from 1914, you can see what life on the water is like.</p>"
+    },
+    {
+      "id": "spiegelkwartier",
+      "number": 6,
+      "title": "Spiegelkwartier",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/43998381312_a84fe1fc41_o-1024x682-1.jpg"
+      ],
+      "body": "<p>Nice neighborhood offering quality shopping experience in typical Amsterdam old town setting. Good selection of art, antique, vintage shops, as well as pubs and restaurants. Makes for nice strolling and browsing.</p>"
+    },
+    {
+      "id": "rijksmuseum",
+      "number": 7,
+      "title": "Rijksmuseum",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/kta4mzl4fhu0psoguah2.jpg"
+      ],
+      "body": "<p>The Rijksmuseum was founded in 1800 and is renowned for its collection of Dutch Golden Age paintings, including works by Rembrandt and Vermeer.</p>"
+    },
+    {
+      "id": "night-watch",
+      "number": 8,
+      "title": "Night Watch",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/SK-C-5-copy.webp"
+      ],
+      "caption": "Rembrandt van Rijn: The Night Watch, 1642, oil on canvas. Photo: courtesy Rijksmuseum, Amsterdam",
+      "body": "<p>Without a doubt, <em>Night Watch</em>, by Dutch Golden Age painter Rembrandt Harmenszoon van Rijn (1606–1669), is the heart of the Rijksmuseum. Not only is it the museum’s largest and most important work, but the entire collection is literally built around it, with the Night Watch Gallery at the core of the museum opening into the Gallery of Honor. This enormous, true-to-life-size painting is famed for its dramatic play of light and shadow as well for being an innovative portrayal of a group in motion rather than a static military scene.</p>"
+    },
+    {
+      "id": "van-gogh-museum",
+      "number": 9,
+      "title": "Van Gogh Museum",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/12.jpg"
+      ],
+      "body": "<p>The Van Gogh Museum houses the largest collection of Vincent van Gogh’s paintings and drawings, showcasing over 200 paintings and 500 drawings by the artist.</p>"
+    },
+    {
+      "id": "paradiso",
+      "number": 10,
+      "title": "Paradiso",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Paradiso_Amsterdam-678x381-1.jpg"
+      ],
+      "body": "<p>Paradiso in Amsterdam is also known as a temple of pop music. When asked which famous bands have ever performed at Paradiso, there’s only one answer possible: which bands haven’t performed there? UB40, David Bowie, Nirvana, The Police, Metallica, Prince, Red Hot Chili Peppers, and the Rolling Stones. All these bands and artists have performed at Paradiso at some point.</p>"
+    },
+    {
+      "id": "casino",
+      "number": 11,
+      "title": "Casino",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/holland-casino-amsterdam.jpg"
+      ],
+      "body": "<p>Gambling was long illegal in the Netherlands. In 1976 Holland Casino opened the country’s first legal casino in Zandvoort, so the state could regulate and supervise gaming. The Amsterdam casino here near Leidseplein is now the largest in the country.</p>"
+    },
+    {
+      "id": "the-vondelpark",
+      "number": 12,
+      "title": "The Vondelpark",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/49a2b657ba44478bd5bee7432dd93eaa_700_540.jpg"
+      ],
+      "body": "<p>The Vondelpark, opened in 1865, was named after Dutch playwright Joost van den Vondel. The park features an authentic Pablo Picasso sculpture “in the wild.” Picasso donated this statue to the city to affirm his good friendship with Willem Sandberg, the former director of the Stedelijk Museum.</p>"
+    },
+    {
+      "id": "singelgracht",
+      "number": 13,
+      "title": "Singelgracht",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/bolwerk4.jpg"
+      ],
+      "body": "<p>The Singelgracht was the outermost canal of Amsterdam, where a series of bulwarks (defensive structures) were located that were part of the city walls. These fortifications formed an important part of Amsterdam’s historical city defense.</p>"
+    },
+    {
+      "id": "facade-stones",
+      "number": 14,
+      "title": "Facade stones",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/1024px-gevelsteen_met_afbeelding_van_schip_-_medemblik_-_20333433_-_rce_0.jpg"
+      ],
+      "body": "<p>These facade stones served as orientation points for the seventeenth-century residents of the Dutch city. The small artistic works showed where the baker sold his breads and where you could go for shoe repairs.</p>"
+    },
+    {
+      "id": "de-herengracht",
+      "number": 15,
+      "title": "De Herengracht",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.20.03.png"
+      ],
+      "body": "<p>We are now sailing on the Herengracht, part of the prestigious expansion of the city in the early 17th century. This stretch runs from the Leidsegracht to the Amstel, and here you mainly see very large buildings: the city council only issued large plots here, to attract the rich merchant families.</p><p><strong>Popular story:</strong> taxes were said to be based on the width of the house and the number of windows, and even a double staircase was taxed extra. Guides love to tell it, but historians doubt it; the high price of land along the canal is the more likely reason most houses are so narrow.</p>"
+    },
+    {
+      "id": "proeverij-van-wees",
+      "number": 16,
+      "title": "Proeverij Van Wees",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/medium_Proeflokaal_2_0fc85bbe3b.jpg"
+      ],
+      "body": "<p>At this former distillery, you can enjoy traditional jenever (Dutch gin—older and better!), beer, and their famous fondue or bitterballen. The Nine Streets area offers a cozy atmosphere with its lively mix of tourists and locals.</p>"
+    },
+    {
+      "id": "huis-bartolotti",
+      "number": 17,
+      "title": "Huis Bartolotti",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Amsterdam-Huis-Bartolotti-foto-Arjan-Bronkhorst-5_13.jpg"
+      ],
+      "body": "<p>The Bartolotti House was built around 1617 for Willem van den Heuvel tot Beichlingen, one of the wealthiest Amsterdammers of that time, who had inherited a fortune from a childless uncle by marriage, Giovanni Battista Bartolotti, a merchant from Bologna. The design is attributed to Hendrick de Keyser, the same architect who crowned the Montelbaanstoren.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">More about the Bartolotti House</a></p>"
+    }
+  ],
+  "endImage": "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/96.jpg",
+  "reviewUrl": "https://www.tripadvisor.nl/UserReviewEdit-g188590-d24129377-Amsterdam_Canal_Cruise_in_Open_Boat_with_Unlimited_Drinks_Option-Amsterdam_North_Holland_Pr.html"
+}

@@ -1,0 +1,338 @@
+{
+  "categories": {
+    "coffee": {
+      "name": "Koffie en lunch"
+    },
+    "dutch": {
+      "name": "Hollands eten"
+    },
+    "bitterballen": {
+      "name": "Bitterballen",
+      "note": "Een selectie uit twee lijsten. Wat de beste is, is een kwestie van smaak."
+    },
+    "fine": {
+      "name": "Chique eten",
+      "note": "Proefmenu's kosten ongeveer €100-250 p.p. Reserveer minimaal twee weken van tevoren. Kleding: smart casual."
+    },
+    "view": {
+      "name": "Casual eten met uitzicht"
+    },
+    "indo": {
+      "name": "Indonesisch"
+    },
+    "chicken": {
+      "name": "Kip"
+    },
+    "zeedijk": {
+      "name": "Zeedijk"
+    },
+    "shopping": {
+      "name": "Winkelen"
+    },
+    "markets": {
+      "name": "Markten",
+      "note": "De tijden komen uit losse bronnen. Check ze voordat je gaat."
+    },
+    "special": {
+      "name": "Bijzondere plekken en musea"
+    },
+    "out": {
+      "name": "Uitgaan en film"
+    },
+    "cafes": {
+      "name": "Typisch Amsterdamse cafés"
+    },
+    "sunset": {
+      "name": "Zonsondergang en foto's"
+    }
+  },
+  "items": {
+    "de-koffieschenkerij": {
+      "text": "Dagelijks 9-18 uur. Koffie en gebak in de voormalige sacristie van de Oude Kerk, met een verborgen binnenplaats."
+    },
+    "cafe-winkel-43": {
+      "text": "Beroemd om de appeltaart, met een terras op de markt bij de Noorderkerk. Niet reserveren, gewoon aanschuiven."
+    },
+    "rudi-s-original-stroopwafels": {
+      "text": "Vers gebakken stroopwafels uit een foodtruck op de markt, met een geheim recept uit Gouda. Geen toeristenwinkel met ballonnen."
+    },
+    "de-laatste-kruimel": {
+      "text": "Gezellig café voor ontbijt en lunch met broodjes, quiche en huisgemaakte limonade. Klein terras aan de gracht."
+    },
+    "cafe-americain": {
+      "text": "Klassiek grand café in het American Hotel, met art-decointerieur uit 1928, Tiffany-lampen en een terras op het plein. Koffie, lunch, high tea en diner."
+    },
+    "the-kitchen-at-de-bijenkorf": {
+      "text": "Bovenin het warenhuis. Koffie met een taartje, met uitzicht over de stad en een klein terras. Check de openingstijden vooraf, de bronnen verschillen.",
+      "name": "The Kitchen in de Bijenkorf"
+    },
+    "restaurant-moeders": {
+      "text": "Ma-vr 17-22 uur, za-zo 16.30-22 uur. Stamppot, suddervlees en wentelteefjes. Reserveer ruim van tevoren."
+    },
+    "de-blauwe-hollander": {
+      "text": "Grote porties stamppot."
+    },
+    "heertje-friet": {
+      "text": "Bij de Negen Straatjes. Volgens mij de beste friet van de stad: vers en handgesneden, met saus naar keuze (joppie, oorlog, frietsaus). Zitplaatsen, ook buiten aan de gracht. Dagelijks 11-20 uur."
+    },
+    "febo": {
+      "text": "De klassieke snackmuur voor 's nachts: kroket, frikandel of satékroket uit het luikje. Open tot laat in de nacht, check de tijden vooraf."
+    },
+    "stubbe-s-haring": {
+      "text": "Bij de Haarlemmersluis. Haringstalletje al meer dan honderd jaar. Hollandse Nieuwe met ui en zure komkommer, of als broodje. Staan en eten, geen zitplaatsen. Check de openingstijden vooraf."
+    },
+    "vishuisje-simon-en-simon": {
+      "text": "Klein haringstalletje op de brug over de Prinsengracht, gerund door vader en zoon. Goed broodje haring volgens bezoekers en buurtbewoners. Check de openingstijden vooraf."
+    },
+    "proeflokaal-a-van-wees": {
+      "text": "Historisch proeflokaal met bitterballen van wild zwijn, tijgergarnaal, klassiek rundvlees en een vegetarische variant met champignon en aubergine. Ook de plek om heel goed jenever te proeven."
+    },
+    "cafe-luxembourg": {
+      "text": "Beroemd café met drie bekroonde bitterballen: rundvlees, garnaal en Hollandse kaas."
+    },
+    "eetsalon-van-dobben": {
+      "text": "Snackbar sinds 1945, die bitterballen ook aan andere cafés levert."
+    },
+    "cafe-de-tuin": {
+      "text": "Bruin café in de Jordaan met de traditionele bitterbal van rundvleesragout."
+    },
+    "flore": {
+      "text": "In Hotel De L'Europe, aan de Amstel. Voorheen Bord'Eau. Chef Bas van Kranen, twee Michelinsterren."
+    },
+    "vinkeles": {
+      "text": "Twee Michelinsterren in een verzonken 18e-eeuws bakkerspand. Alleen diner, di-za 19-22 uur."
+    },
+    "rijks": {
+      "text": "In het Rijksmuseum. Chef Joris Bijdendijk werd in 2025 uitgeroepen tot beste chef van het jaar."
+    },
+    "de-kas": {
+      "text": "In Frankendael. Michelinster en groene ster, biologisch, in een kas."
+    },
+    "lars": {
+      "text": "In de Houthavens. Michelinster."
+    },
+    "showw": {
+      "text": "Michelinster."
+    },
+    "more-at-de-l-europe": {
+      "text": "Hoofdstad Brasserie (lichter), Hèt Terras (groot terras aan de Amstel), Freddy's Bar en Chapter 1896 (cocktails met uitzicht op de Amstel).",
+      "name": "Meer in De L'Europe"
+    },
+    "the-duchess": {
+      "text": "Tegenover Hotel W. Franse en Italiaanse brasserie (€€€) in een voormalige bankhal in Belle Époque-stijl, met donker marmer, kroonluchters en een open keuken. Beroemd om de beef Wellington. Ma-do 17-1 uur, vr-za 12-2 uur, zo 12-1 uur. Reserveren via +31 20 811 3322. In het weekend is er high tea."
+    },
+    "de-silveren-spiegel": {
+      "text": "Creatief Frans (€€€) in twee trapgevelhuizen uit 1614, met open haard, kaarslicht en veel natuurwijn. Staat in de Michelin-gids, zonder ster. Di-do 18-23 uur, vr-za 12.30-22 uur, zo en ma gesloten."
+    },
+    "ron-gastrobar": {
+      "text": "Bij het Vondelpark. Gastrobar van chef Ron Blaauw: kwaliteit zonder de formaliteit, met kleine gerechten om te delen, rijpe steaks en vis."
+    },
+    "toscanini": {
+      "text": "In de Jordaan. Authentiek Italiaans sinds 1985, met een open keuken, seizoensgebonden regionale gerechten en eigen brood. Moeilijk te boeken, dus reserveer ruim van tevoren."
+    },
+    "mr-porter": {
+      "text": "In het penthouse van Hotel W. Steakhouse en cocktailbar met dry-aged vlees en een dakterras met uitzicht over de Dam en de Negen Straatjes. Recensenten prijzen de grass-fed steaks, het courgettecarpaccio en de chocoladefondant."
+    },
+    "pllek": {
+      "text": "Amsterdam-Noord, bij de NDSM-werf (met de pont over het IJ). Biologisch en duurzaam restaurant in een rauwe industriële setting, met een stadsstrand en uitzicht over het IJ."
+    },
+    "de-belhamel": {
+      "text": "Op de hoek met de Herengracht. Seizoensgebonden Nederlandse keuken met mediterrane invloeden, in een Art Nouveau-interieur met uitzicht over de grachten. Een rustige plek weg van de drukte."
+    },
+    "hannekes-boom": {
+      "text": "Vlak bij het Centraal Station. Rustiek café van gerecycled materiaal met een groot terras aan het water, met lokale en biologische producten."
+    },
+    "kartika": {
+      "text": "Rijsttafel, al tientallen jaren, ook vegetarisch."
+    },
+    "mama-makan": {
+      "text": "Indonesische klassiekers, modern."
+    },
+    "restaurant-max": {
+      "text": "Rijsttafel in de Grachtengordel met traditionele, fusion- en mildere varianten. Bekend om de goede service en een wijnkaart die bij de Indonesische keuken past."
+    },
+    "tempo-doeloe": {
+      "text": "Een van de bekendste rijsttafels van de stad, pittig en met witte tafellakens. Alleen diner."
+    },
+    "van-t-spit": {
+      "text": "Ook aan de Frans Halsstraat 42. Kip van het spit."
+    },
+    "bierfabriek": {
+      "text": "Piri-pirikip en ribbetjes."
+    },
+    "ladybird-fried-chicken": {
+      "text": "In De Pijp."
+    },
+    "kip-n-drip-kid": {
+      "text": "In De Pijp. Volgens veel mensen de beste kipburger van Amsterdam."
+    },
+    "chris-kip": {
+      "text": "Sinds 1928, biologisch."
+    },
+    "in-t-aepjen": {
+      "text": "Een van de twee overgebleven houten huizen van Amsterdam (ca. 1475-1550). Jenever en bier. Zo-do 12-1 uur, vr-za 12-3 uur."
+    },
+    "bird": {
+      "text": "Authentiek Thais sinds 1998, vaak een rij voor de deur."
+    },
+    "fo-guang-shan-he-hua-temple": {
+      "text": "Grootste Chinese tempel van het Europese vasteland. Gratis toegang, schoenen uit. Di-za 12-17 uur, zo 10-17 uur, ma gesloten.",
+      "name": "Fo Guang Shan He Hua Tempel"
+    },
+    "trees": {
+      "text": "Sfeervol restaurant in een historisch hoekpand."
+    },
+    "amsterdamsche-vishandel-anno-1938": {
+      "text": "Klassieke viswinkel."
+    },
+    "fromagerie-abraham-kef": {
+      "text": "Kaaswinkel sinds de jaren '50, ook wijn en delicatessen. Vaak een rij."
+    },
+    "de-amsterdamse-muis": {
+      "text": "Vintage decor, Delfts blauw en cadeautjes. Di-za 11-18 uur."
+    },
+    "antiekcentrum": {
+      "text": "In de Jordaan. De grootste overdekte antiekmarkt van Nederland, 55 dealers. Gratis toegang."
+    },
+    "alladin-s-notenhoek": {
+      "text": "Oud-West (niet in het centrum). Familiebedrijf waar de voormalige koningin haar noten kocht."
+    },
+    "tony-s-chocolonely-super-store": {
+      "text": "Vlak bij het Damrak, ca. 5 minuten lopen van Centraal Station. Dagelijks 10-19 uur, gratis toegang. Maak je eigen reep, proef de repen en leer over het cacao-probleem. Klein, vaak een rij, steile trappen en niet toegankelijk voor rolstoelen."
+    },
+    "albert-cuypmarkt": {
+      "text": "De Pijp. Ma-za 9-18 uur. Met 260 kramen de grootste dagelijkse markt van Europa: groente, kleding, bloemen, haring en verse stroopwafels."
+    },
+    "noordermarkt": {
+      "text": "Jordaan. Ma 9-13 uur (rommelmarkt en stoffen), za 9-16 uur (biologische boerenmarkt)."
+    },
+    "waterlooplein": {
+      "text": "Ma-za overdag. Rommelmarkt met vintage kleding, antiek en spullen."
+    },
+    "bloemenmarkt-flower-market": {
+      "text": "Ma-za van ca. 9 tot 17.30 uur, zo 11-17.30 uur.",
+      "name": "Bloemenmarkt"
+    },
+    "dappermarkt": {
+      "text": "Oost. Ma-za 9-17 uur. Eten uit alle windstreken, kleding en huishoudspullen."
+    },
+    "ten-katemarkt": {
+      "text": "Oud-West. Ma-za."
+    },
+    "lindengracht": {
+      "text": "Jordaan. Alleen zaterdag."
+    },
+    "westerstraat": {
+      "text": "Jordaan. Alleen maandag. Stoffen, kleding en schoenen."
+    },
+    "nieuwmarkt": {
+      "text": "Za biologische boerenmarkt, zo antiekmarkt van mei t/m september."
+    },
+    "ij-hallen": {
+      "text": "Noord. Rommelmarkt, één weekend per maand."
+    },
+    "poffertjes-at-the-market": {
+      "text": "Volgens één bron staat de kraam Amsterdamse Poffertjes op de Noordermarkt (za) en soms op de Albert Cuypmarkt (ma, di, do). Check dat.",
+      "name": "Poffertjes op de markt"
+    },
+    "kattenkabinet": {
+      "text": "Kunstmuseum over katten in een grachtenpand uit 1667, met echte katten. Di-zo 12-17 uur."
+    },
+    "hortus-botanicus": {
+      "text": "Botanische tuin sinds 1638, met een vlinderhuis. Dagelijks 10-17 uur."
+    },
+    "museum-van-loon": {
+      "text": "Grachtenpand uit 1672 met tuin en koetshuis. Wo-zo 10-17 uur, ma en di gesloten."
+    },
+    "foam": {
+      "text": "Fotografiemuseum, vlak naast Van Loon. Dagelijks 10-18 uur, do-vr tot 21 uur."
+    },
+    "rijksmuseum": {
+      "text": "Dagelijks 9-17 uur. Bijzonder: de openbare fietsdoorgang onder het museum door."
+    },
+    "entrepotdok": {
+      "text": "19e-eeuwse pakhuizen, nu woningen en woonboten, naast Artis. Altijd toegankelijk en gratis."
+    },
+    "ndsm-werf": {
+      "text": "Voormalige scheepswerf in Amsterdam-Noord. Neem de pont (lijn F3) vanaf Centraal Station: gratis voor voetgangers en fietsers, minstens twee keer per uur."
+    },
+    "reguliersdwarsstraat": {
+      "text": "Bij het Rembrandtplein. Bekende LGBTQ+-straat, met in 1963 de eerste homobar."
+    },
+    "picasso-in-the-vondelpark": {
+      "text": "Het beeld \"Figure découpée / l'Oiseau\" (1965), door Amsterdammers \"de Vis\" genoemd. Picasso schonk het aan de stad voor het 100-jarig bestaan van het park, uit vriendschap met Willem Sandberg.",
+      "name": "Picasso in het Vondelpark"
+    },
+    "a-dam-lookout": {
+      "text": "Uitkijktoren met 360 graden uitzicht, te bereiken met de gratis pont vanaf Centraal Station. Het hoogtepunt is de schommel Over The Edge: je zwaait op bijna 100 meter hoogte over de rand van het dak."
+    },
+    "swimming-at-the-marineterrein": {
+      "text": "Zwemmen in de binnenhaven met uitzicht op het Scheepvaartmuseum en NEMO, in het centrum. Vrij toegankelijk.",
+      "name": "Zwemmen op het Marineterrein"
+    },
+    "kuuma-sauna": {
+      "text": "Aan de steigers. Houtgestookte sauna aan het water, die je per tijdslot huurt, alleen of met een groep. Reserveren via kuuma.nl."
+    },
+    "pension-homeland": {
+      "text": "Eigen brouwerij met meer dan tien zelfgebrouwen bieren, café, restaurant en zonnig terras, in de voormalige officiersmess."
+    },
+    "entr-vr-museum": {
+      "text": "Vlak bij de OBA en Centraal Station. Het eerste VR-museum van Nederland. In \"Amsterdam 1652\" loop je samen met anderen door een nagebouwd 17e-eeuws Amsterdam. Tickets vanaf €18, vooraf reserveren."
+    },
+    "proeflokaal-t-arendsnest": {
+      "text": "Café met alleen Nederlands bier: 52 Nederlandse bieren van de tap en flessen, van witbier tot stout en IPA."
+    },
+    "coffeeshop-siberie": {
+      "text": "Coffeeshop in een omgebouwde garage met kaarsen, grote houten tafels, spelletjes en in het weekend een live dj. Alleen 18+."
+    },
+    "het-stenen-hoofd": {
+      "text": "Voormalige havenpier uit 1902, nu een publiek park aan het IJ en een populaire plek om je hond uit te laten. Vrij toegankelijk."
+    },
+    "boom-chicago": {
+      "text": "Amerikaans cabaret met een Nederlands tintje: improvisatie en sketches in het Engels. Check de speeldagen op boomchicago.nl."
+    },
+    "de-hollandsche-manege": {
+      "text": "Neoclassicistische rijhal uit 1882 met een openbaar café-restaurant waar je de ruiters kunt zien."
+    },
+    "vrog": {
+      "text": "Binnenspeeltuin voor trampolinespringen, parkour en dans in een voormalige autotunnel bij het Waterlooplein. Leuk met kinderen, ook voor peuters."
+    },
+    "nemo-science-museum": {
+      "text": "Wetenschapsmuseum voor jong en oud met experimenten, workshops en een dakterras met uitzicht over de stad."
+    },
+    "klimmuur-amsterdam-centraal": {
+      "text": "Grote klimhal bij het Centraal Station met boulderwanden en klimroutes (8 en 16 meter). Voor kinderen en volwassenen, met proeflessen."
+    },
+    "paradiso": {
+      "text": "Concerten en feesten in een voormalige kerk bij het Leidseplein."
+    },
+    "bitterzoet": {
+      "text": "Club en podium voor elke muziekstijl."
+    },
+    "tuschinski": {
+      "text": "Prachtige art-decobioscoop, de moeite waard om binnen te kijken."
+    },
+    "the-movies": {
+      "text": "Kleine art-decobioscoop met donker lakwerk, volgens de VVV de oudste van Amsterdam."
+    },
+    "cafe-papeneiland": {
+      "text": "Op de hoek met de Brouwersgracht. Een van de oudste cafés van de stad (1642), met Delftse tegels en beroemd om de appeltaart."
+    },
+    "cafe-t-smalle": {
+      "text": "Traditioneel bruin café in een voormalige distilleerderij uit 1780, met terras aan de gracht."
+    },
+    "cafe-de-prins": {
+      "text": "Gezellig café bij de Westerkerk, bekend om de kaarsen en de poffertjes."
+    },
+    "marineterrein-and-the-voc-ship": {
+      "text": "Aan het water bij het Marineterrein, met de replica van het VOC-schip Amsterdam bij het Scheepvaartmuseum vlakbij.",
+      "name": "Marineterrein en het VOC-schip"
+    },
+    "brouwersgracht": {
+      "text": "Hoek Herengracht en Prinsengracht. Hier komen de drie grachten samen."
+    },
+    "damrak": {
+      "text": "In de namiddag. Mooi licht op de gevels."
+    }
+  }
+}

@@ -1,0 +1,90 @@
+---
+// Taalkeuzescherm. Hier komen gasten binnen via een QR-code of korte link.
+// - Staat er maar één taal aan, dan gaat het meteen door.
+// - Heeft iemand eerder een taal gekozen, dan gaat het ook meteen door (?choose toont de keuze toch).
+// - Anders: grote knoppen, de taal van de telefoon staat bovenaan.
+import Base from '../layouts/Base.astro';
+import { enabledLocales, defaultLocale } from '../i18n/locales';
+import { site } from '../site';
+
+interface Props {
+  /** Pad achter de taal, bv. 'central-station-tour-1/', 'tips/' of '' (home) */
+  target: string;
+  /** Naam van de bestemming, in het Engels (bv. tournaam) */
+  heading?: string;
+}
+const { target, heading } = Astro.props;
+const codes = enabledLocales.map((l) => l.code);
+---
+<Base bare title={heading}>
+  <div class="picker" data-target={target} data-codes={codes.join(',')} data-default={defaultLocale}>
+    <img class="picker-logo" src={site.logo} alt={site.name} />
+    {heading && <p class="picker-dest">{heading}</p>}
+    <h1 class="picker-title">
+      Choose your language
+    </h1>
+    <ul class="picker-list">
+      {enabledLocales.map((l) => (
+        <li>
+          <a href={`/${l.code}/${target}`} lang={l.code} dir={l.dir ?? 'ltr'} data-code={l.code}>
+            <span class="picker-name">{l.name}</span>
+            {l.code !== 'en' && <span class="picker-en">{l.english}</span>}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>
+
+<script>
+  const el = document.querySelector<HTMLElement>('.picker')!;
+  const target = el.dataset.target ?? '';
+  const codes = (el.dataset.codes ?? '').split(',');
+  const go = (code: string) => location.replace(`/${code}/${target}`);
+  const choose = new URLSearchParams(location.search).has('choose');
+
+  let saved: string | null = null;
+  try { saved = localStorage.getItem('lang'); } catch {}
+
+  if (codes.length === 1) go(codes[0]);
+  else if (!choose && saved && codes.includes(saved)) go(saved);
+  else {
+    // Zet de taal van de telefoon bovenaan en markeer hem.
+    const prefs = (navigator.languages ?? [navigator.language]).map((l) => l.toLowerCase().split('-')[0]);
+    const best = prefs.find((p) => codes.includes(p));
+    if (best) {
+      const li = el.querySelector(`[data-code="${best}"]`)?.closest('li');
+      if (li) { li.parentElement!.prepend(li); li.classList.add('suggested'); }
+    }
+    el.addEventListener('click', (e) => {
+      const a = (e.target as HTMLElement).closest<HTMLAnchorElement>('[data-code]');
+      if (a) { try { localStorage.setItem('lang', a.dataset.code!); } catch {} }
+    });
+  }
+</script>
+
+<style>
+  .picker {
+    min-height: 100dvh; display: grid; align-content: center; justify-items: center;
+    gap: 1rem; padding: 2rem 16px; text-align: center;
+    background: linear-gradient(160deg, var(--canal) 0%, var(--canal-2) 100%); color: #fff;
+  }
+  .picker-logo { height: 56px; width: auto; }
+  .picker-dest { margin: 0; color: var(--brass); font-weight: 600; letter-spacing: .08em; text-transform: uppercase; font-size: .8rem; }
+  .picker-title { margin: 0 0 .5rem; font-size: clamp(1.6rem, 6vw, 2.4rem); }
+  .picker-list {
+    list-style: none; margin: 0; padding: 0; width: min(100%, 520px);
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: .6rem;
+  }
+  .picker-list a {
+    display: grid; gap: .1rem; padding: 1rem .75rem; border-radius: var(--radius);
+    background: rgb(255 255 255 / .08); border: 1px solid rgb(255 255 255 / .18);
+    color: #fff; text-decoration: none; transition: background .15s;
+  }
+  .picker-list a:hover, .picker-list a:focus-visible { background: rgb(255 255 255 / .16); }
+  .picker-name { font-size: 1.25rem; font-weight: 600; }
+  .picker-en { font-size: .8rem; color: #a9bccb; }
+  .suggested { grid-column: 1 / -1; }
+  .suggested a { background: var(--brass); border-color: var(--brass); color: #1b1307; }
+  .suggested .picker-en { color: #3d2a0c; }
+</style>

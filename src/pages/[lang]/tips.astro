@@ -1,0 +1,99 @@
+---
+import Base from '../../layouts/Base.astro';
+import { localeParams } from '../../i18n/locales';
+import { t } from '../../i18n/ui';
+import { getTips } from '../../lib/content';
+
+export function getStaticPaths() {
+  return localeParams();
+}
+
+const { lang } = Astro.params as { lang: string };
+const { categories, items, fallback } = getTips(lang);
+// De kaartlink gebruikt altijd de oorspronkelijke naam + adres, zodat Google Maps de plek
+// ook vindt als de naam in een andere taal of ander schrift is weergegeven.
+const mapUrl = (name: string, address: string) =>
+  'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(`${name}, ${address}, Amsterdam`);
+---
+<Base title={t(lang, 'tips.title')} description={t(lang, 'promo.text')} lang={lang} path="tips/">
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Captain Sebastian</p>
+      <h1>{t(lang, 'tips.title')}</h1>
+      <p class="lead">{t(lang, 'tips.lead')}</p>
+    </div>
+  </section>
+
+  {fallback && <p class="wrap notice">{t(lang, 'tips.fallback')}</p>}
+
+  <div class="tips-bar">
+    <div class="wrap tips-bar-inner">
+      <input type="search" id="tips-q" placeholder={t(lang, 'tips.search')} aria-label={t(lang, 'tips.search')} />
+      <div class="chips" id="tips-chips">
+        <button type="button" class="chip" data-c="" aria-pressed="true">{t(lang, 'tips.all')}</button>
+        {categories.map((c) => (
+          <button type="button" class="chip" data-c={c.key} aria-pressed="false">{c.name}</button>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap tips-list">
+    {categories.map((c) => {
+      const rows = items.filter((i) => i.cat === c.key);
+      return (
+        <section class="tip-cat" data-cat={c.key}>
+          <h2>{c.name} <small class="count">{rows.length}</small></h2>
+          {c.note && <p class="muted small">{c.note}</p>}
+          <ul>
+            {rows.map((i) => (
+              <li class="tip" data-search={`${i.name} ${i.address} ${i.text}`.toLowerCase()}>
+                <div>
+                  <p class="tip-name">{i.name}</p>
+                  <p class="tip-addr">{i.address}</p>
+                  <p class="tip-text">{i.text}</p>
+                </div>
+                <a class="tip-map" href={mapUrl(i.place, i.address)} target="_blank" rel="noopener">{t(lang, 'tips.map')}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      );
+    })}
+    <p class="tips-empty muted" hidden>{t(lang, 'tips.none')}</p>
+  </div>
+</Base>
+
+<script>
+  const q = document.getElementById('tips-q') as HTMLInputElement;
+  const chips = document.getElementById('tips-chips')!;
+  const empty = document.querySelector<HTMLElement>('.tips-empty')!;
+  let cat = '';
+
+  function filter() {
+    const needle = q.value.trim().toLowerCase();
+    let shown = 0;
+    document.querySelectorAll<HTMLElement>('.tip-cat').forEach((sec) => {
+      let n = 0;
+      const catOk = !cat || sec.dataset.cat === cat;
+      sec.querySelectorAll<HTMLElement>('.tip').forEach((li) => {
+        const ok = catOk && (!needle || li.dataset.search!.includes(needle));
+        li.hidden = !ok;
+        if (ok) n++;
+      });
+      sec.hidden = n === 0;
+      sec.querySelector('.count')!.textContent = String(n);
+      shown += n;
+    });
+    empty.hidden = shown > 0;
+  }
+
+  chips.addEventListener('click', (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLButtonElement>('button');
+    if (!b) return;
+    cat = b.dataset.c ?? '';
+    chips.querySelectorAll('button').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+    filter();
+  });
+  q.addEventListener('input', filter);
+</script>

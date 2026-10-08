@@ -1,0 +1,68 @@
+---
+import { site } from '../site';
+import { enabledLocales } from '../i18n/locales';
+import { t } from '../i18n/ui';
+import { getTours } from '../lib/content';
+
+interface Props { lang: string; path: string }
+const { lang, path } = Astro.props;
+const tours = getTours(lang);
+const here = Astro.url.pathname.replace(/\/?$/, '/');
+---
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a href={`/${lang}/`} class="logo" aria-label={site.name}>
+      <img src={site.logo} alt={site.name} height="44" />
+    </a>
+
+    <nav aria-label="Menu">
+      <details class="menu">
+        <summary>{t(lang, 'nav.tours')}</summary>
+        <ul>
+          {tours.map((tour) => (
+            <li>
+              <a href={`/${lang}/${tour.slug}/`} aria-current={here === `/${lang}/${tour.slug}/` ? 'page' : undefined}>
+                {tour.menuTitle}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </details>
+
+      <a href={`/${lang}/tips/`} class="nav-link" aria-current={here === `/${lang}/tips/` ? 'page' : undefined}>
+        {t(lang, 'nav.tips')}
+      </a>
+
+      {enabledLocales.length > 1 && (
+        <details class="menu">
+          <summary aria-label={t(lang, 'nav.language')}>{lang.toUpperCase()}</summary>
+          <ul class="lang-list">
+            {enabledLocales.map((l) => (
+              <li>
+                <a href={`/${l.code}/${path}`} lang={l.code} data-set-lang={l.code} aria-current={l.code === lang ? 'true' : undefined}>
+                  {l.name}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+    </nav>
+  </div>
+</header>
+
+<script>
+  // Menu's sluiten bij klikken erbuiten of Escape; gekozen taal onthouden.
+  const menus = document.querySelectorAll<HTMLDetailsElement>('.menu');
+  document.addEventListener('click', (e) => {
+    menus.forEach((m) => { if (!m.contains(e.target as Node)) m.open = false; });
+    const a = (e.target as HTMLElement).closest<HTMLElement>('[data-set-lang]');
+    if (a) { try { localStorage.setItem('lang', a.dataset.setLang!); } catch {} }
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') menus.forEach((m) => (m.open = false));
+  });
+  menus.forEach((m) => m.addEventListener('toggle', () => {
+    if (m.open) menus.forEach((o) => { if (o !== m) o.open = false; });
+  }));
+</script>

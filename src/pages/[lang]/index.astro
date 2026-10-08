@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import TipsPromo from '../../components/TipsPromo.astro';
+import { localeParams } from '../../i18n/locales';
+import { t } from '../../i18n/ui';
+import { getTours } from '../../lib/content';
+
+export function getStaticPaths() {
+  return localeParams();
+}
+const { lang } = Astro.params as { lang: string };
+const tours = getTours(lang);
+---
+<Base lang={lang} path="">
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow">{t(lang, 'site.tagline')}</p>
+      <h1>{t(lang, 'home.title')}</h1>
+      <p class="lead">{t(lang, 'home.lead')}</p>
+    </div>
+  </section>
+
+  <section class="wrap tour-grid" aria-label={t(lang, 'nav.tours')}>
+    {tours.map((tour) => (
+      <a class="tour-card" href={`/${lang}/${tour.slug}/`}>
+        <img src={tour.card.image} alt="" loading="lazy" decoding="async" />
+        <div class="tour-card-body">
+          <h2>{tour.card.title}</h2>
+          <p>{tour.card.text}</p>
+          <span class="button">{t(lang, 'home.start')}</span>
+        </div>
+      </a>
+    ))}
+  </section>
+
+  <section class="wrap">
+    <TipsPromo lang={lang} />
+  </section>
+</Base>

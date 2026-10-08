@@ -1,0 +1,27 @@
+---
+import type { Stop } from '../lib/content';
+type Props = Stop;
+const { number, title, images = [], caption, video, body } = Astro.props;
+---
+<article class="stop" id={`stop-${number}`}>
+  {images.length > 0 && (
+    <div class:list={['stop-media', { 'two-images': images.length > 1 }]}>
+      {images.map((src, i) => (
+        <img src={src} alt={i === 0 ? title : ''} loading="lazy" decoding="async" />
+      ))}
+      {caption && <p class="caption">{caption}</p>}
+    </div>
+  )}
+  <div class="stop-text">
+    <h2>
+      <span class="stop-number">{number}</span>
+      {title}
+    </h2>
+    <div class="prose" set:html={body} />
+    {video && (
+      <div class="embed">
+        <iframe src={video} title={title} loading="lazy" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    )}
+  </div>
+</article>

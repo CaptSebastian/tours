@@ -1,0 +1,122 @@
+---
+import Base from '../../layouts/Base.astro';
+import Stop from '../../components/Stop.astro';
+import TipsPromo from '../../components/TipsPromo.astro';
+import { enabledLocales } from '../../i18n/locales';
+import { t } from '../../i18n/ui';
+import { getTour, tourSlugs } from '../../lib/content';
+import { site } from '../../site';
+
+export function getStaticPaths() {
+  return enabledLocales.flatMap((l) => tourSlugs.map((slug) => ({ params: { lang: l.code, slug } })));
+}
+
+const { lang, slug } = Astro.params as { lang: string; slug: string };
+const tour = getTour(slug, lang);
+const { title, intro, credit, map, stops, card, endImage, reviewUrl, fallback } = tour;
+
+// Alles wat nodig is om de tour offline te lezen: de pagina, de foto's en de tipspagina.
+const offlineUrls = [
+  `/${lang}/${slug}/`,
+  `/${lang}/tips/`,
+  ...stops.flatMap((s) => s.images ?? []),
+  ...(endImage ? [endImage] : []),
+];
+---
+<Base title={title} description={card.text} lang={lang} path={`${slug}/`}>
+  <section class="tour-hero">
+    <div class="wrap">
+      <p class="eyebrow">Captain Sebastian</p>
+      <h1>{title}</h1>
+      {intro && <div class="lead prose" set:html={intro} />}
+      {credit && <p class="muted small">{credit}</p>}
+      <p class="muted small">{t(lang, 'tour.stops', { n: stops.length })} · {t(lang, 'tour.listen')}</p>
+      <p class="offline-badge" hidden>✓ {t(lang, 'tour.offline')}</p>
+    </div>
+  </section>
+
+  {fallback && (
+    <p class="wrap notice">{t(lang, 'tour.fallback')}</p>
+  )}
+
+  {map && (
+    <section class="wrap">
+      <div class="map">
+        <iframe src={map} title={`${t(lang, 'tour.map')} – ${title}`} loading="lazy"></iframe>
+      </div>
+    </section>
+  )}
+
+  <section class="wrap stops">
+    {stops.map((s) => <Stop {...s} />)}
+  </section>
+
+  <section class="wrap" id="end">
+    <div class="ending">
+      {endImage && <img src={endImage} alt="" loading="lazy" />}
+      <div>
+        <h2>{t(lang, 'end.title')}</h2>
+        <p>{t(lang, 'end.tipText')}</p>
+        <a class="button" href={site.tipUrl} target="_blank" rel="noopener">{t(lang, 'end.tipButton')}</a>
+        {reviewUrl && (
+          <p class="ending-review">
+            {t(lang, 'end.reviewText')}
+            <a href={reviewUrl} target="_blank" rel="noopener">{t(lang, 'end.reviewButton')} →</a>
+          </p>
+        )}
+      </div>
+    </div>
+    <TipsPromo lang={lang} />
+  </section>
+
+  <!-- Ga-naar-stop: de kapitein roept een nummer, gasten tikken het aan. -->
+  <details class="jump">
+    <summary>{t(lang, 'tour.jump')}</summary>
+    <div class="jump-panel">
+      <p class="jump-title">{t(lang, 'tour.jumpTitle')}</p>
+      <ol class="jump-grid">
+        {stops.map((s) => (
+          <li><a href={`#stop-${s.number}`} title={s.title}>{s.number}</a></li>
+        ))}
+        <li class="jump-end"><a href="#end">♥</a></li>
+      </ol>
+    </div>
+  </details>
+
+  <script is:inline type="application/json" id="offline-urls" set:html={JSON.stringify(offlineUrls)}></script>
+</Base>
+
+<script>
+  // 1. Ga-naar-stop: paneel sluiten na het kiezen van een nummer.
+  const jump = document.querySelector<HTMLDetailsElement>('.jump');
+  jump?.addEventListener('click', (e) => {
+    if ((e.target as HTMLElement).closest('a')) jump.open = false;
+  });
+
+  // 2. Scherm aan houden tijdens het meelezen (waar de browser dat ondersteunt).
+  let lock: { release(): Promise<void> } | null = null;
+  async function keepAwake() {
+    try {
+      const wl = (navigator as any).wakeLock;
+      if (wl && document.visibilityState === 'visible' && !lock) {
+        lock = await wl.request('screen');
+        (lock as any).addEventListener?.('release', () => (lock = null));
+      }
+    } catch {}
+  }
+  keepAwake();
+  document.addEventListener('visibilitychange', keepAwake);
+  document.addEventListener('pointerdown', keepAwake, { once: true });
+
+  // 3. Offline: laat de service worker deze tour (pagina + foto's + tips) alvast opslaan.
+  const urls = JSON.parse(document.getElementById('offline-urls')?.textContent ?? '[]');
+  const badge = document.querySelector<HTMLElement>('.offline-badge');
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.addEventListener('message', (e) => {
+      if (e.data?.type === 'precached' && badge) badge.hidden = false;
+    });
+    navigator.serviceWorker.ready.then((reg) => {
+      reg.active?.postMessage({ type: 'precache', urls });
+    });
+  }
+</script>

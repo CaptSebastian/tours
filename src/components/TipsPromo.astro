@@ -1,0 +1,12 @@
+---
+import { t } from '../i18n/ui';
+interface Props { lang: string }
+const { lang } = Astro.props;
+---
+<aside class="tips-promo">
+  <div>
+    <h2>{t(lang, 'promo.title')}</h2>
+    <p>{t(lang, 'promo.text')}</p>
+  </div>
+  <a class="button" href={`/${lang}/tips/`}>{t(lang, 'promo.button')}</a>
+</aside>

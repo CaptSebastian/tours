@@ -1,0 +1,271 @@
+{
+  "title": "Eco Boats Central Station Tour",
+  "menuTitle": "Central Station 2",
+  "order": 3,
+  "map": "https://www.google.com/maps/d/u/0/embed?mid=1Pf78SSa3GSMWBPOTbZExpd888GH3o8o&ehbc=2E312F",
+  "card": {
+    "title": "Eco Boats Central Station",
+    "text": "Choose your favourite language in the menu and enjoy the tour.",
+    "image": "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/prive-boot-amsterdam-1-1024x682.jpg-1.webp"
+  },
+  "stops": [
+    {
+      "id": "amsterdam-central-station",
+      "number": 1,
+      "title": "Amsterdam Central Station",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-18.23.13-1024x769.png"
+      ],
+      "body": "<p>Designed by Pierre Cuypers, also the architect of the Rijksmuseum. If you place the buildings next to each other, you’ll see the resemblance! The building is about 300 meters long and was built on 8,687 wooden poles over 8 years, opening in 1889.</p><p>Look at the east wing: that is the Royal Pavilion, built for the arrivals and departures of the Dutch royal family. On the ridge of its roof stands the King’s Shield-Bearer, an armored knight guarding a shield with the Dutch lion. Below the roofline of the central section you’ll find the coats of arms of European trading cities such as London, Paris and Rome: Cuypers wanted to show that the railway connected Amsterdam to the world.</p>"
+    },
+    {
+      "id": "de-schreierstoren",
+      "number": 2,
+      "title": "De Schreierstoren",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-18.24.04.png"
+      ],
+      "body": "<p>Built in 1487 as a defense tower in Amsterdam’s medieval city wall. Its old name, Schreyhoeckstoren, means “sharp-corner tower”: it stood at a sharp angle in the wall.</p><p><strong>Legend:</strong> because <em>schreien</em> also means “to weep” in Dutch, the story grew that sailors’ wives stood here crying as their men sailed off. It’s a lovely story, but it is a later folk explanation of the name.</p><p><strong>Fact:</strong> in 1609 Henry Hudson set sail from here on behalf of the Dutch East India Company (VOC). He was looking for a northern route to Asia and ended up in what is now New York. A memorial plaque on the tower recalls his voyage.</p>"
+    },
+    {
+      "id": "het-scheepvaarthuis",
+      "number": 3,
+      "title": "Het Scheepvaarthuis",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-22.52.52.png"
+      ],
+      "body": "<p>Built in 1913 as a shared office building for six Amsterdam shipping companies in the recognizable style of the “Amsterdam School,” and nowadays it serves as the Amrâth Hotel.</p>"
+    },
+    {
+      "id": "sea-palace",
+      "number": 4,
+      "title": "Sea Palace",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-18.24.37.png"
+      ],
+      "body": "<p>A floating Chinese restaurant, modelled on the famous floating restaurants of Hong Kong. With its pagoda-style decks it is one of the most photographed restaurants in Amsterdam, and it has a great view over the water. Delicious food!</p>"
+    },
+    {
+      "id": "nemo-science-museum",
+      "number": 5,
+      "title": "NEMO Science Museum",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-18.24.55.png"
+      ],
+      "body": "<p>Full name is “New Metropolis,” this is a “hands-on” scientific museum for children, designed by Renzo Piano and it also serves as the entrance to the IJ tunnel with a large terrace on the sloping side.</p>"
+    },
+    {
+      "id": "adam-lookout",
+      "number": 6,
+      "title": "A’DAM Lookout",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/skydeck-900x450-1.jpg"
+      ],
+      "video": "https://www.youtube-nocookie.com/embed/6kdauPhSUSg",
+      "body": "<p>A’DAM LOOKOUT is not your usual observation deck. Besides the unparalleled 360-degree view of Amsterdam and the surrounding cities, there is much more to experience on top of this iconic building. Feel the adrenaline rush on Amsterdam’s highest swing Over The Edge, experience the Amsterdam VR Rollercoaster Ride, enjoy an extensive lunch, dinner, snacks or cocktail in the Sky Bar, take your digital souvenir home and learn about the city with the interactive binoculars.</p>"
+    },
+    {
+      "id": "het-scheepvaartmuseum",
+      "number": 7,
+      "title": "Het Scheepvaartmuseum",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/the-national-maritime.jpg"
+      ],
+      "body": "<p>Former “’s Lands Zee Magazijn,” built in the 17th century, it served as a warehouse for the “Admiralty of Amsterdam,” where all supplies for the war fleet of the “Admiralty” were handled. Nowadays, it’s a museum specialized in the maritime history of the Netherlands.</p>"
+    },
+    {
+      "id": "hoog-en-droog",
+      "number": 8,
+      "title": "High and Dry",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/amsterdam-holland-netherlands-building-attic-where-were-stored-goods-with-hook-rope-view_771335-2850.avif"
+      ],
+      "body": "<p>The VOC primarily traded in spices and other valuable goods from Asia, which were stored in the warehouses of merchant houses along Amsterdam’s canals. These warehouses were specially designed with large attics and hoisting beams on their facades to store the precious trade goods ‘high and dry’.</p>"
+    },
+    {
+      "id": "portuguese-jewish-synagogue",
+      "number": 9,
+      "title": "Portuguese Jewish Synagogue",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Portugese-Synagoge-entree-Foto-Anneke-Hymmen.jpeg",
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/JCK_webres-20.webp"
+      ],
+      "body": "<p>The <strong>Portuguese Synagogue</strong>, also known as the <strong>Esnoga</strong>, or <strong>Snoge</strong>, is an Orthodox Jewish congregation and synagogue, completed in 1675.</p><p>The Amsterdam Sephardic community was one of the largest and richest Jewish communities in Europe during the Dutch Golden Age, and their very large synagogue reflected this.</p>"
+    },
+    {
+      "id": "de-amstel",
+      "number": 10,
+      "title": "De Amstel",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-23.16.51.png"
+      ],
+      "body": "<p>Traditionally an important shipping route between the Zuiderzee and the hinterland, and the river our city is named after. Around 1270 a dam was built in the Amstel, which quickly turned the fishing village into a trading town. The oldest document that mentions Amsterdam dates from 1275: a toll privilege from Count Floris V, which freed its people from paying toll in Holland. In it the town is called <em>Amestelledamme</em> (“dam in the Amstel”), a name that gradually became Amsterdam. City rights followed around 1300.</p>"
+    },
+    {
+      "id": "hart-museum",
+      "number": 11,
+      "title": "H’ART Museum",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.45.26.png"
+      ],
+      "body": "<p>In the 17th century many Amsterdam women were left on their own: their husbands went to sea, and a large share of them never came back. To care for elderly women, the deacons of the Reformed Church built the Amstelhof here, begun in 1681 on what was then cheap land on the far side of the Amstel. It served as a home for the elderly until 2007.</p><p>In 2009 the building reopened as Hermitage Amsterdam, a branch of the Hermitage in St Petersburg. After Russia invaded Ukraine in 2022, the museum cut its ties with Russia and was renamed H’ART Museum.</p>"
+    },
+    {
+      "id": "de-magere-brug",
+      "number": 12,
+      "title": "De Magere Brug",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.44.58.png"
+      ],
+      "body": "<p>De Magere Brug, “the Skinny Bridge”, probably owes its name to the very narrow wooden bridge first built here in 1691. A popular legend says two sisters named Mager, living on opposite banks, paid for it so they could visit each other; a nice story, but there is no evidence for it.</p><p>The bridge is internationally famous from the James Bond film “Diamonds Are Forever” (1971). And the newest legend of all: if there are loving couples on board, give each other a kiss exactly under the bridge, and you’ll stay in love for the rest of your life!</p>"
+    },
+    {
+      "id": "de-blauwbrug",
+      "number": 13,
+      "title": "De Blauwbrug",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.08.36.png"
+      ],
+      "body": "<p>The name comes from the old blue-painted wooden bridge that connected the city to the Vlooienburg island, a Jewish neighborhood until World War II. The current, rather grand stone bridge dates from 1883, with lamps, crowns and ship’s prows inspired by the bridges over the Seine in Paris.</p>"
+    },
+    {
+      "id": "city-hall-national-ballet-theatre",
+      "number": 14,
+      "title": "City Hall & National Ballet Theatre",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.00.37.png"
+      ],
+      "body": "<p>The current Royal Palace on Dam Square was the original Amsterdam City Hall, from the early 19th century, the city hall moved to the Oudezijds Voorburgwal, eventually, this building became too small and in the 1980s, architects Holzbauer, Holt & Cees Dam designed a new city hall at the location of Waterlooplein/Oude Vlooienburg. This building has a dual function as the Amsterdam City Hall and a theater for the National Opera & Ballet.</p>"
+    },
+    {
+      "id": "spinoza-monument",
+      "number": 15,
+      "title": "Spinoza Monument",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-23.03.16.png"
+      ],
+      "body": "<p>A statue of the Amsterdam-born philosopher Baruch Spinoza (1632–1677), one of the great thinkers of the Enlightenment, made by Nicolas Dings in 2008.</p><p>The irony: in 1656 the Portuguese Jewish community expelled the young Spinoza for his radical ideas, and his books were later banned. Today the city honors him with a statue. On the base you can read his words “The objective of the state is freedom”. On his coat sit sparrows, birds that have always lived here, and rose-ringed parakeets, newcomers to the city: together they stand for an Amsterdam of both natives and immigrants. The roses refer to his signet ring, which carried the motto <em>Caute</em>: “be careful”.</p>"
+    },
+    {
+      "id": "waterlooplein",
+      "number": 16,
+      "title": "Waterlooplein",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-23.02.45.png"
+      ],
+      "body": "<p>Until World War II, a large Jewish market, now a flea market. Where the city hall stands now was until the Second World War the “Jewish Quarter.” Rotterdam bears the scars of the war due to the large bombing, and Amsterdam bears the scars of the deported Jewish population. Almost all residents of this part of Amsterdam were deported by the Germans, and few survived… unfortunately! Due to the harsh winters and lack of food, this period was also called the “Hunger winter”; the vacant houses were stripped of all wood (= not furniture etc.) so that the remaining local population could heat their homes. When the war was over, these houses stood there as “skeletons” and were subsequently demolished.</p>"
+    },
+    {
+      "id": "zuiderkerk",
+      "number": 17,
+      "title": "Zuiderkerk",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/La_ronda_de_noche_por_Rembrandt_van_Rijn-scaled.jpg",
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Zuiderkerkstoren_gezien_vanaf_de_Kloveniersburgwal.jpg"
+      ],
+      "body": "<p>The Zuiderkerk (“southern church”) is a 17th-century Protestant church in the Nieuwmarkt area.</p><p>According to local legend, the famous Dutch painter Rembrandt painted the Night Watch in the church because his studio was too small—though this claim is highly disputed.</p><p>Three of Rembrandt’s children were buried in the Zuiderkerk, which is very near to Rembrandt’s house in the Jodenbreestraat.</p>"
+    },
+    {
+      "id": "de-dansende-huisjes",
+      "number": 18,
+      "title": "De Dansende Huisjes",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.08.07.png"
+      ],
+      "body": "<p>The Dancing Houses are a row of crooked old canal houses that lean against each other. The reason is underground: Amsterdam is built on wooden piles, and the firm sand layer that can carry a house lies about 13 meters deep. Piles that don’t reach it, or that rot over the centuries, let a house sink unevenly. So what do you get? A row of dancing houses.</p>"
+    },
+    {
+      "id": "million-dollar-view",
+      "number": 19,
+      "title": "Million dollar view",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/fit.jpg"
+      ],
+      "body": "<p>The French painter <a href=\"https://nl.wikipedia.org/wiki/Claude_Monet\" target=\"_blank\" rel=\"noopener\">Claude Monet</a> painted the south tower with the church behind it around 1874 in a view over the Groenburgwal.</p>"
+    },
+    {
+      "id": "hotel-de-leurope-amsterdam",
+      "number": 20,
+      "title": "Hotel de L’Europe Amsterdam",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.40.15.png"
+      ],
+      "body": "<p>Right in front of us, we see the famous luxury hotel, which was purchased by beer magnate Freddy Heineken, where “Freddy’s Bar” is located in the building, and until very recently, you could enjoy a drink with a nice cigar in there. (while it was forbidden to smoke indoors in most places…😉)</p>"
+    },
+    {
+      "id": "grimburgwal",
+      "number": 21,
+      "title": "Grimburgwal",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.46.30.png"
+      ],
+      "body": "<p>Now we are really entering the oldest part of the city. On the right, the former hospital Binnengasthuis, which served as a hospital from the Middle Ages until 1981 and now accommodates students.</p>"
+    },
+    {
+      "id": "stadsbank-van-lening",
+      "number": 22,
+      "title": "Stadsbank van Lening",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.46.49.png"
+      ],
+      "body": "<p>As we sail onto the Oudezijds Voorburgwal, we see on the left side the Stadsbank van Lening (Pawnshop) from 1614, the oldest lender of Amsterdam still in operation. Here you can deposit valuables such as a watch in exchange for a loan. (= the borrowed amount must be repaid, with a small interest on the loan, otherwise the valuable object pledged will be sold… unfortunately!)</p>"
+    },
+    {
+      "id": "coffeeshop-the-bulldog-the-first",
+      "number": 23,
+      "title": "Coffeeshop The Bulldog “The First”",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.49.24.png"
+      ],
+      "body": "<p>One of the first places in Amsterdam where the sale of hashish was tolerated. Owner Henk de Vries is a wealthy pioneer and has a substantial empire with several coffee shops, a hotel, and sightseeing boats in Amsterdam.</p>"
+    },
+    {
+      "id": "de-oude-kerk",
+      "number": 24,
+      "title": "De Oude Kerk",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/20211216-OudeKerk-7046-scaled.webp",
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/2I70RK_4.webp"
+      ],
+      "body": "<p>This is the oldest surviving church building in Amsterdam. It was built around 1306 and is still in use as a church. Originally it was called the Saint Nicholas Church, but that changed to the Old Church when the current Saint Nicholas Church was built.</p>"
+    },
+    {
+      "id": "gevelstenen",
+      "number": 25,
+      "title": "Facade stones",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/1024px-gevelsteen_met_afbeelding_van_schip_-_medemblik_-_20333433_-_rce_0.jpg"
+      ],
+      "body": "<p>These facade stones served as orientation points for the seventeenth-century residents of the Dutch city. The small artistic works showed where the baker sold his breads and where you could go for shoe repairs.</p>"
+    },
+    {
+      "id": "zeedijk-bridge-lock",
+      "number": 26,
+      "title": "Zeedijk Bridge & Lock",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.50.05.png"
+      ],
+      "body": "<p>In front of you, you see the oldest sea lock and a high bridge – the bridge is so high because it was built in the original Zeedijk to let ships through from and to the Zuiderzee.</p>"
+    },
+    {
+      "id": "saint-nicholas-church",
+      "number": 27,
+      "title": "Saint Nicholas Church",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.51.13.png"
+      ],
+      "body": "<p>On the left, you see the Saint Nicholas Church – a Catholic basilica built around 1885. Saint Nicholas is the patron saint of sailors and our city.</p>"
+    },
+    {
+      "id": "victoria-hotel-amsterdam",
+      "number": 28,
+      "title": "Victoria Hotel Amsterdam",
+      "images": [
+        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.51.29.png"
+      ],
+      "body": "<p>This hotel is one of the oldest modern hotels in the Netherlands and opened in 1890. It was also the first hotel where electric lighting was installed in every room. You can still see that the hotel was built around a few old houses because at the time, those owners demanded so much money that it was decided to build around them. This story plays a major role in the film Public Works.</p>"
+    }
+  ],
+  "endImage": "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/prive-boot-amsterdam-1-1024x682.jpg.webp",
+  "reviewUrl": "https://www.tripadvisor.nl/UserReviewEdit-g188590-d12934129-Eco_Boats_Amsterdam-Amsterdam_North_Holland_Province.html"
+}
