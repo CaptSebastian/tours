@@ -31,8 +31,8 @@
   }
 }
 
-/* Talen met een eigen schrift: systeemletters, want Inter heeft wel Cyrillisch en Grieks, maar geen Chinees/Japans/Koreaans/Arabisch/Hebreeuws */
-:lang(zh), :lang(ja), :lang(ko), :lang(ar), :lang(he) {
+/* Talen met een eigen schrift: systeemletters, want Inter heeft wel Cyrillisch en Grieks, maar geen Chinees/Japans/Koreaans/Arabisch/Hebreeuws/Hindi */
+:lang(zh), :lang(ja), :lang(ko), :lang(ar), :lang(he), :lang(hi) {
   --font-body: system-ui, sans-serif;
   --font-display: system-ui, sans-serif;
 }

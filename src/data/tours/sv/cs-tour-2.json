@@ -1,0 +1,122 @@
+{
+  "title": "Eco Boats Centralstationstur",
+  "menuTitle": "Centralstationen 2",
+  "card": {
+    "title": "Eco Boats Centralstationen",
+    "text": "Välj ditt språk i menyn och njut av turen."
+  },
+  "stops": {
+    "amsterdam-central-station": {
+      "title": "Amsterdam Centraal (Centralstationen)",
+      "body": "<p>Ritad av Pierre Cuypers, som också var arkitekt för Rijksmuseum. Ställer du byggnaderna bredvid varandra ser du likheten! Byggnaden är ungefär 300 meter lång, står på 8 687 träpålar, byggdes under 8 år och invigdes 1889.</p><p>Titta på östra flygeln: det är den kungliga paviljongen, byggd för den nederländska kungafamiljens ankomster och avresor. På takåsen står Kungens sköldbärare, en riddare i rustning som vaktar en sköld med det nederländska lejonet. Under taklisten på mittpartiet ser du vapen från europeiska handelsstäder som London, Paris och Rom: Cuypers ville visa att järnvägen förband Amsterdam med världen.</p>"
+    },
+    "de-schreierstoren": {
+      "title": "Schreierstoren",
+      "body": "<p>Byggt 1487 som försvarstorn i Amsterdams medeltida stadsmur. Det gamla namnet, Schreyhoeckstoren, betyder ”tornet vid det skarpa hörnet”: det stod vid en skarp vinkel i muren.</p><p><strong>Legend:</strong> eftersom <em>schreien</em> också betyder ”gråta” på nederländska uppstod berättelsen att sjömanshustrur stod här och grät när deras män seglade iväg. En fin historia, men det är en senare folklig förklaring av namnet.</p><p><strong>Fakta:</strong> 1609 avseglade Henry Hudson härifrån på uppdrag av Nederländska Ostindiska Kompaniet (VOC). Han letade efter en nordlig väg till Asien och hamnade i det som i dag är New York. En minnestavla på tornet påminner om hans resa.</p>"
+    },
+    "het-scheepvaarthuis": {
+      "title": "Het Scheepvaarthuis",
+      "body": "<p>Byggt 1913 som gemensam kontorsbyggnad för sex Amsterdamrederier, i den lätt igenkännliga stilen ”Amsterdamskolan”. I dag är det Amrâth Hotel.</p>"
+    },
+    "sea-palace": {
+      "title": "Sea Palace",
+      "body": "<p>En flytande kinesisk restaurang, inspirerad av Hongkongs berömda flytande restauranger. Med sina pagodliknande däck är den en av Amsterdams mest fotograferade restauranger, och utsikten över vattnet är fin. Mycket god mat!</p>"
+    },
+    "nemo-science-museum": {
+      "title": "NEMO Science Museum",
+      "body": "<p>Hela namnet är ”New Metropolis”: ett vetenskapsmuseum för barn där man får röra och prova allt. Det är ritat av Renzo Piano, ligger ovanför infarten till IJ-tunneln och har en stor terrass på den sluttande sidan.</p>"
+    },
+    "adam-lookout": {
+      "title": "A’DAM Lookout",
+      "body": "<p>A’DAM LOOKOUT är ingen vanlig utsiktsplats. Förutom den enastående 360-graders utsikten över Amsterdam och kringliggande städer finns det mycket mer att uppleva högst upp i den ikoniska byggnaden. Känn adrenalinet i Amsterdams högsta gunga, Over The Edge, åk Amsterdam VR Rollercoaster Ride, njut av lunch, middag, snacks eller en cocktail i Sky Bar, ta med dig ett digitalt souvenir hem och lär dig mer om staden med de interaktiva kikarna.</p>"
+    },
+    "het-scheepvaartmuseum": {
+      "title": "Het Scheepvaartmuseum (Sjöfartsmuseet)",
+      "body": "<p>Det tidigare ”’s Lands Zeemagazijn”, byggt på 1600-talet, var förråd för Amsterdams amiralitet: här hanterades alla förnödenheter till amiralitetets örlogsflotta. I dag är det ett museum om Nederländernas sjöfartshistoria.</p>"
+    },
+    "hoog-en-droog": {
+      "title": "Högt och torrt",
+      "body": "<p>VOC handlade främst med kryddor och andra värdefulla varor från Asien, som lagrades i köpmanshusens packhus längs Amsterdams kanaler. Packhusen hade stora vindar och hissbalkar på fasaden, så att de dyrbara varorna kunde förvaras ”högt och torrt”.</p>"
+    },
+    "portuguese-jewish-synagogue": {
+      "title": "Portugisiska synagogan",
+      "body": "<p><strong>Portugisiska synagogan</strong>, även kallad <strong>Esnoga</strong> eller <strong>Snoge</strong>, är en ortodox judisk församling och synagoga som stod färdig 1675.</p><p>Amsterdams sefardiska församling var under den nederländska guldåldern en av Europas största och rikaste judiska församlingar, och den mycket stora synagogan speglade det.</p>"
+    },
+    "de-amstel": {
+      "title": "Amstel",
+      "body": "<p>Sedan länge en viktig sjöfartsled mellan Zuiderzee och inlandet, och floden som vår stad är uppkallad efter. Omkring 1270 byggdes en damm i Amstel, och fiskebyn blev snabbt en handelsstad. Det äldsta dokument som nämner Amsterdam är från 1275: ett tullprivilegium från greve Floris V som befriade invånarna från tull i Holland. Där kallas orten <em>Amestelledamme</em> (”damm i Amstel”), ett namn som så småningom blev Amsterdam. Stadsrättigheter följde omkring 1300.</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>På 1600-talet blev många kvinnor i Amsterdam ensamma: männen gick till sjöss och en stor del av dem kom aldrig tillbaka. För att ta hand om äldre kvinnor byggde diakonerna i den reformerta kyrkan här Amstelhof, påbörjat 1681 på det som då var billig mark på andra sidan Amstel. Det var ålderdomshem ända till 2007.</p><p>2009 öppnade byggnaden igen som Hermitage Amsterdam, en filial till Eremitaget i Sankt Petersburg. Efter Rysslands invasion av Ukraina 2022 bröt museet banden med Ryssland och bytte namn till H’ART Museum.</p>"
+    },
+    "de-magere-brug": {
+      "title": "Magere Brug (”Magra bron”)",
+      "body": "<p>Magere Brug, ”Magra bron”, har troligen fått sitt namn efter den mycket smala träbro som först byggdes här 1691. Enligt en populär legend betalade två systrar med efternamnet Mager, som bodde på var sin sida om floden, för bron så att de kunde hälsa på varandra; en fin historia, men det finns inga bevis för den.</p><p>Bron är världsberömd från James Bond-filmen ”Diamantfeber” (1971). Och den allra nyaste legenden: finns det förälskade par ombord, kyss varandra precis under bron, så förblir ni förälskade resten av livet!</p>"
+    },
+    "de-blauwbrug": {
+      "title": "Blauwbrug (”Blå bron”)",
+      "body": "<p>Namnet kommer från den gamla blåmålade träbron som förband staden med ön Vlooienburg, ett judiskt kvarter fram till andra världskriget. Den nuvarande, ganska ståtliga stenbron är från 1883, med lyktor, kronor och skeppsförstävar inspirerade av broarna över Seine i Paris.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Stadshuset & Nationella operan och baletten",
+      "body": "<p>Det nuvarande kungliga slottet på Dam var ursprungligen Amsterdams stadshus. I början av 1800-talet flyttade stadshuset till Oudezijds Voorburgwal; den byggnaden blev med tiden för liten, och på 1980-talet ritade arkitekterna Holzbauer, Holt och Cees Dam ett nytt stadshus på platsen för Waterlooplein/Oude Vlooienburg. Byggnaden har en dubbel funktion: Amsterdams stadshus och teater för Nationella operan och baletten.</p>"
+    },
+    "spinoza-monument": {
+      "title": "Spinozamonumentet",
+      "body": "<p>En staty av den Amsterdamfödde filosofen Baruch Spinoza (1632–1677), en av upplysningens stora tänkare, gjord av Nicolas Dings 2008.</p><p>Ironin: 1656 uteslöt den portugisisk-judiska församlingen den unge Spinoza för hans radikala idéer, och senare förbjöds hans böcker. I dag hedrar staden honom med en staty. På sockeln står hans ord ”Statens mål är frihet”. På hans rock sitter sparvar, fåglar som alltid har levt här, och halsbandsparakiter, nykomlingar i staden: tillsammans står de för ett Amsterdam av både infödda och invandrare. Rosorna syftar på hans signetring, som bar mottot <em>Caute</em>: ”var försiktig”.</p>"
+    },
+    "waterlooplein": {
+      "title": "Waterlooplein",
+      "body": "<p>Fram till andra världskriget en stor judisk marknad, nu en loppmarknad. Där stadshuset står i dag låg fram till andra världskriget det ”judiska kvarteret”. Rotterdam bär krigets ärr efter den stora bombningen, och Amsterdam bär ärren efter den deporterade judiska befolkningen. Nästan alla invånare i den här delen av Amsterdam deporterades av tyskarna, och få överlevde… tyvärr! På grund av de hårda vintrarna och bristen på mat kallades den här tiden också ”Hungervintern”; de tomma husen plockades på allt trä (alltså inte möbler och liknande) så att de som var kvar kunde värma sina hem. När kriget var slut stod husen där som ”skelett” och revs sedan.</p>"
+    },
+    "zuiderkerk": {
+      "title": "Zuiderkerk",
+      "body": "<p>Zuiderkerk (”Sydkyrkan”) är en protestantisk kyrka från 1600-talet i området kring Nieuwmarkt.</p><p>Enligt en lokal legend målade den berömde nederländske målaren Rembrandt Nattvakten i kyrkan eftersom hans ateljé var för liten, men det är mycket omtvistat.</p><p>Tre av Rembrandts barn begravdes i Zuiderkerk, som ligger mycket nära Rembrandts hus på Jodenbreestraat.</p>"
+    },
+    "de-dansende-huisjes": {
+      "title": "De Dansende Huisjes (De dansande husen)",
+      "body": "<p>De dansande husen är en rad sneda gamla kanalhus som lutar mot varandra. Orsaken finns under marken: Amsterdam är byggt på träpålar, och det fasta sandlager som kan bära ett hus ligger omkring 13 meter ner. Pålar som inte når ända dit, eller som ruttnar under århundradena, gör att ett hus sjunker ojämnt. Och vad får man då? En rad dansande hus.</p>"
+    },
+    "million-dollar-view": {
+      "title": "Miljonutsikten",
+      "body": "<p>Den franske målaren <a href=\"https://nl.wikipedia.org/wiki/Claude_Monet\" target=\"_blank\" rel=\"noopener\">Claude Monet</a> målade omkring 1874 det södra tornet med kyrkan bakom, i en vy över Groenburgwal.</p>"
+    },
+    "hotel-de-leurope-amsterdam": {
+      "title": "Hotel de L’Europe Amsterdam",
+      "body": "<p>Rakt framför oss ser vi det berömda lyxhotellet som köptes av ölmagnaten Freddy Heineken. I byggnaden finns ”Freddy’s Bar”, och till helt nyligen kunde man ta en drink med en god cigarr där (medan det var förbjudet att röka inomhus nästan överallt… 😉).</p>"
+    },
+    "grimburgwal": {
+      "title": "Grimburgwal",
+      "body": "<p>Nu kommer vi verkligen in i stadens äldsta del. Till höger det tidigare sjukhuset Binnengasthuis, som var sjukhus från medeltiden till 1981 och i dag rymmer studenter.</p>"
+    },
+    "stadsbank-van-lening": {
+      "title": "Stadsbank van Lening (Stadens pantbank)",
+      "body": "<p>När vi svänger in på Oudezijds Voorburgwal ser vi till vänster Stadsbank van Lening (pantbanken) från 1614, Amsterdams äldsta långivare som fortfarande är i drift. Här kan du lämna något värdefullt, till exempel en klocka, i pant mot ett lån. (Det lånade beloppet måste betalas tillbaka med en liten ränta, annars säljs det pantsatta föremålet… tyvärr!)</p>"
+    },
+    "coffeeshop-the-bulldog-the-first": {
+      "title": "Coffeeshop The Bulldog ”The First”",
+      "body": "<p>Ett av de första ställena i Amsterdam där försäljning av hasch tolererades. Ägaren Henk de Vries är en förmögen pionjär med ett rejält imperium: flera coffeeshops, ett hotell och turistbåtar i Amsterdam.</p>"
+    },
+    "de-oude-kerk": {
+      "title": "Oude Kerk (Gamla kyrkan)",
+      "body": "<p>Det här är Amsterdams äldsta bevarade kyrkobyggnad. Den byggdes omkring 1306 och används fortfarande som kyrka. Ursprungligen hette den Sankt Nikolaus kyrka, men den blev Gamla kyrkan när den nuvarande Sankt Nikolaus kyrka byggdes.</p>"
+    },
+    "gevelstenen": {
+      "title": "Fasadstenar",
+      "body": "<p>Fasadstenarna var orienteringspunkter för stadens invånare på 1600-talet. De små konstverken visade var bagaren sålde sitt bröd och var man kunde få sina skor lagade.</p>"
+    },
+    "zeedijk-bridge-lock": {
+      "title": "Zeedijkbron och slussen",
+      "body": "<p>Framför dig ser du den äldsta havsslussen och en hög bro. Bron är så hög eftersom den byggdes i den ursprungliga Zeedijk, för att släppa igenom fartyg till och från Zuiderzee.</p>"
+    },
+    "saint-nicholas-church": {
+      "title": "Sankt Nikolaus kyrka",
+      "body": "<p>Till vänster ser du Sankt Nikolaus kyrka (Sint-Nicolaaskerk), en katolsk basilika byggd omkring 1885. Sankt Nikolaus är skyddshelgon för sjömän och för vår stad.</p>"
+    },
+    "victoria-hotel-amsterdam": {
+      "title": "Victoria Hotel Amsterdam",
+      "body": "<p>Det här är ett av de äldsta moderna hotellen i Nederländerna och öppnade 1890. Det var också det första hotellet med elektriskt ljus i varje rum. Man ser fortfarande att hotellet byggdes runt några gamla hus: ägarna begärde så mycket pengar att man bestämde sig för att bygga runt dem. Historien spelar en stor roll i filmen Public Works.</p>"
+    }
+  }
+}

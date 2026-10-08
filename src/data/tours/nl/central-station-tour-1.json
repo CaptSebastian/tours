@@ -1,0 +1,122 @@
+{
+  "title": "KINBoat Centraal Station-tour",
+  "menuTitle": "Centraal Station",
+  "card": {
+    "title": "KINBoat Centraal Station",
+    "text": "Rondvaart van een uur in een open boot. Zie de oude haven, het VOC-schip, de Amstel en de zeven bruggen."
+  },
+  "stops": {
+    "amsterdam-central-station": {
+      "title": "Centraal Station",
+      "body": "<p>Ontworpen door Pierre Cuypers, ook de architect van het Rijksmuseum. Zet de twee gebouwen naast elkaar en je ziet meteen de gelijkenis! Het gebouw is zo’n 300 meter lang, staat op 8.687 houten palen, werd in 8 jaar gebouwd en ging in 1889 open.</p><p>Kijk naar de oostvleugel: dat is het Koninklijk Paviljoen, gebouwd voor de aankomst en het vertrek van de koninklijke familie. Op de nok van het dak staat de Schildknaap van de Koning, een geharnaste ridder die een schild met de Nederlandse leeuw bewaakt. Onder de dakrand van het middendeel zie je de wapens van Europese handelssteden zoals Londen, Parijs en Rome: Cuypers wilde laten zien dat de spoorlijn Amsterdam met de wereld verbond.</p>"
+    },
+    "de-schreierstoren": {
+      "title": "De Schreierstoren",
+      "body": "<p>Gebouwd in 1487 als verdedigingstoren in de middeleeuwse stadsmuur van Amsterdam. De oude naam, Schreyhoeckstoren, betekent ‘toren op de scherpe hoek’: hij stond op een scherpe knik in de muur.</p><p><strong>Legende:</strong> omdat <em>schreien</em> ook ‘huilen’ betekent, ontstond het verhaal dat zeemansvrouwen hier huilend stonden als hun mannen uitvoeren. Een mooi verhaal, maar het is een latere volksverklaring van de naam.</p><p><strong>Feit:</strong> in 1609 vertrok Henry Hudson hiervandaan in opdracht van de Verenigde Oost-Indische Compagnie (VOC). Hij zocht een noordelijke route naar Azië en kwam terecht in wat nu New York is. Een gedenksteen op de toren herinnert aan zijn reis.</p>"
+    },
+    "het-scheepvaarthuis": {
+      "title": "Het Scheepvaarthuis",
+      "body": "<p>Gebouwd in 1913 als gezamenlijk kantoorgebouw voor zes Amsterdamse rederijen, in de herkenbare stijl van de ‘Amsterdamse School’. Tegenwoordig is het Hotel Amrâth.</p>"
+    },
+    "sea-palace": {
+      "title": "Sea Palace",
+      "body": "<p>Een drijvend Chinees restaurant, naar het voorbeeld van de beroemde drijvende restaurants van Hongkong. Met zijn pagodedekken is het een van de meest gefotografeerde restaurants van Amsterdam, en je hebt er een prachtig uitzicht over het water. Heerlijk eten!</p>"
+    },
+    "nemo-science-museum": {
+      "title": "NEMO Science Museum",
+      "body": "<p>Voluit ‘New Metropolis’: een wetenschapsmuseum voor kinderen waar je alles mag aanraken en uitproberen. Het is ontworpen door Renzo Piano, staat boven de ingang van de IJtunnel en heeft een groot terras op de schuine kant.</p>"
+    },
+    "het-scheepvaartmuseum": {
+      "title": "Het Scheepvaartmuseum",
+      "body": "<p>Het voormalige ’s Lands Zeemagazijn, gebouwd in de 17e eeuw, was het pakhuis van de Admiraliteit van Amsterdam: hier werden alle voorraden voor de oorlogsvloot van de Admiraliteit verwerkt. Tegenwoordig is het een museum over de maritieme geschiedenis van Nederland.</p>"
+    },
+    "high-and-dry": {
+      "title": "Hoog en droog",
+      "body": "<p>De VOC handelde vooral in specerijen en andere kostbare goederen uit Azië, die werden opgeslagen in de pakhuizen van koopmanshuizen langs de Amsterdamse grachten. Die pakhuizen hadden grote zolders en hijsbalken aan de gevel, zodat de kostbare handelswaar ‘hoog en droog’ kon worden opgeslagen.</p>"
+    },
+    "hortus-botanicus": {
+      "title": "Hortus Botanicus",
+      "body": "<p>De Hortus Botanicus werd in 1638 opgericht en is een van de oudste botanische tuinen ter wereld. In de kleine tuin staan meer dan 6.000 bomen en planten, er is een kas met drie verschillende tropische klimaten en een vlindertuin met honderden vlinders. Let in het Palmenhuis op de Oost-Kaapse broodboom (cycas): die is zo’n 300 jaar oud.</p>"
+    },
+    "portuguese-jewish-synagogue": {
+      "title": "Portugees-Israëlietische Synagoge",
+      "body": "<p>De <strong>Portugese Synagoge</strong>, ook wel <strong>Esnoga</strong> of <strong>Snoge</strong> genoemd, is een orthodox-joodse gemeente en synagoge, voltooid in 1675.</p><p>De Amsterdamse sefardische gemeenschap was in de Gouden Eeuw een van de grootste en rijkste joodse gemeenschappen van Europa, en dat zie je terug in deze enorme synagoge.</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>In de 17e eeuw bleven veel Amsterdamse vrouwen alleen achter: hun mannen gingen naar zee en een groot deel van hen kwam nooit terug. Om voor oude vrouwen te zorgen bouwden de diakenen van de Gereformeerde Kerk hier de Amstelhof, begonnen in 1681 op wat toen goedkope grond aan de overkant van de Amstel was. Tot 2007 was het een bejaardenhuis.</p><p>In 2009 ging het gebouw weer open als Hermitage Amsterdam, een dependance van de Hermitage in Sint-Petersburg. Na de Russische inval in Oekraïne in 2022 verbrak het museum de banden met Rusland en heet het H’ART Museum.</p>"
+    },
+    "de-amstel": {
+      "title": "De Amstel",
+      "body": "<p>Van oudsher een belangrijke scheepvaartroute tussen de Zuiderzee en het achterland, en de rivier waar onze stad naar vernoemd is. Rond 1270 werd er een dam in de Amstel gelegd, waardoor het vissersdorp snel uitgroeide tot handelsstad. Het oudste document waarin Amsterdam wordt genoemd is van 1275: een tolprivilege van graaf Floris V, waardoor de inwoners in Holland geen tol meer hoefden te betalen. Daarin heet de plaats <em>Amestelledamme</em> (‘dam in de Amstel’), een naam die langzaam Amsterdam werd. Rond 1300 volgden de stadsrechten.</p>"
+    },
+    "de-herengracht": {
+      "title": "De Herengracht",
+      "body": "<p>We varen nu op de Herengracht, onderdeel van de prestigieuze stadsuitbreiding van het begin van de 17e eeuw. Dit stuk loopt van de Leidsegracht tot de Amstel, en je ziet hier vooral heel grote panden: het stadsbestuur gaf hier alleen grote kavels uit, om de rijke koopmansfamilies aan te trekken.</p><p><strong>Volksverhaal:</strong> de belasting zou gebaseerd zijn op de breedte van het huis en het aantal ramen, en zelfs een dubbele trap zou extra belast zijn. Gidsen vertellen het graag, maar historici twijfelen eraan; de hoge grondprijs langs de gracht is de waarschijnlijkere reden dat de meeste huizen zo smal zijn.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "De Reguliersgracht",
+      "body": "<p>Een van de mooiste grachten, beroemd om zijn zeven gelijke boogbruggen. In 1901 wilde het stadsbestuur deze gracht dempen voor de nieuwe elektrische tram, maar dankzij veel protest ging dat gelukkig niet door. ’s Avonds is het hier prachtig, want dan zijn de bogen verlicht; vanaf het Thorbeckeplein is dat een schitterend gezicht!</p>"
+    },
+    "de-amstelkerk": {
+      "title": "De Amstelkerk",
+      "body": "<p>Op het Amstelveld staat de enige overgebleven houten noodkerk. Tegenwoordig wordt hij gebruikt als concertzaal.</p>"
+    },
+    "gevelstenen": {
+      "title": "Gevelstenen",
+      "body": "<p>Deze gevelstenen dienden als oriëntatiepunten voor de zeventiende-eeuwse stadsbewoners. De kleine kunstwerkjes lieten zien waar de bakker zijn brood verkocht en waar je je schoenen kon laten maken.</p>"
+    },
+    "de-prinsengracht": {
+      "title": "De Prinsengracht",
+      "body": "<p>De Prinsengracht is de buitenste van de drie halve ringen grachten uit de 17e eeuw. Je ziet hier dat de panden veel eenvoudiger zijn dan aan de Heren- en Keizersgracht. Veel huizen hier werden gebruikt als pakhuis en werkplaats.</p>"
+    },
+    "de-magere-brug": {
+      "title": "De Magere Brug",
+      "body": "<p>De Magere Brug dankt zijn naam waarschijnlijk aan de heel smalle houten brug die hier in 1691 voor het eerst werd gebouwd. Volgens een bekende legende betaalden twee zussen Mager, die aan weerszijden van de rivier woonden, de brug zodat ze elkaar konden opzoeken; een leuk verhaal, maar er is geen bewijs voor.</p><p>De brug is wereldberoemd uit de James Bond-film ‘Diamonds Are Forever’ (1971). En de nieuwste legende van allemaal: zijn er verliefde stelletjes aan boord, geef elkaar dan precies onder de brug een kus, en je blijft de rest van je leven verliefd!</p>"
+    },
+    "de-blauwbrug": {
+      "title": "De Blauwbrug",
+      "body": "<p>De naam komt van de oude, blauw geschilderde houten brug die de stad verbond met het eiland Vlooienburg, tot de Tweede Wereldoorlog een joodse buurt. De huidige, nogal statige stenen brug is van 1883, met lantaarns, kronen en scheepsstevens naar het voorbeeld van de bruggen over de Seine in Parijs.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Stadhuis & Nationale Opera & Ballet",
+      "body": "<p>Het huidige Koninklijk Paleis op de Dam was oorspronkelijk het stadhuis van Amsterdam. Begin 19e eeuw verhuisde het stadhuis naar de Oudezijds Voorburgwal; dat gebouw werd op den duur te klein, en in de jaren tachtig ontwierpen de architecten Holzbauer, Holt en Cees Dam een nieuw stadhuis op de plek van het Waterlooplein/Oude Vlooienburg. Het gebouw heeft een dubbele functie: stadhuis van Amsterdam en theater van De Nationale Opera & Ballet.</p>"
+    },
+    "de-dansende-huisjes": {
+      "title": "De Dansende Huisjes",
+      "body": "<p>De Dansende Huisjes zijn een rij scheve oude grachtenpanden die tegen elkaar aan leunen. De oorzaak zit onder de grond: Amsterdam is gebouwd op houten palen, en de stevige zandlaag die een huis kan dragen ligt zo’n 13 meter diep. Palen die die laag niet halen, of die in de loop van de eeuwen rotten, laten een huis ongelijk zakken. En wat krijg je dan? Een rij dansende huisjes.</p>"
+    },
+    "spinoza-monument": {
+      "title": "Spinoza-monument",
+      "body": "<p>Een beeld van de in Amsterdam geboren filosoof Baruch Spinoza (1632–1677), een van de grote denkers van de Verlichting, gemaakt door Nicolas Dings in 2008.</p><p>De ironie: in 1656 verstootte de Portugees-joodse gemeente de jonge Spinoza om zijn radicale ideeën, en later werden zijn boeken verboden. Nu eert de stad hem met een standbeeld. Op de sokkel staan zijn woorden ‘Het doel van de staat is de vrijheid’. Op zijn jas zitten mussen, vogels die hier altijd al leefden, en halsbandparkieten, nieuwkomers in de stad: samen staan ze voor een Amsterdam van zowel geboren Amsterdammers als nieuwkomers. De rozen verwijzen naar zijn zegelring, met het motto <em>Caute</em>: ‘wees voorzichtig’.</p>"
+    },
+    "waterlooplein": {
+      "title": "Waterlooplein",
+      "body": "<p>Tot de Tweede Wereldoorlog een grote joodse markt, nu een vlooienmarkt. Waar nu het stadhuis staat, lag tot de Tweede Wereldoorlog de ‘Jodenhoek’. Rotterdam draagt de littekens van de oorlog door het grote bombardement, Amsterdam die van de weggevoerde joodse bevolking. Bijna alle bewoners van dit deel van Amsterdam werden door de Duitsers gedeporteerd, en weinigen overleefden… helaas! Door de strenge winter en het gebrek aan eten heette deze periode ook de ‘Hongerwinter’; de leegstaande huizen werden gestript van al het hout (dus niet het meubilair en dergelijke) zodat de achtergebleven bewoners hun huis konden verwarmen. Na de oorlog stonden deze huizen er als ‘skeletten’ bij en werden ze afgebroken.</p>"
+    },
+    "de-sluyswacht": {
+      "title": "De Sluyswacht",
+      "body": "<p>Café de Sluyswacht werd in 1692 gebouwd als huis voor de sluiswachter van de Sint Antoniesluis. Nu is het een café en een rijksmonument.</p>"
+    },
+    "museum-rembrandthuis": {
+      "title": "Museum Het Rembrandthuis",
+      "body": "<p>Achter de Sint Antoniesluis ligt Museum Het Rembrandthuis, het vroegere woonhuis van de beroemde schilder Rembrandt Harmenszoon van Rijn. Rembrandt stierf in armoede; al zijn bezittingen werden geveild, en met de veilinglijst is het huis opnieuw ingericht, inclusief Rembrandts schilderijen. Zo krijg je een goed beeld van het interieur, want hij had zijn atelier aan huis. Het verklaart ook waarom Rembrandt zoveel portretten van joodse mannen maakte: hij woonde ‘midden in’ de Jodenhoek.</p>"
+    },
+    "de-montelbaanstoren": {
+      "title": "De Montelbaanstoren",
+      "body": "<p>Het ronde onderste deel werd rond 1516 gebouwd als verdedigingstoren, om het havengebied buiten de stadsmuur te beschermen, direct aan de toenmalige Zuiderzee (nu het IJsselmeer). Amsterdam lag direct aan zee, vandaar de levendige handel!</p><p>In 1606 zette architect Hendrick de Keyser er de sierlijke achtkantige top met houten spits op. Een paar jaar later begon de toren al te hellen, en hij werd letterlijk met touwen weer rechtgetrokken. Zijn bijnaam is ‘Malle Jaap’, omdat de klokken vroeger op de gekste momenten luidden.</p>"
+    },
+    "adam-lookout": {
+      "title": "A’DAM Lookout",
+      "body": "<p>A’DAM LOOKOUT is geen gewoon uitzichtpunt. Naast het ongeëvenaarde uitzicht van 360 graden over Amsterdam en de omliggende steden is er boven op dit iconische gebouw nog veel meer te beleven. Voel de adrenaline op de hoogste schommel van Amsterdam, Over The Edge, maak de Amsterdam VR Rollercoaster Ride, geniet van een uitgebreide lunch, diner, snack of cocktail in de Sky Bar, neem je digitale souvenir mee naar huis en ontdek de stad met de interactieve verrekijkers.</p>"
+    },
+    "saint-nicholas-church": {
+      "title": "Sint-Nicolaaskerk",
+      "body": "<p>Links zie je de Sint-Nicolaaskerk, een katholieke basiliek uit ongeveer 1885. Sint-Nicolaas is de beschermheilige van zeelieden en van onze stad.</p>"
+    },
+    "victoria-hotel-amsterdam": {
+      "title": "Victoria Hotel Amsterdam",
+      "body": "<p>Dit is een van de oudste moderne hotels van Nederland; het ging open in 1890. Het was ook het eerste hotel met elektrisch licht in elke kamer. Je ziet nog steeds dat het hotel om een paar oude huisjes heen is gebouwd: de eigenaren vroegen destijds zoveel geld dat werd besloten eromheen te bouwen. Dit verhaal speelt een grote rol in de film Publieke Werken.</p>"
+    }
+  }
+}

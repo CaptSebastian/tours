@@ -1,0 +1,122 @@
+{
+  "title": "Eco Boats – rejs od Dworca Centralnego",
+  "menuTitle": "Dworzec Centralny 2",
+  "card": {
+    "title": "Eco Boats Dworzec Centralny",
+    "text": "Wybierz swój język w menu i ciesz się rejsem."
+  },
+  "stops": {
+    "amsterdam-central-station": {
+      "title": "Amsterdam Centraal (Dworzec Centralny)",
+      "body": "<p>Zaprojektował go Pierre Cuypers, autor także Rijksmuseum. Gdy zestawi się oba budynki, podobieństwo od razu rzuca się w oczy! Dworzec ma około 300 metrów długości, stoi na 8687 drewnianych palach, budowano go 8 lat i otwarto w 1889 roku.</p><p>Proszę spojrzeć na wschodnie skrzydło: to Pawilon Królewski, zbudowany na przyjazdy i wyjazdy holenderskiej rodziny królewskiej. Na kalenicy dachu stoi Giermek Króla, rycerz w zbroi strzegący tarczy z holenderskim lwem. Pod gzymsem środkowej części widać herby europejskich miast handlowych, takich jak Londyn, Paryż i Rzym: Cuypers chciał pokazać, że kolej łączy Amsterdam ze światem.</p>"
+    },
+    "de-schreierstoren": {
+      "title": "Schreierstoren",
+      "body": "<p>Zbudowana w 1487 roku jako baszta obronna w średniowiecznych murach Amsterdamu. Dawna nazwa, Schreyhoeckstoren, oznacza „wieżę na ostrym narożniku”: stała w miejscu, gdzie mur ostro skręcał.</p><p><strong>Legenda:</strong> ponieważ <em>schreien</em> po niderlandzku znaczy też „płakać”, powstała opowieść, że żony marynarzy stały tu i płakały, gdy ich mężowie wypływali. Piękna historia, ale to późniejsze ludowe wyjaśnienie nazwy.</p><p><strong>Fakt:</strong> w 1609 roku Henry Hudson wypłynął stąd na zlecenie Holenderskiej Kompanii Wschodnioindyjskiej (VOC). Szukał północnej drogi do Azji, a trafił tam, gdzie dziś jest Nowy Jork. Upamiętnia to tablica na wieży.</p>"
+    },
+    "het-scheepvaarthuis": {
+      "title": "Het Scheepvaarthuis (Dom Żeglugi)",
+      "body": "<p>Zbudowany w 1913 roku jako wspólny biurowiec sześciu amsterdamskich towarzystw żeglugowych, w charakterystycznym stylu „Szkoły Amsterdamskiej”. Dziś mieści się tu hotel Amrâth.</p>"
+    },
+    "sea-palace": {
+      "title": "Sea Palace",
+      "body": "<p>Pływająca chińska restauracja wzorowana na słynnych pływających restauracjach Hongkongu. Z pokładami w stylu pagody jest jedną z najczęściej fotografowanych restauracji w Amsterdamie, a widok na wodę jest piękny. Pyszne jedzenie!</p>"
+    },
+    "nemo-science-museum": {
+      "title": "NEMO Science Museum",
+      "body": "<p>Pełna nazwa to „New Metropolis”: muzeum nauki dla dzieci, w którym wszystkiego można dotknąć i spróbować. Zaprojektował je Renzo Piano; budynek stoi nad wjazdem do tunelu pod IJ, a na jego pochyłym dachu jest duży taras.</p>"
+    },
+    "adam-lookout": {
+      "title": "A’DAM Lookout",
+      "body": "<p>A’DAM LOOKOUT to nie zwykły taras widokowy. Oprócz niezrównanej panoramy 360 stopni na Amsterdam i okoliczne miasta na szczycie tego kultowego budynku czeka dużo więcej. Poczuj adrenalinę na najwyżej położonej huśtawce Amsterdamu, Over The Edge, przejedź się Amsterdam VR Rollercoaster Ride, zjedz lunch, kolację, przekąskę lub wypij koktajl w Sky Bar, zabierz do domu cyfrową pamiątkę i poznaj miasto dzięki interaktywnym lornetkom.</p>"
+    },
+    "het-scheepvaartmuseum": {
+      "title": "Het Scheepvaartmuseum (Muzeum Morskie)",
+      "body": "<p>Dawny „’s Lands Zeemagazijn”, zbudowany w XVII wieku, był magazynem Admiralicji Amsterdamu: tu przechodziły wszystkie zapasy dla floty wojennej. Dziś to muzeum historii morskiej Holandii.</p>"
+    },
+    "hoog-en-droog": {
+      "title": "Wysoko i sucho",
+      "body": "<p>VOC handlowała głównie przyprawami i innymi cennymi towarami z Azji, które składowano w magazynach kupieckich domów nad amsterdamskimi kanałami. Magazyny miały duże strychy i belki z bloczkami na fasadach, by cenne towary przechowywać „wysoko i sucho”.</p>"
+    },
+    "portuguese-jewish-synagogue": {
+      "title": "Synagoga Portugalska",
+      "body": "<p><strong>Synagoga Portugalska</strong>, zwana też <strong>Esnoga</strong> lub <strong>Snoge</strong>, to ortodoksyjna gmina żydowska i synagoga, ukończona w 1675 roku.</p><p>Sefardyjska gmina Amsterdamu była w złotym wieku Holandii jedną z największych i najbogatszych społeczności żydowskich w Europie, co widać po tej ogromnej synagodze.</p>"
+    },
+    "de-amstel": {
+      "title": "Amstel",
+      "body": "<p>Od dawna ważny szlak żeglugowy między Zuiderzee a zapleczem i rzeka, od której nasze miasto wzięło nazwę. Około 1270 roku na Amstel zbudowano tamę, dzięki czemu wioska rybacka szybko stała się miastem handlowym. Najstarszy dokument wymieniający Amsterdam pochodzi z 1275 roku: to przywilej celny hrabiego Florisa V, zwalniający mieszkańców z cła w Holandii. Miejscowość nazwano w nim <em>Amestelledamme</em> („tama na Amstel”) – z czasem ta nazwa przeszła w Amsterdam. Prawa miejskie przyszły około 1300 roku.</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>W XVII wieku wiele amsterdamskich kobiet zostawało samych: mężowie wypływali w morze, a duża część z nich nigdy nie wracała. Aby zaopiekować się starszymi kobietami, diakoni Kościoła reformowanego zbudowali tu Amstelhof, rozpoczęty w 1681 roku na tanich wówczas gruntach po drugiej stronie Amstel. Do 2007 roku był to dom opieki.</p><p>W 2009 roku budynek otwarto ponownie jako Hermitage Amsterdam, filię petersburskiego Ermitażu. Po rosyjskiej inwazji na Ukrainę w 2022 roku muzeum zerwało więzi z Rosją i zmieniło nazwę na H’ART Museum.</p>"
+    },
+    "de-magere-brug": {
+      "title": "Magere Brug („Chudy Most”)",
+      "body": "<p>Magere Brug, „Chudy Most”, zawdzięcza nazwę prawdopodobnie bardzo wąskiemu drewnianemu mostowi, który zbudowano tu po raz pierwszy w 1691 roku. Popularna legenda mówi, że zapłaciły za niego dwie siostry o nazwisku Mager, mieszkające po przeciwnych stronach rzeki, by móc się odwiedzać; ładna historia, ale brak na nią dowodów.</p><p>Most jest znany na całym świecie z filmu o Jamesie Bondzie „Diamenty są wieczne” (1971). A najnowsza legenda: jeśli na pokładzie są zakochane pary, pocałujcie się dokładnie pod mostem, a będziecie zakochani do końca życia!</p>"
+    },
+    "de-blauwbrug": {
+      "title": "Blauwbrug („Niebieski Most”)",
+      "body": "<p>Nazwa pochodzi od starego, pomalowanego na niebiesko drewnianego mostu, który łączył miasto z wyspą Vlooienburg – do II wojny światowej dzielnicą żydowską. Obecny, dość okazały kamienny most pochodzi z 1883 roku; latarnie, korony i dzioby statków wzorowano na mostach nad Sekwaną w Paryżu.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Ratusz i Narodowa Opera i Balet",
+      "body": "<p>Obecny Pałac Królewski na placu Dam był pierwotnie ratuszem Amsterdamu. Na początku XIX wieku ratusz przeniesiono na Oudezijds Voorburgwal; z czasem ten budynek stał się za mały i w latach 80. architekci Holzbauer, Holt i Cees Dam zaprojektowali nowy ratusz w miejscu Waterlooplein/Oude Vlooienburg. Budynek ma podwójną funkcję: jest ratuszem Amsterdamu i teatrem Narodowej Opery i Baletu.</p>"
+    },
+    "spinoza-monument": {
+      "title": "Pomnik Spinozy",
+      "body": "<p>Pomnik urodzonego w Amsterdamie filozofa Barucha Spinozy (1632–1677), jednego z wielkich myślicieli oświecenia, dzieło Nicolasa Dingsa z 2008 roku.</p><p>Ironia losu: w 1656 roku portugalsko-żydowska gmina wykluczyła młodego Spinozę za radykalne poglądy, a później jego książki zakazano. Dziś miasto czci go pomnikiem. Na cokole widnieją jego słowa „Celem państwa jest wolność”. Na płaszczu siedzą wróble, ptaki, które żyły tu zawsze, i aleksandretty obrożne, nowi przybysze w mieście: razem symbolizują Amsterdam zarówno rdzennych mieszkańców, jak i imigrantów. Róże nawiązują do jego sygnetu z dewizą <em>Caute</em>: „bądź ostrożny”.</p>"
+    },
+    "waterlooplein": {
+      "title": "Waterlooplein",
+      "body": "<p>Do II wojny światowej duży targ żydowski, dziś pchli targ. Tam, gdzie dziś stoi ratusz, do wojny była „Dzielnica Żydowska”. Rotterdam nosi blizny wojny po wielkim bombardowaniu, Amsterdam – po deportowanej ludności żydowskiej. Niemal wszystkich mieszkańców tej części miasta Niemcy deportowali i niewielu przeżyło… niestety! Z powodu surowej zimy i braku jedzenia ten okres nazywano też „Głodową zimą”; z opuszczonych domów wyrwano całe drewno (czyli nie meble itp.), by pozostali mieszkańcy mogli ogrzać swoje domy. Po wojnie domy stały jak „szkielety” i zostały rozebrane.</p>"
+    },
+    "zuiderkerk": {
+      "title": "Zuiderkerk",
+      "body": "<p>Zuiderkerk („Kościół Południowy”) to XVII-wieczny kościół protestancki w okolicy Nieuwmarkt.</p><p>Według miejscowej legendy słynny holenderski malarz Rembrandt namalował „Straż nocną” w tym kościele, bo jego pracownia była za mała – to jednak bardzo sporne.</p><p>W Zuiderkerk pochowano troje dzieci Rembrandta; kościół leży bardzo blisko jego domu przy Jodenbreestraat.</p>"
+    },
+    "de-dansende-huisjes": {
+      "title": "De Dansende Huisjes (Tańczące domki)",
+      "body": "<p>Tańczące domki to szereg krzywych starych kamienic, które opierają się o siebie. Przyczyna leży pod ziemią: Amsterdam stoi na drewnianych palach, a twarda warstwa piasku, która może utrzymać dom, leży na głębokości około 13 metrów. Pale, które do niej nie sięgają albo przez stulecia gniją, sprawiają, że dom osiada nierówno. I co z tego wychodzi? Rząd tańczących domków.</p>"
+    },
+    "million-dollar-view": {
+      "title": "Widok za milion",
+      "body": "<p>Francuski malarz <a href=\"https://nl.wikipedia.org/wiki/Claude_Monet\" target=\"_blank\" rel=\"noopener\">Claude Monet</a> namalował około 1874 roku południową wieżę z kościołem w tle, w widoku na Groenburgwal.</p>"
+    },
+    "hotel-de-leurope-amsterdam": {
+      "title": "Hotel de L’Europe Amsterdam",
+      "body": "<p>Na wprost widzimy słynny luksusowy hotel, który kupił piwny magnat Freddy Heineken. W budynku mieści się „Freddy’s Bar”, a do niedawna można było tam wypić drinka z dobrym cygarem (choć w większości miejsc palenie w środku było zakazane… 😉).</p>"
+    },
+    "grimburgwal": {
+      "title": "Grimburgwal",
+      "body": "<p>Teraz naprawdę wpływamy do najstarszej części miasta. Po prawej dawny szpital Binnengasthuis, który działał od średniowiecza do 1981 roku, a dziś mieszkają w nim studenci.</p>"
+    },
+    "stadsbank-van-lening": {
+      "title": "Stadsbank van Lening (Miejski Lombard)",
+      "body": "<p>Wpływając na Oudezijds Voorburgwal, po lewej widzimy Stadsbank van Lening (lombard) z 1614 roku, najstarszego wciąż działającego pożyczkodawcę Amsterdamu. Można tu zastawić coś wartościowego, na przykład zegarek, w zamian za pożyczkę. (Pożyczoną kwotę trzeba spłacić z niewielkimi odsetkami, w przeciwnym razie zastawiony przedmiot zostanie sprzedany… niestety!)</p>"
+    },
+    "coffeeshop-the-bulldog-the-first": {
+      "title": "Coffeeshop The Bulldog „The First”",
+      "body": "<p>Jedno z pierwszych miejsc w Amsterdamie, gdzie tolerowano sprzedaż haszyszu. Właściciel, Henk de Vries, to zamożny pionier ze sporym imperium: kilkoma coffeeshopami, hotelem i statkami wycieczkowymi w Amsterdamie.</p>"
+    },
+    "de-oude-kerk": {
+      "title": "Oude Kerk (Stary Kościół)",
+      "body": "<p>To najstarszy zachowany budynek kościelny w Amsterdamie. Zbudowano go około 1306 roku i nadal służy jako kościół. Pierwotnie nazywał się kościołem św. Mikołaja, ale stał się Starym Kościołem, gdy zbudowano obecną Bazylikę św. Mikołaja.</p>"
+    },
+    "gevelstenen": {
+      "title": "Kamienie fasadowe",
+      "body": "<p>Kamienie na fasadach służyły siedemnastowiecznym mieszkańcom za punkty orientacyjne. Małe dzieła sztuki pokazywały, gdzie piekarz sprzedawał chleb, a gdzie można było oddać buty do naprawy.</p>"
+    },
+    "zeedijk-bridge-lock": {
+      "title": "Most i śluza Zeedijk",
+      "body": "<p>Przed nami najstarsza śluza morska i wysoki most. Most jest tak wysoki, bo zbudowano go w pierwotnej grobli Zeedijk, by przepuszczać statki na Zuiderzee i z powrotem.</p>"
+    },
+    "saint-nicholas-church": {
+      "title": "Bazylika św. Mikołaja",
+      "body": "<p>Po lewej widać Bazylikę św. Mikołaja (Sint-Nicolaaskerk), katolicką bazylikę zbudowaną około 1885 roku. Święty Mikołaj jest patronem żeglarzy i naszego miasta.</p>"
+    },
+    "victoria-hotel-amsterdam": {
+      "title": "Victoria Hotel Amsterdam",
+      "body": "<p>To jeden z najstarszych nowoczesnych hoteli w Holandii, otwarty w 1890 roku. Był też pierwszym hotelem z oświetleniem elektrycznym w każdym pokoju. Wciąż widać, że hotel zbudowano wokół kilku starych domów: ich właściciele żądali wtedy tyle pieniędzy, że postanowiono je obudować. Ta historia odgrywa dużą rolę w filmie „Public Works”.</p>"
+    }
+  }
+}

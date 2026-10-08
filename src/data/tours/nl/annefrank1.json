@@ -1,0 +1,83 @@
+{
+  "title": "KINBoat Anne Frank Amstel-tour",
+  "menuTitle": "Anne Frank Amstel",
+  "card": {
+    "title": "KINBoat Anne Frank Huis",
+    "text": "Kies je taal in het menu en geniet van de rondvaart."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Anne Frank Huis",
+      "body": "<p>In het Anne Frank Huis schreef Anne Frank haar beroemde dagboek terwijl ze tijdens de Tweede Wereldoorlog ondergedoken zat voor de nazi’s. Het Achterhuis waar ze woonde is nu een museum, dat bezoekers van over de hele wereld trekt die meer willen weten over haar leven en over de geschiedenis van de Holocaust.</p>"
+    },
+    "de-wester": {
+      "title": "De Wester",
+      "body": "<p>De Westerkerk werd in 1631 voltooid en is bekend om zijn toren van ongeveer 85 meter, de hoogste kerktoren van de stad. Rembrandt werd hier in 1669 begraven, in een graf zonder naam.</p><p>Toen Anne Frank vlakbij in het Achterhuis ondergedoken zat, kon ze de klokken van de Westertoren horen. Ze schreef in haar dagboek hoeveel troost die haar gaven.</p>"
+    },
+    "the-canal-ring": {
+      "title": "De grachtengordel",
+      "body": "<p>De VOC (Verenigde Oost-Indische Compagnie) was een handelsonderneming die een grote rol speelde in de Gouden Eeuw van Amsterdam, en de grachtengordel is een uniek stelsel van <strong>halve ringen grachten</strong> uit de 17e eeuw, aangelegd tijdens de grootste uitbreiding van Amsterdam. Die twee hangen nauw samen: de rijkdom uit de VOC-handel betaalde mee aan de aanleg en groei van de grachtengordel, waar rijke kooplieden hun indrukwekkende huizen bouwden.</p>"
+    },
+    "high-and-dry": {
+      "title": "Hoog en droog",
+      "body": "<p>De VOC handelde vooral in specerijen en andere kostbare goederen uit Azië, die werden opgeslagen in de pakhuizen van koopmanshuizen langs de Amsterdamse grachten. Die pakhuizen hadden grote zolders en <strong>hijsbalken</strong> aan de gevel, zodat de kostbare handelswaar ‘hoog en droog’ kon worden opgeslagen.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Woonbootmuseum",
+      "body": "<p>Amsterdam heeft zo’n 2.500 woonboten. Mensen wonen hier al lang op boten, maar de woonboot kwam pas echt op na de Tweede Wereldoorlog, als oplossing voor de woningnood. In dit museum, een voormalig vrachtschip uit 1914, zie je hoe het leven op het water is.</p>"
+    },
+    "facade-stones": {
+      "title": "Gevelstenen",
+      "body": "<p>Deze gevelstenen dienden als oriëntatiepunten voor de zeventiende-eeuwse stadsbewoners. De kleine kunstwerkjes lieten zien waar de bakker zijn brood verkocht en waar je je schoenen kon laten maken.</p>"
+    },
+    "night-watch": {
+      "title": "De Nachtwacht",
+      "body": "<p>De <em>Nachtwacht</em> van Gouden Eeuw-schilder Rembrandt Harmenszoon van Rijn (1606–1669) is zonder twijfel het hart van het Rijksmuseum. Het is niet alleen het grootste en belangrijkste werk van het museum, de hele collectie is er letterlijk omheen gebouwd: de Nachtwachtzaal in de kern van het museum komt uit op de Eregalerij. Het enorme schilderij, met figuren op ware grootte, is beroemd om zijn dramatische spel van licht en schaduw en om de vernieuwende manier waarop een groep in beweging wordt getoond in plaats van een stilstaand militair tafereel.</p>",
+      "caption": "Rembrandt van Rijn: De Nachtwacht, 1642, olieverf op doek. Foto: met dank aan het Rijksmuseum, Amsterdam"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier",
+      "body": "<p>Leuke buurt om te winkelen in een typisch oud-Amsterdamse omgeving. Veel kunst-, antiek- en vintagewinkels, en ook kroegen en restaurants. Fijn om rond te slenteren en te snuffelen.</p>"
+    },
+    "de-amstelkerk": {
+      "title": "De Amstelkerk",
+      "body": "<p>Op het Amstelveld staat de enige overgebleven houten noodkerk van Amsterdam. In dit zeldzame houten gebouw worden concerten en kunsttentoonstellingen gehouden. Met zijn mooi geproportioneerde ramen lijkt het intieme gebouw op een sierlijk juwelenkistje.</p>"
+    },
+    "de-duif": {
+      "title": "De Duif",
+      "body": "<p>De Duif is een historisch katholiek kerkgebouw met een indrukwekkende gevel en klassieke architectuur.</p><p>De kerk heeft een bijzondere akoestiek en is daarom populair voor klassieke concerten en koorconcerten. Binnen zie je mooie glas-in-loodramen en een historisch Smits-orgel uit 1862, dat nog steeds wordt bespeeld.</p>"
+    },
+    "de-amstel": {
+      "title": "De Amstel",
+      "body": "<p>Van oudsher een belangrijke scheepvaartroute tussen de Zuiderzee en het achterland, en de rivier waar onze stad naar vernoemd is. Rond 1270 werd er een dam in de Amstel gelegd, waardoor het vissersdorp snel uitgroeide tot handelsstad. Het oudste document waarin Amsterdam wordt genoemd is van 1275: een tolprivilege van graaf Floris V, waardoor de inwoners in Holland geen tol meer hoefden te betalen. Daarin heet de plaats <em>Amestelledamme</em> (‘dam in de Amstel’), een naam die langzaam Amsterdam werd. Rond 1300 volgden de stadsrechten.</p>"
+    },
+    "de-magere-brug": {
+      "title": "De Magere Brug",
+      "body": "<p>De Magere Brug dankt zijn naam waarschijnlijk aan de heel smalle houten brug die hier in 1691 voor het eerst werd gebouwd. Volgens een bekende legende betaalden twee zussen Mager, die aan weerszijden van de rivier woonden, de brug zodat ze elkaar konden opzoeken; een leuk verhaal, maar er is geen bewijs voor.</p><p>De brug is wereldberoemd uit de James Bond-film ‘Diamonds Are Forever’ (1971). En de nieuwste legende van allemaal: zijn er verliefde stelletjes aan boord, geef elkaar dan precies onder de brug een kus, en je blijft de rest van je leven verliefd!</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>In de 17e eeuw bleven veel Amsterdamse vrouwen alleen achter: hun mannen gingen naar zee en een groot deel van hen kwam nooit terug. Om voor oude vrouwen te zorgen bouwden de diakenen van de Gereformeerde Kerk hier de Amstelhof, begonnen in 1681 op wat toen goedkope grond aan de overkant van de Amstel was. Tot 2007 was het een bejaardenhuis.</p><p>In 2009 ging het gebouw weer open als Hermitage Amsterdam, een dependance van de Hermitage in Sint-Petersburg. Na de Russische inval in Oekraïne in 2022 verbrak het museum de banden met Rusland en heet het H’ART Museum.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Stadhuis & Nationale Opera & Ballet",
+      "body": "<p>Het huidige Koninklijk Paleis op de Dam was oorspronkelijk het stadhuis van Amsterdam. Begin 19e eeuw verhuisde het stadhuis naar de Oudezijds Voorburgwal; dat gebouw werd op den duur te klein, en in de jaren tachtig ontwierpen de architecten Holzbauer, Holt en Cees Dam een nieuw stadhuis op de plek van het Waterlooplein/Oude Vlooienburg. Het gebouw heeft een dubbele functie: stadhuis van Amsterdam en theater van De Nationale Opera & Ballet.</p>"
+    },
+    "de-herengracht": {
+      "title": "De Herengracht",
+      "body": "<p>We varen nu op de Herengracht, onderdeel van de prestigieuze stadsuitbreiding van het begin van de 17e eeuw. Dit stuk loopt van de Leidsegracht tot de Amstel, en je ziet hier vooral heel grote panden: het stadsbestuur gaf hier alleen grote kavels uit, om de rijke koopmansfamilies aan te trekken.</p><p><strong>Volksverhaal:</strong> de belasting zou gebaseerd zijn op de breedte van het huis en het aantal ramen, en zelfs een dubbele trap zou extra belast zijn. Gidsen vertellen het graag, maar historici twijfelen eraan; de hoge grondprijs langs de gracht is de waarschijnlijkere reden dat de meeste huizen zo smal zijn.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "De Reguliersgracht",
+      "body": "<p>Een van de mooiste grachten, beroemd om zijn zeven gelijke boogbruggen. In 1901 wilde het stadsbestuur deze gracht dempen voor de nieuwe elektrische tram, maar dankzij veel protest ging dat gelukkig niet door. ’s Avonds is het hier prachtig, want dan zijn de bogen verlicht; vanaf het Thorbeckeplein is dat een schitterend gezicht!</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>In deze voormalige distilleerderij drink je traditionele jenever (oude jenever is beter!), bier, en eet je hun beroemde fondue of bitterballen. De Negen Straatjes hebben een gezellige sfeer met een levendige mix van toeristen en Amsterdammers.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti",
+      "body": "<p>Huis Bartolotti werd rond 1617 gebouwd voor Willem van den Heuvel tot Beichlingen, een van de rijkste Amsterdammers van zijn tijd. Hij had een fortuin geërfd van een kinderloze aangetrouwde oom, Giovanni Battista Bartolotti, een koopman uit Bologna. Het ontwerp wordt toegeschreven aan Hendrick de Keyser, dezelfde architect die de Montelbaanstoren zijn top gaf.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Meer over Huis Bartolotti</a></p>"
+    }
+  }
+}

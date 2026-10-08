@@ -1,0 +1,83 @@
+{
+  "title": "KINBoat – rejs Anne Frank i Amstel",
+  "menuTitle": "Anne Frank i Amstel",
+  "card": {
+    "title": "KINBoat Dom Anne Frank",
+    "text": "Wybierz swój język w menu i ciesz się rejsem."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Dom Anne Frank",
+      "body": "<p>W Domu Anne Frank Anne Frank pisała swój słynny pamiętnik, ukrywając się przed nazistami w czasie II wojny światowej. Tajny aneks, w którym mieszkała, jest dziś muzeum, które przyciąga gości z całego świata chcących poznać jej życie i historię Holokaustu.</p>"
+    },
+    "de-wester": {
+      "title": "Westerkerk",
+      "body": "<p>Westerkerk ukończono w 1631 roku; słynie z wieży o wysokości około 85 metrów, najwyższej wieży kościelnej w mieście. Rembrandta pochowano tu w 1669 roku, w nieoznaczonym grobie.</p><p>Ukrywając się w pobliskim tajnym aneksie, Anne Frank słyszała dzwony Westertoren. W pamiętniku pisała, ile dawały jej otuchy.</p>"
+    },
+    "the-canal-ring": {
+      "title": "Pierścień kanałów",
+      "body": "<p>VOC (Holenderska Kompania Wschodnioindyjska) była przedsiębiorstwem handlowym, które odegrało wielką rolę w złotym wieku Amsterdamu, a pierścień kanałów to wyjątkowy układ <strong>półkolistych kanałów</strong> z XVII wieku, powstały podczas największej rozbudowy miasta. Jedno łączy się z drugim: bogactwo z handlu VOC bezpośrednio przyczyniło się do budowy i rozwoju pierścienia kanałów, nad którym bogaci kupcy wznosili swoje imponujące domy.</p>"
+    },
+    "high-and-dry": {
+      "title": "Wysoko i sucho",
+      "body": "<p>VOC handlowała głównie przyprawami i innymi cennymi towarami z Azji, które składowano w magazynach kupieckich domów nad amsterdamskimi kanałami. Magazyny miały duże strychy i <strong>belki z bloczkami</strong> na fasadach, by cenne towary przechowywać „wysoko i sucho”.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Muzeum Łodzi Mieszkalnych",
+      "body": "<p>W Amsterdamie jest około 2500 łodzi mieszkalnych. Ludzie mieszkają tu na łodziach od dawna, ale prawdziwy rozkwit nastąpił po II wojnie światowej, jako odpowiedź na brak mieszkań. W tym muzeum, dawnym statku towarowym z 1914 roku, można zobaczyć, jak wygląda życie na wodzie.</p>"
+    },
+    "facade-stones": {
+      "title": "Kamienie fasadowe",
+      "body": "<p>Kamienie na fasadach służyły siedemnastowiecznym mieszkańcom za punkty orientacyjne. Małe dzieła sztuki pokazywały, gdzie piekarz sprzedawał chleb, a gdzie można było oddać buty do naprawy.</p>"
+    },
+    "night-watch": {
+      "title": "Straż nocna",
+      "body": "<p>Bez wątpienia <em>Straż nocna</em> malarza złotego wieku Rembrandta Harmenszoona van Rijna (1606–1669) jest sercem Rijksmuseum. To nie tylko największe i najważniejsze dzieło muzeum – cała kolekcja jest dosłownie zbudowana wokół niego: Sala Straży Nocnej w samym środku muzeum otwiera się na Galerię Honorową. Ogromny obraz z postaciami naturalnej wielkości słynie z dramatycznej gry światła i cienia oraz z nowatorskiego ukazania grupy w ruchu zamiast statycznej sceny wojskowej.</p>",
+      "caption": "Rembrandt van Rijn: Straż nocna, 1642, olej na płótnie. Zdjęcie: dzięki uprzejmości Rijksmuseum, Amsterdam"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier",
+      "body": "<p>Przyjemna dzielnica z dobrymi sklepami w typowej scenerii starego Amsterdamu. Duży wybór galerii, antykwariatów i sklepów vintage, a także pubów i restauracji. Świetna na spacer i oglądanie wystaw.</p>"
+    },
+    "de-amstelkerk": {
+      "title": "Amstelkerk",
+      "body": "<p>Na placu Amstelveld stoi jedyny zachowany w Amsterdamie drewniany kościół tymczasowy. W tej rzadkiej drewnianej budowli odbywają się koncerty i wystawy sztuki. Z pięknie proporcjonalnymi oknami kameralny budynek przypomina elegancką szkatułkę na biżuterię.</p>"
+    },
+    "de-duif": {
+      "title": "De Duif",
+      "body": "<p>De Duif („Gołębica”) to zabytkowy kościół katolicki z imponującą fasadą i klasyczną architekturą.</p><p>Kościół ma wyjątkową akustykę, dlatego chętnie odbywają się tu koncerty muzyki klasycznej i chóralnej. We wnętrzu są piękne witraże i zabytkowe organy Smitsa z 1862 roku, na których gra się do dziś.</p>"
+    },
+    "de-amstel": {
+      "title": "Amstel",
+      "body": "<p>Od dawna ważny szlak żeglugowy między Zuiderzee a zapleczem i rzeka, od której nasze miasto wzięło nazwę. Około 1270 roku na Amstel zbudowano tamę, dzięki czemu wioska rybacka szybko stała się miastem handlowym. Najstarszy dokument wymieniający Amsterdam pochodzi z 1275 roku: to przywilej celny hrabiego Florisa V, zwalniający mieszkańców z cła w Holandii. Miejscowość nazwano w nim <em>Amestelledamme</em> („tama na Amstel”) – z czasem ta nazwa przeszła w Amsterdam. Prawa miejskie przyszły około 1300 roku.</p>"
+    },
+    "de-magere-brug": {
+      "title": "Magere Brug („Chudy Most”)",
+      "body": "<p>Magere Brug, „Chudy Most”, zawdzięcza nazwę prawdopodobnie bardzo wąskiemu drewnianemu mostowi, który zbudowano tu po raz pierwszy w 1691 roku. Popularna legenda mówi, że zapłaciły za niego dwie siostry o nazwisku Mager, mieszkające po przeciwnych stronach rzeki, by móc się odwiedzać; ładna historia, ale brak na nią dowodów.</p><p>Most jest znany na całym świecie z filmu o Jamesie Bondzie „Diamenty są wieczne” (1971). A najnowsza legenda: jeśli na pokładzie są zakochane pary, pocałujcie się dokładnie pod mostem, a będziecie zakochani do końca życia!</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>W XVII wieku wiele amsterdamskich kobiet zostawało samych: mężowie wypływali w morze, a duża część z nich nigdy nie wracała. Aby zaopiekować się starszymi kobietami, diakoni Kościoła reformowanego zbudowali tu Amstelhof, rozpoczęty w 1681 roku na tanich wówczas gruntach po drugiej stronie Amstel. Do 2007 roku był to dom opieki.</p><p>W 2009 roku budynek otwarto ponownie jako Hermitage Amsterdam, filię petersburskiego Ermitażu. Po rosyjskiej inwazji na Ukrainę w 2022 roku muzeum zerwało więzi z Rosją i zmieniło nazwę na H’ART Museum.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Ratusz i Narodowa Opera i Balet",
+      "body": "<p>Obecny Pałac Królewski na placu Dam był pierwotnie ratuszem Amsterdamu. Na początku XIX wieku ratusz przeniesiono na Oudezijds Voorburgwal; z czasem ten budynek stał się za mały i w latach 80. architekci Holzbauer, Holt i Cees Dam zaprojektowali nowy ratusz w miejscu Waterlooplein/Oude Vlooienburg. Budynek ma podwójną funkcję: jest ratuszem Amsterdamu i teatrem Narodowej Opery i Baletu.</p>"
+    },
+    "de-herengracht": {
+      "title": "Herengracht",
+      "body": "<p>Płyniemy teraz Herengracht, częścią prestiżowej rozbudowy miasta z początku XVII wieku. Ten odcinek biegnie od Leidsegracht do Amstel i widać tu głównie bardzo duże kamienice: władze miasta wydzielały tu tylko duże działki, by przyciągnąć bogate rodziny kupieckie.</p><p><strong>Popularna opowieść:</strong> podatek miał zależeć od szerokości domu i liczby okien, a nawet podwójne schody miały być dodatkowo opodatkowane. Przewodnicy chętnie to powtarzają, ale historycy mają wątpliwości; bardziej prawdopodobnym powodem, dla którego większość domów jest tak wąska, są wysokie ceny gruntu nad kanałem.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "Reguliersgracht",
+      "body": "<p>Jeden z najpiękniejszych kanałów, słynny z siedmiu identycznych łukowych mostów. W 1901 roku władze miasta chciały go zasypać pod nowy tramwaj elektryczny, ale na szczęście po licznych protestach plan upadł. Wieczorem jest tu przepięknie, bo łuki są podświetlone; z placu Thorbeckeplein to wspaniały widok!</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>W tej dawnej destylarni można spróbować tradycyjnej jenever (holenderskiego ginu – starsza jest lepsza!), piwa i słynnego fondue albo bitterballen. Okolica Dziewięciu Uliczek ma przytulną atmosferę i żywą mieszankę turystów i miejscowych.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti (Dom Bartolottich)",
+      "body": "<p>Dom Bartolottich zbudowano około 1617 roku dla Willema van den Heuvela tot Beichlingen, jednego z najbogatszych ówczesnych amsterdamczyków, który odziedziczył fortunę po bezdzietnym wuju przez małżeństwo, Giovannim Battiście Bartolottim, kupcu z Bolonii. Projekt przypisuje się Hendrickowi de Keyserowi, temu samemu architektowi, który zwieńczył Montelbaanstoren.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Więcej o Domu Bartolottich</a></p>"
+    }
+  }
+}

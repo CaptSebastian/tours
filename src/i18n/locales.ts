@@ -28,8 +28,11 @@ export const locales: Locale[] = [
   { code: 'uk', name: 'Українська', english: 'Ukrainian', enabled: true },
   { code: 'el', name: 'Ελληνικά', english: 'Greek', enabled: true },
   { code: 'ja', name: '日本語', english: 'Japanese', enabled: true },
+  { code: 'pl', name: 'Polski', english: 'Polish', enabled: true },
+  { code: 'hi', name: 'हिन्दी', english: 'Hindi', enabled: true },
+  { code: 'sv', name: 'Svenska', english: 'Swedish', enabled: true },
   // Nederlands: de tips zijn al vertaald, de tours nog niet.
-  { code: 'nl', name: 'Nederlands', english: 'Dutch', enabled: false },
+  { code: 'nl', name: 'Nederlands', english: 'Dutch', enabled: true },
 ];
 
 export const enabledLocales = locales.filter((l) => l.enabled || l.code === defaultLocale);

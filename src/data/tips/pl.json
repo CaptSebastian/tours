@@ -1,0 +1,423 @@
+{
+  "categories": {
+    "coffee": {
+      "name": "Kawa i lunch"
+    },
+    "dutch": {
+      "name": "Kuchnia holenderska"
+    },
+    "bitterballen": {
+      "name": "Bitterballen",
+      "note": "Wybór z dwóch rankingów. Które są najlepsze – kwestia gustu."
+    },
+    "fine": {
+      "name": "Kuchnia wykwintna",
+      "note": "Menu degustacyjne kosztuje około 100–250 € za osobę. Rezerwuj co najmniej dwa tygodnie wcześniej. Strój: smart casual."
+    },
+    "view": {
+      "name": "Na luzie z widokiem"
+    },
+    "indo": {
+      "name": "Kuchnia indonezyjska"
+    },
+    "chicken": {
+      "name": "Kurczak"
+    },
+    "zeedijk": {
+      "name": "Zeedijk"
+    },
+    "shopping": {
+      "name": "Zakupy"
+    },
+    "markets": {
+      "name": "Targi",
+      "note": "Godziny pochodzą z różnych źródeł. Sprawdź je przed wyjściem."
+    },
+    "special": {
+      "name": "Wyjątkowe miejsca i muzea"
+    },
+    "out": {
+      "name": "Wyjście wieczorem i kino"
+    },
+    "cafes": {
+      "name": "Typowe amsterdamskie kawiarnie"
+    },
+    "sunset": {
+      "name": "Zachód słońca i miejsca na zdjęcia"
+    }
+  },
+  "items": {
+    "de-koffieschenkerij": {
+      "name": "De Koffieschenkerij",
+      "text": "Codziennie 9:00–18:00. Kawa i ciasto w dawnej zakrystii Oude Kerk, z ukrytym dziedzińcem."
+    },
+    "cafe-winkel-43": {
+      "name": "Café Winkel 43",
+      "text": "Słynie z szarlotki; ogródek na placu targowym przy Noorderkerk. Bez rezerwacji – po prostu siadaj."
+    },
+    "rudi-s-original-stroopwafels": {
+      "name": "Rudi's Original Stroopwafels",
+      "text": "Świeżo pieczone stroopwafels z food trucka na targu, według tajnego przepisu z Goudy. To nie sklep dla turystów z balonami."
+    },
+    "de-laatste-kruimel": {
+      "name": "De Laatste Kruimel",
+      "text": "Przytulna kawiarnia na śniadanie i lunch: kanapki, quiche i domowa lemoniada. Mały ogródek nad kanałem."
+    },
+    "cafe-americain": {
+      "name": "Café Americain",
+      "text": "Klasyczna grand café w American Hotel, z wnętrzem art déco z 1928 roku, lampami Tiffany i ogródkiem na placu. Kawa, lunch, popołudniowa herbata i kolacja."
+    },
+    "the-kitchen-at-de-bijenkorf": {
+      "name": "The Kitchen at De Bijenkorf",
+      "text": "Na najwyższym piętrze domu towarowego. Kawa i kawałek ciasta z widokiem na miasto i małym tarasem. Sprawdź godziny otwarcia, źródła podają różne."
+    },
+    "restaurant-moeders": {
+      "name": "Restaurant Moeders",
+      "text": "Pn–pt 17:00–22:00, sb–nd 16:30–22:00. Stamppot, duszona wołowina i tosty francuskie. Rezerwuj z dużym wyprzedzeniem."
+    },
+    "de-blauwe-hollander": {
+      "name": "De Blauwe Hollander",
+      "text": "Duże porcje stamppot."
+    },
+    "heertje-friet": {
+      "name": "Heertje Friet",
+      "text": "Blisko Dziewięciu Uliczek. Moim zdaniem najlepsze frytki w mieście: świeże, krojone ręcznie, z wybranym sosem (joppie, oorlog, frietsaus). Miejsca siedzące, także na zewnątrz nad kanałem. Codziennie 11:00–20:00."
+    },
+    "febo": {
+      "name": "FEBO",
+      "text": "Klasyczna ściana z automatami na późne wieczory: krokiet, frikandel albo krokiet satay z małego okienka. Otwarte do późnej nocy, sprawdź godziny."
+    },
+    "stubbe-s-haring": {
+      "name": "Stubbe's Haring",
+      "text": "Przy Haarlemmersluis. Stoisko ze śledziem od ponad stu lat. Hollandse Nieuwe z cebulą i ogórkiem konserwowym albo w bułce. Je się na stojąco, bez miejsc siedzących. Sprawdź godziny otwarcia."
+    },
+    "vishuisje-simon-en-simon": {
+      "name": "Vishuisje Simon en Simon",
+      "text": "Małe stoisko ze śledziem na moście nad Prinsengracht, prowadzone przez ojca i syna. Dobra kanapka ze śledziem według gości i miejscowych. Sprawdź godziny otwarcia."
+    },
+    "proeflokaal-a-van-wees": {
+      "name": "Proeflokaal A. van Wees",
+      "text": "Zabytkowa degustatornia z bitterballen z dzika, krewetek tygrysich, klasyczną wołową i wegetariańską z grzybami i bakłażanem. Także miejsce, by spróbować naprawdę dobrej jenever."
+    },
+    "cafe-luxembourg": {
+      "name": "Café Luxembourg",
+      "text": "Słynna kawiarnia z trzema nagradzanymi bitterballen: wołowymi, krewetkowymi i z holenderskim serem."
+    },
+    "eetsalon-van-dobben": {
+      "name": "Eetsalon Van Dobben",
+      "text": "Bar z przekąskami od 1945 roku, który dostarcza bitterballen także do innych kawiarni."
+    },
+    "cafe-de-tuin": {
+      "name": "Café de Tuin",
+      "text": "Brązowa kawiarnia (bruin café) w Jordaan z tradycyjnymi bitterballen z wołowym ragout."
+    },
+    "flore": {
+      "name": "Flore",
+      "text": "W Hotelu De L'Europe nad Amstel. Dawniej Bord'Eau. Szef kuchni Bas van Kranen, dwie gwiazdki Michelin."
+    },
+    "vinkeles": {
+      "name": "Vinkeles",
+      "text": "Dwie gwiazdki Michelin w zagłębionej XVIII-wiecznej piekarni. Tylko kolacje, wt–sb 19:00–22:00."
+    },
+    "rijks": {
+      "name": "RIJKS",
+      "text": "W Rijksmuseum. Szef kuchni Joris Bijdendijk został w 2025 roku szefem kuchni roku."
+    },
+    "de-kas": {
+      "name": "De Kas",
+      "text": "We Frankendael. Gwiazdka Michelin i zielona gwiazdka, kuchnia ekologiczna w szklarni."
+    },
+    "lars": {
+      "name": "Lars",
+      "text": "W Houthavens. Gwiazdka Michelin."
+    },
+    "showw": {
+      "name": "Showw",
+      "text": "Gwiazdka Michelin."
+    },
+    "more-at-de-l-europe": {
+      "name": "More at De L'Europe",
+      "text": "Hoofdstad Brasserie (lżejsza), Hèt Terras (duży taras nad Amstel), Freddy's Bar i Chapter 1896 (koktajle z widokiem na Amstel)."
+    },
+    "the-duchess": {
+      "name": "The Duchess",
+      "text": "Naprzeciw Hotelu W. Francusko-włoska brasserie (€€€) w dawnej sali bankowej w stylu belle époque, z ciemnym marmurem, żyrandolami i otwartą kuchnią. Słynie z beef Wellington. Pn–czw 17:00–1:00, pt–sb 12:00–2:00, nd 12:00–1:00. Rezerwacje: +31 20 811 3322. W weekendy popołudniowa herbata."
+    },
+    "de-silveren-spiegel": {
+      "name": "De Silveren Spiegel",
+      "text": "Kreatywna kuchnia francuska (€€€) w dwóch kamienicach ze schodkowymi szczytami z 1614 roku, z kominkiem, świecami i mnóstwem naturalnego wina. W przewodniku Michelin, bez gwiazdki. Wt–czw 18:00–23:00, pt–sb 12:30–22:00, nieczynne w nd i pn."
+    },
+    "ron-gastrobar": {
+      "name": "Ron Gastrobar",
+      "text": "Blisko Vondelpark. Gastrobar szefa kuchni Rona Blaauwa: jakość bez sztywności, małe dania do dzielenia, sezonowane steki i ryby."
+    },
+    "toscanini": {
+      "name": "Toscanini",
+      "text": "W Jordaan. Autentyczna kuchnia włoska od 1985 roku, z otwartą kuchnią, sezonowymi daniami regionalnymi i domowym chlebem. Trudno o stolik, więc rezerwuj wcześnie."
+    },
+    "mr-porter": {
+      "name": "Mr. Porter",
+      "text": "W penthousie Hotelu W. Steakhouse i bar koktajlowy z wołowiną dry-aged i tarasem na dachu z widokiem na Dam i Dziewięć Uliczek. Recenzenci chwalą steki z bydła wypasanego na trawie, carpaccio z cukinii i fondant czekoladowy."
+    },
+    "pllek": {
+      "name": "Pllek",
+      "text": "Amsterdam-Noord, blisko stoczni NDSM (promem przez IJ). Ekologiczna i zrównoważona restauracja w surowym, industrialnym otoczeniu, z miejską plażą i widokiem na IJ."
+    },
+    "de-belhamel": {
+      "name": "De Belhamel",
+      "text": "Na rogu z Herengracht. Sezonowa kuchnia holenderska z wpływami śródziemnomorskimi, we wnętrzu w stylu secesji z widokiem na kanał. Spokojne miejsce z dala od tłumów."
+    },
+    "hannekes-boom": {
+      "name": "Hannekes Boom",
+      "text": "Tuż przy Dworcu Centralnym. Rustykalna kawiarnia zbudowana z materiałów z odzysku, z dużym tarasem nad wodą i lokalnymi, ekologicznymi produktami."
+    },
+    "kartika": {
+      "name": "Kartika",
+      "text": "Rijsttafel (indonezyjski „stół ryżowy”) od dziesięcioleci, także opcje wegetariańskie."
+    },
+    "mama-makan": {
+      "name": "Mama Makan",
+      "text": "Indonezyjska klasyka w nowoczesnym wydaniu."
+    },
+    "restaurant-max": {
+      "name": "Restaurant Max",
+      "text": "Rijsttafel w pierścieniu kanałów w wersji tradycyjnej, fusion i łagodniejszej. Znana z życzliwej obsługi i karty win dobranej do kuchni indonezyjskiej."
+    },
+    "tempo-doeloe": {
+      "name": "Tempo Doeloe",
+      "text": "Jedna z najbardziej znanych rijsttafel w mieście, ostra, z białymi obrusami. Tylko kolacje."
+    },
+    "van-t-spit": {
+      "name": "Van 't Spit",
+      "text": "Także przy Frans Halsstraat 42. Kurczak z rożna."
+    },
+    "bierfabriek": {
+      "name": "Bierfabriek",
+      "text": "Kurczak piri-piri i żeberka."
+    },
+    "ladybird-fried-chicken": {
+      "name": "Ladybird Fried Chicken",
+      "text": "W De Pijp."
+    },
+    "kip-n-drip-kid": {
+      "name": "Kip 'n Drip (KID)",
+      "text": "W De Pijp. Zdaniem wielu najlepszy burger z kurczakiem w Amsterdamie."
+    },
+    "chris-kip": {
+      "name": "Chris Kip",
+      "text": "Od 1928 roku, ekologicznie."
+    },
+    "in-t-aepjen": {
+      "name": "In 't Aepjen",
+      "text": "Jeden z dwóch zachowanych drewnianych domów w Amsterdamie (ok. 1475–1550). Jenever i piwo. Nd–czw 12:00–1:00, pt–sb 12:00–3:00."
+    },
+    "bird": {
+      "name": "Bird",
+      "text": "Autentyczna kuchnia tajska od 1998 roku, często z kolejką przed drzwiami."
+    },
+    "fo-guang-shan-he-hua-temple": {
+      "name": "Fo Guang Shan He Hua Temple",
+      "text": "Największa świątynia w stylu chińskim na kontynencie europejskim. Wstęp wolny, buty trzeba zdjąć. Wt–sb 12:00–17:00, nd 10:00–17:00, nieczynne w pn."
+    },
+    "trees": {
+      "name": "Trees",
+      "text": "Klimatyczna restauracja w zabytkowej narożnej kamienicy."
+    },
+    "amsterdamsche-vishandel-anno-1938": {
+      "name": "Amsterdamsche Vishandel Anno 1938",
+      "text": "Klasyczny sklep rybny."
+    },
+    "fromagerie-abraham-kef": {
+      "name": "Fromagerie Abraham Kef",
+      "text": "Sklep z serami od lat 50., także wino i delikatesy. Często kolejka."
+    },
+    "de-amsterdamse-muis": {
+      "name": "De Amsterdamse Muis",
+      "text": "Wystrój vintage, błękit delficki i upominki. Wt–sb 11:00–18:00."
+    },
+    "antiekcentrum": {
+      "name": "Antiekcentrum",
+      "text": "W Jordaan. Największy kryty targ antyków w Holandii, 55 sprzedawców. Wstęp wolny."
+    },
+    "alladin-s-notenhoek": {
+      "name": "Alladin's Notenhoek",
+      "text": "Oud-West (poza centrum). Rodzinna firma, w której była królowa kupowała orzechy."
+    },
+    "tony-s-chocolonely-super-store": {
+      "name": "Tony's Chocolonely Super Store",
+      "text": "Blisko Damrak, ok. 5 minut pieszo od Dworca Centralnego. Codziennie 10:00–19:00, wstęp wolny. Zrób własną tabliczkę, spróbuj czekolad i dowiedz się o problemach w branży kakao. Małe, często kolejka, strome schody, niedostępne dla wózków."
+    },
+    "albert-cuypmarkt": {
+      "name": "Albert Cuypmarkt",
+      "text": "De Pijp. Pn–sb 9:00–18:00. Z 260 stoiskami największy codzienny targ w Europie: warzywa, ubrania, kwiaty, śledź i świeże stroopwafels."
+    },
+    "noordermarkt": {
+      "name": "Noordermarkt",
+      "text": "Jordaan. Pn 9:00–13:00 (pchli targ i tkaniny), sb 9:00–16:00 (ekologiczny targ rolniczy)."
+    },
+    "waterlooplein": {
+      "name": "Waterlooplein",
+      "text": "Pn–sb w ciągu dnia. Pchli targ z ubraniami vintage, antykami i bibelotami."
+    },
+    "bloemenmarkt-flower-market": {
+      "name": "Bloemenmarkt (flower market)",
+      "text": "Pn–sb ok. 9:00–17:30, nd 11:00–17:30."
+    },
+    "dappermarkt": {
+      "name": "Dappermarkt",
+      "text": "Oost. Pn–sb 9:00–17:00. Jedzenie z całego świata, ubrania i artykuły domowe."
+    },
+    "ten-katemarkt": {
+      "name": "Ten Katemarkt",
+      "text": "Oud-West. Pn–sb."
+    },
+    "lindengracht": {
+      "name": "Lindengracht",
+      "text": "Jordaan. Tylko w soboty."
+    },
+    "westerstraat": {
+      "name": "Westerstraat",
+      "text": "Jordaan. Tylko w poniedziałki. Tkaniny, ubrania i buty."
+    },
+    "nieuwmarkt": {
+      "name": "Nieuwmarkt",
+      "text": "Sb ekologiczny targ rolniczy, nd targ antyków od maja do września."
+    },
+    "ij-hallen": {
+      "name": "IJ-Hallen",
+      "text": "Noord. Pchli targ, jeden weekend w miesiącu."
+    },
+    "poffertjes-at-the-market": {
+      "name": "Poffertjes at the market",
+      "text": "Według jednego źródła stoisko Amsterdamse Poffertjes stoi na Noordermarkt (sb), a czasem na Albert Cuypmarkt (pn, wt, czw). Sprawdź to."
+    },
+    "kattenkabinet": {
+      "name": "KattenKabinet",
+      "text": "Muzeum sztuki o kotach w kamienicy z 1667 roku, z prawdziwymi kotami. Wt–nd 12:00–17:00."
+    },
+    "hortus-botanicus": {
+      "name": "Hortus Botanicus",
+      "text": "Ogród botaniczny od 1638 roku, z motylarnią. Codziennie 10:00–17:00."
+    },
+    "museum-van-loon": {
+      "name": "Museum Van Loon",
+      "text": "Kamienica z 1672 roku z ogrodem i wozownią. Śr–nd 10:00–17:00, nieczynne w pn i wt."
+    },
+    "foam": {
+      "name": "Foam",
+      "text": "Muzeum fotografii, tuż obok Van Loon. Codziennie 10:00–18:00, czw–pt do 21:00."
+    },
+    "rijksmuseum": {
+      "name": "Rijksmuseum",
+      "text": "Codziennie 9:00–17:00. Nie przegap publicznego przejazdu dla rowerów pod muzeum."
+    },
+    "entrepotdok": {
+      "name": "Entrepotdok",
+      "text": "XIX-wieczne magazyny, dziś mieszkania i łodzie mieszkalne, obok Artis. Zawsze otwarte i bezpłatne."
+    },
+    "ndsm-werf": {
+      "name": "NDSM-werf",
+      "text": "Dawna stocznia w Amsterdam-Noord. Popłyń promem (linia F3) spod Dworca Centralnego: bezpłatnie dla pieszych i rowerzystów, co najmniej dwa razy na godzinę."
+    },
+    "reguliersdwarsstraat": {
+      "name": "Reguliersdwarsstraat",
+      "text": "Blisko Rembrandtplein. Znana ulica LGBTQ+, gdzie w 1963 roku otwarto pierwszy bar gejowski."
+    },
+    "picasso-in-the-vondelpark": {
+      "name": "Picasso in the Vondelpark",
+      "text": "Rzeźba „Figure découpée / l'Oiseau” (1965), przez miejscowych nazywana „Rybą”. Picasso podarował ją miastu na 100-lecie parku, z przyjaźni z Willemem Sandbergiem."
+    },
+    "a-dam-lookout": {
+      "name": "A'DAM Lookout",
+      "text": "Wieża widokowa z panoramą 360 stopni; dopłyniesz bezpłatnym promem spod Dworca Centralnego. Największa atrakcja to huśtawka Over The Edge: bujasz się nad krawędzią dachu na wysokości prawie 100 metrów."
+    },
+    "swimming-at-the-marineterrein": {
+      "name": "Swimming at the Marineterrein",
+      "text": "Kąpiel w wewnętrznym porcie z widokiem na Muzeum Morskie i NEMO, w samym centrum miasta. Wstęp wolny."
+    },
+    "kuuma-sauna": {
+      "name": "Kuuma Sauna",
+      "text": "Przy pomostach. Opalana drewnem sauna na wodzie wynajmowana na określony czas, samemu lub w grupie. Rezerwacja na kuuma.nl."
+    },
+    "pension-homeland": {
+      "name": "Pension Homeland",
+      "text": "Własny browar z ponad dziesięcioma piwami warzonymi na miejscu, a do tego kawiarnia, restauracja i słoneczny taras, w dawnym kasynie oficerskim."
+    },
+    "entr-vr-museum": {
+      "name": "ENTR VR Museum",
+      "text": "Tuż przy bibliotece OBA i Dworcu Centralnym. Pierwsze muzeum VR w Holandii. W „Amsterdam 1652” chodzisz z innymi gośćmi po odtworzonym XVII-wiecznym Amsterdamie. Bilety od 18 €, rezerwuj wcześniej."
+    },
+    "proeflokaal-t-arendsnest": {
+      "name": "Proeflokaal 't Arendsnest",
+      "text": "Kawiarnia serwująca wyłącznie holenderskie piwo: 52 holenderskie piwa z beczki i do tego butelki, od witbiera po stouta i IPA."
+    },
+    "coffeeshop-siberie": {
+      "name": "Coffeeshop Siberië",
+      "text": "Coffeeshop w przerobionym garażu ze świecami, dużymi drewnianymi stołami, grami i DJ-em w weekendy. Tylko 18+."
+    },
+    "het-stenen-hoofd": {
+      "name": "Het Stenen Hoofd",
+      "text": "Dawne nabrzeże portowe z 1902 roku, dziś publiczny park nad IJ i popularne miejsce na spacer z psem. Wstęp wolny."
+    },
+    "boom-chicago": {
+      "name": "Boom Chicago",
+      "text": "Amerykańska komedia z holenderskim akcentem: improwizacja i skecze po angielsku. Dni występów sprawdź na boomchicago.nl."
+    },
+    "de-hollandsche-manege": {
+      "name": "De Hollandsche Manege",
+      "text": "Neoklasycystyczna ujeżdżalnia z 1882 roku z ogólnodostępną kawiarnią i restauracją, skąd można oglądać jeźdźców."
+    },
+    "vrog": {
+      "name": "VROG",
+      "text": "Kryta przestrzeń do zabawy: trampoliny, parkour i taniec w dawnym tunelu samochodowym blisko Waterlooplein. Fajne z dziećmi, także maluchami."
+    },
+    "nemo-science-museum": {
+      "name": "NEMO Science Museum",
+      "text": "Muzeum nauki dla małych i dużych z eksperymentami, warsztatami i placem na dachu z widokiem na miasto."
+    },
+    "klimmuur-amsterdam-centraal": {
+      "name": "Klimmuur Amsterdam Centraal",
+      "text": "Duża hala wspinaczkowa blisko Dworca Centralnego ze ścianami do boulderingu i drogami (8 i 16 metrów). Dla dzieci i dorosłych, z lekcjami próbnymi."
+    },
+    "paradiso": {
+      "name": "Paradiso",
+      "text": "Koncerty i imprezy w dawnym kościele blisko Leidseplein."
+    },
+    "bitterzoet": {
+      "name": "Bitterzoet",
+      "text": "Klub i scena dla każdego rodzaju muzyki."
+    },
+    "tuschinski": {
+      "name": "Tuschinski",
+      "text": "Piękne kino art déco – warto zajrzeć do środka."
+    },
+    "the-movies": {
+      "name": "The Movies",
+      "text": "Małe kino art déco z ciemnym lakierowanym drewnem; według biura turystycznego najstarsze w Amsterdamie."
+    },
+    "cafe-papeneiland": {
+      "name": "Café Papeneiland",
+      "text": "Na rogu Brouwersgracht. Jedna z najstarszych kawiarni w mieście (1642), z kafelkami delfickimi i słynną szarlotką."
+    },
+    "cafe-t-smalle": {
+      "name": "Café 't Smalle",
+      "text": "Tradycyjna brązowa kawiarnia w dawnej destylarni z 1780 roku, z ogródkiem nad kanałem."
+    },
+    "cafe-de-prins": {
+      "name": "Café de Prins",
+      "text": "Przytulna kawiarnia blisko Westerkerk, znana ze świec i poffertjes."
+    },
+    "marineterrein-and-the-voc-ship": {
+      "name": "Marineterrein and the VOC ship",
+      "text": "Nad wodą na Marineterrein, z repliką statku VOC Amsterdam przy pobliskim Muzeum Morskim."
+    },
+    "brouwersgracht": {
+      "name": "Brouwersgracht",
+      "text": "Na rogu Herengracht i Prinsengracht. Tu spotykają się trzy kanały."
+    },
+    "damrak": {
+      "name": "Damrak",
+      "text": "Późnym popołudniem. Piękne światło na fasadach."
+    }
+  }
+}

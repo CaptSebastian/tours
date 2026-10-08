@@ -1,0 +1,79 @@
+{
+  "title": "KINBoat Anne Frank Rijksmuseum-tour",
+  "menuTitle": "Anne Frank Rijksmuseum-tour",
+  "card": {
+    "title": "KINBoat Rijksmuseum-tour",
+    "text": "Kies je taal in het menu en geniet van de rondvaart."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Anne Frank Huis",
+      "body": "<p>In het Anne Frank Huis schreef Anne Frank haar beroemde dagboek terwijl ze tijdens de Tweede Wereldoorlog ondergedoken zat voor de nazi’s. Het Achterhuis waar ze woonde is nu een museum, dat bezoekers van over de hele wereld trekt die meer willen weten over haar leven en over de geschiedenis van de Holocaust.</p>"
+    },
+    "de-wester": {
+      "title": "De Wester",
+      "body": "<p>De Westerkerk werd in 1631 voltooid en is bekend om zijn toren van ongeveer 85 meter, de hoogste kerktoren van de stad. Rembrandt werd hier in 1669 begraven, in een graf zonder naam.</p><p>Toen Anne Frank vlakbij in het Achterhuis ondergedoken zat, kon ze de klokken van de Westertoren horen. Ze schreef in haar dagboek hoeveel troost die haar gaven.</p>"
+    },
+    "the-canal-ring": {
+      "title": "De grachtengordel",
+      "body": "<p>De VOC (Verenigde Oost-Indische Compagnie) was een handelsonderneming die een grote rol speelde in de Gouden Eeuw van Amsterdam, en de grachtengordel is een uniek stelsel van <strong>halve ringen grachten</strong> uit de 17e eeuw, aangelegd tijdens de grootste uitbreiding van Amsterdam. Die twee hangen nauw samen: de rijkdom uit de VOC-handel betaalde mee aan de aanleg en groei van de grachtengordel, waar rijke kooplieden hun indrukwekkende huizen bouwden.</p>"
+    },
+    "high-and-dry": {
+      "title": "Hoog en droog",
+      "body": "<p>De VOC handelde vooral in specerijen en andere kostbare goederen uit Azië, die werden opgeslagen in de pakhuizen van koopmanshuizen langs de Amsterdamse grachten. Die pakhuizen hadden grote zolders en <strong>hijsbalken</strong> aan de gevel, zodat de kostbare handelswaar ‘hoog en droog’ kon worden opgeslagen.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Woonbootmuseum",
+      "body": "<p>Amsterdam heeft zo’n 2.500 woonboten. Mensen wonen hier al lang op boten, maar de woonboot kwam pas echt op na de Tweede Wereldoorlog, als oplossing voor de woningnood. In dit museum, een voormalig vrachtschip uit 1914, zie je hoe het leven op het water is.</p>"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier",
+      "body": "<p>Leuke buurt om te winkelen in een typisch oud-Amsterdamse omgeving. Veel kunst-, antiek- en vintagewinkels, en ook kroegen en restaurants. Fijn om rond te slenteren en te snuffelen.</p>"
+    },
+    "rijksmuseum": {
+      "title": "Rijksmuseum",
+      "body": "<p>Het Rijksmuseum werd opgericht in 1800 en is beroemd om zijn collectie schilderijen uit de Gouden Eeuw, met werken van onder anderen Rembrandt en Vermeer.</p>"
+    },
+    "night-watch": {
+      "title": "De Nachtwacht",
+      "body": "<p>De <em>Nachtwacht</em> van Gouden Eeuw-schilder Rembrandt Harmenszoon van Rijn (1606–1669) is zonder twijfel het hart van het Rijksmuseum. Het is niet alleen het grootste en belangrijkste werk van het museum, de hele collectie is er letterlijk omheen gebouwd: de Nachtwachtzaal in de kern van het museum komt uit op de Eregalerij. Het enorme schilderij, met figuren op ware grootte, is beroemd om zijn dramatische spel van licht en schaduw en om de vernieuwende manier waarop een groep in beweging wordt getoond in plaats van een stilstaand militair tafereel.</p>",
+      "caption": "Rembrandt van Rijn: De Nachtwacht, 1642, olieverf op doek. Foto: met dank aan het Rijksmuseum, Amsterdam"
+    },
+    "van-gogh-museum": {
+      "title": "Van Gogh Museum",
+      "body": "<p>Het Van Gogh Museum heeft de grootste collectie schilderijen en tekeningen van Vincent van Gogh: meer dan 200 schilderijen en 500 tekeningen.</p>"
+    },
+    "paradiso": {
+      "title": "Paradiso",
+      "body": "<p>Paradiso staat ook bekend als de poptempel van Amsterdam. Welke beroemde bands hebben er gespeeld? Daar is maar één antwoord op: welke níét? UB40, David Bowie, Nirvana, The Police, Metallica, Prince, de Red Hot Chili Peppers en de Rolling Stones. Ze hebben allemaal ooit in Paradiso gestaan.</p>"
+    },
+    "casino": {
+      "title": "Casino",
+      "body": "<p>Gokken was in Nederland lang verboden. In 1976 opende Holland Casino het eerste legale casino van het land in Zandvoort, zodat de staat het gokken kon reguleren en controleren. Het Amsterdamse casino hier bij het Leidseplein is nu het grootste van het land.</p>"
+    },
+    "the-vondelpark": {
+      "title": "Het Vondelpark",
+      "body": "<p>Het Vondelpark ging open in 1865 en is vernoemd naar de Nederlandse toneelschrijver Joost van den Vondel. In het park staat een echt beeldhouwwerk van Pablo Picasso ‘in het wild’. Picasso schonk het beeld aan de stad uit vriendschap met Willem Sandberg, de voormalige directeur van het Stedelijk Museum.</p>"
+    },
+    "singelgracht": {
+      "title": "Singelgracht",
+      "body": "<p>De Singelgracht was de buitenste gracht van Amsterdam. Hier lag een reeks bolwerken (verdedigingswerken) die deel uitmaakten van de stadsmuren. Deze vestingwerken waren een belangrijk onderdeel van de historische verdediging van Amsterdam.</p>"
+    },
+    "facade-stones": {
+      "title": "Gevelstenen",
+      "body": "<p>Deze gevelstenen dienden als oriëntatiepunten voor de zeventiende-eeuwse stadsbewoners. De kleine kunstwerkjes lieten zien waar de bakker zijn brood verkocht en waar je je schoenen kon laten maken.</p>"
+    },
+    "de-herengracht": {
+      "title": "De Herengracht",
+      "body": "<p>We varen nu op de Herengracht, onderdeel van de prestigieuze stadsuitbreiding van het begin van de 17e eeuw. Dit stuk loopt van de Leidsegracht tot de Amstel, en je ziet hier vooral heel grote panden: het stadsbestuur gaf hier alleen grote kavels uit, om de rijke koopmansfamilies aan te trekken.</p><p><strong>Volksverhaal:</strong> de belasting zou gebaseerd zijn op de breedte van het huis en het aantal ramen, en zelfs een dubbele trap zou extra belast zijn. Gidsen vertellen het graag, maar historici twijfelen eraan; de hoge grondprijs langs de gracht is de waarschijnlijkere reden dat de meeste huizen zo smal zijn.</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>In deze voormalige distilleerderij drink je traditionele jenever (oude jenever is beter!), bier, en eet je hun beroemde fondue of bitterballen. De Negen Straatjes hebben een gezellige sfeer met een levendige mix van toeristen en Amsterdammers.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti",
+      "body": "<p>Huis Bartolotti werd rond 1617 gebouwd voor Willem van den Heuvel tot Beichlingen, een van de rijkste Amsterdammers van zijn tijd. Hij had een fortuin geërfd van een kinderloze aangetrouwde oom, Giovanni Battista Bartolotti, een koopman uit Bologna. Het ontwerp wordt toegeschreven aan Hendrick de Keyser, dezelfde architect die de Montelbaanstoren zijn top gaf.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Meer over Huis Bartolotti</a></p>"
+    }
+  }
+}

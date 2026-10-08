@@ -1,0 +1,83 @@
+{
+  "title": "KINBoat Anne Frank Amstel-tur",
+  "menuTitle": "Anne Frank Amstel",
+  "card": {
+    "title": "KINBoat Anne Franks hus",
+    "text": "Välj ditt språk i menyn och njut av turen."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Anne Franks hus",
+      "body": "<p>I Anne Franks hus skrev Anne Frank sin berömda dagbok medan hon gömde sig för nazisterna under andra världskriget. Det hemliga annexet där hon bodde är i dag ett museum, som lockar besökare från hela världen som vill lära sig om hennes liv och om Förintelsens historia.</p>"
+    },
+    "de-wester": {
+      "title": "Westerkerk",
+      "body": "<p>Westerkerk stod färdig 1631 och är känd för sitt torn, omkring 85 meter högt, stadens högsta kyrktorn. Rembrandt begravdes här 1669, i en omärkt grav.</p><p>När Anne Frank gömde sig i det hemliga annexet i närheten kunde hon höra klockorna i Westertoren. Hon skrev i sin dagbok hur stor tröst de gav henne.</p>"
+    },
+    "the-canal-ring": {
+      "title": "Kanalringen",
+      "body": "<p>VOC (Nederländska Ostindiska Kompaniet) var ett handelsbolag som spelade en stor roll under Amsterdams guldålder, och kanalringen är ett unikt system av <strong>halvcirkelformade kanaler</strong> från 1600-talet som anlades under Amsterdams största utbyggnad. De två hänger nära ihop: rikedomen från VOC-handeln bidrog direkt till att bygga och utveckla kanalringen, där rika köpmän byggde sina imponerande hus.</p>"
+    },
+    "high-and-dry": {
+      "title": "Högt och torrt",
+      "body": "<p>VOC handlade främst med kryddor och andra värdefulla varor från Asien, som lagrades i köpmanshusens packhus längs Amsterdams kanaler. Packhusen hade stora vindar och <strong>hissbalkar</strong> på fasaden, så att de dyrbara varorna kunde förvaras ”högt och torrt”.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Husbåtsmuseet",
+      "body": "<p>Amsterdam har omkring 2 500 husbåtar. Man har bott på båtar här länge, men husbåtarna tog verkligen fart efter andra världskriget, som en lösning på bostadsbristen. I det här museet, ett före detta lastfartyg från 1914, ser du hur livet på vattnet är.</p>"
+    },
+    "facade-stones": {
+      "title": "Fasadstenar",
+      "body": "<p>Fasadstenarna var orienteringspunkter för stadens invånare på 1600-talet. De små konstverken visade var bagaren sålde sitt bröd och var man kunde få sina skor lagade.</p>"
+    },
+    "night-watch": {
+      "title": "Nattvakten",
+      "body": "<p>Utan tvekan är <em>Nattvakten</em> av guldåldersmålaren Rembrandt Harmenszoon van Rijn (1606–1669) hjärtat i Rijksmuseum. Det är inte bara museets största och viktigaste verk, hela samlingen är bokstavligen byggd runt den: Nattvaktssalen i museets kärna öppnar sig mot Hedersgalleriet. Den enorma målningen, med figurer i naturlig storlek, är berömd för sitt dramatiska spel mellan ljus och skugga och för att den på ett nyskapande sätt visar en grupp i rörelse i stället för en stillastående militär scen.</p>",
+      "caption": "Rembrandt van Rijn: Nattvakten, 1642, olja på duk. Foto: med tillstånd av Rijksmuseum, Amsterdam"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier",
+      "body": "<p>Trevligt kvarter för kvalitetsshopping i typisk gammal Amsterdammiljö. Bra utbud av konst-, antik- och vintagebutiker, och även pubar och restauranger. Perfekt för att strosa och titta.</p>"
+    },
+    "de-amstelkerk": {
+      "title": "Amstelkerk",
+      "body": "<p>På torget Amstelveld står Amsterdams enda bevarade nödkyrka av trä. I den sällsynta träbyggnaden hålls konserter och konstutställningar. Med sina vackert proportionerade fönster liknar den intima byggnaden ett elegant smyckeskrin.</p>"
+    },
+    "de-duif": {
+      "title": "De Duif",
+      "body": "<p>De Duif (Duvan) är en historisk katolsk kyrkobyggnad med en imponerande fasad och klassisk arkitektur.</p><p>Kyrkan har en anmärkningsvärd akustik och är därför populär för klassiska konserter och körkonserter. Inne finns vackra blyglasfönster och en historisk Smits-orgel från 1862, som fortfarande används.</p>"
+    },
+    "de-amstel": {
+      "title": "Amstel",
+      "body": "<p>Sedan länge en viktig sjöfartsled mellan Zuiderzee och inlandet, och floden som vår stad är uppkallad efter. Omkring 1270 byggdes en damm i Amstel, och fiskebyn blev snabbt en handelsstad. Det äldsta dokument som nämner Amsterdam är från 1275: ett tullprivilegium från greve Floris V som befriade invånarna från tull i Holland. Där kallas orten <em>Amestelledamme</em> (”damm i Amstel”), ett namn som så småningom blev Amsterdam. Stadsrättigheter följde omkring 1300.</p>"
+    },
+    "de-magere-brug": {
+      "title": "Magere Brug (”Magra bron”)",
+      "body": "<p>Magere Brug, ”Magra bron”, har troligen fått sitt namn efter den mycket smala träbro som först byggdes här 1691. Enligt en populär legend betalade två systrar med efternamnet Mager, som bodde på var sin sida om floden, för bron så att de kunde hälsa på varandra; en fin historia, men det finns inga bevis för den.</p><p>Bron är världsberömd från James Bond-filmen ”Diamantfeber” (1971). Och den allra nyaste legenden: finns det förälskade par ombord, kyss varandra precis under bron, så förblir ni förälskade resten av livet!</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>På 1600-talet blev många kvinnor i Amsterdam ensamma: männen gick till sjöss och en stor del av dem kom aldrig tillbaka. För att ta hand om äldre kvinnor byggde diakonerna i den reformerta kyrkan här Amstelhof, påbörjat 1681 på det som då var billig mark på andra sidan Amstel. Det var ålderdomshem ända till 2007.</p><p>2009 öppnade byggnaden igen som Hermitage Amsterdam, en filial till Eremitaget i Sankt Petersburg. Efter Rysslands invasion av Ukraina 2022 bröt museet banden med Ryssland och bytte namn till H’ART Museum.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Stadshuset & Nationella operan och baletten",
+      "body": "<p>Det nuvarande kungliga slottet på Dam var ursprungligen Amsterdams stadshus. I början av 1800-talet flyttade stadshuset till Oudezijds Voorburgwal; den byggnaden blev med tiden för liten, och på 1980-talet ritade arkitekterna Holzbauer, Holt och Cees Dam ett nytt stadshus på platsen för Waterlooplein/Oude Vlooienburg. Byggnaden har en dubbel funktion: Amsterdams stadshus och teater för Nationella operan och baletten.</p>"
+    },
+    "de-herengracht": {
+      "title": "Herengracht",
+      "body": "<p>Vi åker nu på Herengracht, en del av stadens prestigefyllda utbyggnad i början av 1600-talet. Den här sträckan går från Leidsegracht till Amstel, och här ser du främst mycket stora hus: staden delade bara ut stora tomter här, för att locka de rika köpmannafamiljerna.</p><p><strong>Populär historia:</strong> skatten sägs ha baserats på husets bredd och antalet fönster, och till och med en dubbel trappa skulle ha beskattats extra. Guider berättar det gärna, men historiker tvivlar; de höga markpriserna längs kanalen är den troligare förklaringen till att de flesta hus är så smala.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "Reguliersgracht",
+      "body": "<p>En av de vackraste kanalerna, känd för sina sju likadana bågbroar. 1901 ville staden fylla igen kanalen för den nya elektriska spårvagnen, men tack och lov stoppades planen efter många protester. På kvällen är det mycket vackert eftersom bågarna är upplysta, och från Thorbeckeplein är det en underbar syn!</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>I detta före detta destilleri kan du njuta av traditionell jenever (nederländsk gin – den äldre är bättre!), öl och deras berömda fondue eller bitterballen. Området Nio gatorna har en mysig stämning med en livlig blandning av turister och Amsterdambor.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti (Bartolottihuset)",
+      "body": "<p>Bartolottihuset byggdes omkring 1617 åt Willem van den Heuvel tot Beichlingen, en av sin tids rikaste Amsterdambor, som hade ärvt en förmögenhet efter en barnlös ingift farbror, Giovanni Battista Bartolotti, en köpman från Bologna. Ritningen tillskrivs Hendrick de Keyser, samma arkitekt som gav Montelbaanstoren dess krona.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Mer om Bartolottihuset</a></p>"
+    }
+  }
+}

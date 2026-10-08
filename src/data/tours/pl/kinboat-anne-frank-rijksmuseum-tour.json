@@ -1,0 +1,79 @@
+{
+  "title": "KINBoat – rejs Anne Frank i Rijksmuseum",
+  "menuTitle": "Anne Frank i Rijksmuseum",
+  "card": {
+    "title": "KINBoat Rijksmuseum",
+    "text": "Wybierz swój język w menu i ciesz się rejsem."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Dom Anne Frank",
+      "body": "<p>W Domu Anne Frank Anne Frank pisała swój słynny pamiętnik, ukrywając się przed nazistami w czasie II wojny światowej. Tajny aneks, w którym mieszkała, jest dziś muzeum, które przyciąga gości z całego świata chcących poznać jej życie i historię Holokaustu.</p>"
+    },
+    "de-wester": {
+      "title": "Westerkerk",
+      "body": "<p>Westerkerk ukończono w 1631 roku; słynie z wieży o wysokości około 85 metrów, najwyższej wieży kościelnej w mieście. Rembrandta pochowano tu w 1669 roku, w nieoznaczonym grobie.</p><p>Ukrywając się w pobliskim tajnym aneksie, Anne Frank słyszała dzwony Westertoren. W pamiętniku pisała, ile dawały jej otuchy.</p>"
+    },
+    "the-canal-ring": {
+      "title": "Pierścień kanałów",
+      "body": "<p>VOC (Holenderska Kompania Wschodnioindyjska) była przedsiębiorstwem handlowym, które odegrało wielką rolę w złotym wieku Amsterdamu, a pierścień kanałów to wyjątkowy układ <strong>półkolistych kanałów</strong> z XVII wieku, powstały podczas największej rozbudowy miasta. Jedno łączy się z drugim: bogactwo z handlu VOC bezpośrednio przyczyniło się do budowy i rozwoju pierścienia kanałów, nad którym bogaci kupcy wznosili swoje imponujące domy.</p>"
+    },
+    "high-and-dry": {
+      "title": "Wysoko i sucho",
+      "body": "<p>VOC handlowała głównie przyprawami i innymi cennymi towarami z Azji, które składowano w magazynach kupieckich domów nad amsterdamskimi kanałami. Magazyny miały duże strychy i <strong>belki z bloczkami</strong> na fasadach, by cenne towary przechowywać „wysoko i sucho”.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Muzeum Łodzi Mieszkalnych",
+      "body": "<p>W Amsterdamie jest około 2500 łodzi mieszkalnych. Ludzie mieszkają tu na łodziach od dawna, ale prawdziwy rozkwit nastąpił po II wojnie światowej, jako odpowiedź na brak mieszkań. W tym muzeum, dawnym statku towarowym z 1914 roku, można zobaczyć, jak wygląda życie na wodzie.</p>"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier",
+      "body": "<p>Przyjemna dzielnica z dobrymi sklepami w typowej scenerii starego Amsterdamu. Duży wybór galerii, antykwariatów i sklepów vintage, a także pubów i restauracji. Świetna na spacer i oglądanie wystaw.</p>"
+    },
+    "rijksmuseum": {
+      "title": "Rijksmuseum",
+      "body": "<p>Rijksmuseum założono w 1800 roku; słynie z kolekcji malarstwa holenderskiego złotego wieku, w tym dzieł Rembrandta i Vermeera.</p>"
+    },
+    "night-watch": {
+      "title": "Straż nocna",
+      "body": "<p>Bez wątpienia <em>Straż nocna</em> malarza złotego wieku Rembrandta Harmenszoona van Rijna (1606–1669) jest sercem Rijksmuseum. To nie tylko największe i najważniejsze dzieło muzeum – cała kolekcja jest dosłownie zbudowana wokół niego: Sala Straży Nocnej w samym środku muzeum otwiera się na Galerię Honorową. Ogromny obraz z postaciami naturalnej wielkości słynie z dramatycznej gry światła i cienia oraz z nowatorskiego ukazania grupy w ruchu zamiast statycznej sceny wojskowej.</p>",
+      "caption": "Rembrandt van Rijn: Straż nocna, 1642, olej na płótnie. Zdjęcie: dzięki uprzejmości Rijksmuseum, Amsterdam"
+    },
+    "van-gogh-museum": {
+      "title": "Muzeum Van Gogha",
+      "body": "<p>Muzeum Van Gogha ma największą kolekcję obrazów i rysunków Vincenta van Gogha: ponad 200 obrazów i 500 rysunków artysty.</p>"
+    },
+    "paradiso": {
+      "title": "Paradiso",
+      "body": "<p>Paradiso w Amsterdamie nazywane jest też świątynią muzyki pop. Jakie słynne zespoły tu grały? Jest tylko jedna możliwa odpowiedź: które tu nie grały? UB40, David Bowie, Nirvana, The Police, Metallica, Prince, Red Hot Chili Peppers i Rolling Stones. Wszyscy oni wystąpili kiedyś w Paradiso.</p>"
+    },
+    "casino": {
+      "title": "Kasyno",
+      "body": "<p>Hazard był w Holandii długo nielegalny. W 1976 roku Holland Casino otworzyło pierwsze legalne kasyno w kraju, w Zandvoort, by państwo mogło regulować i nadzorować gry. Amsterdamskie kasyno tu, przy Leidseplein, jest dziś największe w kraju.</p>"
+    },
+    "the-vondelpark": {
+      "title": "Vondelpark",
+      "body": "<p>Vondelpark otwarto w 1865 roku i nazwano na cześć holenderskiego dramatopisarza Joosta van den Vondela. W parku stoi autentyczna rzeźba Pabla Picassa „na wolnym powietrzu”. Picasso podarował ją miastu na znak przyjaźni z Willemem Sandbergiem, byłym dyrektorem Stedelijk Museum.</p>"
+    },
+    "singelgracht": {
+      "title": "Singelgracht",
+      "body": "<p>Singelgracht był najbardziej zewnętrznym kanałem Amsterdamu; stał przy nim szereg bastionów (umocnień), które należały do murów miejskich. Te fortyfikacje były ważną częścią historycznej obrony Amsterdamu.</p>"
+    },
+    "facade-stones": {
+      "title": "Kamienie fasadowe",
+      "body": "<p>Kamienie na fasadach służyły siedemnastowiecznym mieszkańcom za punkty orientacyjne. Małe dzieła sztuki pokazywały, gdzie piekarz sprzedawał chleb, a gdzie można było oddać buty do naprawy.</p>"
+    },
+    "de-herengracht": {
+      "title": "Herengracht",
+      "body": "<p>Płyniemy teraz Herengracht, częścią prestiżowej rozbudowy miasta z początku XVII wieku. Ten odcinek biegnie od Leidsegracht do Amstel i widać tu głównie bardzo duże kamienice: władze miasta wydzielały tu tylko duże działki, by przyciągnąć bogate rodziny kupieckie.</p><p><strong>Popularna opowieść:</strong> podatek miał zależeć od szerokości domu i liczby okien, a nawet podwójne schody miały być dodatkowo opodatkowane. Przewodnicy chętnie to powtarzają, ale historycy mają wątpliwości; bardziej prawdopodobnym powodem, dla którego większość domów jest tak wąska, są wysokie ceny gruntu nad kanałem.</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>W tej dawnej destylarni można spróbować tradycyjnej jenever (holenderskiego ginu – starsza jest lepsza!), piwa i słynnego fondue albo bitterballen. Okolica Dziewięciu Uliczek ma przytulną atmosferę i żywą mieszankę turystów i miejscowych.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti (Dom Bartolottich)",
+      "body": "<p>Dom Bartolottich zbudowano około 1617 roku dla Willema van den Heuvela tot Beichlingen, jednego z najbogatszych ówczesnych amsterdamczyków, który odziedziczył fortunę po bezdzietnym wuju przez małżeństwo, Giovannim Battiście Bartolottim, kupcu z Bolonii. Projekt przypisuje się Hendrickowi de Keyserowi, temu samemu architektowi, który zwieńczył Montelbaanstoren.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Więcej o Domu Bartolottich</a></p>"
+    }
+  }
+}

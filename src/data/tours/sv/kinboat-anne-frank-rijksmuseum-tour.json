@@ -1,0 +1,79 @@
+{
+  "title": "KINBoat Anne Frank Rijksmuseum-tur",
+  "menuTitle": "Anne Frank Rijksmuseum-tur",
+  "card": {
+    "title": "KINBoat Rijksmuseum-tur",
+    "text": "Välj ditt språk i menyn och njut av turen."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Anne Franks hus",
+      "body": "<p>I Anne Franks hus skrev Anne Frank sin berömda dagbok medan hon gömde sig för nazisterna under andra världskriget. Det hemliga annexet där hon bodde är i dag ett museum, som lockar besökare från hela världen som vill lära sig om hennes liv och om Förintelsens historia.</p>"
+    },
+    "de-wester": {
+      "title": "Westerkerk",
+      "body": "<p>Westerkerk stod färdig 1631 och är känd för sitt torn, omkring 85 meter högt, stadens högsta kyrktorn. Rembrandt begravdes här 1669, i en omärkt grav.</p><p>När Anne Frank gömde sig i det hemliga annexet i närheten kunde hon höra klockorna i Westertoren. Hon skrev i sin dagbok hur stor tröst de gav henne.</p>"
+    },
+    "the-canal-ring": {
+      "title": "Kanalringen",
+      "body": "<p>VOC (Nederländska Ostindiska Kompaniet) var ett handelsbolag som spelade en stor roll under Amsterdams guldålder, och kanalringen är ett unikt system av <strong>halvcirkelformade kanaler</strong> från 1600-talet som anlades under Amsterdams största utbyggnad. De två hänger nära ihop: rikedomen från VOC-handeln bidrog direkt till att bygga och utveckla kanalringen, där rika köpmän byggde sina imponerande hus.</p>"
+    },
+    "high-and-dry": {
+      "title": "Högt och torrt",
+      "body": "<p>VOC handlade främst med kryddor och andra värdefulla varor från Asien, som lagrades i köpmanshusens packhus längs Amsterdams kanaler. Packhusen hade stora vindar och <strong>hissbalkar</strong> på fasaden, så att de dyrbara varorna kunde förvaras ”högt och torrt”.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Husbåtsmuseet",
+      "body": "<p>Amsterdam har omkring 2 500 husbåtar. Man har bott på båtar här länge, men husbåtarna tog verkligen fart efter andra världskriget, som en lösning på bostadsbristen. I det här museet, ett före detta lastfartyg från 1914, ser du hur livet på vattnet är.</p>"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier",
+      "body": "<p>Trevligt kvarter för kvalitetsshopping i typisk gammal Amsterdammiljö. Bra utbud av konst-, antik- och vintagebutiker, och även pubar och restauranger. Perfekt för att strosa och titta.</p>"
+    },
+    "rijksmuseum": {
+      "title": "Rijksmuseum",
+      "body": "<p>Rijksmuseum grundades 1800 och är berömt för sin samling målningar från den nederländska guldåldern, med verk av bland andra Rembrandt och Vermeer.</p>"
+    },
+    "night-watch": {
+      "title": "Nattvakten",
+      "body": "<p>Utan tvekan är <em>Nattvakten</em> av guldåldersmålaren Rembrandt Harmenszoon van Rijn (1606–1669) hjärtat i Rijksmuseum. Det är inte bara museets största och viktigaste verk, hela samlingen är bokstavligen byggd runt den: Nattvaktssalen i museets kärna öppnar sig mot Hedersgalleriet. Den enorma målningen, med figurer i naturlig storlek, är berömd för sitt dramatiska spel mellan ljus och skugga och för att den på ett nyskapande sätt visar en grupp i rörelse i stället för en stillastående militär scen.</p>",
+      "caption": "Rembrandt van Rijn: Nattvakten, 1642, olja på duk. Foto: med tillstånd av Rijksmuseum, Amsterdam"
+    },
+    "van-gogh-museum": {
+      "title": "Van Gogh-museet",
+      "body": "<p>Van Gogh-museet har den största samlingen av Vincent van Goghs målningar och teckningar, med över 200 målningar och 500 teckningar av konstnären.</p>"
+    },
+    "paradiso": {
+      "title": "Paradiso",
+      "body": "<p>Paradiso i Amsterdam kallas också popmusikens tempel. Vilka kända band har spelat på Paradiso? Det finns bara ett möjligt svar: vilka har inte spelat där? UB40, David Bowie, Nirvana, The Police, Metallica, Prince, Red Hot Chili Peppers och Rolling Stones. Alla dessa band och artister har spelat på Paradiso någon gång.</p>"
+    },
+    "casino": {
+      "title": "Kasino",
+      "body": "<p>Spel om pengar var länge olagligt i Nederländerna. 1976 öppnade Holland Casino landets första lagliga kasino i Zandvoort, så att staten kunde reglera och övervaka spelandet. Kasinot här vid Leidseplein är i dag landets största.</p>"
+    },
+    "the-vondelpark": {
+      "title": "Vondelpark",
+      "body": "<p>Vondelpark öppnade 1865 och är uppkallad efter den nederländske dramatikern Joost van den Vondel. I parken står en äkta skulptur av Pablo Picasso ”i det fria”. Picasso skänkte skulpturen till staden som ett tecken på sin vänskap med Willem Sandberg, Stedelijk Museums tidigare chef.</p>"
+    },
+    "singelgracht": {
+      "title": "Singelgracht",
+      "body": "<p>Singelgracht var Amsterdams yttersta kanal, där det låg en rad bastioner (försvarsverk) som var en del av stadsmurarna. Befästningarna var en viktig del av Amsterdams historiska stadsförsvar.</p>"
+    },
+    "facade-stones": {
+      "title": "Fasadstenar",
+      "body": "<p>Fasadstenarna var orienteringspunkter för stadens invånare på 1600-talet. De små konstverken visade var bagaren sålde sitt bröd och var man kunde få sina skor lagade.</p>"
+    },
+    "de-herengracht": {
+      "title": "Herengracht",
+      "body": "<p>Vi åker nu på Herengracht, en del av stadens prestigefyllda utbyggnad i början av 1600-talet. Den här sträckan går från Leidsegracht till Amstel, och här ser du främst mycket stora hus: staden delade bara ut stora tomter här, för att locka de rika köpmannafamiljerna.</p><p><strong>Populär historia:</strong> skatten sägs ha baserats på husets bredd och antalet fönster, och till och med en dubbel trappa skulle ha beskattats extra. Guider berättar det gärna, men historiker tvivlar; de höga markpriserna längs kanalen är den troligare förklaringen till att de flesta hus är så smala.</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>I detta före detta destilleri kan du njuta av traditionell jenever (nederländsk gin – den äldre är bättre!), öl och deras berömda fondue eller bitterballen. Området Nio gatorna har en mysig stämning med en livlig blandning av turister och Amsterdambor.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti (Bartolottihuset)",
+      "body": "<p>Bartolottihuset byggdes omkring 1617 åt Willem van den Heuvel tot Beichlingen, en av sin tids rikaste Amsterdambor, som hade ärvt en förmögenhet efter en barnlös ingift farbror, Giovanni Battista Bartolotti, en köpman från Bologna. Ritningen tillskrivs Hendrick de Keyser, samma arkitekt som gav Montelbaanstoren dess krona.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Mer om Bartolottihuset</a></p>"
+    }
+  }
+}
