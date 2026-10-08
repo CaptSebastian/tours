@@ -59,7 +59,7 @@ const fullTitle = title ? `${title} | ${site.name}` : `${site.name} | ${t(lang, 
           for (const e of entries) if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
         }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
         const vh = innerHeight;
-        document.querySelectorAll('.stop, .tour-card, .ending, .tips-promo').forEach((el) => {
+        document.querySelectorAll('.stop, .tour-card, .ending, .tips-promo, .tip').forEach((el) => {
           if (el.getBoundingClientRect().top < vh) return;
           el.classList.add('reveal');
           io.observe(el);
