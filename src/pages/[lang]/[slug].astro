@@ -53,7 +53,12 @@ const offlineUrls = [
 
   <section class="wrap" id="end">
     <div class="ending">
-      {endImage && <img src={endImage} alt="" loading="lazy" />}
+      {endImage && (
+        <div>
+          <img src={endImage} alt="" loading="lazy" />
+          {tour.endCredit && <a class="ending-credit" href={tour.endCredit.url} target="_blank" rel="noopener">📷 {tour.endCredit.text}</a>}
+        </div>
+      )}
       <div>
         <h2>{t(lang, 'end.title')}</h2>
         <p>{t(lang, 'end.tipText')}</p>

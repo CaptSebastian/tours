@@ -1,0 +1,37 @@
+# Haalt rechtenvrije foto's van Wikimedia Commons op en zet ze in de repository.
+# Start automatisch als een bestand in src/data/commons/ verandert, of handmatig via
+# GitHub → Actions → "Commons images" → Run workflow.
+name: Commons images
+
+on:
+  workflow_dispatch:
+    inputs:
+      tour:
+        description: 'Tour-slug (leeg = alle tours met een commons-bestand)'
+        required: false
+        default: ''
+  push:
+    branches: [main]
+    paths: ['src/data/commons/**', 'scripts/commons-images.mjs']
+
+permissions:
+  contents: write
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Foto's ophalen
+        run: node scripts/commons-images.mjs ${{ github.event.inputs.tour }}
+      - name: Opslaan in de repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A public/images/commons review src/data/tours
+          if git diff --cached --quiet; then echo "Geen wijzigingen"; exit 0; fi
+          git commit -m "Rechtenvrije foto's van Wikimedia Commons"
+          git push

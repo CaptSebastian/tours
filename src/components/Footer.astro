@@ -26,5 +26,5 @@ const year = new Date().getFullYear();
       <p><a href={`mailto:${site.email}`}>{site.email}</a></p>
     </div>
   </div>
-  <p class="wrap copyright">© {year} Captain Sebastian Amsterdam</p>
+  <p class="wrap copyright">© {year} Captain Sebastian Amsterdam · <a href={`/${lang}/credits/`}>{t(lang, 'footer.credits')}</a></p>
 </footer>

@@ -1,7 +1,7 @@
 ---
 import type { Stop } from '../lib/content';
 type Props = Stop;
-const { number, title, images = [], caption, video, body } = Astro.props;
+const { number, title, images = [], caption, video, body, photoCredit } = Astro.props;
 ---
 <article class="stop" id={`stop-${number}`}>
   {images.length > 0 && (
@@ -10,6 +10,9 @@ const { number, title, images = [], caption, video, body } = Astro.props;
         <img src={src} alt={i === 0 ? title : ''} loading="lazy" decoding="async" />
       ))}
       {caption && <p class="caption">{caption}</p>}
+      {photoCredit && (
+        <a class="photo-credit" href={photoCredit.url} target="_blank" rel="noopener">📷 {photoCredit.text}</a>
+      )}
     </div>
   )}
   <div class="stop-text">

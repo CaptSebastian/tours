@@ -1,0 +1,25 @@
+{
+  "_uitleg": "Zoekopdrachten voor rechtenvrije foto's op Wikimedia Commons, per stop-id. 'q' = zoektermen (eerste die iets oplevert wint), 'pick' = welke goedgekeurde treffer (0 = eerste), of 'file' = een exacte bestandsnaam. Draai daarna de GitHub Action 'Commons images'.",
+  "card": "anne-frank-house",
+  "stops": {
+    "anne-frank-house": { "q": ["Anne Frank Huis Prinsengracht", "Anne Frank House Amsterdam"] },
+    "de-wester": { "q": ["Westerkerk Amsterdam Prinsengracht", "Westerkerk Amsterdam"] },
+    "the-canal-ring": { "q": ["Keizersgracht Amsterdam", "Amsterdam canal ring"] },
+    "high-and-dry": { "q": ["hijsbalk Amsterdam", "Amsterdam pakhuis gracht", "Amsterdam warehouse canal"] },
+    "the-houseboat-museum": { "q": ["Woonbootmuseum Amsterdam", "Houseboat Museum Amsterdam", "woonboot Prinsengracht"] },
+    "facade-stones": { "q": ["gevelsteen Amsterdam", "gable stone Amsterdam"] },
+    "night-watch": { "q": ["Nachtwacht Rembrandt Rijksmuseum", "The Night Watch Rembrandt"] },
+    "spiegelkwartier": { "q": ["Nieuwe Spiegelstraat Amsterdam", "Spiegelkwartier Amsterdam"] },
+    "de-amstelkerk": { "q": ["Amstelkerk Amstelveld", "Amstelkerk Amsterdam"] },
+    "de-duif": { "q": ["De Duif Prinsengracht kerk", "Sint Willibrorduskerk binnen de Veste De Duif"] },
+    "de-amstel": { "q": ["Amstel Amsterdam rivier", "Amstel river Amsterdam"] },
+    "de-magere-brug": { "q": ["Magere Brug Amsterdam", "Magere Brug"] },
+    "hart-museum": { "q": ["Amstelhof Amsterdam", "Hermitage Amsterdam Amstel"] },
+    "city-hall-national-ballet-theatre": { "q": ["Stopera Amsterdam", "Stadhuis Muziektheater Amsterdam"] },
+    "de-herengracht": { "q": ["Herengracht Amsterdam", "Herengracht"] },
+    "de-reguliersgracht": { "q": ["Reguliersgracht Amsterdam bruggen", "Reguliersgracht"] },
+    "proeverij-van-wees": { "q": ["Herengracht 319 Amsterdam", "proeflokaal Amsterdam jenever", "jenever"] },
+    "huis-bartolotti": { "q": ["Huis Bartolotti Herengracht", "Bartolottihuis Amsterdam"] }
+  },
+  "end": { "q": ["Amsterdam canal boat tour", "rondvaartboot Amsterdam gracht"] }
+}

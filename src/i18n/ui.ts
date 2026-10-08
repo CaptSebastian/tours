@@ -47,6 +47,10 @@ const en = {
   'footer.bookWith': 'Book with {name}',
   'footer.contact': 'Contact',
 
+  'credits.title': 'Photo credits',
+  'credits.lead': 'Photos from Wikimedia Commons, used under the licence shown. Tap a credit to see the original.',
+  'footer.credits': 'Photo credits',
+
   '404.title': 'Lost at sea',
   '404.text': "This page doesn't exist. Head back to the harbour and pick your tour.",
   '404.button': 'All tours',

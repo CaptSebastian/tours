@@ -14,7 +14,11 @@ export interface Stop {
   caption?: string;
   video?: string;
   body: string;
+  /** Bronvermelding voor rechtenvrije foto's (Wikimedia Commons) */
+  photoCredit?: Credit;
 }
+
+export interface Credit { text: string; url: string }
 
 export interface Tour {
   slug: string;
@@ -28,6 +32,8 @@ export interface Tour {
   stops: Stop[];
   endImage?: string;
   reviewUrl?: string;
+  cardCredit?: Credit;
+  endCredit?: Credit;
   /** true als (een deel van) de tekst nog Engels is */
   fallback: boolean;
 }

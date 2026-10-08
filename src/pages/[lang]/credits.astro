@@ -1,0 +1,44 @@
+---
+// Bronvermelding van alle rechtenvrije foto's (verplicht bij CC BY / CC BY-SA).
+import Base from '../../layouts/Base.astro';
+import { localeParams } from '../../i18n/locales';
+import { t } from '../../i18n/ui';
+import { getTours, type Credit } from '../../lib/content';
+
+export function getStaticPaths() {
+  return localeParams();
+}
+
+const { lang } = Astro.params as { lang: string };
+const groups = getTours(lang)
+  .map((tour) => {
+    const rows: { label: string; credit: Credit }[] = [];
+    if (tour.cardCredit) rows.push({ label: tour.card.title, credit: tour.cardCredit });
+    for (const s of tour.stops) if (s.photoCredit) rows.push({ label: `${s.number}. ${s.title}`, credit: s.photoCredit });
+    if (tour.endCredit) rows.push({ label: '♥', credit: tour.endCredit });
+    return { tour, rows };
+  })
+  .filter((g) => g.rows.length);
+---
+<Base title={t(lang, 'credits.title')} lang={lang} path="credits/">
+  <section class="wrap credits">
+    <h1>{t(lang, 'credits.title')}</h1>
+    <p class="muted">{t(lang, 'credits.lead')}</p>
+    {groups.map(({ tour, rows }) => (
+      <section>
+        <h2>{tour.title}</h2>
+        <ul>
+          {rows.map((r) => (
+            <li><strong>{r.label}</strong> — <a href={r.credit.url} target="_blank" rel="noopener">{r.credit.text}</a></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </section>
+</Base>
+
+<style>
+  .credits { padding-block: 2.5rem 4rem; }
+  .credits ul { padding-inline-start: 1.1rem; display: grid; gap: .35rem; }
+  .credits section { margin-top: 2rem; }
+</style>
