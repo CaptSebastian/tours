@@ -29,7 +29,7 @@ const pickerLocales = [...enabledLocales].sort((a, b) => {
   <div class="picker" data-target={target} data-codes={codes.join(',')} data-default={defaultLocale} data-titles={JSON.stringify(titles)}>
     <p class="picker-logo">{site.name}</p>
     {heading && <p class="picker-dest">{heading}</p>}
-    <h1 class="picker-title">Choose your language</h1>
+    <h1 class="picker-title">{t('en', 'picker.title')}</h1>
     <ul class="picker-list">
       {pickerLocales.map((l) => (
         <li>
