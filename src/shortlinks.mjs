@@ -11,6 +11,12 @@ export const shortlinks = {
   tips: 'tips',
 };
 
+// Tours die tijdelijk niet getoond worden (niet in menu, homepage of QR-pagina).
+// Hun korte link en oude adres gaan zolang naar de homepage. Haal de tour hier weg om hem terug te zetten.
+export const paused = [
+  'amsterdam-light-festival-14', // wacht op de nieuwe editie (#15, vanaf eind november 2026)
+];
+
 // Oude WordPress-adressen (bestaande QR-codes en links blijven zo werken).
 export const legacy = [
   'amsterdam-light-festival-14',
@@ -23,7 +29,8 @@ export const legacy = [
 /** Redirects voor astro.config.mjs */
 export function buildRedirects() {
   const r = {};
-  for (const [code, target] of Object.entries(shortlinks)) r[`/${code}`] = `/go/${target}/`;
-  for (const slug of legacy) r[`/${slug}`] = `/go/${slug}/`;
+  const dest = (target) => (paused.includes(target) ? '/' : `/go/${target}/`);
+  for (const [code, target] of Object.entries(shortlinks)) r[`/${code}`] = dest(target);
+  for (const slug of legacy) r[`/${slug}`] = dest(slug);
   return r;
 }

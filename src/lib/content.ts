@@ -5,6 +5,7 @@
 // Ontbreekt iets in de vertaling, dan wordt de Engelse tekst getoond.
 
 import { defaultLocale } from '../i18n/locales';
+import { paused } from '../shortlinks.mjs';
 
 export interface Stop {
   id: string;
@@ -53,9 +54,10 @@ function file(path: string) {
   return tourFiles[`../data/tours/${path}.json`];
 }
 
+// Gepauzeerde tours (zie src/shortlinks.mjs) krijgen geen pagina en staan nergens in het menu.
 const tourSlugs = Object.keys(tourFiles)
   .map((p) => p.match(/\/tours\/en\/(.+)\.json$/)?.[1])
-  .filter((s): s is string => Boolean(s));
+  .filter((s): s is string => Boolean(s) && !paused.includes(s));
 
 export function getTour(slug: string, lang: string): Tour {
   const base = file(`${defaultLocale}/${slug}`) as unknown as Omit<Tour, 'slug' | 'fallback'>;

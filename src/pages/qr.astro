@@ -3,7 +3,7 @@
 // Niet gelinkt in het menu. Print deze pagina (Cmd/Ctrl+P) of sla hem op als PDF.
 import QRCode from 'qrcode';
 import Base from '../layouts/Base.astro';
-import { shortlinks } from '../shortlinks.mjs';
+import { shortlinks, paused } from '../shortlinks.mjs';
 import { getTours } from '../lib/content';
 import { defaultLocale } from '../i18n/locales';
 
@@ -12,7 +12,7 @@ const names = Object.fromEntries(getTours(defaultLocale).map((t) => [t.slug, t.m
 names['tips'] = "Captain's Amsterdam tips";
 
 const codes = await Promise.all(
-  Object.entries(shortlinks).map(async ([code, target]) => {
+  Object.entries(shortlinks).filter(([, target]) => !paused.includes(target)).map(async ([code, target]) => {
     const url = `${site}/${code}`;
     const svg = await QRCode.toString(url, { type: 'svg', margin: 1, errorCorrectionLevel: 'M', color: { dark: '#0f2a3d', light: '#ffffff' } });
     return { code, url, label: names[target] ?? target, svg };
