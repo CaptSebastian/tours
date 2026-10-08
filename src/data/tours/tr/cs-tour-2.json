@@ -1,0 +1,122 @@
+{
+  "title": "Eco Boats Merkez İstasyonu Turu",
+  "menuTitle": "Merkez İstasyonu 2",
+  "card": {
+    "title": "Eco Boats Merkez İstasyonu",
+    "text": "Menüden dilinizi seçin ve turun keyfini çıkarın."
+  },
+  "stops": {
+    "amsterdam-central-station": {
+      "title": "Amsterdam Centraal (Merkez İstasyonu)",
+      "body": "<p>Rijksmuseum’un da mimarı olan Pierre Cuypers tarafından tasarlandı. İki binayı yan yana koyarsanız benzerliği hemen görürsünüz! Bina yaklaşık 300 metre uzunluğunda; 8 yıl boyunca 8.687 ahşap kazık üzerine inşa edildi ve 1889’da açıldı.</p><p>Doğu kanadına bakın: Orası Kraliyet Köşkü; Hollanda kraliyet ailesinin gelişleri ve gidişleri için yapıldı. Çatısının sırtında Kralın Kalkan Taşıyıcısı durur: Hollanda aslanlı bir kalkanı koruyan zırhlı bir şövalye. Orta bölümün çatı hattının altında ise Londra, Paris ve Roma gibi Avrupa ticaret şehirlerinin armalarını bulursunuz: Cuypers, demiryolunun Amsterdam’ı dünyaya bağladığını göstermek istemişti.</p>"
+    },
+    "de-schreierstoren": {
+      "title": "De Schreierstoren",
+      "body": "<p>1487’de Amsterdam’ın Orta Çağ şehir surunda bir savunma kulesi olarak inşa edildi. Eski adı Schreyhoeckstoren, “keskin köşe kulesi” anlamına gelir: Kule, surun keskin bir açı yaptığı yerde duruyordu.</p><p><strong>Efsane:</strong> Felemenkçede <em>schreien</em> aynı zamanda “ağlamak” anlamına geldiği için, denizcilerin eşlerinin kocaları denize açılırken burada ağladığı hikâyesi doğdu. Çok güzel bir hikâye, ama bu, isme sonradan halk arasında yakıştırılmış bir açıklama.</p><p><strong>Gerçek:</strong> 1609’da Henry Hudson, Hollanda Doğu Hindistan Şirketi (VOC) adına buradan yola çıktı. Asya’ya kuzeyden bir yol arıyordu ve sonunda bugünkü New York’un bulunduğu yere vardı. Kuledeki bir anı plaketi bu yolculuğu hatırlatır.</p>"
+    },
+    "het-scheepvaarthuis": {
+      "title": "Het Scheepvaarthuis (Denizcilik Binası)",
+      "body": "<p>1913’te altı Amsterdam denizcilik şirketinin ortak ofis binası olarak, kolayca tanınan “Amsterdam Okulu” üslubunda inşa edildi. Bugün Amrâth Hotel olarak hizmet veriyor.</p>"
+    },
+    "sea-palace": {
+      "title": "Sea Palace",
+      "body": "<p>Hong Kong’un ünlü yüzen restoranlarını örnek alan, yüzen bir Çin restoranı. Pagoda tarzı katlarıyla Amsterdam’ın en çok fotoğraflanan restoranlarından biri; su manzarası da harika. Yemekleri çok lezzetli!</p>"
+    },
+    "nemo-science-museum": {
+      "title": "NEMO Bilim Müzesi",
+      "body": "<p>Tam adı “New Metropolis” olan bu müze, çocuklar için “dokunarak öğrenilen” bir bilim müzesi. Renzo Piano tarafından tasarlandı; aynı zamanda IJ tünelinin girişi olarak da işlev görüyor ve eğimli tarafında büyük bir terası var.</p>"
+    },
+    "adam-lookout": {
+      "title": "A’DAM Lookout",
+      "body": "<p>A’DAM LOOKOUT sıradan bir seyir terası değil. Amsterdam’ın ve çevredeki şehirlerin eşsiz 360 derecelik manzarasının yanı sıra, bu ikonik binanın tepesinde yaşanacak çok daha fazla şey var. Amsterdam’ın en yüksek salıncağı Over The Edge’de adrenalini hissedin, Amsterdam VR Rollercoaster Ride’ı deneyin, Sky Bar’da doyurucu bir öğle ya da akşam yemeğinin, atıştırmalıkların veya bir kokteylin tadını çıkarın, dijital hatıranızı yanınızda götürün ve interaktif dürbünlerle şehri tanıyın.</p>"
+    },
+    "het-scheepvaartmuseum": {
+      "title": "Het Scheepvaartmuseum (Denizcilik Müzesi)",
+      "body": "<p>17. yüzyılda inşa edilen eski “’s Lands Zee Magazijn” (Devlet Deniz Deposu), “Amsterdam Amiralliği”nin deposuydu; “Amirallik” savaş filosunun tüm erzak ve malzemesi burada işlem görürdü. Bugün Hollanda’nın denizcilik tarihine odaklanan bir müze.</p>"
+    },
+    "hoog-en-droog": {
+      "title": "Yüksekte ve kuruda",
+      "body": "<p>VOC, başta baharat olmak üzere Asya’dan gelen değerli mallarla ticaret yapıyordu. Bu mallar, Amsterdam kanalları boyunca uzanan tüccar evlerinin depolarında saklanırdı. Bu depolar, değerli ticaret mallarını ‘yüksekte ve kuruda’ saklamak için özel olarak tasarlanmıştı: geniş çatı katları ve cephelerde vinç kirişleri vardı.</p>"
+    },
+    "portuguese-jewish-synagogue": {
+      "title": "Portekiz Yahudi Sinagogu",
+      "body": "<p><strong>Esnoga</strong> ya da <strong>Snoge</strong> olarak da bilinen <strong>Portekiz Sinagogu</strong>, 1675’te tamamlanmış bir Ortodoks Yahudi cemaati ve sinagogudur.</p><p>Amsterdam’ın Sefarad cemaati, Hollanda Altın Çağı’nda Avrupa’nın en büyük ve en zengin Yahudi cemaatlerinden biriydi; çok büyük sinagogları da bunu yansıtıyordu.</p>"
+    },
+    "de-amstel": {
+      "title": "De Amstel",
+      "body": "<p>Geleneksel olarak Zuiderzee ile iç bölgeler arasında önemli bir su yolu ve şehrimize adını veren nehir. 1270 civarında Amstel üzerine bir baraj (dam) yapıldı; bu, balıkçı köyünü kısa sürede bir ticaret kasabasına dönüştürdü. Amsterdam’dan bahseden en eski belge 1275 tarihlidir: Kont V. Floris’in verdiği bir gümrük ayrıcalığı. Bu belge, buranın halkını Holland’da gümrük vergisi ödemekten muaf tutuyordu. Belgede kasabanın adı <em>Amestelledamme</em> (“Amstel’deki baraj”) olarak geçer; bu ad zamanla Amsterdam’a dönüştü. Şehir hakları 1300 civarında geldi.</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>17. yüzyılda pek çok Amsterdamlı kadın yalnız kaldı: Kocaları denize açılıyordu ve büyük bir kısmı hiç geri dönmedi. Yaşlı kadınlara bakmak için Reform Kilisesi’nin diyakozları burada Amstelhof’u inşa etti. Yapımına 1681’de, o zamanlar Amstel’in öte yakasındaki ucuz arazide başlandı. Bina 2007’ye kadar huzurevi olarak kullanıldı.</p><p>2009’da bina, St. Petersburg’daki Hermitage’ın bir şubesi olan Hermitage Amsterdam olarak yeniden açıldı. Rusya 2022’de Ukrayna’yı işgal ettikten sonra müze Rusya ile bağlarını kopardı ve adı H’ART Museum olarak değiştirildi.</p>"
+    },
+    "de-magere-brug": {
+      "title": "De Magere Brug",
+      "body": "<p>De Magere Brug, yani “Sıska Köprü”, adını büyük olasılıkla burada ilk kez 1691’de yapılan çok dar ahşap köprüye borçludur. Popüler bir efsaneye göre, karşılıklı kıyılarda yaşayan Mager adında iki kız kardeş, birbirlerini ziyaret edebilmek için köprünün parasını ödemiş; güzel bir hikâye, ama bunun hiçbir kanıtı yok.</p><p>Köprü, James Bond filmi “Elmaslar Ebedidir” (1971) sayesinde uluslararası üne kavuştu. Ve en yeni efsane: Teknede birbirini seven çiftler varsa, tam köprünün altında birbirinizi öpün; hayatınız boyunca âşık kalırsınız!</p>"
+    },
+    "de-blauwbrug": {
+      "title": "De Blauwbrug (Mavi Köprü)",
+      "body": "<p>Adı, şehri İkinci Dünya Savaşı’na kadar bir Yahudi mahallesi olan Vlooienburg adasına bağlayan, maviye boyanmış eski ahşap köprüden gelir. Bugünkü oldukça görkemli taş köprü 1883 yapımıdır; lambaları, taçları ve gemi pruvaları, Paris’te Seine Nehri üzerindeki köprülerden esinlenmiştir.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Belediye Binası ve Ulusal Bale Tiyatrosu",
+      "body": "<p>Dam Meydanı’ndaki bugünkü Kraliyet Sarayı, Amsterdam’ın asıl belediye binasıydı. 19. yüzyılın başından itibaren belediye Oudezijds Voorburgwal’a taşındı. Zamanla bu bina da küçük geldi ve 1980’lerde mimarlar Holzbauer, Holt ve Cees Dam, Waterlooplein/Oude Vlooienburg’da yeni bir belediye binası tasarladı. Bu binanın iki işlevi var: Hem Amsterdam Belediye Binası hem de Ulusal Opera ve Bale’nin tiyatrosu.</p>"
+    },
+    "spinoza-monument": {
+      "title": "Spinoza Anıtı",
+      "body": "<p>Aydınlanma’nın büyük düşünürlerinden biri olan, Amsterdam doğumlu filozof Baruch Spinoza’nın (1632–1677) heykeli; 2008’de Nicolas Dings tarafından yapıldı.</p><p>İşin ironik yanı: 1656’da Portekiz Yahudi cemaati genç Spinoza’yı radikal fikirleri yüzünden cemaatten çıkardı, kitapları da daha sonra yasaklandı. Bugün ise şehir onu bir heykelle onurlandırıyor. Kaidesinde onun şu sözlerini okuyabilirsiniz: “Devletin amacı özgürlüktür.” Paltosunun üzerinde, burada hep yaşamış kuşlar olan serçeler ve şehre yeni gelen yeşil papağanlar (halkalı papağanlar) oturuyor: Birlikte, hem yerlilerin hem de göçmenlerin Amsterdam’ını simgeliyorlar. Güller ise üzerinde <em>Caute</em> (“dikkatli ol”) sözü bulunan mühür yüzüğüne gönderme yapıyor.</p>"
+    },
+    "waterlooplein": {
+      "title": "Waterlooplein",
+      "body": "<p>İkinci Dünya Savaşı’na kadar büyük bir Yahudi pazarıydı, bugün bir bit pazarı. Bugün belediye binasının durduğu yer, İkinci Dünya Savaşı’na kadar “Yahudi Mahallesi”ydi. Rotterdam, ağır bombardıman yüzünden savaşın izlerini taşır; Amsterdam ise sürgün edilen Yahudi halkının izlerini. Amsterdam’ın bu bölümünde yaşayanların neredeyse tamamı Almanlar tarafından sürgün edildi ve ne yazık ki çok azı hayatta kaldı! Sert kışlar ve yiyecek kıtlığı yüzünden bu döneme “Açlık Kışı” da denir; şehirde kalan halk evlerini ısıtabilsin diye boş kalan evlerdeki bütün ahşap sökülüp alındı (yani mobilyalar değil, binanın kendi ahşabı). Savaş bittiğinde bu evler “iskelet” gibi ayakta duruyordu ve ardından yıkıldı.</p>"
+    },
+    "zuiderkerk": {
+      "title": "Zuiderkerk (Güney Kilisesi)",
+      "body": "<p>Zuiderkerk (“güney kilisesi”), Nieuwmarkt bölgesinde 17. yüzyıldan kalma bir Protestan kilisesidir.</p><p>Yerel bir efsaneye göre ünlü Hollandalı ressam Rembrandt, atölyesi çok küçük olduğu için Gece Devriyesi’ni bu kilisede boyamış; ancak bu iddia oldukça tartışmalıdır.</p><p>Rembrandt’ın üç çocuğu, Rembrandt’ın Jodenbreestraat’taki evine çok yakın olan Zuiderkerk’e gömüldü.</p>"
+    },
+    "de-dansende-huisjes": {
+      "title": "De Dansende Huisjes (Dans Eden Evler)",
+      "body": "<p>Dans Eden Evler, birbirine yaslanan bir sıra yamuk, eski kanal evidir. Nedeni yerin altında: Amsterdam ahşap kazıklar üzerine kurulu ve bir evi taşıyabilecek sağlam kum tabakası yaklaşık 13 metre derinde. Bu tabakaya ulaşmayan ya da yüzyıllar içinde çürüyen kazıklar, evin eşit olmayan şekilde çökmesine yol açar. Sonuç ne mi? Bir sıra dans eden ev.</p>"
+    },
+    "million-dollar-view": {
+      "title": "Milyon dolarlık manzara",
+      "body": "<p>Fransız ressam <a href=\"https://nl.wikipedia.org/wiki/Claude_Monet\" target=\"_blank\" rel=\"noopener\">Claude Monet</a>, 1874 civarında Groenburgwal’dan bakan bir manzarada, güney kulesini ve arkasındaki kiliseyi resmetti.</p>"
+    },
+    "hotel-de-leurope-amsterdam": {
+      "title": "Hotel de L’Europe Amsterdam",
+      "body": "<p>Tam karşımızda, bira kralı Freddy Heineken’in satın aldığı ünlü lüks oteli görüyoruz. Binada “Freddy’s Bar” bulunuyor ve çok yakın zamana kadar orada güzel bir puroyla bir içkinin keyfini çıkarabiliyordunuz. (Oysa çoğu yerde kapalı alanda sigara içmek yasaktı… 😉)</p>"
+    },
+    "grimburgwal": {
+      "title": "Grimburgwal",
+      "body": "<p>Şimdi gerçekten şehrin en eski bölümüne giriyoruz. Sağda, Orta Çağ’dan 1981’e kadar hastane olarak hizmet veren ve bugün öğrencilere ev sahipliği yapan eski Binnengasthuis hastanesi var.</p>"
+    },
+    "stadsbank-van-lening": {
+      "title": "Stadsbank van Lening (Şehir Rehin Bankası)",
+      "body": "<p>Oudezijds Voorburgwal’a girerken sol tarafta, 1614’ten kalma Stadsbank van Lening’i (rehinci) görüyoruz: Amsterdam’ın hâlâ faaliyette olan en eski borç veren kurumu. Burada, örneğin bir saat gibi değerli eşyalarınızı rehin bırakıp karşılığında borç alabilirsiniz. (Yani borç alınan para küçük bir faiziyle birlikte geri ödenmelidir; yoksa rehin bırakılan değerli eşya satılır… ne yazık ki!)</p>"
+    },
+    "coffeeshop-the-bulldog-the-first": {
+      "title": "Coffeeshop The Bulldog “The First”",
+      "body": "<p>Amsterdam’da esrar satışına göz yumulan ilk yerlerden biri. Sahibi Henk de Vries varlıklı bir öncü; Amsterdam’da birkaç coffeeshop, bir otel ve gezi teknelerinden oluşan kayda değer bir imparatorluğu var.</p>"
+    },
+    "de-oude-kerk": {
+      "title": "De Oude Kerk (Eski Kilise)",
+      "body": "<p>Burası Amsterdam’da günümüze ulaşmış en eski kilise binası. 1306 civarında inşa edildi ve hâlâ kilise olarak kullanılıyor. Başlangıçta adı Aziz Nikolaos Kilisesi’ydi, ama bugünkü Aziz Nikolaos Kilisesi inşa edilince adı Eski Kilise olarak değişti.</p>"
+    },
+    "gevelstenen": {
+      "title": "Cephe taşları",
+      "body": "<p>Bu cephe taşları, on yedinci yüzyılda şehrin sakinleri için yön bulma işaretleriydi. Bu küçük sanat eserleri, fırıncının ekmeğini nerede sattığını ya da ayakkabınızı nerede tamir ettirebileceğinizi gösteriyordu.</p>"
+    },
+    "zeedijk-bridge-lock": {
+      "title": "Zeedijk Köprüsü ve Savağı",
+      "body": "<p>Önünüzde en eski deniz savağını ve yüksek bir köprüyü görüyorsunuz. Köprü bu kadar yüksek, çünkü Zuiderzee’ye gidip gelen gemiler geçebilsin diye asıl Zeedijk’in (Deniz Seddi) içine yapıldı.</p>"
+    },
+    "saint-nicholas-church": {
+      "title": "Aziz Nikolaos Kilisesi",
+      "body": "<p>Solunuzda Aziz Nikolaos Kilisesi’ni görüyorsunuz: 1885 civarında inşa edilmiş bir Katolik bazilika. Aziz Nikolaos, denizcilerin ve şehrimizin koruyucu azizidir.</p>"
+    },
+    "victoria-hotel-amsterdam": {
+      "title": "Victoria Hotel Amsterdam",
+      "body": "<p>Bu otel, Hollanda’nın en eski modern otellerinden biri; 1890’da açıldı. Aynı zamanda her odaya elektrik aydınlatması döşenen ilk otel oldu. Otelin birkaç eski evin etrafına inşa edildiğini bugün hâlâ görebilirsiniz: O zamanlar bu evlerin sahipleri o kadar çok para istedi ki, evlerin etrafından dolaşarak inşa etmeye karar verildi. Bu hikâye, Public Works filminde büyük bir rol oynar.</p>"
+    }
+  }
+}

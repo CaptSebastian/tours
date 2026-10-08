@@ -1,0 +1,83 @@
+{
+  "title": "KINBoat: tour Ana Frank y el Amstel",
+  "menuTitle": "Ana Frank y el Amstel",
+  "card": {
+    "title": "KINBoat Casa de Ana Frank",
+    "text": "Elija su idioma en el menú y disfrute del recorrido."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Casa de Ana Frank (Anne Frank Huis)",
+      "body": "<p>En la Casa de Ana Frank, Ana Frank escribió su famoso diario mientras se escondía de los nazis durante la Segunda Guerra Mundial. La casa de atrás secreta donde vivió es hoy un museo que atrae a visitantes de todo el mundo que quieren conocer su vida y la historia del Holocausto.</p>"
+    },
+    "de-wester": {
+      "title": "La Westerkerk",
+      "body": "<p>La Westerkerk (Iglesia del Oeste) se terminó en 1631 y es conocida por su torre de unos 85 metros, la torre de iglesia más alta de la ciudad. Rembrandt fue enterrado aquí en 1669, en una tumba sin nombre.</p><p>Escondida en la casa de atrás, muy cerca de aquí, Ana Frank podía oír las campanas de la Westertoren. En su diario escribió cuánto consuelo le daban.</p>"
+    },
+    "the-canal-ring": {
+      "title": "El cinturón de canales",
+      "body": "<p>La VOC (Compañía Neerlandesa de las Indias Orientales) fue una compañía comercial que tuvo un papel muy importante en el Siglo de Oro de Ámsterdam. El cinturón de canales es un sistema único de <strong>canales concéntricos</strong> del siglo XVII, construido durante la mayor ampliación de Ámsterdam. Las dos cosas están muy unidas: la riqueza del comercio de la VOC contribuyó directamente a construir y desarrollar el cinturón de canales, donde los comerciantes ricos levantaron sus impresionantes casas.</p>"
+    },
+    "high-and-dry": {
+      "title": "En alto y en seco",
+      "body": "<p>La VOC comerciaba sobre todo con especias y otros productos valiosos de Asia. Se guardaban en los almacenes de las casas de comerciantes junto a los canales de Ámsterdam. Estos almacenes tenían grandes desvanes y <strong>vigas de polea</strong> en la fachada, para guardar la valiosa mercancía «en alto y en seco».</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "El Museo de la Casa Flotante",
+      "body": "<p>Ámsterdam tiene unas 2.500 casas flotantes. Aquí se vive en barcos desde hace mucho tiempo, pero las casas flotantes se hicieron realmente populares después de la Segunda Guerra Mundial, como solución a la falta de vivienda. En este museo, un antiguo barco de carga de 1914, puede ver cómo es la vida sobre el agua.</p>"
+    },
+    "facade-stones": {
+      "title": "Piedras de fachada",
+      "body": "<p>Estas piedras de fachada servían de puntos de orientación a los habitantes de la ciudad en el siglo XVII. Estas pequeñas obras de arte mostraban dónde vendía el panadero su pan y dónde se podían arreglar los zapatos.</p>"
+    },
+    "night-watch": {
+      "title": "La ronda de noche",
+      "body": "<p>Sin duda, <em>La ronda de noche</em>, del pintor del Siglo de Oro neerlandés Rembrandt Harmenszoon van Rijn (1606–1669), es el corazón del Rijksmuseum. No solo es la obra más grande e importante del museo: toda la colección está literalmente construida a su alrededor. La sala de La ronda de noche es el centro del museo y se abre a la Galería de Honor. Este enorme cuadro, con figuras a tamaño real, es famoso por su juego dramático de luces y sombras, y por mostrar de forma innovadora a un grupo en movimiento en lugar de una escena militar estática.</p>",
+      "caption": "Rembrandt van Rijn: La ronda de noche, 1642, óleo sobre lienzo. Foto: cortesía del Rijksmuseum, Ámsterdam"
+    },
+    "spiegelkwartier": {
+      "title": "Barrio Spiegelkwartier",
+      "body": "<p>Un barrio agradable con tiendas de calidad, en el típico ambiente del casco antiguo de Ámsterdam. Buena selección de tiendas de arte, antigüedades y vintage, además de bares y restaurantes. Ideal para pasear y curiosear.</p>"
+    },
+    "de-amstelkerk": {
+      "title": "La Amstelkerk",
+      "body": "<p>En la plaza Amstelveld está la única iglesia provisional de madera que se conserva en Ámsterdam. Este raro edificio de madera acoge conciertos y exposiciones de arte. Con sus ventanas de bellas proporciones, este edificio íntimo parece un elegante joyero.</p>"
+    },
+    "de-duif": {
+      "title": "De Duif",
+      "body": "<p>De Duif (La Paloma) es una iglesia católica histórica, notable por su impresionante fachada y su arquitectura clásica.</p><p>La iglesia tiene una acústica extraordinaria, por eso es un lugar muy popular para conciertos de música clásica y de coros. En su interior hay bonitas vidrieras y un órgano histórico Smits de 1862, que todavía se toca hoy.</p>"
+    },
+    "de-amstel": {
+      "title": "El Amstel",
+      "body": "<p>Tradicionalmente, una importante ruta de navegación entre el Zuiderzee y el interior del país, y el río que da nombre a nuestra ciudad. Hacia 1270 se construyó un dique en el Amstel, que convirtió rápidamente el pueblo de pescadores en una ciudad comercial. El documento más antiguo que menciona Ámsterdam es de 1275: un privilegio de peaje del conde Floris V, que liberaba a sus habitantes de pagar peaje en Holanda. En él, el lugar se llama <em>Amestelledamme</em> («dique en el Amstel»), un nombre que poco a poco se convirtió en Ámsterdam. Los derechos de ciudad llegaron hacia 1300.</p>"
+    },
+    "de-magere-brug": {
+      "title": "El Magere Brug",
+      "body": "<p>El Magere Brug, «el Puente Flaco», probablemente debe su nombre al puente de madera muy estrecho que se construyó aquí por primera vez en 1691. Una leyenda popular dice que dos hermanas llamadas Mager, que vivían en orillas opuestas, lo pagaron para poder visitarse; una historia bonita, pero no hay pruebas de ello.</p><p>El puente es famoso en todo el mundo por la película de James Bond «Diamantes para la eternidad» (1971). Y la leyenda más nueva de todas: si hay parejas enamoradas a bordo, dense un beso justo debajo del puente, ¡y seguirán enamorados toda la vida!</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>En el siglo XVII, muchas mujeres de Ámsterdam se quedaban solas: sus maridos se iban al mar, y una gran parte nunca volvía. Para cuidar a las mujeres mayores, los diáconos de la Iglesia reformada construyeron aquí el Amstelhof, empezado en 1681 en un terreno entonces barato, al otro lado del Amstel. Fue una residencia de ancianos hasta 2007.</p><p>En 2009 el edificio reabrió como Hermitage Amsterdam, una sede del Hermitage de San Petersburgo. Después de que Rusia invadiera Ucrania en 2022, el museo rompió sus lazos con Rusia y pasó a llamarse H’ART Museum.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Ayuntamiento y Teatro Nacional de Ópera y Ballet",
+      "body": "<p>El actual Palacio Real, en la plaza Dam, fue originalmente el ayuntamiento de Ámsterdam. A principios del siglo XIX, el ayuntamiento se trasladó al Oudezijds Voorburgwal. Con el tiempo, ese edificio se quedó pequeño, y en los años 80 los arquitectos Holzbauer, Holt y Cees Dam diseñaron un nuevo ayuntamiento en el lugar de Waterlooplein/Oude Vlooienburg. Este edificio tiene una doble función: es el ayuntamiento de Ámsterdam y el teatro de la Ópera y Ballet Nacional.</p>"
+    },
+    "de-herengracht": {
+      "title": "El Herengracht",
+      "body": "<p>Ahora navegamos por el Herengracht (Canal de los Señores), parte de la prestigiosa ampliación de la ciudad a principios del siglo XVII. Este tramo va del Leidsegracht al Amstel, y aquí ve sobre todo edificios muy grandes: el ayuntamiento solo concedía aquí parcelas grandes, para atraer a las familias de comerciantes ricos.</p><p><strong>Historia popular:</strong> se dice que los impuestos se basaban en el ancho de la casa y el número de ventanas, e incluso una escalera doble pagaba un impuesto extra. A los guías les encanta contarlo, pero los historiadores lo dudan; el alto precio del suelo junto al canal es la razón más probable de que la mayoría de las casas sean tan estrechas.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "El Reguliersgracht",
+      "body": "<p>Uno de los canales más bonitos, famoso por sus siete puentes de arco idénticos. En 1901, el ayuntamiento quiso rellenar este canal para el nuevo tranvía eléctrico, pero por suerte el plan se rechazó tras muchas protestas. Por la noche es precioso, porque los arcos están iluminados, ¡y desde el Thorbeckeplein la vista es preciosa!</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>En esta antigua destilería puede disfrutar de jenever tradicional (ginebra neerlandesa: ¡más antigua y mejor!), cerveza y su famosa fondue o sus bitterballen (croquetas neerlandesas). La zona de las Nueve Calles (Negen Straatjes) tiene un ambiente acogedor, con una animada mezcla de turistas y gente local.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Casa Bartolotti (Huis Bartolotti)",
+      "body": "<p>La Casa Bartolotti se construyó hacia 1617 para Willem van den Heuvel tot Beichlingen, uno de los habitantes más ricos de Ámsterdam en aquella época. Había heredado una fortuna de un tío político sin hijos, Giovanni Battista Bartolotti, un comerciante de Bolonia. El diseño se atribuye a Hendrick de Keyser, el mismo arquitecto que coronó la Montelbaanstoren.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Más sobre la Casa Bartolotti</a></p>"
+    }
+  }
+}

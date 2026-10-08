@@ -1,0 +1,79 @@
+{
+  "title": "KINBoat 安妮·弗兰克与国家博物馆游船",
+  "menuTitle": "安妮·弗兰克与国家博物馆游船",
+  "card": {
+    "title": "KINBoat 国家博物馆游船",
+    "text": "请在菜单中选择您喜欢的语言，祝您游览愉快。"
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "安妮·弗兰克之家（Anne Frank Huis）",
+      "body": "<p>第二次世界大战期间，安妮·弗兰克躲避纳粹时，就在安妮·弗兰克之家写下了她那本著名的日记。她当年藏身的密室（后屋）如今已成为博物馆，吸引着来自世界各地的游客，前来了解她的一生和大屠杀的历史。</p>"
+    },
+    "de-wester": {
+      "title": "西教堂（Westerkerk）",
+      "body": "<p>西教堂（Westerkerk）于1631年落成，以约85米高的塔楼闻名，这是全城最高的教堂塔楼。伦勃朗于1669年安葬在这里，墓地没有标记。</p><p>安妮·弗兰克藏身在附近的密室时，能听到西塔（Westertoren）的钟声。她在日记中写道，这钟声给了她很大的安慰。</p>"
+    },
+    "the-canal-ring": {
+      "title": "运河带",
+      "body": "<p>VOC（荷兰东印度公司）是一家贸易公司，在阿姆斯特丹的黄金时代发挥了重要作用。运河带是一套独特的17世纪<strong>同心圆运河</strong>系统，建于阿姆斯特丹规模最大的一次城市扩建时期。两者密切相关：VOC贸易带来的财富直接推动了运河带的建设和发展，富商们在运河边建起了气派的宅邸。</p>"
+    },
+    "high-and-dry": {
+      "title": "又高又干",
+      "body": "<p>VOC主要经营来自亚洲的香料和其他贵重商品。这些货物存放在阿姆斯特丹运河边商人住宅的仓库里。这些仓库经过专门设计，有宽大的阁楼，立面上还装有<strong>吊货梁</strong>，好把珍贵的货物存放得“又高又干”。</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "船屋博物馆",
+      "body": "<p>阿姆斯特丹约有2,500艘船屋。人们在这里住在船上已有很长的历史，但船屋真正流行起来是在第二次世界大战之后，作为解决住房短缺的办法。这座博物馆是一艘1914年的旧货船，在这里您可以看到水上生活是什么样子。</p>"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier（镜子街区）",
+      "body": "<p>一个很不错的街区，在典型的阿姆斯特丹老城氛围中提供优质的购物体验。这里有许多艺术品店、古董店、复古店，还有酒吧和餐馆。很适合散步和随意逛逛。</p>"
+    },
+    "rijksmuseum": {
+      "title": "国家博物馆（Rijksmuseum）",
+      "body": "<p>国家博物馆（Rijksmuseum）成立于1800年，以收藏荷兰黄金时代的画作而闻名，其中包括伦勃朗和维米尔的作品。</p>"
+    },
+    "night-watch": {
+      "title": "《夜巡》",
+      "body": "<p>荷兰黄金时代画家伦勃朗·哈尔曼松·范莱因（1606–1669）的《<em>夜巡</em>》，毫无疑问是国家博物馆（Rijksmuseum）的核心。它不仅是博物馆最大、最重要的作品，整个馆藏也真的是围绕它布置的：夜巡展厅位于博物馆的中心，通向荣誉画廊。这幅巨大的、真人大小的画作以戏剧性的光影效果闻名，也因其创新而著称：它描绘的是一群正在行动的人，而不是静止的军队场景。</p>",
+      "caption": "伦勃朗·范莱因：《夜巡》，1642年，布面油画。图片：由阿姆斯特丹国家博物馆提供"
+    },
+    "van-gogh-museum": {
+      "title": "梵高博物馆",
+      "body": "<p>梵高博物馆收藏了数量最多的文森特·梵高画作和素描，展出这位艺术家的200多幅油画和500幅素描。</p>"
+    },
+    "paradiso": {
+      "title": "Paradiso",
+      "body": "<p>阿姆斯特丹的Paradiso也被称为流行音乐的殿堂。如果问有哪些著名乐队在Paradiso演出过，答案只有一个：哪些乐队没在那里演出过？UB40、大卫·鲍伊、涅槃乐队（Nirvana）、警察乐队（The Police）、金属乐队（Metallica）、王子（Prince）、红辣椒乐队（Red Hot Chili Peppers）和滚石乐队（Rolling Stones）。这些乐队和艺人都曾在Paradiso登台。</p>"
+    },
+    "casino": {
+      "title": "赌场",
+      "body": "<p>在荷兰，赌博长期以来是违法的。1976年，Holland Casino在Zandvoort开设了全国第一家合法赌场，这样国家就可以规范和监管博彩业。这里靠近Leidseplein（莱兹广场）的阿姆斯特丹赌场，现在是全国最大的赌场。</p>"
+    },
+    "the-vondelpark": {
+      "title": "冯德尔公园（Vondelpark）",
+      "body": "<p>冯德尔公园于1865年开放，以荷兰剧作家约斯特·范登冯德尔（Joost van den Vondel）的名字命名。公园里有一座真正的毕加索雕塑，就立在“露天野外”。毕加索把这座雕像捐给了这座城市，以表达他与市立博物馆（Stedelijk Museum）前馆长威廉·桑德伯格（Willem Sandberg）的深厚友谊。</p>"
+    },
+    "singelgracht": {
+      "title": "Singelgracht（辛厄尔运河外环）",
+      "body": "<p>Singelgracht曾是阿姆斯特丹最外围的运河，沿岸有一连串棱堡（防御工事），是城墙的一部分。这些防御工事是阿姆斯特丹历史上城市防御的重要组成部分。</p>"
+    },
+    "facade-stones": {
+      "title": "山墙石",
+      "body": "<p>这些山墙石是17世纪这座荷兰城市居民认路的标志。这些小小的艺术品告诉人们，面包师在哪里卖面包，去哪里可以修鞋。</p>"
+    },
+    "de-herengracht": {
+      "title": "绅士运河（Herengracht）",
+      "body": "<p>我们现在航行在绅士运河上，它是17世纪初那次声势浩大的城市扩建的一部分。这一段从Leidsegracht一直延伸到阿姆斯特尔河。在这里您看到的主要是非常大的建筑：市议会在这里只划出大块地皮，以吸引富裕的商人家族。</p><p><strong>流行说法：</strong>据说当年的税是按房子的宽度和窗户的数量来算的，连双楼梯都要额外交税。导游们很爱讲这个故事，但历史学家对此表示怀疑；大多数房子之所以这么窄，更可能的原因是运河边地价太高。</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>在这家昔日的酿酒厂，您可以品尝传统的jenever（荷兰杜松子酒，比金酒更古老，也更好喝！）、啤酒，以及他们有名的芝士火锅或炸肉丸（bitterballen）。九小街（Negen Straatjes）一带游客和本地人混杂，热闹又温馨。</p>"
+    },
+    "huis-bartolotti": {
+      "title": "巴尔托洛蒂之家（Huis Bartolotti）",
+      "body": "<p>巴尔托洛蒂之家建于1617年前后，主人是Willem van den Heuvel tot Beichlingen，当时阿姆斯特丹最富有的人之一。他从一位没有子女的姻亲叔叔、来自博洛尼亚的商人Giovanni Battista Bartolotti那里继承了一大笔财产。这座房子的设计被认为出自亨德里克·德·凯泽（Hendrick de Keyser）之手，蒙特尔班塔（Montelbaanstoren）的塔顶也是这位建筑师设计的。</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">了解更多关于巴尔托洛蒂之家的信息</a></p>"
+    }
+  }
+}

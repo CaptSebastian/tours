@@ -218,6 +218,11 @@ nav { display: flex; align-items: center; gap: .25rem; }
 }
 .jump-grid a:hover, .jump-grid a:focus-visible { background: var(--brass); color: #1b1307; border-color: var(--brass); }
 .jump-end a { color: var(--brass-dark); }
+/* Op mobiel links: rechts zit vaak de duim op de reling/scrollbalk, en zo blijft de tekst rechts vrij */
+@media (max-width: 759px) {
+  .jump { inset-inline-end: auto; left: 16px; right: auto; }
+  .jump-panel { inset-inline-end: auto; left: 0; right: auto; }
+}
 
 /* ===== Afsluiting: fooi + review ===== */
 .ending {

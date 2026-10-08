@@ -1,0 +1,423 @@
+{
+  "categories": {
+    "coffee": {
+      "name": "커피와 점심"
+    },
+    "dutch": {
+      "name": "네덜란드 음식"
+    },
+    "bitterballen": {
+      "name": "비터발렌 (Bitterballen)",
+      "note": "두 가지 리스트에서 골랐어요. 어디가 제일 맛있는지는 취향 문제예요."
+    },
+    "fine": {
+      "name": "파인 다이닝",
+      "note": "테이스팅 메뉴는 1인당 약 €100-250예요. 최소 2주 전에 예약하세요. 드레스 코드: 스마트 캐주얼."
+    },
+    "view": {
+      "name": "전망 좋은 캐주얼 레스토랑"
+    },
+    "indo": {
+      "name": "인도네시아 음식"
+    },
+    "chicken": {
+      "name": "치킨"
+    },
+    "zeedijk": {
+      "name": "제이데이크 (Zeedijk)"
+    },
+    "shopping": {
+      "name": "쇼핑"
+    },
+    "markets": {
+      "name": "시장",
+      "note": "운영 시간은 여러 출처에서 모은 정보예요. 가기 전에 꼭 확인하세요."
+    },
+    "special": {
+      "name": "특별한 장소와 박물관"
+    },
+    "out": {
+      "name": "밤 나들이와 영화관"
+    },
+    "cafes": {
+      "name": "암스테르담 전통 카페"
+    },
+    "sunset": {
+      "name": "노을과 사진 명소"
+    }
+  },
+  "items": {
+    "de-koffieschenkerij": {
+      "name": "De Koffieschenkerij",
+      "text": "매일 오전 9시-오후 6시. 아우더 교회 (Oude Kerk)의 옛 성구 보관실에서 커피와 케이크를 즐길 수 있고, 숨은 안뜰도 있어요."
+    },
+    "cafe-winkel-43": {
+      "name": "Café Winkel 43",
+      "text": "애플파이로 유명한 곳이에요. 노르더 교회 (Noorderkerk) 옆 장터 광장에 테라스가 있어요. 예약은 안 받으니 빈자리에 앉으면 돼요."
+    },
+    "rudi-s-original-stroopwafels": {
+      "name": "Rudi's Original Stroopwafels",
+      "text": "시장의 푸드트럭에서 하우다 (Gouda)의 비밀 레시피로 갓 구운 스트루프와플을 팔아요. 풍선 달린 관광객용 가게가 아니에요."
+    },
+    "de-laatste-kruimel": {
+      "name": "De Laatste Kruimel",
+      "text": "샌드위치, 키시, 수제 레모네이드가 있는 아늑한 아침·점심 카페예요. 운하 옆에 작은 테라스가 있어요."
+    },
+    "cafe-americain": {
+      "name": "Café Americain",
+      "text": "아메리칸 호텔 안에 있는 클래식한 그랑 카페예요. 1928년의 아르데코 인테리어와 티파니 램프, 광장 쪽 테라스가 있어요. 커피, 점심, 애프터눈 티, 저녁 식사 모두 가능해요."
+    },
+    "the-kitchen-at-de-bijenkorf": {
+      "name": "The Kitchen at De Bijenkorf",
+      "text": "백화점 꼭대기 층에 있어요. 도시 전망과 작은 테라스를 즐기며 커피와 케이크 한 조각을 맛보세요. 출처마다 운영 시간이 달라서 미리 확인하세요."
+    },
+    "restaurant-moeders": {
+      "name": "Restaurant Moeders",
+      "text": "월-금 오후 5-10시, 토-일 오후 4시 30분-10시. 스탐폿 (stamppot), 소고기 조림, 프렌치토스트. 한참 미리 예약하세요."
+    },
+    "de-blauwe-hollander": {
+      "name": "De Blauwe Hollander",
+      "text": "스탐폿을 푸짐하게 담아 줘요."
+    },
+    "heertje-friet": {
+      "name": "Heertje Friet",
+      "text": "나인 스트리트 (Negen Straatjes) 근처예요. 제가 보기엔 시내 최고의 감자튀김이에요. 직접 썰어 튀긴 신선한 감자튀김에 원하는 소스(joppie, oorlog, frietsaus)를 곁들여요. 운하 옆 야외 좌석도 있어요. 매일 오전 11시-오후 8시."
+    },
+    "febo": {
+      "name": "FEBO",
+      "text": "늦은 밤의 클래식 간식 자판기 벽이에요. 작은 창문을 열고 크로켓, 프리칸델 (frikandel), 사테 크로켓을 꺼내 먹어요. 밤늦게까지 열지만 시간은 미리 확인하세요."
+    },
+    "stubbe-s-haring": {
+      "name": "Stubbe's Haring",
+      "text": "하를레머 수문 (Haarlemmersluis) 옆이에요. 100년 넘게 이어 온 청어 가판대예요. 양파와 피클을 곁들인 홀란서 니우어 (Hollandse Nieuwe)를 그대로 또는 빵에 끼워 먹어요. 서서 먹는 곳이라 좌석은 없어요. 운영 시간은 미리 확인하세요."
+    },
+    "vishuisje-simon-en-simon": {
+      "name": "Vishuisje Simon en Simon",
+      "text": "프린선 운하 (Prinsengracht) 위 다리에 있는 작은 청어 가판대로, 아버지와 아들이 운영해요. 관광객과 현지인 모두 청어 샌드위치가 맛있다고 해요. 운영 시간은 미리 확인하세요."
+    },
+    "proeflokaal-a-van-wees": {
+      "name": "Proeflokaal A. van Wees",
+      "text": "역사 깊은 시음장이에요. 멧돼지, 타이거 새우, 클래식 소고기, 그리고 버섯과 가지로 만든 채식 비터발렌이 있어요. 아주 좋은 예네버르 (jenever)를 맛보기에도 딱인 곳이에요."
+    },
+    "cafe-luxembourg": {
+      "name": "Café Luxembourg",
+      "text": "수상 경력이 있는 비터발렌 세 가지로 유명한 카페예요. 소고기, 새우, 네덜란드 치즈 맛이 있어요."
+    },
+    "eetsalon-van-dobben": {
+      "name": "Eetsalon Van Dobben",
+      "text": "1945년부터 이어 온 스낵바로, 다른 카페에도 비터발렌을 납품해요."
+    },
+    "cafe-de-tuin": {
+      "name": "Café de Tuin",
+      "text": "요르단 (Jordaan)에 있는 브라운 카페로, 전통 소고기 라구 비터발렌을 맛볼 수 있어요."
+    },
+    "flore": {
+      "name": "Flore",
+      "text": "암스텔강 (Amstel) 가의 De L'Europe 호텔 안에 있어요. 예전 이름은 Bord'Eau. 셰프 바스 판 크라넌 (Bas van Kranen), 미쉐린 2스타."
+    },
+    "vinkeles": {
+      "name": "Vinkeles",
+      "text": "18세기 반지하 빵집 자리에 있는 미쉐린 2스타 레스토랑이에요. 저녁만, 화-토 오후 7-10시."
+    },
+    "rijks": {
+      "name": "RIJKS",
+      "text": "국립미술관 (Rijksmuseum) 안에 있어요. 셰프 요리스 베이던데이크 (Joris Bijdendijk)는 2025년 올해의 셰프로 선정되었어요."
+    },
+    "de-kas": {
+      "name": "De Kas",
+      "text": "프랑컨달 (Frankendael)에 있어요. 미쉐린 스타와 그린 스타를 받은 유기농 레스토랑으로, 온실 안에 있어요."
+    },
+    "lars": {
+      "name": "Lars",
+      "text": "하우트하번 (Houthavens)에 있어요. 미쉐린 스타."
+    },
+    "showw": {
+      "name": "Showw",
+      "text": "미쉐린 스타."
+    },
+    "more-at-de-l-europe": {
+      "name": "De L'Europe의 다른 곳들",
+      "text": "Hoofdstad Brasserie (좀 더 가벼운 식사), Hèt Terras (암스텔강 가의 넓은 테라스), Freddy's Bar, 그리고 Chapter 1896 (암스텔강이 보이는 칵테일 바)."
+    },
+    "the-duchess": {
+      "name": "The Duchess",
+      "text": "W 호텔 맞은편이에요. 벨 에포크 양식의 옛 은행 홀에 자리한 프랑스·이탈리아 브라스리 (€€€)로, 짙은 대리석과 샹들리에, 오픈 키친이 있어요. 비프 웰링턴으로 유명해요. 월-목 오후 5시-새벽 1시, 금-토 정오-새벽 2시, 일 정오-새벽 1시. 예약: +31 20 811 3322. 주말에는 애프터눈 티도 있어요."
+    },
+    "de-silveren-spiegel": {
+      "name": "De Silveren Spiegel",
+      "text": "1614년에 지어진 계단식 박공 주택 두 채에서 즐기는 창의적인 프랑스 요리 (€€€)예요. 벽난로와 촛불, 다양한 내추럴 와인이 있어요. 미쉐린 가이드에 소개되었지만 스타는 없어요. 화-목 오후 6-11시, 금-토 오후 12시 30분-10시, 일·월 휴무."
+    },
+    "ron-gastrobar": {
+      "name": "Ron Gastrobar",
+      "text": "폰덜 공원 (Vondelpark) 근처예요. 셰프 론 블라우 (Ron Blaauw)의 가스트로바로, 격식 없이 수준 높은 요리를 내요. 나눠 먹는 작은 요리, 숙성 스테이크, 생선 요리가 있어요."
+    },
+    "toscanini": {
+      "name": "Toscanini",
+      "text": "요르단에 있어요. 1985년부터 이어 온 정통 이탈리안으로, 오픈 키친과 제철 지역 요리, 직접 구운 빵이 있어요. 자리 잡기가 어려우니 한참 미리 예약하세요."
+    },
+    "mr-porter": {
+      "name": "Mr. Porter",
+      "text": "W 호텔 펜트하우스에 있는 스테이크하우스 겸 칵테일 바예요. 드라이에이징 소고기와 함께, 담 광장 (Dam)과 나인 스트리트가 내려다보이는 루프톱 테라스가 있어요. 리뷰어들은 목초 사육 스테이크, 주키니 카르파초, 초콜릿 퐁당을 칭찬해요."
+    },
+    "pllek": {
+      "name": "Pllek",
+      "text": "암스테르담 북부 (Amsterdam-Noord), NDSM 조선소 근처예요(IJ강을 페리로 건너가요). 날것 그대로의 산업 공간에 자리한 유기농·지속 가능한 레스토랑으로, 도심 해변과 IJ강 전망이 있어요."
+    },
+    "de-belhamel": {
+      "name": "De Belhamel",
+      "text": "헤렌 운하 (Herengracht)와 만나는 모퉁이에 있어요. 지중해 풍미를 더한 제철 네덜란드 요리를 운하가 보이는 아르누보 인테리어 속에서 즐길 수 있어요. 붐비는 곳을 벗어난 조용한 곳이에요."
+    },
+    "hannekes-boom": {
+      "name": "Hannekes Boom",
+      "text": "중앙역 바로 옆이에요. 재활용 자재로 지은 소박한 카페로, 물가의 넓은 테라스와 지역 유기농 식재료가 있어요."
+    },
+    "kartika": {
+      "name": "Kartika",
+      "text": "수십 년째 레이스타펄 (rijsttafel)을 내는 곳이에요. 채식 메뉴도 있어요."
+    },
+    "mama-makan": {
+      "name": "Mama Makan",
+      "text": "인도네시아 대표 요리를 모던한 스타일로."
+    },
+    "restaurant-max": {
+      "name": "Restaurant Max",
+      "text": "운하 환상대 안에서 전통식, 퓨전, 순한 맛 레이스타펄을 즐길 수 있어요. 친절한 서비스와 인도네시아 음식에 잘 어울리는 와인 리스트로 알려져 있어요."
+    },
+    "tempo-doeloe": {
+      "name": "Tempo Doeloe",
+      "text": "시내에서 가장 유명한 레이스타펄 중 하나로, 맵고 하얀 식탁보가 깔린 곳이에요. 저녁만 해요."
+    },
+    "van-t-spit": {
+      "name": "Van 't Spit",
+      "text": "Frans Halsstraat 42에도 있어요. 꼬치에 구운 로티세리 치킨."
+    },
+    "bierfabriek": {
+      "name": "Bierfabriek",
+      "text": "피리피리 치킨과 립."
+    },
+    "ladybird-fried-chicken": {
+      "name": "Ladybird Fried Chicken",
+      "text": "더 페이프 (De Pijp)에 있어요."
+    },
+    "kip-n-drip-kid": {
+      "name": "Kip 'n Drip (KID)",
+      "text": "더 페이프에 있어요. 많은 사람이 암스테르담 최고의 치킨버거라고 해요."
+    },
+    "chris-kip": {
+      "name": "Chris Kip",
+      "text": "1928년부터, 유기농."
+    },
+    "in-t-aepjen": {
+      "name": "In 't Aepjen",
+      "text": "암스테르담에 남은 두 채의 목조 주택 중 하나예요(약 1475-1550년). 예네버르와 맥주. 일-목 정오-새벽 1시, 금-토 정오-새벽 3시."
+    },
+    "bird": {
+      "name": "Bird",
+      "text": "1998년부터 이어 온 정통 태국 음식점으로, 문 앞에 줄이 서는 일이 많아요."
+    },
+    "fo-guang-shan-he-hua-temple": {
+      "name": "Fo Guang Shan He Hua 사원",
+      "text": "유럽 본토에서 가장 큰 중국식 사원이에요. 무료 입장, 신발은 벗어야 해요. 화-토 정오-오후 5시, 일 오전 10시-오후 5시, 월 휴무."
+    },
+    "trees": {
+      "name": "Trees",
+      "text": "역사적인 모퉁이 건물에 자리한 분위기 좋은 레스토랑이에요."
+    },
+    "amsterdamsche-vishandel-anno-1938": {
+      "name": "Amsterdamsche Vishandel Anno 1938",
+      "text": "클래식한 생선 가게예요."
+    },
+    "fromagerie-abraham-kef": {
+      "name": "Fromagerie Abraham Kef",
+      "text": "1950년대부터 이어 온 치즈 가게로, 와인과 별미도 있어요. 줄이 서는 일이 많아요."
+    },
+    "de-amsterdamse-muis": {
+      "name": "De Amsterdamse Muis",
+      "text": "빈티지 장식품, 델프트 블루 도자기, 선물을 파는 곳이에요. 화-토 오전 11시-오후 6시."
+    },
+    "antiekcentrum": {
+      "name": "Antiekcentrum",
+      "text": "요르단에 있어요. 네덜란드에서 가장 큰 실내 골동품 시장으로, 상인 55명이 모여 있어요. 무료 입장."
+    },
+    "alladin-s-notenhoek": {
+      "name": "Alladin's Notenhoek",
+      "text": "아우트 서부 (Oud-West, 시내 중심은 아니에요). 전 여왕이 견과류를 사던 가족 운영 가게예요."
+    },
+    "tony-s-chocolonely-super-store": {
+      "name": "Tony's Chocolonely Super Store",
+      "text": "담락 (Damrak) 근처, 중앙역에서 걸어서 약 5분이에요. 매일 오전 10시-오후 7시, 무료 입장. 나만의 초콜릿 바를 만들고, 시식도 하고, 카카오 문제에 대해서도 배울 수 있어요. 공간이 작아 줄이 서는 일이 많고, 계단이 가팔라서 휠체어로는 이용할 수 없어요."
+    },
+    "albert-cuypmarkt": {
+      "name": "Albert Cuypmarkt",
+      "text": "더 페이프. 월-토 오전 9시-오후 6시. 가판대 260개로 유럽에서 가장 큰 상설 시장이에요. 채소, 옷, 꽃, 청어, 갓 구운 스트루프와플이 있어요."
+    },
+    "noordermarkt": {
+      "name": "Noordermarkt",
+      "text": "요르단. 월 오전 9시-오후 1시 (벼룩시장과 원단), 토 오전 9시-오후 4시 (유기농 농산물 시장)."
+    },
+    "waterlooplein": {
+      "name": "Waterlooplein",
+      "text": "월-토 낮 시간. 빈티지 옷, 골동품, 잡동사니를 파는 벼룩시장이에요."
+    },
+    "bloemenmarkt-flower-market": {
+      "name": "Bloemenmarkt (꽃 시장)",
+      "text": "월-토 약 오전 9시-오후 5시 30분, 일 오전 11시-오후 5시 30분."
+    },
+    "dappermarkt": {
+      "name": "Dappermarkt",
+      "text": "동부 (Oost). 월-토 오전 9시-오후 5시. 세계 각국의 음식, 옷, 생활용품이 있어요."
+    },
+    "ten-katemarkt": {
+      "name": "Ten Katemarkt",
+      "text": "아우트 서부 (Oud-West). 월-토."
+    },
+    "lindengracht": {
+      "name": "Lindengracht",
+      "text": "요르단. 토요일만."
+    },
+    "westerstraat": {
+      "name": "Westerstraat",
+      "text": "요르단. 월요일만. 원단, 옷, 신발."
+    },
+    "nieuwmarkt": {
+      "name": "Nieuwmarkt",
+      "text": "토요일에는 유기농 농산물 시장, 5월부터 9월까지 일요일에는 골동품 시장이 열려요."
+    },
+    "ij-hallen": {
+      "name": "IJ-Hallen",
+      "text": "북부 (Noord). 한 달에 한 번 주말에 열리는 벼룩시장이에요."
+    },
+    "poffertjes-at-the-market": {
+      "name": "시장의 포페르체스 (Poffertjes)",
+      "text": "한 출처에 따르면 Amsterdamse Poffertjes 가판대는 노르더마르크트 (Noordermarkt, 토)에 있고, 가끔 알버르트 카위프 시장 (Albert Cuypmarkt, 월·화·목)에도 나온대요. 확인해 보세요."
+    },
+    "kattenkabinet": {
+      "name": "KattenKabinet",
+      "text": "1667년에 지어진 운하 주택 안의 고양이 미술관으로, 진짜 고양이들도 있어요. 화-일 정오-오후 5시."
+    },
+    "hortus-botanicus": {
+      "name": "Hortus Botanicus",
+      "text": "1638년부터 이어 온 식물원으로, 나비관이 있어요. 매일 오전 10시-오후 5시."
+    },
+    "museum-van-loon": {
+      "name": "Museum Van Loon",
+      "text": "정원과 마차 창고가 있는 1672년 운하 주택이에요. 수-일 오전 10시-오후 5시, 월·화 휴무."
+    },
+    "foam": {
+      "name": "Foam",
+      "text": "판 론 (Van Loon) 바로 옆의 사진 박물관이에요. 매일 오전 10시-오후 6시, 목-금은 오후 9시까지."
+    },
+    "rijksmuseum": {
+      "name": "Rijksmuseum",
+      "text": "매일 오전 9시-오후 5시. 미술관 아래를 지나는 자전거 통로도 놓치지 마세요."
+    },
+    "entrepotdok": {
+      "name": "Entrepotdok",
+      "text": "아르티스 (Artis) 동물원 옆에 있는 19세기 창고들로, 지금은 주택과 하우스보트가 되었어요. 언제나 열려 있고 무료예요."
+    },
+    "ndsm-werf": {
+      "name": "NDSM-werf",
+      "text": "암스테르담 북부의 옛 조선소예요. 중앙역에서 페리 (F3 노선)를 타세요. 보행자와 자전거는 무료이고, 최소 한 시간에 두 번 다녀요."
+    },
+    "reguliersdwarsstraat": {
+      "name": "Reguliersdwarsstraat",
+      "text": "렘브란트 광장 (Rembrandtplein) 근처예요. 잘 알려진 LGBTQ+ 거리로, 1963년 최초의 게이 바가 이곳에 생겼어요."
+    },
+    "picasso-in-the-vondelpark": {
+      "name": "폰덜 공원의 피카소",
+      "text": "조각 \"Figure découpée / l'Oiseau\" (1965)로, 현지에서는 \"물고기\"라고 불러요. 피카소가 빌럼 산드베르흐 (Willem Sandberg)와의 우정으로 공원 100주년을 맞아 도시에 선물했어요."
+    },
+    "a-dam-lookout": {
+      "name": "A'DAM Lookout",
+      "text": "360도 전망을 즐길 수 있는 전망 타워로, 중앙역에서 무료 페리를 타고 가요. 하이라이트는 Over The Edge 그네예요. 거의 100미터 높이에서 지붕 가장자리 너머로 그네를 타요."
+    },
+    "swimming-at-the-marineterrein": {
+      "name": "마리너테레인 (Marineterrein)에서 수영하기",
+      "text": "해양박물관과 NEMO가 보이는 도심 한가운데 안쪽 항구에서 수영할 수 있어요. 무료로 이용할 수 있어요."
+    },
+    "kuuma-sauna": {
+      "name": "Kuuma Sauna",
+      "text": "부두 옆이에요. 장작으로 데우는 물 위의 사우나로, 혼자 또는 일행과 함께 시간대별로 빌려요. 예약은 kuuma.nl에서."
+    },
+    "pension-homeland": {
+      "name": "Pension Homeland",
+      "text": "옛 장교 식당 자리에 있는 자체 양조장으로, 직접 빚은 맥주가 열 가지 넘게 있어요. 카페, 레스토랑, 햇살 좋은 테라스도 있어요."
+    },
+    "entr-vr-museum": {
+      "name": "ENTR VR Museum",
+      "text": "OBA 도서관과 중앙역 바로 옆이에요. 네덜란드 최초의 VR 박물관이에요. \"Amsterdam 1652\"에서는 다른 관람객과 함께 재현된 17세기 암스테르담을 걸어 다녀요. 티켓 €18부터, 미리 예약하세요."
+    },
+    "proeflokaal-t-arendsnest": {
+      "name": "Proeflokaal 't Arendsnest",
+      "text": "네덜란드 맥주만 파는 카페예요. 생맥주 52종에 병맥주까지, 비트비어부터 스타우트, IPA까지 있어요."
+    },
+    "coffeeshop-siberie": {
+      "name": "Coffeeshop Siberië",
+      "text": "개조한 차고에 자리한 커피숍으로, 촛불과 큰 나무 테이블, 보드게임이 있고 주말에는 라이브 DJ도 와요. 18세 이상만 입장할 수 있어요."
+    },
+    "het-stenen-hoofd": {
+      "name": "Het Stenen Hoofd",
+      "text": "1902년에 만들어진 옛 항구 부두로, 지금은 IJ강 가의 공원이자 강아지 산책 명소예요. 자유롭게 들어갈 수 있어요."
+    },
+    "boom-chicago": {
+      "name": "Boom Chicago",
+      "text": "네덜란드식 양념을 더한 미국 코미디예요. 영어로 하는 즉흥극과 스케치 공연이에요. 공연 날짜는 boomchicago.nl에서 확인하세요."
+    },
+    "de-hollandsche-manege": {
+      "name": "De Hollandsche Manege",
+      "text": "1882년에 지어진 신고전주의 승마장으로, 누구나 들어갈 수 있는 카페 레스토랑에서 말 타는 모습을 구경할 수 있어요."
+    },
+    "vrog": {
+      "name": "VROG",
+      "text": "바털로 광장 (Waterlooplein) 근처의 옛 자동차 터널에 있는 실내 놀이 공간으로, 트램펄린, 파쿠르, 댄스를 즐길 수 있어요. 걸음마 하는 아기를 포함해 아이들과 함께 가기 좋아요."
+    },
+    "nemo-science-museum": {
+      "name": "NEMO Science Museum",
+      "text": "아이부터 어른까지 즐기는 과학관으로, 실험과 워크숍, 도시 전망이 펼쳐지는 옥상 광장이 있어요."
+    },
+    "klimmuur-amsterdam-centraal": {
+      "name": "Klimmuur Amsterdam Centraal",
+      "text": "중앙역 근처의 대형 클라이밍장으로, 볼더링 벽과 루트(8미터와 16미터)가 있어요. 아이와 어른 모두 이용할 수 있고 체험 강습도 있어요."
+    },
+    "paradiso": {
+      "name": "Paradiso",
+      "text": "레이체 광장 (Leidseplein) 근처의 옛 교회에서 열리는 콘서트와 파티."
+    },
+    "bitterzoet": {
+      "name": "Bitterzoet",
+      "text": "온갖 장르의 음악을 위한 클럽 겸 공연장이에요."
+    },
+    "tuschinski": {
+      "name": "Tuschinski",
+      "text": "아름다운 아르데코 영화관으로, 안을 꼭 한번 들여다볼 만해요."
+    },
+    "the-movies": {
+      "name": "The Movies",
+      "text": "짙은 래커칠 목재로 꾸민 작은 아르데코 영화관으로, 관광청에 따르면 암스테르담에서 가장 오래된 영화관이래요."
+    },
+    "cafe-papeneiland": {
+      "name": "Café Papeneiland",
+      "text": "브라우어르스 운하 (Brouwersgracht) 모퉁이에 있어요. 시내에서 가장 오래된 카페 중 하나(1642년)로, 델프트 타일이 있고 애플파이로 유명해요."
+    },
+    "cafe-t-smalle": {
+      "name": "Café 't Smalle",
+      "text": "1780년의 옛 증류소에 자리한 전통 브라운 카페로, 운하 옆 테라스가 있어요."
+    },
+    "cafe-de-prins": {
+      "name": "Café de Prins",
+      "text": "서교회 (Westerkerk) 근처의 아늑한 카페로, 촛불과 포페르체스로 알려져 있어요."
+    },
+    "marineterrein-and-the-voc-ship": {
+      "name": "마리너테레인과 VOC 범선",
+      "text": "마리너테레인의 물가에서, 가까운 해양박물관 옆에 있는 VOC 범선 암스테르담호의 복제선을 볼 수 있어요."
+    },
+    "brouwersgracht": {
+      "name": "Brouwersgracht",
+      "text": "헤렌 운하와 프린선 운하가 만나는 모퉁이예요. 세 운하가 이곳에서 만나요."
+    },
+    "damrak": {
+      "name": "Damrak",
+      "text": "늦은 오후에 가 보세요. 건물 정면에 비치는 빛이 아름다워요."
+    }
+  }
+}

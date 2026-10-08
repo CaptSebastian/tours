@@ -1,0 +1,79 @@
+{
+  "title": "KINBoat: tour Ana Frank y Rijksmuseum",
+  "menuTitle": "Ana Frank y Rijksmuseum",
+  "card": {
+    "title": "KINBoat: tour del Rijksmuseum",
+    "text": "Elija su idioma en el menú y disfrute del recorrido."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Casa de Ana Frank (Anne Frank Huis)",
+      "body": "<p>En la Casa de Ana Frank, Ana escribió su famoso diario mientras se escondía de los nazis durante la Segunda Guerra Mundial. La casa de atrás (el Anexo secreto) donde vivió es hoy un museo que atrae a visitantes de todo el mundo que quieren conocer su vida y la historia del Holocausto.</p>"
+    },
+    "de-wester": {
+      "title": "De Wester (la Westerkerk)",
+      "body": "<p>La Westerkerk (Iglesia del Oeste) se terminó en 1631 y es conocida por su torre, de unos 85 metros de altura: la torre de iglesia más alta de la ciudad. Rembrandt fue enterrado aquí en 1669, en una tumba sin nombre.</p><p>Desde su escondite en el Anexo secreto, muy cerca de aquí, Ana Frank oía las campanas de la Westertoren. En su diario escribió cuánto consuelo le daban.</p>"
+    },
+    "the-canal-ring": {
+      "title": "El cinturón de canales (Grachtengordel)",
+      "body": "<p>La VOC (Compañía Neerlandesa de las Indias Orientales) fue una compañía comercial que tuvo un papel enorme en el Siglo de Oro de Ámsterdam. El cinturón de canales es un sistema único de <strong>canales concéntricos</strong> del siglo XVII, construido durante la mayor ampliación de la ciudad. Las dos cosas van de la mano: la riqueza del comercio de la VOC financió directamente la construcción del cinturón de canales, donde los ricos comerciantes levantaron sus impresionantes casas.</p>"
+    },
+    "high-and-dry": {
+      "title": "En alto y a salvo del agua",
+      "body": "<p>La VOC comerciaba sobre todo con especias y otros productos valiosos de Asia, que se guardaban en los almacenes de las casas de comerciantes junto a los canales. Estos almacenes tenían grandes desvanes y <strong>vigas de izado</strong> en la fachada para guardar la valiosa mercancía «en alto y en seco».</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "El Museo de las Casas Flotantes (Houseboat Museum)",
+      "body": "<p>Ámsterdam tiene unas 2.500 casas flotantes. Aquí se vive en barcos desde hace mucho tiempo, pero las casas flotantes se hicieron realmente populares después de la Segunda Guerra Mundial, como solución a la falta de vivienda. En este museo, un antiguo barco de carga de 1914, se puede ver cómo es la vida sobre el agua.</p>"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier (Barrio del Espejo)",
+      "body": "<p>Un barrio precioso para ir de compras en un ambiente típico del casco antiguo de Ámsterdam. Hay muchas tiendas de arte, antigüedades y artículos vintage, además de bares y restaurantes. Ideal para pasear y curiosear.</p>"
+    },
+    "rijksmuseum": {
+      "title": "Rijksmuseum",
+      "body": "<p>El Rijksmuseum se fundó en 1800 y es famoso por su colección de pintura del Siglo de Oro neerlandés, con obras de Rembrandt y Vermeer.</p>"
+    },
+    "night-watch": {
+      "title": "La ronda de noche",
+      "body": "<p>Sin duda, <em>La ronda de noche</em>, del pintor del Siglo de Oro neerlandés Rembrandt Harmenszoon van Rijn (1606–1669), es el corazón del Rijksmuseum. No solo es la obra más grande e importante del museo: toda la colección está literalmente construida a su alrededor, con la sala de La ronda de noche en el centro del museo, abierta a la Galería de Honor. Este enorme cuadro, con figuras a tamaño real, es famoso por su dramático juego de luces y sombras y por mostrar de forma innovadora a un grupo en movimiento, en lugar de una escena militar estática.</p>",
+      "caption": "Rembrandt van Rijn: La ronda de noche, 1642, óleo sobre lienzo. Foto: cortesía del Rijksmuseum, Ámsterdam"
+    },
+    "van-gogh-museum": {
+      "title": "Museo Van Gogh",
+      "body": "<p>El Museo Van Gogh alberga la mayor colección de pinturas y dibujos de Vincent van Gogh: más de 200 cuadros y 500 dibujos del artista.</p>"
+    },
+    "paradiso": {
+      "title": "Paradiso",
+      "body": "<p>Paradiso, en Ámsterdam, es conocido como un templo de la música pop. Si alguien pregunta qué grupos famosos han tocado aquí, solo hay una respuesta posible: ¿cuáles no? UB40, David Bowie, Nirvana, The Police, Metallica, Prince, Red Hot Chili Peppers y los Rolling Stones. Todos ellos han pasado alguna vez por el escenario de Paradiso.</p>"
+    },
+    "casino": {
+      "title": "Casino",
+      "body": "<p>Durante mucho tiempo, el juego de azar estuvo prohibido en los Países Bajos. En 1976, Holland Casino abrió el primer casino legal del país en Zandvoort, para que el Estado pudiera regular y controlar el juego. El casino de Ámsterdam, aquí junto al Leidseplein, es hoy el más grande del país.</p>"
+    },
+    "the-vondelpark": {
+      "title": "El Vondelpark",
+      "body": "<p>El Vondelpark, inaugurado en 1865, lleva el nombre del dramaturgo neerlandés Joost van den Vondel. En el parque hay una auténtica escultura de Pablo Picasso «en libertad». Picasso se la regaló a la ciudad como muestra de su amistad con Willem Sandberg, antiguo director del Stedelijk Museum.</p>"
+    },
+    "singelgracht": {
+      "title": "Singelgracht",
+      "body": "<p>El Singelgracht era el canal más exterior de Ámsterdam. Aquí había una serie de baluartes (estructuras defensivas) que formaban parte de la muralla. Estas fortificaciones eran una parte importante de la antigua defensa de la ciudad.</p>"
+    },
+    "facade-stones": {
+      "title": "Piedras de fachada (gevelstenen)",
+      "body": "<p>Estas piedras de fachada servían de puntos de orientación a los habitantes de la ciudad en el siglo XVII. Estas pequeñas obras de arte indicaban, por ejemplo, dónde vendía su pan el panadero o adónde se podían llevar los zapatos a arreglar.</p>"
+    },
+    "de-herengracht": {
+      "title": "El Herengracht (Canal de los Señores)",
+      "body": "<p>Ahora navegamos por el Herengracht, parte de la prestigiosa ampliación de la ciudad a principios del siglo XVII. Este tramo va del Leidsegracht al Amstel, y aquí se ven sobre todo edificios muy grandes: el ayuntamiento solo concedía aquí parcelas grandes, para atraer a las familias de comerciantes ricos.</p><p><strong>Historia popular:</strong> se dice que los impuestos dependían del ancho de la casa y del número de ventanas, y que incluso una escalera doble pagaba un impuesto extra. A los guías les encanta contarlo, pero los historiadores lo dudan; lo más probable es que el alto precio del suelo junto al canal sea la razón de que la mayoría de las casas sean tan estrechas.</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>En esta antigua destilería se puede disfrutar de jenever tradicional (la ginebra neerlandesa, ¡más antigua y mejor!), cerveza y su famosa fondue o los bitterballen. La zona de las Nueve Calles (Negen Straatjes) tiene un ambiente acogedor, con una animada mezcla de turistas y gente local.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti (Casa Bartolotti)",
+      "body": "<p>La Casa Bartolotti se construyó hacia 1617 para Willem van den Heuvel tot Beichlingen, uno de los habitantes más ricos de Ámsterdam de su época. Había heredado una fortuna de un tío político sin hijos, Giovanni Battista Bartolotti, un comerciante de Bolonia. El diseño se atribuye a Hendrick de Keyser, el mismo arquitecto que coronó la Montelbaanstoren.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Más sobre la Casa Bartolotti</a></p>"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "KINBoat Tour Anne Frank e Amstel",
+  "menuTitle": "Anne Frank e Amstel",
+  "card": {
+    "title": "KINBoat Casa di Anne Frank",
+    "text": "Scegliete la vostra lingua nel menu e buon tour!"
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Casa di Anne Frank",
+      "body": "<p>Nella Casa di Anne Frank, Anne scrisse il suo famoso diario mentre si nascondeva dai nazisti durante la Seconda guerra mondiale. L’alloggio segreto in cui visse è oggi un museo che attira visitatori da tutto il mondo, desiderosi di conoscere la sua vita e la storia dell’Olocausto.</p>"
+    },
+    "de-wester": {
+      "title": "De Wester (Westerkerk)",
+      "body": "<p>La Westerkerk fu completata nel 1631 ed è nota per la sua torre, alta circa 85 metri: il campanile più alto della città. Qui, nel 1669, fu sepolto Rembrandt, in una tomba senza nome.</p><p>Nascosta nell’alloggio segreto lì vicino, Anne Frank poteva sentire le campane della Westertoren. Nel suo diario scrisse quanto conforto le dessero.</p>"
+    },
+    "the-canal-ring": {
+      "title": "La cintura dei canali (Grachtengordel)",
+      "body": "<p>La VOC (Compagnia olandese delle Indie orientali) era una compagnia commerciale che ebbe un ruolo enorme nel Secolo d’oro di Amsterdam. La cintura dei canali è un sistema unico di <strong>canali concentrici</strong> del Seicento, costruito durante la più grande espansione della città. Le due cose sono strettamente legate: la ricchezza del commercio della VOC finanziò la costruzione della cintura dei canali, dove i ricchi mercanti edificarono le loro case imponenti.</p>"
+    },
+    "high-and-dry": {
+      "title": "In alto e all’asciutto",
+      "body": "<p>La VOC commerciava soprattutto spezie e altre merci preziose dall’Asia, che venivano conservate nei magazzini delle case dei mercanti lungo i canali di Amsterdam. Questi magazzini avevano grandi soffitte e <strong>travi di sollevamento</strong> sulla facciata, proprio per tenere le preziose merci “in alto e all’asciutto”.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Il Museo della casa galleggiante (Woonbootmuseum)",
+      "body": "<p>Amsterdam conta circa 2.500 case galleggianti. Qui si vive sulle barche da molto tempo, ma le case galleggianti sono diventate davvero popolari dopo la Seconda guerra mondiale, come soluzione alla carenza di alloggi. In questo museo, un’ex nave da carico del 1914, potete vedere com’è la vita sull’acqua.</p>"
+    },
+    "facade-stones": {
+      "title": "Pietre di facciata (gevelstenen)",
+      "body": "<p>Queste pietre di facciata servivano da punti di riferimento per gli abitanti della città nel Seicento. Queste piccole opere d’arte indicavano, per esempio, dove il fornaio vendeva il suo pane o dove si poteva far riparare le scarpe.</p>"
+    },
+    "night-watch": {
+      "title": "La Ronda di notte",
+      "body": "<p>Senza dubbio la <em>Ronda di notte</em> di Rembrandt Harmenszoon van Rijn (1606–1669), pittore del Secolo d’oro olandese, è il cuore del Rijksmuseum. Non è solo l’opera più grande e importante del museo: l’intera collezione è letteralmente costruita intorno a lei, con la Sala della Ronda di notte al centro del museo, che si apre sulla Galleria d’Onore. Questo enorme dipinto a grandezza naturale è famoso per il suo drammatico gioco di luci e ombre e per aver raffigurato, in modo innovativo, un gruppo in movimento invece di una scena militare statica.</p>",
+      "caption": "Rembrandt van Rijn: La Ronda di notte, 1642, olio su tela. Foto: per gentile concessione del Rijksmuseum, Amsterdam"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier (Quartiere degli Specchi)",
+      "body": "<p>Un bel quartiere per fare shopping di qualità nella tipica atmosfera del centro storico di Amsterdam. Tanti negozi d’arte, d’antiquariato e vintage, oltre a pub e ristoranti. Perfetto per passeggiare e curiosare.</p>"
+    },
+    "de-amstelkerk": {
+      "title": "De Amstelkerk",
+      "body": "<p>Sulla piazza Amstelveld si trova l’unica chiesa provvisoria in legno rimasta ad Amsterdam. Questa rara struttura in legno ospita concerti e mostre d’arte. Con le sue finestre dalle belle proporzioni, l’intimo edificio sembra un elegante portagioie.</p>"
+    },
+    "de-duif": {
+      "title": "De Duif",
+      "body": "<p>De Duif (La Colomba) è una storica chiesa cattolica, notevole per la sua facciata imponente e l’architettura classica.</p><p>La chiesa ha un’acustica straordinaria ed è quindi un luogo molto amato per concerti di musica classica e cori. All’interno ci sono splendide vetrate colorate e uno storico organo Smits del 1862, che si suona ancora oggi.</p>"
+    },
+    "de-amstel": {
+      "title": "De Amstel (il fiume Amstel)",
+      "body": "<p>Tradizionalmente un’importante via di navigazione tra lo Zuiderzee e l’entroterra, e il fiume da cui la nostra città prende il nome. Intorno al 1270 fu costruita una diga sull’Amstel, che trasformò rapidamente il villaggio di pescatori in una città di commerci. Il documento più antico che nomina Amsterdam risale al 1275: un privilegio del conte Floris V che esentava gli abitanti dal pagare il pedaggio in Olanda. Lì la città è chiamata <em>Amestelledamme</em> (“diga sull’Amstel”), un nome che col tempo è diventato Amsterdam. I diritti di città arrivarono intorno al 1300.</p>"
+    },
+    "de-magere-brug": {
+      "title": "De Magere Brug (il Ponte Magro)",
+      "body": "<p>De Magere Brug, “il Ponte Magro”, deve probabilmente il suo nome al ponte di legno molto stretto costruito qui per la prima volta nel 1691. Una leggenda popolare racconta di due sorelle di nome Mager, che abitavano sulle due sponde opposte e pagarono il ponte per potersi andare a trovare; una bella storia, ma non ci sono prove.</p><p>Il ponte è famoso in tutto il mondo grazie al film di James Bond “Una cascata di diamanti” (1971). E la leggenda più recente di tutte: se a bordo ci sono coppie innamorate, datevi un bacio proprio sotto il ponte e resterete innamorati per tutta la vita!</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>Nel Seicento molte donne di Amsterdam restavano sole: i mariti partivano per mare e buona parte di loro non tornava più. Per assistere le donne anziane, i diaconi della Chiesa riformata costruirono qui l’Amstelhof, iniziato nel 1681 su un terreno allora economico, sull’altra sponda dell’Amstel. Fu una casa di riposo fino al 2007.</p><p>Nel 2009 l’edificio è stato riaperto come Hermitage Amsterdam, una sede distaccata dell’Ermitage di San Pietroburgo. Dopo l’invasione russa dell’Ucraina nel 2022, il museo ha interrotto i legami con la Russia ed è stato ribattezzato H’ART Museum.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Municipio e Teatro dell’Opera e del Balletto Nazionale",
+      "body": "<p>L’attuale Palazzo Reale in piazza Dam era in origine il municipio di Amsterdam. Dall’inizio dell’Ottocento il municipio si trasferì sull’Oudezijds Voorburgwal; col tempo anche quell’edificio diventò troppo piccolo e negli anni ’80 gli architetti Holzbauer, Holt e Cees Dam progettarono un nuovo municipio sul Waterlooplein, l’antica Vlooienburg. L’edificio ha una doppia funzione: è il municipio di Amsterdam e il teatro dell’Opera e del Balletto Nazionale.</p>"
+    },
+    "de-herengracht": {
+      "title": "De Herengracht (Canale dei Signori)",
+      "body": "<p>Stiamo navigando sulla Herengracht, parte del prestigioso ampliamento della città all’inizio del Seicento. Questo tratto va dalla Leidsegracht all’Amstel, e qui vedete soprattutto edifici molto grandi: il consiglio comunale assegnava qui solo lotti grandi, per attirare le ricche famiglie di mercanti.</p><p><strong>Storia popolare:</strong> si dice che le tasse si basassero sulla larghezza della casa e sul numero di finestre, e che perfino una scala doppia fosse tassata a parte. Le guide adorano raccontarla, ma gli storici ne dubitano; il motivo più probabile per cui la maggior parte delle case è così stretta è l’alto prezzo dei terreni lungo il canale.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "De Reguliersgracht",
+      "body": "<p>Uno dei canali più belli, famoso per i suoi sette ponti ad arco identici. Nel 1901 il consiglio comunale voleva interrarlo per far passare il nuovo tram elettrico, ma per fortuna, dopo molte proteste, il progetto fu respinto. La sera è bellissimo perché gli archi sono illuminati, e dal Thorbeckeplein la vista è splendida!</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>In questa ex distilleria potete gustare il jenever tradizionale (il gin olandese, più antico e più buono!), birra e la loro famosa fonduta o i bitterballen. La zona delle Nove Stradine (Negen Straatjes) offre un’atmosfera accogliente, con un vivace mix di turisti e gente del posto.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti (Casa Bartolotti)",
+      "body": "<p>Casa Bartolotti fu costruita intorno al 1617 per Willem van den Heuvel tot Beichlingen, uno degli abitanti più ricchi di Amsterdam dell’epoca, che aveva ereditato una fortuna da uno zio acquisito senza figli, Giovanni Battista Bartolotti, un mercante di Bologna. Il progetto è attribuito a Hendrick de Keyser, lo stesso architetto che realizzò la cima della Montelbaanstoren.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Scopri di più su Casa Bartolotti</a></p>"
+    }
+  }
+}

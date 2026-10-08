@@ -1,0 +1,79 @@
+{
+  "title": "KINBoat Anne Frank Rijksmuseum Turu",
+  "menuTitle": "Anne Frank ve Rijksmuseum",
+  "card": {
+    "title": "KINBoat Rijksmuseum Turu",
+    "text": "Menüden dilinizi seçin ve turun keyfini çıkarın."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Anne Frank Evi",
+      "body": "<p>Anne Frank, İkinci Dünya Savaşı sırasında Nazilerden saklanırken ünlü günlüğünü Anne Frank Evi’nde yazdı. Yaşadığı gizli bölme (Achterhuis) bugün bir müze. Dünyanın dört bir yanından ziyaretçiler, onun hayatını ve Holokost’un tarihini öğrenmek için buraya geliyor.</p>"
+    },
+    "de-wester": {
+      "title": "De Wester",
+      "body": "<p>Westerkerk (Batı Kilisesi) 1631’de tamamlandı. Yaklaşık 85 metre yüksekliğindeki kulesiyle tanınır; bu, şehrin en yüksek kilise kulesidir. Rembrandt 1669’da burada, isimsiz bir mezara gömüldü.</p><p>Anne Frank, hemen yakındaki gizli bölmede saklanırken Westertoren’in (Batı Kulesi) çanlarını duyabiliyordu. Günlüğünde bu çanların ona ne kadar teselli verdiğini yazdı.</p>"
+    },
+    "the-canal-ring": {
+      "title": "Kanal Kuşağı",
+      "body": "<p>VOC (Hollanda Doğu Hindistan Şirketi), Amsterdam’ın Altın Çağı’nda büyük rol oynayan bir ticaret şirketiydi. Kanal kuşağı ise 17. yüzyıldan kalma, <strong>iç içe halkalar şeklindeki kanallardan</strong> oluşan eşsiz bir sistemdir; Amsterdam’ın en büyük genişlemesi sırasında inşa edildi. Bu ikisi birbirine sıkıca bağlıdır: VOC ticaretinden gelen zenginlik, kanal kuşağının yapımına ve gelişimine doğrudan katkıda bulundu. Zengin tüccarlar gösterişli evlerini burada inşa etti.</p>"
+    },
+    "high-and-dry": {
+      "title": "Yüksekte ve kuruda",
+      "body": "<p>VOC, başta baharat olmak üzere Asya’dan gelen değerli mallarla ticaret yapıyordu. Bu mallar, Amsterdam kanalları boyunca uzanan tüccar evlerinin depolarında saklanırdı. Bu depolar, değerli ticaret mallarını ‘yüksekte ve kuruda’ saklamak için özel olarak tasarlanmıştı: geniş çatı katları ve cephelerde <strong>vinç kirişleri</strong> vardı.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Ev Teknesi Müzesi",
+      "body": "<p>Amsterdam’da yaklaşık 2.500 ev teknesi var. İnsanlar burada uzun zamandır teknelerde yaşıyor, ama ev tekneleri asıl İkinci Dünya Savaşı’ndan sonra, konut sıkıntısına bir çözüm olarak yaygınlaştı. 1914 yapımı eski bir yük gemisi olan bu müzede, suyun üstünde hayatın nasıl olduğunu görebilirsiniz.</p>"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier",
+      "body": "<p>Tipik eski Amsterdam havasında, kaliteli alışveriş imkânı sunan güzel bir semt. Sanat, antika ve vintage dükkânlarından iyi bir seçki, ayrıca barlar ve restoranlar var. Gezinmek ve vitrinlere bakmak için çok keyifli.</p>"
+    },
+    "rijksmuseum": {
+      "title": "Rijksmuseum",
+      "body": "<p>Rijksmuseum (Devlet Müzesi) 1800’de kuruldu. Rembrandt ve Vermeer’in eserleri de dahil olmak üzere Hollanda Altın Çağı resimlerinden oluşan koleksiyonuyla ünlüdür.</p>"
+    },
+    "night-watch": {
+      "title": "Gece Devriyesi",
+      "body": "<p>Hollanda Altın Çağı ressamı Rembrandt Harmenszoon van Rijn’in (1606–1669) <em>Gece Devriyesi</em> tablosu, hiç şüphesiz Rijksmuseum’un kalbidir. Müzenin en büyük ve en önemli eseri olmakla kalmaz; tüm koleksiyon kelimenin tam anlamıyla onun etrafında kurulmuştur. Müzenin merkezindeki Gece Devriyesi Galerisi, Onur Galerisi’ne açılır. Bu devasa, gerçek boyutlu tablo, ışık ve gölgenin dramatik oyunuyla ünlüdür. Ayrıca durağan bir askeri sahne yerine hareket halindeki bir grubu gösteren yenilikçi bir eserdir.</p>",
+      "caption": "Rembrandt van Rijn: Gece Devriyesi, 1642, tuval üzerine yağlıboya. Fotoğraf: Rijksmuseum, Amsterdam’ın izniyle"
+    },
+    "van-gogh-museum": {
+      "title": "Van Gogh Müzesi",
+      "body": "<p>Van Gogh Müzesi, Vincent van Gogh’un resim ve çizimlerinin dünyadaki en büyük koleksiyonuna ev sahipliği yapar. Müzede sanatçının 200’den fazla tablosu ve 500 çizimi sergilenir.</p>"
+    },
+    "paradiso": {
+      "title": "Paradiso",
+      "body": "<p>Amsterdam’daki Paradiso, pop müziğin tapınağı olarak da bilinir. Paradiso’da hangi ünlü grupların sahne aldığı sorulduğunda tek bir cevap mümkündür: Hangi gruplar sahne almadı ki? UB40, David Bowie, Nirvana, The Police, Metallica, Prince, Red Hot Chili Peppers ve Rolling Stones. Bu grupların ve sanatçıların hepsi bir dönem Paradiso’da sahne aldı.</p>"
+    },
+    "casino": {
+      "title": "Kumarhane",
+      "body": "<p>Hollanda’da kumar uzun süre yasaktı. 1976’da Holland Casino, devletin şans oyunlarını düzenleyip denetleyebilmesi için ülkenin ilk yasal kumarhanesini Zandvoort’ta açtı. Leidseplein yakınındaki bu Amsterdam kumarhanesi bugün ülkenin en büyüğüdür.</p>"
+    },
+    "the-vondelpark": {
+      "title": "Vondelpark",
+      "body": "<p>1865’te açılan Vondelpark, adını Hollandalı oyun yazarı Joost van den Vondel’den alır. Parkta, “açık havada” duran gerçek bir Pablo Picasso heykeli var. Picasso bu heykeli, Stedelijk Museum’un eski müdürü Willem Sandberg ile olan yakın dostluğunu pekiştirmek için şehre bağışladı.</p>"
+    },
+    "singelgracht": {
+      "title": "Singelgracht",
+      "body": "<p>Singelgracht, Amsterdam’ın en dıştaki kanalıydı. Burada, şehir surlarının parçası olan bir dizi tabya (savunma yapısı) bulunuyordu. Bu tahkimatlar, Amsterdam’ın tarihi şehir savunmasının önemli bir bölümünü oluşturuyordu.</p>"
+    },
+    "facade-stones": {
+      "title": "Cephe taşları",
+      "body": "<p>Bu cephe taşları, on yedinci yüzyılda şehrin sakinleri için yön bulma işaretleriydi. Bu küçük sanat eserleri, fırıncının ekmeğini nerede sattığını ya da ayakkabınızı nerede tamir ettirebileceğinizi gösteriyordu.</p>"
+    },
+    "de-herengracht": {
+      "title": "De Herengracht",
+      "body": "<p>Şu anda Herengracht’ta (Beyler Kanalı) ilerliyoruz. Bu kanal, 17. yüzyılın başında şehrin prestijli genişlemesinin bir parçasıdır. Bu bölüm Leidsegracht’tan Amstel’e kadar uzanır ve burada çoğunlukla çok büyük binalar görürsünüz: Belediye meclisi, zengin tüccar ailelerini çekmek için burada yalnızca büyük arsalar verdi.</p><p><strong>Yaygın hikâye:</strong> Vergilerin evin genişliğine ve pencere sayısına göre belirlendiği, hatta çift merdivenin bile ekstra vergilendirildiği söylenir. Rehberler bu hikâyeyi anlatmayı çok sever, ama tarihçiler buna şüpheyle bakar; evlerin çoğunun bu kadar dar olmasının daha olası nedeni, kanal boyundaki arsaların yüksek fiyatıdır.</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>Bu eski içki imalathanesinde geleneksel jenever (Hollanda cini—daha eski ve daha iyi!), bira ve ünlü fondü ya da bitterballen’lerinin tadını çıkarabilirsiniz. Nine Streets (Dokuz Sokak) bölgesi, turistlerle yerlilerin canlı karışımıyla samimi bir atmosfer sunar.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti",
+      "body": "<p>Bartolotti Evi, 1617 civarında, dönemin en zengin Amsterdamlılarından Willem van den Heuvel tot Beichlingen için inşa edildi. Willem, çocuğu olmayan eniştesi, Bolonyalı tüccar Giovanni Battista Bartolotti’den bir servet miras almıştı. Tasarım, Montelbaanstoren’in tepesini de yapan mimar Hendrick de Keyser’e atfedilir.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Bartolotti Evi hakkında daha fazla bilgi</a></p>"
+    }
+  }
+}

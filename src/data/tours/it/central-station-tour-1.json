@@ -1,0 +1,122 @@
+{
+  "title": "KINBoat Tour dalla Stazione Centrale",
+  "menuTitle": "Stazione Centrale",
+  "card": {
+    "title": "KINBoat Stazione Centrale",
+    "text": "Un’ora di tour in barca scoperta. Vedrete il vecchio porto, la nave della VOC, l’Amstel e i Sette Ponti."
+  },
+  "stops": {
+    "amsterdam-central-station": {
+      "title": "Amsterdam Centraal (Stazione Centrale)",
+      "body": "<p>Progettata da Pierre Cuypers, lo stesso architetto del Rijksmuseum. Se mettete i due edifici uno accanto all’altro, noterete subito la somiglianza! L’edificio è lungo circa 300 metri ed è stato costruito su 8.687 pali di legno in 8 anni; fu inaugurato nel 1889.</p><p>Guardate l’ala est: è il Padiglione Reale, costruito per gli arrivi e le partenze della famiglia reale olandese. Sul colmo del tetto si trova il Portatore dello Scudo del Re, un cavaliere in armatura che custodisce uno scudo con il leone olandese. Sotto la linea del tetto della parte centrale trovate gli stemmi di città commerciali europee come Londra, Parigi e Roma: Cuypers voleva mostrare che la ferrovia collegava Amsterdam al mondo.</p>"
+    },
+    "de-schreierstoren": {
+      "title": "De Schreierstoren (la Torre del Pianto)",
+      "body": "<p>Costruita nel 1487 come torre difensiva nelle mura medievali di Amsterdam. Il suo nome antico, Schreyhoeckstoren, significa “torre dell’angolo acuto”: si trovava in un punto in cui le mura formavano un angolo acuto.</p><p><strong>Leggenda:</strong> siccome in olandese <em>schreien</em> significa anche “piangere”, è nata la storia secondo cui le mogli dei marinai stavano qui a piangere mentre i loro uomini salpavano. È una bella storia, ma è una spiegazione popolare del nome nata più tardi.</p><p><strong>Fatto:</strong> nel 1609 Henry Hudson salpò da qui per conto della Compagnia olandese delle Indie orientali (VOC). Cercava una rotta settentrionale verso l’Asia e finì in quella che oggi è New York. Una targa commemorativa sulla torre ricorda il suo viaggio.</p>"
+    },
+    "het-scheepvaarthuis": {
+      "title": "Het Scheepvaarthuis (la Casa della Navigazione)",
+      "body": "<p>Costruito nel 1913 come sede comune di sei compagnie di navigazione di Amsterdam, nel riconoscibile stile della “Scuola di Amsterdam”; oggi ospita l’Amrâth Hotel.</p>"
+    },
+    "sea-palace": {
+      "title": "Sea Palace",
+      "body": "<p>Un ristorante cinese galleggiante, ispirato ai famosi ristoranti galleggianti di Hong Kong. Con i suoi piani in stile pagoda è uno dei ristoranti più fotografati di Amsterdam e ha una splendida vista sull’acqua. Si mangia benissimo!</p>"
+    },
+    "nemo-science-museum": {
+      "title": "NEMO Science Museum (Museo della Scienza)",
+      "body": "<p>Il nome completo è “New Metropolis”: è un museo scientifico “da toccare” pensato per i bambini, progettato da Renzo Piano. L’edificio fa anche da ingresso al tunnel dell’IJ e ha una grande terrazza sul lato inclinato.</p>"
+    },
+    "het-scheepvaartmuseum": {
+      "title": "Het Scheepvaartmuseum (Museo Marittimo)",
+      "body": "<p>Un tempo era il “’s Lands Zee Magazijn”, costruito nel Seicento: il magazzino dell’“Ammiragliato di Amsterdam”, dove si gestivano tutte le provviste per la flotta da guerra dell’“Ammiragliato”. Oggi è un museo dedicato alla storia marittima dei Paesi Bassi.</p>"
+    },
+    "high-and-dry": {
+      "title": "In alto e all’asciutto",
+      "body": "<p>La VOC commerciava soprattutto spezie e altre merci preziose dall’Asia, che venivano conservate nei magazzini delle case dei mercanti lungo i canali di Amsterdam. Questi magazzini avevano grandi soffitte e travi di sollevamento sulla facciata, proprio per tenere le preziose merci “in alto e all’asciutto”.</p>"
+    },
+    "hortus-botanicus": {
+      "title": "Hortus Botanicus (Orto Botanico)",
+      "body": "<p>Fondato nel 1638, l’Hortus Botanicus è uno degli orti botanici più antichi del mondo. Il piccolo giardino ospita oltre 6.000 alberi e piante, una serra con tre diversi climi tropicali e una casa delle farfalle piena di centinaia di farfalle. Nella Serra delle Palme cercate la cicade del Capo Orientale: ha circa 300 anni.</p>"
+    },
+    "portuguese-jewish-synagogue": {
+      "title": "Sinagoga portoghese",
+      "body": "<p>La <strong>Sinagoga portoghese</strong>, conosciuta anche come <strong>Esnoga</strong> o <strong>Snoge</strong>, è una comunità e sinagoga ebraica ortodossa, completata nel 1675.</p><p>Durante il Secolo d’oro olandese, la comunità sefardita di Amsterdam era una delle comunità ebraiche più grandi e ricche d’Europa, e la sua grandissima sinagoga ne era il riflesso.</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>Nel Seicento molte donne di Amsterdam restavano sole: i mariti partivano per mare e buona parte di loro non tornava più. Per assistere le donne anziane, i diaconi della Chiesa riformata costruirono qui l’Amstelhof, iniziato nel 1681 su un terreno allora economico, sull’altra sponda dell’Amstel. Fu una casa di riposo fino al 2007.</p><p>Nel 2009 l’edificio è stato riaperto come Hermitage Amsterdam, una sede distaccata dell’Ermitage di San Pietroburgo. Dopo l’invasione russa dell’Ucraina nel 2022, il museo ha interrotto i legami con la Russia ed è stato ribattezzato H’ART Museum.</p>"
+    },
+    "de-amstel": {
+      "title": "De Amstel (il fiume Amstel)",
+      "body": "<p>Tradizionalmente un’importante via di navigazione tra lo Zuiderzee e l’entroterra, e il fiume da cui la nostra città prende il nome. Intorno al 1270 fu costruita una diga sull’Amstel, che trasformò rapidamente il villaggio di pescatori in una città di commerci. Il documento più antico che nomina Amsterdam risale al 1275: un privilegio del conte Floris V che esentava gli abitanti dal pagare il pedaggio in Olanda. Lì la città è chiamata <em>Amestelledamme</em> (“diga sull’Amstel”), un nome che col tempo è diventato Amsterdam. I diritti di città arrivarono intorno al 1300.</p>"
+    },
+    "de-herengracht": {
+      "title": "De Herengracht (Canale dei Signori)",
+      "body": "<p>Stiamo navigando sulla Herengracht, parte del prestigioso ampliamento della città all’inizio del Seicento. Questo tratto va dalla Leidsegracht all’Amstel, e qui vedete soprattutto edifici molto grandi: il consiglio comunale assegnava qui solo lotti grandi, per attirare le ricche famiglie di mercanti.</p><p><strong>Storia popolare:</strong> si dice che le tasse si basassero sulla larghezza della casa e sul numero di finestre, e che perfino una scala doppia fosse tassata a parte. Le guide adorano raccontarla, ma gli storici ne dubitano; il motivo più probabile per cui la maggior parte delle case è così stretta è l’alto prezzo dei terreni lungo il canale.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "De Reguliersgracht",
+      "body": "<p>Uno dei canali più belli, famoso per i suoi sette ponti ad arco identici. Nel 1901 il consiglio comunale voleva interrarlo per far passare il nuovo tram elettrico, ma per fortuna, dopo molte proteste, il progetto fu respinto. La sera è bellissimo perché gli archi sono illuminati, e dal Thorbeckeplein la vista è splendida!</p>"
+    },
+    "de-amstelkerk": {
+      "title": "De Amstelkerk",
+      "body": "<p>Sull’Amstelveld si trova l’unica chiesa provvisoria in legno rimasta. Oggi è usata come sala da concerti.</p>"
+    },
+    "gevelstenen": {
+      "title": "Pietre di facciata (gevelstenen)",
+      "body": "<p>Queste pietre di facciata servivano da punti di riferimento per gli abitanti della città nel Seicento. Queste piccole opere d’arte indicavano, per esempio, dove il fornaio vendeva il suo pane o dove si poteva far riparare le scarpe.</p>"
+    },
+    "de-prinsengracht": {
+      "title": "De Prinsengracht (Canale del Principe)",
+      "body": "<p>La Prinsengracht è il più esterno dei tre canali concentrici del Seicento. Qui vedete che gli edifici sono molto più semplici rispetto a quelli della Herengracht e della Keizersgracht. Molte case qui erano usate come magazzini e laboratori.</p>"
+    },
+    "de-magere-brug": {
+      "title": "De Magere Brug (il Ponte Magro)",
+      "body": "<p>De Magere Brug, “il Ponte Magro”, deve probabilmente il suo nome al ponte di legno molto stretto costruito qui per la prima volta nel 1691. Una leggenda popolare racconta di due sorelle di nome Mager, che abitavano sulle due sponde opposte e pagarono il ponte per potersi andare a trovare; una bella storia, ma non ci sono prove.</p><p>Il ponte è famoso in tutto il mondo grazie al film di James Bond “Una cascata di diamanti” (1971). E la leggenda più recente di tutte: se a bordo ci sono coppie innamorate, datevi un bacio proprio sotto il ponte e resterete innamorati per tutta la vita!</p>"
+    },
+    "de-blauwbrug": {
+      "title": "De Blauwbrug (il Ponte Blu)",
+      "body": "<p>Il nome viene dal vecchio ponte di legno dipinto di blu che collegava la città all’isola di Vlooienburg, un quartiere ebraico fino alla Seconda guerra mondiale. L’attuale ponte in pietra, piuttosto sontuoso, risale al 1883, con lampioni, corone e prue di nave ispirati ai ponti sulla Senna a Parigi.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Municipio e Teatro dell’Opera e del Balletto Nazionale",
+      "body": "<p>L’attuale Palazzo Reale in piazza Dam era in origine il municipio di Amsterdam. Dall’inizio dell’Ottocento il municipio si trasferì sull’Oudezijds Voorburgwal; col tempo anche quell’edificio diventò troppo piccolo e negli anni ’80 gli architetti Holzbauer, Holt e Cees Dam progettarono un nuovo municipio sul Waterlooplein, l’antica Vlooienburg. L’edificio ha una doppia funzione: è il municipio di Amsterdam e il teatro dell’Opera e del Balletto Nazionale.</p>"
+    },
+    "de-dansende-huisjes": {
+      "title": "De Dansende Huisjes (le Case Danzanti)",
+      "body": "<p>Le Case Danzanti sono una fila di vecchie case sul canale, storte, che si appoggiano l’una all’altra. Il motivo è sottoterra: Amsterdam è costruita su pali di legno, e lo strato di sabbia compatta che può reggere una casa si trova a circa 13 metri di profondità. I pali che non ci arrivano, o che marciscono nel corso dei secoli, fanno sprofondare la casa in modo irregolare. E il risultato? Una fila di case che ballano.</p>"
+    },
+    "spinoza-monument": {
+      "title": "Monumento a Spinoza",
+      "body": "<p>Una statua del filosofo Baruch Spinoza (1632–1677), nato ad Amsterdam e uno dei grandi pensatori dell’Illuminismo, realizzata da Nicolas Dings nel 2008.</p><p>L’ironia: nel 1656 la comunità ebraica portoghese espulse il giovane Spinoza per le sue idee radicali, e in seguito i suoi libri furono proibiti. Oggi la città lo onora con una statua. Sul basamento potete leggere le sue parole “Il fine dello Stato è la libertà”. Sul suo mantello si posano dei passeri, uccelli che hanno sempre vissuto qui, e dei parrocchetti dal collare, nuovi arrivati in città: insieme rappresentano un’Amsterdam fatta sia di nativi sia di immigrati. Le rose richiamano il suo anello con sigillo, che portava il motto <em>Caute</em>: “sii prudente”.</p>"
+    },
+    "waterlooplein": {
+      "title": "Waterlooplein",
+      "body": "<p>Fino alla Seconda guerra mondiale qui c’era un grande mercato ebraico; oggi c’è un mercato delle pulci. Dove ora sorge il municipio, fino alla Seconda guerra mondiale c’era il “Quartiere ebraico”. Rotterdam porta le cicatrici della guerra per il grande bombardamento, Amsterdam quelle della popolazione ebraica deportata. Quasi tutti gli abitanti di questa parte di Amsterdam furono deportati dai tedeschi, e purtroppo pochissimi sopravvissero. Per gli inverni rigidi e la mancanza di cibo, questo periodo fu chiamato anche “l’Inverno della fame” (Hongerwinter): dalle case rimaste vuote fu portato via tutto il legno (non i mobili, ma il legno della casa stessa) perché la popolazione rimasta potesse riscaldarsi. Finita la guerra, queste case erano ridotte a “scheletri” e furono poi demolite.</p>"
+    },
+    "de-sluyswacht": {
+      "title": "De Sluyswacht",
+      "body": "<p>Il Café de Sluyswacht fu costruito nel 1692 come casa del guardiano della chiusa Sint Antoniesluis. Oggi è un caffè e un monumento nazionale.</p>"
+    },
+    "museum-rembrandthuis": {
+      "title": "Museum Rembrandthuis (Casa di Rembrandt)",
+      "body": "<p>Dietro la Sint Antoniesluis si trova il “Museum Rembrandthuis”, l’ex casa del celebre pittore Rembrandt Harmenszoon van Rijn. Rembrandt morì in povertà; tutti i suoi beni furono venduti all’asta, e il registro dell’asta è stato usato per riarredare la casa, compresi i quadri di Rembrandt, così da dare un’idea fedele degli interni, visto che aveva il suo studio di pittura in casa. Questo spiega anche perché Rembrandt abbia ritratto così tanti uomini ebrei: viveva proprio “nel cuore” del quartiere ebraico.</p>"
+    },
+    "de-montelbaanstoren": {
+      "title": "De Montelbaanstoren",
+      "body": "<p>La parte bassa, rotonda, fu costruita intorno al 1516 come torre difensiva, per proteggere la zona del porto fuori dalle mura cittadine, proprio sull’antico Zuiderzee (oggi IJsselmeer). Amsterdam si affacciava direttamente sul mare: ecco il perché di tanto commercio!</p><p>Nel 1606 l’architetto Hendrick de Keyser aggiunse l’elegante parte superiore ottagonale con la sua guglia di legno. Solo pochi anni dopo la torre cominciò a pendere e fu letteralmente raddrizzata tirandola con delle funi. Il suo soprannome è “Malle Jaap” (Jaap il Matto), perché un tempo le sue campane suonavano agli orari più assurdi.</p>"
+    },
+    "adam-lookout": {
+      "title": "A’DAM Lookout",
+      "body": "<p>A’DAM LOOKOUT non è la solita terrazza panoramica. Oltre all’impareggiabile vista a 360 gradi su Amsterdam e sulle città vicine, in cima a questo edificio iconico c’è molto altro da vivere. Provate la scarica di adrenalina sull’altalena più alta di Amsterdam, Over The Edge, fate un giro sulle montagne russe in realtà virtuale Amsterdam VR Rollercoaster Ride, concedetevi un pranzo, una cena, uno spuntino o un cocktail allo Sky Bar, portate a casa il vostro souvenir digitale e scoprite la città con i binocoli interattivi.</p>"
+    },
+    "saint-nicholas-church": {
+      "title": "Chiesa di San Nicola (Sint-Nicolaaskerk)",
+      "body": "<p>Sulla sinistra vedete la Chiesa di San Nicola, una basilica cattolica costruita intorno al 1885. San Nicola è il patrono dei marinai e della nostra città.</p>"
+    },
+    "victoria-hotel-amsterdam": {
+      "title": "Victoria Hotel Amsterdam",
+      "body": "<p>Questo hotel, aperto nel 1890, è uno dei più antichi hotel moderni dei Paesi Bassi. Fu anche il primo hotel con l’illuminazione elettrica in ogni camera. Si vede ancora oggi che l’hotel è stato costruito attorno ad alcune vecchie case: all’epoca i proprietari chiedevano così tanti soldi che si decise di costruirci intorno. Questa storia ha un ruolo importante nel film Public Works.</p>"
+    }
+  }
+}

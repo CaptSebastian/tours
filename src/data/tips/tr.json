@@ -1,0 +1,423 @@
+{
+  "categories": {
+    "coffee": {
+      "name": "Kahve ve öğle yemeği"
+    },
+    "dutch": {
+      "name": "Hollanda mutfağı"
+    },
+    "bitterballen": {
+      "name": "Bitterballen",
+      "note": "İki listeden bir seçki. Hangisinin en iyisi olduğu zevk meselesi."
+    },
+    "fine": {
+      "name": "Gurme restoranlar",
+      "note": "Tadım menüleri kişi başı yaklaşık €100-250. En az iki hafta önceden rezervasyon yapın. Kıyafet: smart casual (şık ama rahat)."
+    },
+    "view": {
+      "name": "Manzaralı, rahat restoranlar"
+    },
+    "indo": {
+      "name": "Endonezya mutfağı"
+    },
+    "chicken": {
+      "name": "Tavuk"
+    },
+    "zeedijk": {
+      "name": "Zeedijk"
+    },
+    "shopping": {
+      "name": "Alışveriş"
+    },
+    "markets": {
+      "name": "Pazarlar",
+      "note": "Saatler farklı kaynaklardan derlendi. Gitmeden önce mutlaka kontrol edin."
+    },
+    "special": {
+      "name": "Özel yerler ve müzeler"
+    },
+    "out": {
+      "name": "Eğlence ve sinema"
+    },
+    "cafes": {
+      "name": "Tipik Amsterdam kafeleri"
+    },
+    "sunset": {
+      "name": "Gün batımı ve fotoğraf noktaları"
+    }
+  },
+  "items": {
+    "de-koffieschenkerij": {
+      "name": "De Koffieschenkerij",
+      "text": "Her gün 09.00-18.00. Oude Kerk’in eski sakristisinde kahve ve kek; gizli bir iç avlusu da var."
+    },
+    "cafe-winkel-43": {
+      "name": "Café Winkel 43",
+      "text": "Elmalı turtasıyla ünlü; Noorderkerk’in yanındaki pazar meydanında terası var. Rezervasyon yok, boş bir yer bulup oturun."
+    },
+    "rudi-s-original-stroopwafels": {
+      "name": "Rudi's Original Stroopwafels",
+      "text": "Pazardaki bir yemek kamyonundan, Gouda’dan gelen gizli bir tarifle yapılan taze pişmiş stroopwafel’ler. Balonlu bir turist dükkânı değil."
+    },
+    "de-laatste-kruimel": {
+      "name": "De Laatste Kruimel",
+      "text": "Kahvaltı ve öğle yemeği için sandviç, kiş ve ev yapımı limonata sunan samimi bir kafe. Kanal kenarında küçük bir terası var."
+    },
+    "cafe-americain": {
+      "name": "Café Americain",
+      "text": "American Hotel’de klasik bir grand café: 1928’den kalma Art Deco iç mekân, Tiffany lambalar ve meydana bakan bir teras. Kahve, öğle yemeği, ikindi çayı ve akşam yemeği."
+    },
+    "the-kitchen-at-de-bijenkorf": {
+      "name": "The Kitchen at De Bijenkorf",
+      "text": "Alışveriş merkezinin en üst katında. Şehir manzarası eşliğinde bir dilim kekle kahve; küçük bir terası da var. Açılış saatlerini önceden kontrol edin, kaynaklar farklı bilgi veriyor."
+    },
+    "restaurant-moeders": {
+      "name": "Restaurant Moeders",
+      "text": "Pzt-Cum 17.00-22.00, Cmt-Paz 16.30-22.00. Stamppot (patates püreli sebze yemeği), haşlanmış dana eti ve yumurtalı ekmek (French toast). Epey önceden rezervasyon yapın."
+    },
+    "de-blauwe-hollander": {
+      "name": "De Blauwe Hollander",
+      "text": "Büyük porsiyon stamppot."
+    },
+    "heertje-friet": {
+      "name": "Heertje Friet",
+      "text": "Dokuz Sokak’ın (Negen Straatjes) yakınında. Bence şehrin en iyi patates kızartması: taze ve elde kesilmiş, istediğiniz sosla (joppie, oorlog, frietsaus). Oturacak yer var, dışarıda kanal kenarında da. Her gün 11.00-20.00."
+    },
+    "febo": {
+      "name": "FEBO",
+      "text": "Gece geç saatler için klasik atıştırmalık duvarı: küçük kapaktan kroket, frikandel ya da satay kroket alın. Gece geç saate kadar açık, saatleri önceden kontrol edin."
+    },
+    "stubbe-s-haring": {
+      "name": "Stubbe's Haring",
+      "text": "Haarlemmersluis’un yanında. Yüz yılı aşkın süredir bir ringa balığı tezgâhı. Soğan ve turşuyla ya da ekmek arasında Hollandse Nieuwe (yeni sezon ringa). Ayakta yenir, oturacak yer yok. Açılış saatlerini önceden kontrol edin."
+    },
+    "vishuisje-simon-en-simon": {
+      "name": "Vishuisje Simon en Simon",
+      "text": "Prinsengracht üzerindeki köprüde, bir baba ile oğlunun işlettiği küçük bir ringa tezgâhı. Ziyaretçilere ve yerlilere göre iyi bir ringa sandviçi. Açılış saatlerini önceden kontrol edin."
+    },
+    "proeflokaal-a-van-wees": {
+      "name": "Proeflokaal A. van Wees",
+      "text": "Yaban domuzu, kaplan karides, klasik dana etli ve mantar-patlıcanlı vejetaryen bitterballen sunan tarihi bir tadım evi. Çok iyi jenever tatmak için de doğru adres."
+    },
+    "cafe-luxembourg": {
+      "name": "Café Luxembourg",
+      "text": "Ödüllü üç çeşit bitterballen’iyle ünlü kafe: dana etli, karidesli ve Hollanda peynirli."
+    },
+    "eetsalon-van-dobben": {
+      "name": "Eetsalon Van Dobben",
+      "text": "1945’ten beri açık bir büfe; başka kafelere de bitterballen tedarik ediyor."
+    },
+    "cafe-de-tuin": {
+      "name": "Café de Tuin",
+      "text": "Jordaan’da, geleneksel dana ragulu bitterbal sunan bir “kahverengi kafe” (bruin café)."
+    },
+    "flore": {
+      "name": "Flore",
+      "text": "Amstel kıyısındaki Hotel De L'Europe’ta. Eski adı Bord'Eau. Şef Bas van Kranen, iki Michelin yıldızı."
+    },
+    "vinkeles": {
+      "name": "Vinkeles",
+      "text": "18. yüzyıldan kalma, zemin seviyesinin altındaki eski bir fırında iki Michelin yıldızı. Sadece akşam yemeği, Sal-Cmt 19.00-22.00."
+    },
+    "rijks": {
+      "name": "RIJKS",
+      "text": "Rijksmuseum’un içinde. Şef Joris Bijdendijk 2025’te yılın en iyi şefi seçildi."
+    },
+    "de-kas": {
+      "name": "De Kas",
+      "text": "Frankendael’de. Michelin yıldızı ve yeşil yıldız; organik, bir serada."
+    },
+    "lars": {
+      "name": "Lars",
+      "text": "Houthavens’ta. Michelin yıldızı."
+    },
+    "showw": {
+      "name": "Showw",
+      "text": "Michelin yıldızı."
+    },
+    "more-at-de-l-europe": {
+      "name": "De L'Europe’ta daha fazlası",
+      "text": "Hoofdstad Brasserie (daha hafif), Hèt Terras (Amstel kıyısında büyük teras), Freddy's Bar ve Chapter 1896 (Amstel manzaralı kokteyller)."
+    },
+    "the-duchess": {
+      "name": "The Duchess",
+      "text": "Hotel W’nin karşısında. Belle Époque tarzı eski bir banka salonunda Fransız-İtalyan brasserie (€€€): koyu mermer, avizeler ve açık mutfak. Beef Wellington’ıyla ünlü. Pzt-Per 17.00-01.00, Cum-Cmt 12.00-02.00, Paz 12.00-01.00. Rezervasyon: +31 20 811 3322. Hafta sonları ikindi çayı."
+    },
+    "de-silveren-spiegel": {
+      "name": "De Silveren Spiegel",
+      "text": "1614’ten kalma iki basamaklı alınlıklı evde yaratıcı Fransız mutfağı (€€€); şömine, mum ışığı ve bol doğal şarap. Michelin Rehberi’nde yer alıyor, yıldızı yok. Sal-Per 18.00-23.00, Cum-Cmt 12.30-22.00, Pazar ve Pazartesi kapalı."
+    },
+    "ron-gastrobar": {
+      "name": "Ron Gastrobar",
+      "text": "Vondelpark’ın yakınında. Şef Ron Blaauw’un gastrobar’ı: resmiyet olmadan kalite; paylaşmak için küçük tabaklar, dinlendirilmiş biftekler ve balık."
+    },
+    "toscanini": {
+      "name": "Toscanini",
+      "text": "Jordaan’da. 1985’ten beri otantik İtalyan mutfağı: açık mutfak, mevsimlik bölgesel yemekler ve ev yapımı ekmek. Masa bulmak zor, o yüzden epey önceden rezervasyon yapın."
+    },
+    "mr-porter": {
+      "name": "Mr. Porter",
+      "text": "Hotel W’nin çatı katında. Dry-aged etler sunan steakhouse ve kokteyl bar; Dam Meydanı’na ve Dokuz Sokak’a bakan bir çatı terası var. Yorumcular otla beslenmiş biftekleri, kabak carpaccio’yu ve çikolatalı fondanı övüyor."
+    },
+    "pllek": {
+      "name": "Pllek",
+      "text": "Amsterdam-Noord’da, NDSM tersanesinin yakınında (IJ’yi feribotla geçerek). Ham, endüstriyel bir ortamda organik ve sürdürülebilir bir restoran; şehir plajı ve IJ manzarası var."
+    },
+    "de-belhamel": {
+      "name": "De Belhamel",
+      "text": "Herengracht’ın köşesinde. Akdeniz etkili mevsimlik Hollanda mutfağı; kanal manzaralı Art Nouveau bir iç mekân. Kalabalıktan uzak, sakin bir köşe."
+    },
+    "hannekes-boom": {
+      "name": "Hannekes Boom",
+      "text": "Merkez İstasyonu’nun hemen yanında. Geri dönüştürülmüş malzemelerden yapılmış rustik bir kafe; su kenarında büyük bir terası var, yerel ve organik ürünler kullanıyor."
+    },
+    "kartika": {
+      "name": "Kartika",
+      "text": "On yıllardır rijsttafel (Endonezya pilav sofrası); vejetaryen seçenekler de var."
+    },
+    "mama-makan": {
+      "name": "Mama Makan",
+      "text": "Endonezya klasikleri, modern tarzda."
+    },
+    "restaurant-max": {
+      "name": "Restaurant Max",
+      "text": "Kanal kuşağında geleneksel, füzyon ve daha hafif acılı versiyonlarıyla rijsttafel. Güler yüzlü servisi ve Endonezya yemeklerine uyan şarap listesiyle bilinir."
+    },
+    "tempo-doeloe": {
+      "name": "Tempo Doeloe",
+      "text": "Şehrin en bilinen rijsttafel adreslerinden biri; baharatlı, beyaz masa örtülü. Sadece akşam yemeği."
+    },
+    "van-t-spit": {
+      "name": "Van 't Spit",
+      "text": "Frans Halsstraat 42’de de var. Şişte çevrilmiş tavuk."
+    },
+    "bierfabriek": {
+      "name": "Bierfabriek",
+      "text": "Piri-piri tavuk ve kaburga."
+    },
+    "ladybird-fried-chicken": {
+      "name": "Ladybird Fried Chicken",
+      "text": "De Pijp’te."
+    },
+    "kip-n-drip-kid": {
+      "name": "Kip 'n Drip (KID)",
+      "text": "De Pijp’te. Pek çok kişiye göre Amsterdam’ın en iyi tavuk burgeri."
+    },
+    "chris-kip": {
+      "name": "Chris Kip",
+      "text": "1928’den beri, organik."
+    },
+    "in-t-aepjen": {
+      "name": "In 't Aepjen",
+      "text": "Amsterdam’da kalan iki ahşap evden biri (yaklaşık 1475-1550). Jenever ve bira. Paz-Per 12.00-01.00, Cum-Cmt 12.00-03.00."
+    },
+    "bird": {
+      "name": "Bird",
+      "text": "1998’den beri otantik Tayland mutfağı; kapıda çoğu zaman sıra olur."
+    },
+    "fo-guang-shan-he-hua-temple": {
+      "name": "Fo Guang Shan He Hua Temple",
+      "text": "Avrupa anakarasındaki en büyük Çin tarzı tapınak. Giriş ücretsiz, ayakkabılar çıkarılır. Sal-Cmt 12.00-17.00, Paz 10.00-17.00, Pazartesi kapalı."
+    },
+    "trees": {
+      "name": "Trees",
+      "text": "Tarihi bir köşe binada, atmosferi güzel bir restoran."
+    },
+    "amsterdamsche-vishandel-anno-1938": {
+      "name": "Amsterdamsche Vishandel Anno 1938",
+      "text": "Klasik bir balıkçı dükkânı."
+    },
+    "fromagerie-abraham-kef": {
+      "name": "Fromagerie Abraham Kef",
+      "text": "1950’lerden beri peynirci; şarap ve şarküteri ürünleri de var. Çoğu zaman sıra olur."
+    },
+    "de-amsterdamse-muis": {
+      "name": "De Amsterdamse Muis",
+      "text": "Vintage dekor, Delft mavisi porselen ve hediyelik eşyalar. Sal-Cmt 11.00-18.00."
+    },
+    "antiekcentrum": {
+      "name": "Antiekcentrum",
+      "text": "Jordaan’da. Hollanda’nın en büyük kapalı antika pazarı, 55 satıcı. Giriş ücretsiz."
+    },
+    "alladin-s-notenhoek": {
+      "name": "Alladin's Notenhoek",
+      "text": "Oud-West’te (merkezde değil). Eski kraliçenin kuruyemişlerini aldığı aile işletmesi."
+    },
+    "tony-s-chocolonely-super-store": {
+      "name": "Tony's Chocolonely Super Store",
+      "text": "Damrak’ın yakınında, Merkez İstasyonu’ndan yaklaşık 5 dakika yürüme mesafesinde. Her gün 10.00-19.00, giriş ücretsiz. Kendi çikolatanızı yapın, çikolataları tadın ve kakao sorununu öğrenin. Küçük bir yer, çoğu zaman sıra olur; merdivenler dik ve tekerlekli sandalye için uygun değil."
+    },
+    "albert-cuypmarkt": {
+      "name": "Albert Cuypmarkt",
+      "text": "De Pijp. Pzt-Cmt 09.00-18.00. 260 tezgâhıyla Avrupa’nın her gün kurulan en büyük pazarı: sebze, giysi, çiçek, ringa balığı ve taze stroopwafel."
+    },
+    "noordermarkt": {
+      "name": "Noordermarkt",
+      "text": "Jordaan. Pzt 09.00-13.00 (bit pazarı ve kumaş), Cmt 09.00-16.00 (organik çiftçi pazarı)."
+    },
+    "waterlooplein": {
+      "name": "Waterlooplein",
+      "text": "Pzt-Cmt gündüz. Vintage giysiler, antikalar ve ıvır zıvır satılan bit pazarı."
+    },
+    "bloemenmarkt-flower-market": {
+      "name": "Bloemenmarkt (Çiçek Pazarı)",
+      "text": "Pzt-Cmt yaklaşık 09.00-17.30, Paz 11.00-17.30."
+    },
+    "dappermarkt": {
+      "name": "Dappermarkt",
+      "text": "Oost. Pzt-Cmt 09.00-17.00. Dünyanın dört bir yanından yiyecekler, giysiler ve ev eşyaları."
+    },
+    "ten-katemarkt": {
+      "name": "Ten Katemarkt",
+      "text": "Oud-West. Pzt-Cmt."
+    },
+    "lindengracht": {
+      "name": "Lindengracht",
+      "text": "Jordaan. Sadece cumartesi."
+    },
+    "westerstraat": {
+      "name": "Westerstraat",
+      "text": "Jordaan. Sadece pazartesi. Kumaş, giysi ve ayakkabı."
+    },
+    "nieuwmarkt": {
+      "name": "Nieuwmarkt",
+      "text": "Cumartesi organik çiftçi pazarı, mayıs-eylül arası pazar günleri antika pazarı."
+    },
+    "ij-hallen": {
+      "name": "IJ-Hallen",
+      "text": "Noord. Bit pazarı, ayda bir hafta sonu."
+    },
+    "poffertjes-at-the-market": {
+      "name": "Pazarda poffertjes",
+      "text": "Bir kaynağa göre Amsterdamse Poffertjes tezgâhı Noordermarkt’ta (Cmt) ve bazen Albert Cuypmarkt’ta (Pzt, Sal, Per) kuruluyor. Lütfen kontrol edin."
+    },
+    "kattenkabinet": {
+      "name": "KattenKabinet",
+      "text": "1667’den kalma bir kanal evinde kediler üzerine bir sanat müzesi; içinde gerçek kediler de var. Sal-Paz 12.00-17.00."
+    },
+    "hortus-botanicus": {
+      "name": "Hortus Botanicus",
+      "text": "1638’den beri botanik bahçesi; bir kelebek evi de var. Her gün 10.00-17.00."
+    },
+    "museum-van-loon": {
+      "name": "Museum Van Loon",
+      "text": "1672’den kalma, bahçeli ve araba evli bir kanal evi. Çar-Paz 10.00-17.00, Pazartesi ve Salı kapalı."
+    },
+    "foam": {
+      "name": "Foam",
+      "text": "Fotoğraf müzesi, Van Loon’un hemen yanında. Her gün 10.00-18.00, Per-Cum 21.00’e kadar."
+    },
+    "rijksmuseum": {
+      "name": "Rijksmuseum",
+      "text": "Her gün 09.00-17.00. Müzenin altından geçen herkese açık bisiklet geçidini kaçırmayın."
+    },
+    "entrepotdok": {
+      "name": "Entrepotdok",
+      "text": "19. yüzyıldan kalma depolar, bugün evler ve ev tekneleri; Artis’in yanında. Her zaman açık ve ücretsiz."
+    },
+    "ndsm-werf": {
+      "name": "NDSM-werf",
+      "text": "Amsterdam-Noord’da eski bir tersane. Merkez İstasyonu’ndan feribota binin (F3 hattı): yayalar ve bisikletliler için ücretsiz, saatte en az iki sefer."
+    },
+    "reguliersdwarsstraat": {
+      "name": "Reguliersdwarsstraat",
+      "text": "Rembrandtplein’in yakınında. Bilinen bir LGBTQ+ sokağı; 1963’te ilk gay barı burada açıldı."
+    },
+    "picasso-in-the-vondelpark": {
+      "name": "Vondelpark’taki Picasso",
+      "text": "\"Figure découpée / l'Oiseau\" (1965) heykeli; Amsterdamlılar ona \"Balık\" der. Picasso, parkın 100. yılı için, Willem Sandberg’le olan dostluğundan dolayı heykeli şehre hediye etti."
+    },
+    "a-dam-lookout": {
+      "name": "A'DAM Lookout",
+      "text": "Merkez İstasyonu’ndan ücretsiz feribotla ulaşılan, 360 derece manzaralı seyir kulesi. En heyecanlı kısmı Over The Edge salıncağı: Neredeyse 100 metre yükseklikte çatının kenarından dışarı sallanırsınız."
+    },
+    "swimming-at-the-marineterrein": {
+      "name": "Marineterrein’de yüzme",
+      "text": "Şehrin tam ortasında, Denizcilik Müzesi ve NEMO manzarası eşliğinde iç limanda yüzün. Ücretsiz."
+    },
+    "kuuma-sauna": {
+      "name": "Kuuma Sauna",
+      "text": "İskelelerin yanında. Su üzerinde, odun ateşli bir sauna; tek başınıza ya da grupla, zaman dilimine göre kiralanır. Rezervasyon: kuuma.nl."
+    },
+    "pension-homeland": {
+      "name": "Pension Homeland",
+      "text": "Eski subay yemekhanesinde kendi bira fabrikası, ondan fazla ev yapımı bira, ayrıca kafe, restoran ve güneşli bir teras."
+    },
+    "entr-vr-museum": {
+      "name": "ENTR VR Museum",
+      "text": "OBA kütüphanesinin ve Merkez İstasyonu’nun hemen yanında. Hollanda’nın ilk VR müzesi. \"Amsterdam 1652\" deneyiminde, diğer ziyaretçilerle birlikte yeniden canlandırılmış 17. yüzyıl Amsterdam’ında dolaşırsınız. Biletler €18’den başlıyor, önceden rezervasyon yapın."
+    },
+    "proeflokaal-t-arendsnest": {
+      "name": "Proeflokaal 't Arendsnest",
+      "text": "Sadece Hollanda birası sunan bir kafe: fıçıdan 52 Hollanda birası ve şişe biralar; witbier’den stout ve IPA’ya kadar."
+    },
+    "coffeeshop-siberie": {
+      "name": "Coffeeshop Siberië",
+      "text": "Dönüştürülmüş bir garajda coffeeshop: mumlar, büyük ahşap masalar, oyunlar ve hafta sonları canlı DJ. Sadece 18 yaş üstü."
+    },
+    "het-stenen-hoofd": {
+      "name": "Het Stenen Hoofd",
+      "text": "1902’den kalma eski bir liman iskelesi; bugün IJ kıyısında halka açık bir park ve köpek gezdirmek için sevilen bir yer. Herkese açık."
+    },
+    "boom-chicago": {
+      "name": "Boom Chicago",
+      "text": "Hollanda dokunuşlu Amerikan komedisi: İngilizce doğaçlama ve skeçler. Gösteri günlerini boomchicago.nl adresinden kontrol edin."
+    },
+    "de-hollandsche-manege": {
+      "name": "De Hollandsche Manege",
+      "text": "1882’den kalma neoklasik bir binicilik salonu; binicileri izleyebileceğiniz, herkese açık bir kafe-restoranı var."
+    },
+    "vrog": {
+      "name": "VROG",
+      "text": "Waterlooplein yakınında eski bir araç tünelinde trambolin, parkur ve dans için kapalı oyun alanı. Küçük çocuklar dahil, çocuklarla çok eğlenceli."
+    },
+    "nemo-science-museum": {
+      "name": "NEMO Science Museum",
+      "text": "Deneyler, atölyeler ve şehir manzaralı bir çatı meydanıyla küçük büyük herkes için bir bilim müzesi."
+    },
+    "klimmuur-amsterdam-centraal": {
+      "name": "Klimmuur Amsterdam Centraal",
+      "text": "Merkez İstasyonu’nun yakınında, bouldering duvarları ve rotaları (8 ve 16 metre) olan büyük bir tırmanış salonu. Çocuklar ve yetişkinler için; deneme dersleri de var."
+    },
+    "paradiso": {
+      "name": "Paradiso",
+      "text": "Leidseplein yakınında eski bir kilisede konserler ve partiler."
+    },
+    "bitterzoet": {
+      "name": "Bitterzoet",
+      "text": "Her türlü müzik için kulüp ve sahne."
+    },
+    "tuschinski": {
+      "name": "Tuschinski",
+      "text": "Çok güzel bir Art Deco sinema; içine bir göz atmaya değer."
+    },
+    "the-movies": {
+      "name": "The Movies",
+      "text": "Koyu cilalı ahşaplı küçük bir Art Deco sinema; turizm ofisine göre Amsterdam’ın en eskisi."
+    },
+    "cafe-papeneiland": {
+      "name": "Café Papeneiland",
+      "text": "Brouwersgracht’ın köşesinde. Şehrin en eski kafelerinden biri (1642); Delft çinileriyle süslü ve elmalı turtasıyla ünlü."
+    },
+    "cafe-t-smalle": {
+      "name": "Café 't Smalle",
+      "text": "1780’den kalma eski bir içki imalathanesinde, kanal kenarında terası olan geleneksel bir “kahverengi kafe”."
+    },
+    "cafe-de-prins": {
+      "name": "Café de Prins",
+      "text": "Westerkerk’in yakınında, mumları ve poffertjes’iyle bilinen samimi bir kafe."
+    },
+    "marineterrein-and-the-voc-ship": {
+      "name": "Marineterrein ve VOC gemisi",
+      "text": "Marineterrein’de su kenarında; hemen yakındaki Denizcilik Müzesi’nin yanında VOC gemisi Amsterdam’ın replikası duruyor."
+    },
+    "brouwersgracht": {
+      "name": "Brouwersgracht",
+      "text": "Herengracht ve Prinsengracht’ın köşesinde. Üç kanal burada buluşuyor."
+    },
+    "damrak": {
+      "name": "Damrak",
+      "text": "Öğleden sonranın geç saatlerinde. Cephelerde çok güzel bir ışık olur."
+    }
+  }
+}

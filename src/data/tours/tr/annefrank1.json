@@ -1,0 +1,83 @@
+{
+  "title": "KINBoat Anne Frank Amstel Turu",
+  "menuTitle": "Anne Frank ve Amstel",
+  "card": {
+    "title": "KINBoat Anne Frank Evi",
+    "text": "Menüden dilinizi seçin ve turun keyfini çıkarın."
+  },
+  "stops": {
+    "anne-frank-house": {
+      "title": "Anne Frank Evi",
+      "body": "<p>Anne Frank, İkinci Dünya Savaşı sırasında Nazilerden saklanırken ünlü günlüğünü Anne Frank Evi’nde yazdı. Yaşadığı gizli bölme (Achterhuis) bugün bir müze. Dünyanın dört bir yanından ziyaretçiler, onun hayatını ve Holokost’un tarihini öğrenmek için buraya geliyor.</p>"
+    },
+    "de-wester": {
+      "title": "De Wester",
+      "body": "<p>Westerkerk (Batı Kilisesi) 1631’de tamamlandı. Yaklaşık 85 metre yüksekliğindeki kulesiyle tanınır; bu, şehrin en yüksek kilise kulesidir. Rembrandt 1669’da burada, isimsiz bir mezara gömüldü.</p><p>Anne Frank, hemen yakındaki gizli bölmede saklanırken Westertoren’in (Batı Kulesi) çanlarını duyabiliyordu. Günlüğünde bu çanların ona ne kadar teselli verdiğini yazdı.</p>"
+    },
+    "the-canal-ring": {
+      "title": "Kanal Kuşağı",
+      "body": "<p>VOC (Hollanda Doğu Hindistan Şirketi), Amsterdam’ın Altın Çağı’nda büyük rol oynayan bir ticaret şirketiydi. Kanal kuşağı ise 17. yüzyıldan kalma, <strong>iç içe halkalar şeklindeki kanallardan</strong> oluşan eşsiz bir sistemdir; Amsterdam’ın en büyük genişlemesi sırasında inşa edildi. Bu ikisi birbirine sıkıca bağlıdır: VOC ticaretinden gelen zenginlik, kanal kuşağının yapımına ve gelişimine doğrudan katkıda bulundu. Zengin tüccarlar gösterişli evlerini burada inşa etti.</p>"
+    },
+    "high-and-dry": {
+      "title": "Yüksekte ve kuruda",
+      "body": "<p>VOC, başta baharat olmak üzere Asya’dan gelen değerli mallarla ticaret yapıyordu. Bu mallar, Amsterdam kanalları boyunca uzanan tüccar evlerinin depolarında saklanırdı. Bu depolar, değerli ticaret mallarını ‘yüksekte ve kuruda’ saklamak için özel olarak tasarlanmıştı: geniş çatı katları ve cephelerde <strong>vinç kirişleri</strong> vardı.</p>"
+    },
+    "the-houseboat-museum": {
+      "title": "Ev Teknesi Müzesi",
+      "body": "<p>Amsterdam’da yaklaşık 2.500 ev teknesi var. İnsanlar burada uzun zamandır teknelerde yaşıyor, ama ev tekneleri asıl İkinci Dünya Savaşı’ndan sonra, konut sıkıntısına bir çözüm olarak yaygınlaştı. 1914 yapımı eski bir yük gemisi olan bu müzede, suyun üstünde hayatın nasıl olduğunu görebilirsiniz.</p>"
+    },
+    "facade-stones": {
+      "title": "Cephe taşları",
+      "body": "<p>Bu cephe taşları, on yedinci yüzyılda şehrin sakinleri için yön bulma işaretleriydi. Bu küçük sanat eserleri, fırıncının ekmeğini nerede sattığını ya da ayakkabınızı nerede tamir ettirebileceğinizi gösteriyordu.</p>"
+    },
+    "night-watch": {
+      "title": "Gece Devriyesi",
+      "body": "<p>Hollanda Altın Çağı ressamı Rembrandt Harmenszoon van Rijn’in (1606–1669) <em>Gece Devriyesi</em> tablosu, hiç şüphesiz Rijksmuseum’un kalbidir. Müzenin en büyük ve en önemli eseri olmakla kalmaz; tüm koleksiyon kelimenin tam anlamıyla onun etrafında kurulmuştur. Müzenin merkezindeki Gece Devriyesi Galerisi, Onur Galerisi’ne açılır. Bu devasa, gerçek boyutlu tablo, ışık ve gölgenin dramatik oyunuyla ünlüdür. Ayrıca durağan bir askeri sahne yerine hareket halindeki bir grubu gösteren yenilikçi bir eserdir.</p>",
+      "caption": "Rembrandt van Rijn: Gece Devriyesi, 1642, tuval üzerine yağlıboya. Fotoğraf: Rijksmuseum, Amsterdam’ın izniyle"
+    },
+    "spiegelkwartier": {
+      "title": "Spiegelkwartier",
+      "body": "<p>Tipik eski Amsterdam havasında, kaliteli alışveriş imkânı sunan güzel bir semt. Sanat, antika ve vintage dükkânlarından iyi bir seçki, ayrıca barlar ve restoranlar var. Gezinmek ve vitrinlere bakmak için çok keyifli.</p>"
+    },
+    "de-amstelkerk": {
+      "title": "De Amstelkerk",
+      "body": "<p>Amstelveld meydanında, Amsterdam’ın günümüze ulaşan tek ahşap geçici kilisesi bulunur. Bu nadir ahşap yapıda konserler ve sanat sergileri düzenlenir. Güzel oranlı pencereleriyle bu samimi bina, zarif bir mücevher kutusunu andırır.</p>"
+    },
+    "de-duif": {
+      "title": "De Duif",
+      "body": "<p>De Duif (Güvercin), etkileyici cephesi ve klasik mimarisiyle dikkat çeken tarihi bir Katolik kilise binasıdır.</p><p>Kilisenin akustiği olağanüstüdür; bu yüzden klasik müzik dinletileri ve koro konserleri için sevilen bir mekândır. İç mekânda güzel vitray pencereler ve 1862 tarihli, bugün hâlâ kullanılan tarihi bir Smits orgu bulunur.</p>"
+    },
+    "de-amstel": {
+      "title": "De Amstel",
+      "body": "<p>Geleneksel olarak Zuiderzee ile iç bölgeler arasında önemli bir su yolu ve şehrimize adını veren nehir. 1270 civarında Amstel üzerine bir baraj (dam) yapıldı; bu, balıkçı köyünü kısa sürede bir ticaret kasabasına dönüştürdü. Amsterdam’dan bahseden en eski belge 1275 tarihlidir: Kont V. Floris’in verdiği bir gümrük ayrıcalığı. Bu belge, buranın halkını Holland’da gümrük vergisi ödemekten muaf tutuyordu. Belgede kasabanın adı <em>Amestelledamme</em> (“Amstel’deki baraj”) olarak geçer; bu ad zamanla Amsterdam’a dönüştü. Şehir hakları 1300 civarında geldi.</p>"
+    },
+    "de-magere-brug": {
+      "title": "De Magere Brug",
+      "body": "<p>De Magere Brug, yani “Sıska Köprü”, adını büyük olasılıkla burada ilk kez 1691’de yapılan çok dar ahşap köprüye borçludur. Popüler bir efsaneye göre, karşılıklı kıyılarda yaşayan Mager adında iki kız kardeş, birbirlerini ziyaret edebilmek için köprünün parasını ödemiş; güzel bir hikâye, ama bunun hiçbir kanıtı yok.</p><p>Köprü, James Bond filmi “Elmaslar Ebedidir” (1971) sayesinde uluslararası üne kavuştu. Ve en yeni efsane: Teknede birbirini seven çiftler varsa, tam köprünün altında birbirinizi öpün; hayatınız boyunca âşık kalırsınız!</p>"
+    },
+    "hart-museum": {
+      "title": "H’ART Museum",
+      "body": "<p>17. yüzyılda pek çok Amsterdamlı kadın yalnız kaldı: Kocaları denize açılıyordu ve büyük bir kısmı hiç geri dönmedi. Yaşlı kadınlara bakmak için Reform Kilisesi’nin diyakozları burada Amstelhof’u inşa etti. Yapımına 1681’de, o zamanlar Amstel’in öte yakasındaki ucuz arazide başlandı. Bina 2007’ye kadar huzurevi olarak kullanıldı.</p><p>2009’da bina, St. Petersburg’daki Hermitage’ın bir şubesi olan Hermitage Amsterdam olarak yeniden açıldı. Rusya 2022’de Ukrayna’yı işgal ettikten sonra müze Rusya ile bağlarını kopardı ve adı H’ART Museum olarak değiştirildi.</p>"
+    },
+    "city-hall-national-ballet-theatre": {
+      "title": "Belediye Binası ve Ulusal Bale Tiyatrosu",
+      "body": "<p>Dam Meydanı’ndaki bugünkü Kraliyet Sarayı, Amsterdam’ın asıl belediye binasıydı. 19. yüzyılın başından itibaren belediye Oudezijds Voorburgwal’a taşındı. Zamanla bu bina da küçük geldi ve 1980’lerde mimarlar Holzbauer, Holt ve Cees Dam, Waterlooplein/Oude Vlooienburg’da yeni bir belediye binası tasarladı. Bu binanın iki işlevi var: Hem Amsterdam Belediye Binası hem de Ulusal Opera ve Bale’nin tiyatrosu.</p>"
+    },
+    "de-herengracht": {
+      "title": "De Herengracht",
+      "body": "<p>Şu anda Herengracht’ta (Beyler Kanalı) ilerliyoruz. Bu kanal, 17. yüzyılın başında şehrin prestijli genişlemesinin bir parçasıdır. Bu bölüm Leidsegracht’tan Amstel’e kadar uzanır ve burada çoğunlukla çok büyük binalar görürsünüz: Belediye meclisi, zengin tüccar ailelerini çekmek için burada yalnızca büyük arsalar verdi.</p><p><strong>Yaygın hikâye:</strong> Vergilerin evin genişliğine ve pencere sayısına göre belirlendiği, hatta çift merdivenin bile ekstra vergilendirildiği söylenir. Rehberler bu hikâyeyi anlatmayı çok sever, ama tarihçiler buna şüpheyle bakar; evlerin çoğunun bu kadar dar olmasının daha olası nedeni, kanal boyundaki arsaların yüksek fiyatıdır.</p>"
+    },
+    "de-reguliersgracht": {
+      "title": "De Reguliersgracht",
+      "body": "<p>En güzel kanallardan biri – birbirinin aynısı yedi kemerli köprüsüyle ünlü. 1901’de belediye meclisi yeni elektrikli tramvay için bu kanalı doldurmak istedi, ama neyse ki pek çok protesto sonucunda bu plan reddedildi. Akşamları kemerler ışıklandırıldığı için çok güzeldir; Thorbeckeplein’den bakınca harika bir manzara!</p>"
+    },
+    "proeverij-van-wees": {
+      "title": "Proeverij Van Wees",
+      "body": "<p>Bu eski içki imalathanesinde geleneksel jenever (Hollanda cini—daha eski ve daha iyi!), bira ve ünlü fondü ya da bitterballen’lerinin tadını çıkarabilirsiniz. Nine Streets (Dokuz Sokak) bölgesi, turistlerle yerlilerin canlı karışımıyla samimi bir atmosfer sunar.</p>"
+    },
+    "huis-bartolotti": {
+      "title": "Huis Bartolotti",
+      "body": "<p>Bartolotti Evi, 1617 civarında, dönemin en zengin Amsterdamlılarından Willem van den Heuvel tot Beichlingen için inşa edildi. Willem, çocuğu olmayan eniştesi, Bolonyalı tüccar Giovanni Battista Bartolotti’den bir servet miras almıştı. Tasarım, Montelbaanstoren’in tepesini de yapan mimar Hendrick de Keyser’e atfedilir.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">Bartolotti Evi hakkında daha fazla bilgi</a></p>"
+    }
+  }
+}

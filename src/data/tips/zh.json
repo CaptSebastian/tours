@@ -1,0 +1,423 @@
+{
+  "categories": {
+    "coffee": {
+      "name": "咖啡与午餐"
+    },
+    "dutch": {
+      "name": "荷兰美食"
+    },
+    "bitterballen": {
+      "name": "Bitterballen（荷式炸肉丸）",
+      "note": "从两份榜单中挑选出来的。哪家最好吃，就看个人口味啦。"
+    },
+    "fine": {
+      "name": "高级餐厅",
+      "note": "品鉴菜单每人约€100-250。请至少提前两周预订。着装要求：精致休闲。"
+    },
+    "view": {
+      "name": "休闲用餐，景色一流"
+    },
+    "indo": {
+      "name": "印尼菜"
+    },
+    "chicken": {
+      "name": "鸡肉"
+    },
+    "zeedijk": {
+      "name": "Zeedijk（海堤街）"
+    },
+    "shopping": {
+      "name": "购物"
+    },
+    "markets": {
+      "name": "市场",
+      "note": "营业时间来自不同的信息来源，出发前请先确认。"
+    },
+    "special": {
+      "name": "特色景点与博物馆"
+    },
+    "out": {
+      "name": "夜生活与电影院"
+    },
+    "cafes": {
+      "name": "地道的阿姆斯特丹咖啡馆"
+    },
+    "sunset": {
+      "name": "看日落与拍照的好地方"
+    }
+  },
+  "items": {
+    "de-koffieschenkerij": {
+      "name": "De Koffieschenkerij",
+      "text": "每天9:00-18:00。在老教堂（Oude Kerk）昔日的圣器室里喝咖啡、吃蛋糕，还有一个隐秘的小庭院。"
+    },
+    "cafe-winkel-43": {
+      "name": "Café Winkel 43",
+      "text": "以苹果派出名，露台就在北教堂（Noorderkerk）旁的市场广场上。不接受预订，有空位直接坐就行。"
+    },
+    "rudi-s-original-stroopwafels": {
+      "name": "Rudi's Original Stroopwafels",
+      "text": "市场上的餐车现烤糖浆华夫饼（stroopwafel），用的是来自豪达（Gouda）的秘方。可不是那种挂满气球的游客店。"
+    },
+    "de-laatste-kruimel": {
+      "name": "De Laatste Kruimel",
+      "text": "温馨的咖啡馆，适合吃早餐和午餐，有三明治、法式咸派和自制柠檬水。运河边有个小露台。"
+    },
+    "cafe-americain": {
+      "name": "Café Americain",
+      "text": "美国酒店（American Hotel）里的一家经典大咖啡馆，1928年的装饰艺术（Art Deco）风格内饰，蒂芙尼台灯，还有面向广场的露台。供应咖啡、午餐、下午茶和晚餐。"
+    },
+    "the-kitchen-at-de-bijenkorf": {
+      "name": "The Kitchen at De Bijenkorf",
+      "text": "在De Bijenkorf百货公司顶层。来杯咖啡配一块蛋糕，俯瞰城市景色，还有一个小露台。营业时间各方说法不一，请事先查一下。"
+    },
+    "restaurant-moeders": {
+      "name": "Restaurant Moeders",
+      "text": "周一至周五17:00-22:00，周六、周日16:30-22:00。有荷兰土豆泥杂烩（stamppot）、炖牛肉和法式吐司。请尽早预订。"
+    },
+    "de-blauwe-hollander": {
+      "name": "De Blauwe Hollander",
+      "text": "大份的荷兰土豆泥杂烩（stamppot）。"
+    },
+    "heertje-friet": {
+      "name": "Heertje Friet",
+      "text": "在九小街（Negen Straatjes）附近。我心目中全城最好吃的薯条：新鲜手切，酱料随你挑（joppie、oorlog、frietsaus）。有座位，运河边的室外也能坐。每天11:00-20:00。"
+    },
+    "febo": {
+      "name": "FEBO",
+      "text": "深夜必去的经典自动售卖小吃墙：从小窗口里取出炸丸子（kroket）、frikandel香肠或沙爹炸丸子。一直营业到深夜，出发前请先查一下时间。"
+    },
+    "stubbe-s-haring": {
+      "name": "Stubbe's Haring",
+      "text": "在Haarlemmersluis水闸旁。这个鲱鱼摊已经开了一百多年。荷兰新鲱鱼（Hollandse Nieuwe）配洋葱和酸黄瓜，或者夹在面包里吃。站着吃，没有座位。营业时间请事先确认。"
+    },
+    "vishuisje-simon-en-simon": {
+      "name": "Vishuisje Simon en Simon",
+      "text": "王子运河（Prinsengracht）桥上的一个小鲱鱼摊，由一对父子经营。游客和本地人都说这里的鲱鱼面包很好吃。营业时间请事先确认。"
+    },
+    "proeflokaal-a-van-wees": {
+      "name": "Proeflokaal A. van Wees",
+      "text": "历史悠久的品酒馆，炸肉丸有野猪肉、虎虾、经典牛肉，还有一款蘑菇茄子素食版。也是品尝上好荷兰杜松子酒（jenever）的好地方。"
+    },
+    "cafe-luxembourg": {
+      "name": "Café Luxembourg",
+      "text": "著名咖啡馆，有三款获奖炸肉丸：牛肉、虾和荷兰奶酪。"
+    },
+    "eetsalon-van-dobben": {
+      "name": "Eetsalon Van Dobben",
+      "text": "1945年开业的小吃店，也为其他咖啡馆供应炸肉丸。"
+    },
+    "cafe-de-tuin": {
+      "name": "Café de Tuin",
+      "text": "约丹区（Jordaan）的一家“棕色咖啡馆”（传统老酒馆），有传统的炖牛肉馅炸肉丸。"
+    },
+    "flore": {
+      "name": "Flore",
+      "text": "在阿姆斯特尔河畔的De L'Europe酒店里，前身是Bord'Eau。主厨Bas van Kranen，米其林二星。"
+    },
+    "vinkeles": {
+      "name": "Vinkeles",
+      "text": "米其林二星，位于一座18世纪的下沉式老面包房里。只供应晚餐，周二至周六19:00-22:00。"
+    },
+    "rijks": {
+      "name": "RIJKS",
+      "text": "在国家博物馆（Rijksmuseum）里面。主厨Joris Bijdendijk获评2025年度最佳主厨。"
+    },
+    "de-kas": {
+      "name": "De Kas",
+      "text": "在Frankendael公园。米其林一星加绿星，有机食材，餐厅设在一座温室里。"
+    },
+    "lars": {
+      "name": "Lars",
+      "text": "在Houthavens（木材港）。米其林一星。"
+    },
+    "showw": {
+      "name": "Showw",
+      "text": "米其林一星。"
+    },
+    "more-at-de-l-europe": {
+      "name": "De L'Europe酒店的其他选择",
+      "text": "Hoofdstad Brasserie（菜式较清淡）、Hèt Terras（阿姆斯特尔河畔的大露台）、Freddy's Bar和Chapter 1896（边喝鸡尾酒边看阿姆斯特尔河）。"
+    },
+    "the-duchess": {
+      "name": "The Duchess",
+      "text": "在W酒店对面。法式和意式小馆（€€€），设在一座美好年代（Belle Époque）风格的旧银行大厅里，深色大理石、水晶吊灯和开放式厨房。招牌是惠灵顿牛排。周一至周四17:00-次日1:00，周五、周六12:00-次日2:00，周日12:00-次日1:00。订位电话+31 20 811 3322。周末供应下午茶。"
+    },
+    "de-silveren-spiegel": {
+      "name": "De Silveren Spiegel",
+      "text": "创意法式料理（€€€），位于两座1614年的阶梯山墙老房子里，有壁炉、烛光和丰富的自然酒。入选米其林指南，但没有星级。周二至周四18:00-23:00，周五、周六12:30-22:00，周日和周一休息。"
+    },
+    "ron-gastrobar": {
+      "name": "Ron Gastrobar",
+      "text": "在冯德尔公园（Vondelpark）附近。主厨Ron Blaauw开的美食酒吧：品质一流却不拘束，有适合分享的小份菜、熟成牛排和鱼。"
+    },
+    "toscanini": {
+      "name": "Toscanini",
+      "text": "在约丹区（Jordaan）。1985年开业的地道意大利餐厅，开放式厨房，应季地方菜，还有自家烤的面包。很难订到位，请尽早预订。"
+    },
+    "mr-porter": {
+      "name": "Mr. Porter",
+      "text": "在W酒店的顶层。牛排馆兼鸡尾酒吧，供应干式熟成牛肉，屋顶露台可以俯瞰水坝广场（Dam）和九小街。食客们称赞这里的草饲牛排、西葫芦薄片和巧克力熔岩蛋糕。"
+    },
+    "pllek": {
+      "name": "Pllek",
+      "text": "在阿姆斯特丹北区（Amsterdam-Noord），NDSM造船厂附近（坐渡轮过IJ河）。有机、可持续的餐厅，粗犷的工业风环境，还有城市沙滩，可以眺望IJ河。"
+    },
+    "de-belhamel": {
+      "name": "De Belhamel",
+      "text": "在与绅士运河（Herengracht）交汇的街角。应季荷兰菜，带地中海风味，新艺术（Art Nouveau）风格的内饰，可以看运河景色。远离人潮的安静去处。"
+    },
+    "hannekes-boom": {
+      "name": "Hannekes Boom",
+      "text": "就在中央车站旁边。用回收材料搭建的质朴咖啡馆，有一个很大的临水露台，使用本地有机食材。"
+    },
+    "kartika": {
+      "name": "Kartika",
+      "text": "几十年的印尼饭桌（rijsttafel）老店，也有素食选择。"
+    },
+    "mama-makan": {
+      "name": "Mama Makan",
+      "text": "印尼经典菜，现代做法。"
+    },
+    "restaurant-max": {
+      "name": "Restaurant Max",
+      "text": "运河带里的印尼饭桌（rijsttafel），有传统版、融合版和较温和的版本。以友好的服务和适合搭配印尼菜的酒单闻名。"
+    },
+    "tempo-doeloe": {
+      "name": "Tempo Doeloe",
+      "text": "城里最有名的印尼饭桌（rijsttafel）之一，口味偏辣，铺着白桌布。只供应晚餐。"
+    },
+    "van-t-spit": {
+      "name": "Van 't Spit",
+      "text": "Frans Halsstraat 42也有一家。烤架转烤鸡。"
+    },
+    "bierfabriek": {
+      "name": "Bierfabriek",
+      "text": "霹雳霹雳（piri-piri）辣烤鸡和排骨。"
+    },
+    "ladybird-fried-chicken": {
+      "name": "Ladybird Fried Chicken",
+      "text": "在De Pijp区。"
+    },
+    "kip-n-drip-kid": {
+      "name": "Kip 'n Drip (KID)",
+      "text": "在De Pijp区。很多人说这里的鸡肉汉堡是阿姆斯特丹最好吃的。"
+    },
+    "chris-kip": {
+      "name": "Chris Kip",
+      "text": "1928年开业，有机。"
+    },
+    "in-t-aepjen": {
+      "name": "In 't Aepjen",
+      "text": "阿姆斯特丹仅存的两座木屋之一（约1475-1550年）。供应荷兰杜松子酒（jenever）和啤酒。周日至周四12:00-次日1:00，周五、周六12:00-次日3:00。"
+    },
+    "bird": {
+      "name": "Bird",
+      "text": "1998年开业的地道泰国菜，门口常常排队。"
+    },
+    "fo-guang-shan-he-hua-temple": {
+      "name": "Fo Guang Shan He Hua Temple（佛光山荷华寺）",
+      "text": "欧洲大陆最大的中式寺庙。免费参观，进殿请脱鞋。周二至周六12:00-17:00，周日10:00-17:00，周一闭馆。"
+    },
+    "trees": {
+      "name": "Trees",
+      "text": "很有氛围的餐厅，位于一座历史悠久的街角建筑里。"
+    },
+    "amsterdamsche-vishandel-anno-1938": {
+      "name": "Amsterdamsche Vishandel Anno 1938",
+      "text": "经典鱼店。"
+    },
+    "fromagerie-abraham-kef": {
+      "name": "Fromagerie Abraham Kef",
+      "text": "20世纪50年代开业的奶酪店，也卖葡萄酒和美食。常常要排队。"
+    },
+    "de-amsterdamse-muis": {
+      "name": "De Amsterdamse Muis",
+      "text": "复古家居饰品、代尔夫特蓝陶和礼品。周二至周六11:00-18:00。"
+    },
+    "antiekcentrum": {
+      "name": "Antiekcentrum",
+      "text": "在约丹区（Jordaan）。荷兰最大的室内古董市场，有55家商户。免费入场。"
+    },
+    "alladin-s-notenhoek": {
+      "name": "Alladin's Notenhoek",
+      "text": "在Oud-West（旧西区，不在市中心）。一家家族店，前任女王就在这里买坚果。"
+    },
+    "tony-s-chocolonely-super-store": {
+      "name": "Tony's Chocolonely Super Store",
+      "text": "在Damrak大街附近，从中央车站步行约5分钟。每天10:00-19:00，免费入场。可以自己做巧克力，试吃各种口味，还能了解可可产业的问题。店面不大，常常排队，楼梯很陡，轮椅无法进入。"
+    },
+    "albert-cuypmarkt": {
+      "name": "Albert Cuypmarkt",
+      "text": "De Pijp区。周一至周六9:00-18:00。有260个摊位，是欧洲最大的每日市场：蔬菜、衣服、鲜花、鲱鱼和新鲜的糖浆华夫饼。"
+    },
+    "noordermarkt": {
+      "name": "Noordermarkt",
+      "text": "约丹区（Jordaan）。周一9:00-13:00（跳蚤市场和布料），周六9:00-16:00（有机农夫市集）。"
+    },
+    "waterlooplein": {
+      "name": "Waterlooplein",
+      "text": "周一至周六白天。跳蚤市场，有古着、古董和各种小玩意儿。"
+    },
+    "bloemenmarkt-flower-market": {
+      "name": "Bloemenmarkt（花市）",
+      "text": "周一至周六约9:00-17:30，周日11:00-17:30。"
+    },
+    "dappermarkt": {
+      "name": "Dappermarkt",
+      "text": "东区（Oost）。周一至周六9:00-17:00。来自世界各地的食物、衣服和家居用品。"
+    },
+    "ten-katemarkt": {
+      "name": "Ten Katemarkt",
+      "text": "Oud-West（旧西区）。周一至周六。"
+    },
+    "lindengracht": {
+      "name": "Lindengracht",
+      "text": "约丹区（Jordaan）。只在周六。"
+    },
+    "westerstraat": {
+      "name": "Westerstraat",
+      "text": "约丹区（Jordaan）。只在周一。布料、衣服和鞋子。"
+    },
+    "nieuwmarkt": {
+      "name": "Nieuwmarkt",
+      "text": "周六有有机农夫市集，5月至9月的周日有古董市场。"
+    },
+    "ij-hallen": {
+      "name": "IJ-Hallen",
+      "text": "北区（Noord）。跳蚤市场，每月一个周末。"
+    },
+    "poffertjes-at-the-market": {
+      "name": "市场上的荷兰小松饼（poffertjes）",
+      "text": "据一个信息来源，Amsterdamse Poffertjes小摊在Noordermarkt（周六）出摊，有时也在Albert Cuypmarkt（周一、周二、周四）。请先确认一下。"
+    },
+    "kattenkabinet": {
+      "name": "KattenKabinet（猫咪博物馆）",
+      "text": "一座以猫为主题的艺术博物馆，设在1667年的运河房里，还有真猫哦。周二至周日12:00-17:00。"
+    },
+    "hortus-botanicus": {
+      "name": "Hortus Botanicus（植物园）",
+      "text": "1638年建立的植物园，有一座蝴蝶馆。每天10:00-17:00。"
+    },
+    "museum-van-loon": {
+      "name": "Museum Van Loon",
+      "text": "1672年的运河房，有花园和马车房。周三至周日10:00-17:00，周一和周二闭馆。"
+    },
+    "foam": {
+      "name": "Foam",
+      "text": "摄影博物馆，就在Van Loon隔壁。每天10:00-18:00，周四、周五开到21:00。"
+    },
+    "rijksmuseum": {
+      "name": "Rijksmuseum（国家博物馆）",
+      "text": "每天9:00-17:00。别错过博物馆下方的公共自行车通道。"
+    },
+    "entrepotdok": {
+      "name": "Entrepotdok",
+      "text": "19世纪的仓库，如今变成了住宅和船屋，就在Artis动物园旁边。全天开放，免费。"
+    },
+    "ndsm-werf": {
+      "name": "NDSM-werf",
+      "text": "阿姆斯特丹北区（Amsterdam-Noord）的前造船厂。从中央车站坐渡轮（F3线）过去：行人和骑车的人免费，每小时至少两班。"
+    },
+    "reguliersdwarsstraat": {
+      "name": "Reguliersdwarsstraat",
+      "text": "在伦勃朗广场（Rembrandtplein）附近。著名的LGBTQ+街道，1963年第一家同性恋酒吧就开在这里。"
+    },
+    "picasso-in-the-vondelpark": {
+      "name": "冯德尔公园（Vondelpark）里的毕加索",
+      "text": "雕塑《Figure découpée / l'Oiseau》（1965年），本地人叫它“鱼”。公园100周年时，毕加索出于与Willem Sandberg的友谊，把它送给了这座城市。"
+    },
+    "a-dam-lookout": {
+      "name": "A'DAM Lookout",
+      "text": "可以360度看景的观景塔，从中央车站坐免费渡轮就能到。最精彩的是Over The Edge秋千：在将近100米的高处荡出楼顶边缘。"
+    },
+    "swimming-at-the-marineterrein": {
+      "name": "在Marineterrein游泳",
+      "text": "就在市中心的内港里游泳，还能看到国家海事博物馆和NEMO。免费。"
+    },
+    "kuuma-sauna": {
+      "name": "Kuuma Sauna",
+      "text": "在码头边。水上的柴火桑拿，按时段租用，一个人或和一群朋友都可以。请在kuuma.nl预订。"
+    },
+    "pension-homeland": {
+      "name": "Pension Homeland",
+      "text": "设在昔日军官食堂里，自家酿酒，有十多款自酿啤酒，还有咖啡馆、餐厅和一个阳光充足的露台。"
+    },
+    "entr-vr-museum": {
+      "name": "ENTR VR Museum",
+      "text": "就在OBA图书馆和中央车站旁边。荷兰第一家VR博物馆。在“Amsterdam 1652”体验里，您和其他参观者一起漫步在重现的17世纪阿姆斯特丹。门票€18起，请提前预订。"
+    },
+    "proeflokaal-t-arendsnest": {
+      "name": "Proeflokaal 't Arendsnest",
+      "text": "一家只卖荷兰啤酒的酒馆：52款荷兰生啤，外加瓶装啤酒，从白啤到世涛和IPA应有尽有。"
+    },
+    "coffeeshop-siberie": {
+      "name": "Coffeeshop Siberië",
+      "text": "由旧车库改造的coffeeshop（大麻咖啡馆），有烛光、大木桌、桌游，周末还有现场DJ。仅限18岁以上。"
+    },
+    "het-stenen-hoofd": {
+      "name": "Het Stenen Hoofd",
+      "text": "1902年建成的旧港口码头，如今是IJ河边的公共公园，也是遛狗的热门地点。免费开放。"
+    },
+    "boom-chicago": {
+      "name": "Boom Chicago",
+      "text": "带点荷兰味的美式喜剧：英语即兴表演和小品。演出日期请查看boomchicago.nl。"
+    },
+    "de-hollandsche-manege": {
+      "name": "De Hollandsche Manege",
+      "text": "1882年的新古典主义室内马术馆，里面有对外开放的咖啡餐厅，可以边吃边看骑手训练。"
+    },
+    "vrog": {
+      "name": "VROG",
+      "text": "室内运动乐园，可以玩蹦床、跑酷和跳舞，设在Waterlooplein附近一条以前的汽车隧道里。很适合带孩子来玩，小小孩也可以。"
+    },
+    "nemo-science-museum": {
+      "name": "NEMO科学博物馆",
+      "text": "老少皆宜的科学博物馆，有各种实验和工作坊，屋顶广场还能俯瞰全城。"
+    },
+    "klimmuur-amsterdam-centraal": {
+      "name": "Klimmuur Amsterdam Centraal",
+      "text": "中央车站附近的大型攀岩馆，有抱石墙和攀岩路线（8米和16米）。适合儿童和成人，有体验课。"
+    },
+    "paradiso": {
+      "name": "Paradiso",
+      "text": "Leidseplein广场附近一座由教堂改建的场地，举办音乐会和派对。"
+    },
+    "bitterzoet": {
+      "name": "Bitterzoet",
+      "text": "俱乐部兼演出场地，各种音乐都有。"
+    },
+    "tuschinski": {
+      "name": "Tuschinski",
+      "text": "一座美丽的装饰艺术（Art Deco）风格电影院，很值得进去看看。"
+    },
+    "the-movies": {
+      "name": "The Movies",
+      "text": "一家小巧的装饰艺术（Art Deco）风格电影院，深色漆木装潢，据旅游局说是阿姆斯特丹最古老的电影院。"
+    },
+    "cafe-papeneiland": {
+      "name": "Café Papeneiland",
+      "text": "在Brouwersgracht（酿酒人运河）的街角。城里最古老的咖啡馆之一（1642年），有代尔夫特瓷砖，苹果派很出名。"
+    },
+    "cafe-t-smalle": {
+      "name": "Café 't Smalle",
+      "text": "传统的“棕色咖啡馆”（老酒馆），设在一座1780年的旧酿酒厂里，有运河边的露台。"
+    },
+    "cafe-de-prins": {
+      "name": "Café de Prins",
+      "text": "西教堂（Westerkerk）附近一家温馨的咖啡馆，以烛光和荷兰小松饼（poffertjes）闻名。"
+    },
+    "marineterrein-and-the-voc-ship": {
+      "name": "Marineterrein和VOC帆船",
+      "text": "在Marineterrein的水边，附近的国家海事博物馆旁边停着VOC帆船“阿姆斯特丹号”的复制品。"
+    },
+    "brouwersgracht": {
+      "name": "Brouwersgracht（酿酒人运河）",
+      "text": "在绅士运河（Herengracht）和王子运河（Prinsengracht）的交汇角。三条运河在这里相遇。"
+    },
+    "damrak": {
+      "name": "Damrak",
+      "text": "傍晚时分来。阳光洒在建筑立面上，非常美。"
+    }
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "categories": {
+    "coffee": {
+      "name": "コーヒーとランチ"
+    },
+    "dutch": {
+      "name": "オランダ料理"
+    },
+    "bitterballen": {
+      "name": "ビターバレン",
+      "note": "2つのリストから選んだお店です。どれがいちばんかは好みの問題です。"
+    },
+    "fine": {
+      "name": "ファインダイニング",
+      "note": "テイスティングメニューは1人あたり約€100-250です。少なくとも2週間前までに予約してください。ドレスコード：スマートカジュアル。"
+    },
+    "view": {
+      "name": "眺めのいいカジュアルダイニング"
+    },
+    "indo": {
+      "name": "インドネシア料理"
+    },
+    "chicken": {
+      "name": "チキン"
+    },
+    "zeedijk": {
+      "name": "Zeedijk（ゼーダイク）"
+    },
+    "shopping": {
+      "name": "ショッピング"
+    },
+    "markets": {
+      "name": "マーケット",
+      "note": "営業時間はさまざまな情報源によるものです。お出かけ前にご確認ください。"
+    },
+    "special": {
+      "name": "特別な場所と美術館・博物館"
+    },
+    "out": {
+      "name": "夜遊びと映画館"
+    },
+    "cafes": {
+      "name": "アムステルダムらしいカフェ"
+    },
+    "sunset": {
+      "name": "夕日と写真スポット"
+    }
+  },
+  "items": {
+    "de-koffieschenkerij": {
+      "name": "De Koffieschenkerij",
+      "text": "毎日9:00〜18:00。Oude Kerk（旧教会）のかつての聖具室で、コーヒーとケーキが楽しめます。隠れた中庭もあります。"
+    },
+    "cafe-winkel-43": {
+      "name": "Café Winkel 43",
+      "text": "アップルパイで有名なお店で、Noorderkerk（北教会）そばのマーケット広場にテラスがあります。予約は不要、空いている席にどうぞ。"
+    },
+    "rudi-s-original-stroopwafels": {
+      "name": "Rudi's Original Stroopwafels",
+      "text": "マーケットのフードトラックで、ゴーダ伝来の秘密のレシピで焼き上げる焼きたてのストロープワッフル。風船を飾った観光客向けのお店とは違います。"
+    },
+    "de-laatste-kruimel": {
+      "name": "De Laatste Kruimel",
+      "text": "朝食やランチにぴったりの居心地のいいカフェ。サンドイッチ、キッシュ、自家製レモネードがあります。運河沿いに小さなテラスもあります。"
+    },
+    "cafe-americain": {
+      "name": "Café Americain",
+      "text": "American Hotel の中にある、クラシックなグランカフェ。1928年のアール・デコ様式の内装とティファニーランプ、広場に面したテラスがあります。コーヒー、ランチ、アフタヌーンティー、ディナーが楽しめます。"
+    },
+    "the-kitchen-at-de-bijenkorf": {
+      "name": "The Kitchen（De Bijenkorf 内）",
+      "text": "デパートの最上階にあります。街を見渡しながら、コーヒーとケーキを楽しめます。小さなテラスもあります。情報源によって異なるので、営業時間は事前にご確認ください。"
+    },
+    "restaurant-moeders": {
+      "name": "Restaurant Moeders",
+      "text": "月〜金 17:00〜22:00、土・日 16:30〜22:00。スタンポット（マッシュポテトと野菜の煮込み）、牛肉の煮込み、フレンチトーストが味わえます。早めの予約がおすすめです。"
+    },
+    "de-blauwe-hollander": {
+      "name": "De Blauwe Hollander",
+      "text": "ボリュームたっぷりのスタンポット。"
+    },
+    "heertje-friet": {
+      "name": "Heertje Friet",
+      "text": "Negen Straatjes（ナイン・ストリート）の近く。私が思うに街でいちばんおいしいフライドポテトです。新鮮な手切りのポテトに、お好みのソース（joppie、oorlog、frietsaus）を添えて。席があり、運河沿いの屋外席もあります。毎日11:00〜20:00。"
+    },
+    "febo": {
+      "name": "FEBO",
+      "text": "夜遅くにぴったりの、おなじみのスナック自販機の壁。小さな扉からクロケット、フリカンデル、サテ・クロケットを取り出します。夜遅くまで営業していますが、営業時間は事前にご確認ください。"
+    },
+    "stubbe-s-haring": {
+      "name": "Stubbe's Haring",
+      "text": "Haarlemmersluis（ハールレマー水門）のそば。100年以上続くニシンの屋台です。ホランセ・ニューウェ（初物のニシン）を玉ねぎとピクルスと一緒に、またはパンにはさんで。立ち食いで、席はありません。営業時間は事前にご確認ください。"
+    },
+    "vishuisje-simon-en-simon": {
+      "name": "Vishuisje Simon en Simon",
+      "text": "プリンセン運河に架かる橋の上にある、父と息子が営む小さなニシンの屋台。観光客にも地元の人にも、ニシンサンドがおいしいと評判です。営業時間は事前にご確認ください。"
+    },
+    "proeflokaal-a-van-wees": {
+      "name": "Proeflokaal A. van Wees",
+      "text": "歴史ある試飲酒場。ビターバレンは、イノシシ、ブラックタイガー、クラシックな牛肉、そしてマッシュルームとナスのベジタリアン版があります。とてもおいしいジュネヴァを味わうならここです。"
+    },
+    "cafe-luxembourg": {
+      "name": "Café Luxembourg",
+      "text": "受賞歴のある3種類のビターバレン（牛肉、小エビ、オランダ産チーズ）で有名なカフェです。"
+    },
+    "eetsalon-van-dobben": {
+      "name": "Eetsalon Van Dobben",
+      "text": "1945年創業のスナックバー。ほかのカフェにもビターバレンを卸しています。"
+    },
+    "cafe-de-tuin": {
+      "name": "Café de Tuin",
+      "text": "Jordaan（ヨルダーン地区）にあるブラウンカフェ。伝統的な牛肉ラグーのビターバレンが味わえます。"
+    },
+    "flore": {
+      "name": "Flore",
+      "text": "アムステル川沿いの Hotel De L'Europe 内。以前の店名は Bord'Eau。シェフはバス・ファン・クラーネン、ミシュラン二つ星です。"
+    },
+    "vinkeles": {
+      "name": "Vinkeles",
+      "text": "18世紀のパン屋を改装した半地下のレストランで、ミシュラン二つ星。ディナーのみ、火〜土 19:00〜22:00。"
+    },
+    "rijks": {
+      "name": "RIJKS",
+      "text": "Rijksmuseum（国立美術館）の中にあります。シェフのヨリス・ベイデンダイクは2025年に年間最優秀シェフに選ばれました。"
+    },
+    "de-kas": {
+      "name": "De Kas",
+      "text": "Frankendael（フランケンダール）にあります。ミシュランの星とグリーンスターを持つ、温室の中のオーガニックレストランです。"
+    },
+    "lars": {
+      "name": "Lars",
+      "text": "Houthavens（ハウトハーフェンス）にあります。ミシュラン一つ星。"
+    },
+    "showw": {
+      "name": "Showw",
+      "text": "ミシュラン一つ星。"
+    },
+    "more-at-de-l-europe": {
+      "name": "De L'Europe のその他のお店",
+      "text": "Hoofdstad Brasserie（より気軽に）、Hèt Terras（アムステル川沿いの広いテラス）、Freddy's Bar、Chapter 1896（アムステル川を眺めながらカクテル）。"
+    },
+    "the-duchess": {
+      "name": "The Duchess",
+      "text": "Hotel W の向かい。ベル・エポック様式のかつての銀行ホールを使った、フレンチとイタリアンのブラッスリー（€€€）です。濃い色の大理石、シャンデリア、オープンキッチンが印象的で、ビーフ・ウェリントンが有名です。月〜木 17:00〜1:00、金・土 12:00〜2:00、日 12:00〜1:00。予約は +31 20 811 3322 へ。週末にはアフタヌーンティーもあります。"
+    },
+    "de-silveren-spiegel": {
+      "name": "De Silveren Spiegel",
+      "text": "1614年に建てられた2軒の階段破風の家で味わう、創作フレンチ（€€€）。暖炉とキャンドルの灯り、豊富なナチュラルワインが魅力です。ミシュランガイド掲載（星はなし）。火〜木 18:00〜23:00、金・土 12:30〜22:00、日・月休み。"
+    },
+    "ron-gastrobar": {
+      "name": "Ron Gastrobar",
+      "text": "Vondelpark（フォンデル公園）の近く。シェフ、ロン・ブラウによるガストロバーです。堅苦しさのない本格的な味で、シェアできる小皿料理、熟成ステーキ、魚料理があります。"
+    },
+    "toscanini": {
+      "name": "Toscanini",
+      "text": "Jordaan（ヨルダーン地区）にある、1985年創業の本格イタリアン。オープンキッチンで、季節の郷土料理と自家製パンが味わえます。席の確保が難しいので、早めの予約がおすすめです。"
+    },
+    "mr-porter": {
+      "name": "Mr. Porter",
+      "text": "Hotel W のペントハウスにあるステーキハウス兼カクテルバー。ドライエイジング・ビーフが味わえ、屋上テラスからは Dam（ダム広場）と Negen Straatjes（ナイン・ストリート）を見下ろせます。グラスフェッドのステーキ、ズッキーニのカルパッチョ、チョコレート・フォンダンが口コミで高評価です。"
+    },
+    "pllek": {
+      "name": "Pllek",
+      "text": "Amsterdam-Noord（アムステルダム北地区）の NDSM 造船所跡の近く（IJ川をフェリーで渡ります）。無骨な工業地帯の雰囲気の中にある、オーガニックでサステナブルなレストランです。街なかのビーチがあり、IJ川を見渡せます。"
+    },
+    "de-belhamel": {
+      "name": "De Belhamel",
+      "text": "ヘーレン運河との角にあります。地中海の影響を受けた季節のオランダ料理を、運河を望むアール・ヌーヴォー様式の店内で。人混みから離れた静かなお店です。"
+    },
+    "hannekes-boom": {
+      "name": "Hannekes Boom",
+      "text": "中央駅のすぐそば。再利用の資材で建てられた素朴なカフェで、水辺に大きなテラスがあり、地元産のオーガニック食材を使っています。"
+    },
+    "kartika": {
+      "name": "Kartika",
+      "text": "何十年も続くライステーフェル（インドネシア風の小皿料理のコース）のお店。ベジタリアン向けメニューもあります。"
+    },
+    "mama-makan": {
+      "name": "Mama Makan",
+      "text": "インドネシアの定番料理を、モダンなスタイルで。"
+    },
+    "restaurant-max": {
+      "name": "Restaurant Max",
+      "text": "運河環状地帯にある、ライステーフェルのお店。伝統的なもの、フュージョン、辛さ控えめのものがあります。フレンドリーなサービスと、インドネシア料理に合うワインリストで知られています。"
+    },
+    "tempo-doeloe": {
+      "name": "Tempo Doeloe",
+      "text": "街でもっとも有名なライステーフェルのお店のひとつ。スパイシーな料理を、白いテーブルクロスのかかった席で。ディナーのみ。"
+    },
+    "van-t-spit": {
+      "name": "Van 't Spit",
+      "text": "Frans Halsstraat 42 にもお店があります。串焼きのローストチキン。"
+    },
+    "bierfabriek": {
+      "name": "Bierfabriek",
+      "text": "ピリピリチキンとスペアリブ。"
+    },
+    "ladybird-fried-chicken": {
+      "name": "Ladybird Fried Chicken",
+      "text": "De Pijp（デ・パイプ地区）にあります。"
+    },
+    "kip-n-drip-kid": {
+      "name": "Kip 'n Drip (KID)",
+      "text": "De Pijp（デ・パイプ地区）にあります。アムステルダムでいちばんおいしいチキンバーガーだと言う人がたくさんいます。"
+    },
+    "chris-kip": {
+      "name": "Chris Kip",
+      "text": "1928年創業、オーガニック。"
+    },
+    "in-t-aepjen": {
+      "name": "In 't Aepjen",
+      "text": "アムステルダムに2軒だけ残る木造家屋のひとつ（1475〜1550年ごろ）。ジュネヴァとビールが楽しめます。日〜木 12:00〜1:00、金・土 12:00〜3:00。"
+    },
+    "bird": {
+      "name": "Bird",
+      "text": "1998年創業の本格タイ料理店。入口に行列ができていることもよくあります。"
+    },
+    "fo-guang-shan-he-hua-temple": {
+      "name": "Fo Guang Shan He Hua Temple（佛光山荷華寺）",
+      "text": "ヨーロッパ大陸で最大の中国式寺院。入場無料、靴を脱いで入ります。火〜土 12:00〜17:00、日 10:00〜17:00、月曜休み。"
+    },
+    "trees": {
+      "name": "Trees",
+      "text": "歴史ある角の建物に入った、雰囲気のいいレストラン。"
+    },
+    "amsterdamsche-vishandel-anno-1938": {
+      "name": "Amsterdamsche Vishandel Anno 1938",
+      "text": "昔ながらの魚屋さん。"
+    },
+    "fromagerie-abraham-kef": {
+      "name": "Fromagerie Abraham Kef",
+      "text": "1950年代から続くチーズ店。ワインや高級食材もあります。行列ができていることもよくあります。"
+    },
+    "de-amsterdamse-muis": {
+      "name": "De Amsterdamse Muis",
+      "text": "ヴィンテージの雑貨、デルフト焼き、ギフトのお店。火〜土 11:00〜18:00。"
+    },
+    "antiekcentrum": {
+      "name": "Antiekcentrum",
+      "text": "Jordaan（ヨルダーン地区）にあります。オランダ最大の屋内アンティークマーケットで、55の業者が出店しています。入場無料。"
+    },
+    "alladin-s-notenhoek": {
+      "name": "Alladin's Notenhoek",
+      "text": "Oud-West（アウト・ウェスト地区、中心部ではありません）。前女王もナッツを買っていた家族経営のお店です。"
+    },
+    "tony-s-chocolonely-super-store": {
+      "name": "Tony's Chocolonely Super Store",
+      "text": "Damrak（ダムラック）の近く、Centraal Station（中央駅）から徒歩約5分。毎日10:00〜19:00、入場無料。自分だけのチョコバーを作ったり、試食したり、カカオ問題について学んだりできます。店内は狭く、行列ができることも多いです。階段が急で、車いすでは利用できません。"
+    },
+    "albert-cuypmarkt": {
+      "name": "Albert Cuypmarkt",
+      "text": "De Pijp（デ・パイプ地区）。月〜土 9:00〜18:00。260の屋台が並ぶ、ヨーロッパ最大の毎日開かれるマーケットです。野菜、洋服、花、ニシン、焼きたてのストロープワッフルなど。"
+    },
+    "noordermarkt": {
+      "name": "Noordermarkt",
+      "text": "Jordaan（ヨルダーン地区）。月 9:00〜13:00（蚤の市と生地）、土 9:00〜16:00（オーガニックのファーマーズマーケット）。"
+    },
+    "waterlooplein": {
+      "name": "Waterlooplein",
+      "text": "月〜土の日中。ヴィンテージの洋服、アンティーク、がらくたが並ぶ蚤の市です。"
+    },
+    "bloemenmarkt-flower-market": {
+      "name": "Bloemenmarkt（花市場）",
+      "text": "月〜土 だいたい9:00〜17:30、日 11:00〜17:30。"
+    },
+    "dappermarkt": {
+      "name": "Dappermarkt",
+      "text": "Oost（東地区）。月〜土 9:00〜17:00。世界中の食べ物、洋服、日用品があります。"
+    },
+    "ten-katemarkt": {
+      "name": "Ten Katemarkt",
+      "text": "Oud-West（アウト・ウェスト地区）。月〜土。"
+    },
+    "lindengracht": {
+      "name": "Lindengracht",
+      "text": "Jordaan（ヨルダーン地区）。土曜日のみ。"
+    },
+    "westerstraat": {
+      "name": "Westerstraat",
+      "text": "Jordaan（ヨルダーン地区）。月曜日のみ。生地、洋服、靴。"
+    },
+    "nieuwmarkt": {
+      "name": "Nieuwmarkt",
+      "text": "土曜日はオーガニックのファーマーズマーケット、5月から9月の日曜日はアンティークマーケット。"
+    },
+    "ij-hallen": {
+      "name": "IJ-Hallen",
+      "text": "Noord（北地区）。月に1回、週末に開かれる蚤の市です。"
+    },
+    "poffertjes-at-the-market": {
+      "name": "マーケットのポッフェルチェス",
+      "text": "ある情報によると、Amsterdamse Poffertjes の屋台は Noordermarkt（土）に、ときどき Albert Cuypmarkt（月・火・木）にも出ているそうです。ご確認ください。"
+    },
+    "kattenkabinet": {
+      "name": "KattenKabinet",
+      "text": "1667年の運河沿いの家にある、猫をテーマにした美術館。本物の猫もいます。火〜日 12:00〜17:00。"
+    },
+    "hortus-botanicus": {
+      "name": "Hortus Botanicus",
+      "text": "1638年創設の植物園で、バタフライハウスもあります。毎日10:00〜17:00。"
+    },
+    "museum-van-loon": {
+      "name": "Museum Van Loon",
+      "text": "1672年の運河沿いの邸宅で、庭と馬車小屋があります。水〜日 10:00〜17:00、月・火休み。"
+    },
+    "foam": {
+      "name": "Foam",
+      "text": "写真美術館で、Van Loon のすぐ隣です。毎日10:00〜18:00、木・金は21:00まで。"
+    },
+    "rijksmuseum": {
+      "name": "Rijksmuseum",
+      "text": "毎日9:00〜17:00。美術館の下を通る、誰でも通れる自転車用の通路もお見逃しなく。"
+    },
+    "entrepotdok": {
+      "name": "Entrepotdok",
+      "text": "19世紀の倉庫群で、今は住宅やハウスボートになっています。Artis（アルティス動物園）の隣。いつでも無料で見られます。"
+    },
+    "ndsm-werf": {
+      "name": "NDSM-werf",
+      "text": "Amsterdam-Noord（アムステルダム北地区）にあるかつての造船所。Centraal Station（中央駅）からフェリー（F3線）で行けます。歩行者と自転車は無料で、少なくとも1時間に2便あります。"
+    },
+    "reguliersdwarsstraat": {
+      "name": "Reguliersdwarsstraat",
+      "text": "Rembrandtplein（レンブラント広場）の近く。よく知られた LGBTQ+ の通りで、1963年に最初のゲイバーができた場所です。"
+    },
+    "picasso-in-the-vondelpark": {
+      "name": "フォンデル公園のピカソ",
+      "text": "彫刻「Figure découpée / l'Oiseau」（1965年）で、地元では「魚」と呼ばれています。ピカソが、ウィレム・サンドベルフとの友情から、公園の開園100周年を記念して市に贈りました。"
+    },
+    "a-dam-lookout": {
+      "name": "A'DAM Lookout",
+      "text": "360度の眺めが楽しめる展望タワーで、Centraal Station（中央駅）から無料のフェリーで行けます。いちばんの目玉はブランコ「Over The Edge」。高さ約100メートルの屋上の縁から外へ向かってスイングします。"
+    },
+    "swimming-at-the-marineterrein": {
+      "name": "Marineterrein（マリーネテレイン）で泳ぐ",
+      "text": "街の真ん中で、国立海洋博物館と NEMO を眺めながら内港で泳げます。自由に利用できます。"
+    },
+    "kuuma-sauna": {
+      "name": "Kuuma Sauna",
+      "text": "桟橋のそばにある、水上の薪サウナ。時間枠ごとに、一人でもグループでも貸し切れます。予約は kuuma.nl で。"
+    },
+    "pension-homeland": {
+      "name": "Pension Homeland",
+      "text": "かつての将校食堂にある自家醸造所で、10種類以上の自家製ビールがあります。カフェ、レストラン、日当たりのいいテラスもあります。"
+    },
+    "entr-vr-museum": {
+      "name": "ENTR VR Museum",
+      "text": "OBA図書館と Centraal Station（中央駅）のすぐそば。オランダ初のVRミュージアムです。「Amsterdam 1652」では、ほかの来場者と一緒に、再現された17世紀のアムステルダムを歩きます。チケットは€18から、事前予約がおすすめです。"
+    },
+    "proeflokaal-t-arendsnest": {
+      "name": "Proeflokaal 't Arendsnest",
+      "text": "オランダのビールだけを出すカフェ。生ビール52種類に加えてボトルもあり、白ビールからスタウト、IPAまでそろっています。"
+    },
+    "coffeeshop-siberie": {
+      "name": "Coffeeshop Siberië",
+      "text": "ガレージを改装したコーヒーショップで、キャンドル、大きな木のテーブル、ゲームがあり、週末にはDJのライブもあります。18歳以上のみ。"
+    },
+    "het-stenen-hoofd": {
+      "name": "Het Stenen Hoofd",
+      "text": "1902年に造られたかつての港の突堤で、現在はIJ川沿いの公園。犬の散歩スポットとしても人気です。自由に入れます。"
+    },
+    "boom-chicago": {
+      "name": "Boom Chicago",
+      "text": "オランダ風のひねりを効かせたアメリカン・コメディ。英語での即興劇とスケッチです。公演日は boomchicago.nl でご確認ください。"
+    },
+    "de-hollandsche-manege": {
+      "name": "De Hollandsche Manege",
+      "text": "1882年に建てられた新古典主義様式の乗馬ホール。一般の人も入れるカフェ・レストランがあり、乗馬の様子を眺められます。"
+    },
+    "vrog": {
+      "name": "VROG",
+      "text": "Waterlooplein（ワーテルロー広場）近くのかつての自動車トンネルにある、トランポリン、パルクール、ダンスの屋内遊び場。小さなお子さんも含め、子どもと一緒に楽しめます。"
+    },
+    "nemo-science-museum": {
+      "name": "NEMO Science Museum",
+      "text": "子どもから大人まで楽しめる科学博物館。実験やワークショップがあり、屋上広場からは街を見渡せます。"
+    },
+    "klimmuur-amsterdam-centraal": {
+      "name": "Klimmuur Amsterdam Centraal",
+      "text": "中央駅近くの大きなクライミングジム。ボルダリングの壁と、ルート（8メートルと16メートル）があります。子どもも大人も楽しめて、体験レッスンもあります。"
+    },
+    "paradiso": {
+      "name": "Paradiso",
+      "text": "Leidseplein（ライツェ広場）近くの、元教会で開かれるコンサートやパーティー。"
+    },
+    "bitterzoet": {
+      "name": "Bitterzoet",
+      "text": "あらゆるジャンルの音楽が楽しめるクラブ兼ライブステージ。"
+    },
+    "tuschinski": {
+      "name": "Tuschinski",
+      "text": "美しいアール・デコ様式の映画館。中をのぞいてみる価値があります。"
+    },
+    "the-movies": {
+      "name": "The Movies",
+      "text": "濃い色の漆塗りの木が印象的な、小さなアール・デコ様式の映画館。観光局によるとアムステルダム最古の映画館だそうです。"
+    },
+    "cafe-papeneiland": {
+      "name": "Café Papeneiland",
+      "text": "Brouwersgracht（ブラウワース運河）の角。市内でもっとも古いカフェのひとつ（1642年）で、デルフト焼きのタイルがあり、アップルパイで有名です。"
+    },
+    "cafe-t-smalle": {
+      "name": "Café 't Smalle",
+      "text": "1780年のかつての蒸留所にある伝統的なブラウンカフェで、運河沿いにテラスがあります。"
+    },
+    "cafe-de-prins": {
+      "name": "Café de Prins",
+      "text": "Westerkerk（西教会）近くの居心地のいいカフェ。キャンドルとポッフェルチェスで知られています。"
+    },
+    "marineterrein-and-the-voc-ship": {
+      "name": "Marineterrein（マリーネテレイン）とVOCの船",
+      "text": "Marineterrein の水辺で。すぐ近くの国立海洋博物館の隣には、VOCの船「アムステルダム号」のレプリカがあります。"
+    },
+    "brouwersgracht": {
+      "name": "Brouwersgracht",
+      "text": "ヘーレン運河とプリンセン運河の角。ここで3つの運河が交わります。"
+    },
+    "damrak": {
+      "name": "Damrak",
+      "text": "夕方遅めの時間に。建物の正面に当たる光がきれいです。"
+    }
+  }
+}
