@@ -424,6 +424,10 @@
     "pc-hooftstraat": {
       "name": "P.C. Hooftstraat",
       "text": "شارع تسوّق أنيق على نحو غير متوقع في أمستردام: دور أزياء مثل Chanel وDior وLouis Vuitton وGucci، ومجوهرات مثل Cartier وTiffany. بجوار متحف رايكس ومتنزه فوندل."
+    },
+    "de-pizzabakkers-leliegracht": {
+      "name": "De Pizzabakkers",
+      "text": "بيتزا سفري. نصيحة القبطان: اطلبوا بيرة في المقهى المجاور وكلوا البيتزا على شرفته المطلة على القناة."
     }
   }
 }

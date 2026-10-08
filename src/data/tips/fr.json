@@ -424,6 +424,10 @@
     "pc-hooftstraat": {
       "name": "P.C. Hooftstraat",
       "text": "Une rue commerçante étonnamment chic à Amsterdam : maisons de mode comme Chanel, Dior, Louis Vuitton et Gucci, joailliers comme Cartier et Tiffany. Tout près du Rijksmuseum et du Vondelpark."
+    },
+    "de-pizzabakkers-leliegracht": {
+      "name": "De Pizzabakkers",
+      "text": "Pizza à emporter. Astuce du capitaine : commandez une bière au café d’à côté et mangez votre pizza sur leur terrasse au bord du canal."
     }
   }
 }

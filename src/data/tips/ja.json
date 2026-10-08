@@ -424,6 +424,10 @@
     "pc-hooftstraat": {
       "name": "P.C. Hooftstraat",
       "text": "アムステルダムで意外なほどシックなショッピング通り。Chanel、Dior、Louis Vuitton、Gucci などのブランドや、Cartier、Tiffany などのジュエラーが並びます。国立美術館とフォンデル公園のすぐそば。"
+    },
+    "de-pizzabakkers-leliegracht": {
+      "name": "De Pizzabakkers",
+      "text": "テイクアウトのピザ。キャプテンのおすすめ：隣のカフェでビールを頼んで、運河沿いのテラスでピザを食べましょう。"
     }
   }
 }

@@ -424,6 +424,10 @@
     "pc-hooftstraat": {
       "name": "P.C. Hooftstraat",
       "text": "Uma rua de compras surpreendentemente chique em Amsterdam: grifes como Chanel, Dior, Louis Vuitton e Gucci, e joalherias como Cartier e Tiffany. Bem ao lado do Rijksmuseum e do Vondelpark."
+    },
+    "de-pizzabakkers-leliegracht": {
+      "name": "De Pizzabakkers",
+      "text": "Pizza para levar. Dica do capitão: peça uma cerveja no café ao lado e coma a pizza no terraço deles, à beira do canal."
     }
   }
 }

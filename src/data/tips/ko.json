@@ -424,6 +424,10 @@
     "pc-hooftstraat": {
       "name": "P.C. Hooftstraat",
       "text": "암스테르담에서 뜻밖에 세련된 쇼핑 거리예요. Chanel, Dior, Louis Vuitton, Gucci 같은 패션 하우스와 Cartier, Tiffany 같은 주얼리 매장이 있어요. 국립미술관과 폰덜 공원 바로 옆이에요."
+    },
+    "de-pizzabakkers-leliegracht": {
+      "name": "De Pizzabakkers",
+      "text": "테이크아웃 피자. 선장의 팁: 옆 카페에서 맥주를 주문하고 운하 옆 테라스에서 피자를 드세요."
     }
   }
 }

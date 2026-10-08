@@ -339,6 +339,10 @@
     "pc-hooftstraat": {
       "name": "P.C. Hooftstraat",
       "text": "Eine überraschend schicke Einkaufsstraße in Amsterdam: Modehäuser wie Chanel, Dior, Louis Vuitton und Gucci, Juweliere wie Cartier und Tiffany. Direkt beim Rijksmuseum und Vondelpark."
+    },
+    "de-pizzabakkers-leliegracht": {
+      "name": "De Pizzabakkers",
+      "text": "Pizza zum Mitnehmen. Tipp vom Kapitän: Bestellen Sie im Café nebenan ein Bier und essen Sie Ihre Pizza auf dessen Terrasse an der Gracht."
     }
   }
 }
