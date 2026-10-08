@@ -77,18 +77,6 @@
         "kaart"
       ]
     },
-    "cafe-luxembourg": {
-      "q": [
-        "Spui Amsterdam"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "cafe-papeneiland": {
       "q": [
         "Papeneiland Amsterdam",
