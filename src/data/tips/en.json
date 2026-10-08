@@ -209,9 +209,12 @@
     {
       "id": "cafe-de-prins",
       "cat": "cafes",
+      "also": [
+        "dinner"
+      ],
       "name": "Café de Prins",
       "address": "Prinsengracht 124",
-      "text": "A cosy café near the Westerkerk, known for its candles and poffertjes."
+      "text": "A cosy café near the Westerkerk, known for its candles, poffertjes and cheese fondue."
     },
     {
       "id": "restaurant-moeders",
