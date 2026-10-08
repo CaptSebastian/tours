@@ -418,6 +418,18 @@
     "damrak": {
       "name": "Damrak",
       "text": "Sent på eftermiddagen. Vackert ljus på fasaderna."
+    },
+    "condomerie": {
+      "name": "Condomerie Het Gulden Vlies",
+      "text": "Specialbutik för kondomer i alla storlekar, färger och smaker. En rolig present. Mån–ons 11–18, tor 11–19, fre–lör 11–21, sön 13–17."
+    },
+    "stussy-amsterdam": {
+      "name": "Stüssy Amsterdam",
+      "text": "Butik för det kaliforniska streetwearmärket, känt för t-shirts med grundarens handskrivna signatur som logga."
+    },
+    "patta": {
+      "name": "Patta",
+      "text": "Amsterdams eget streetwear- och sneakermärke, med sin flaggskeppsbutik här."
     }
   }
 }

@@ -377,6 +377,20 @@
       "text": "Classic fishmonger."
     },
     {
+      "id": "stussy-amsterdam",
+      "cat": "zeedijk",
+      "name": "Stüssy Amsterdam",
+      "address": "Zeedijk 22",
+      "text": "Store of the Californian streetwear brand, famous for T-shirts with the founder's handwritten signature as logo."
+    },
+    {
+      "id": "patta",
+      "cat": "zeedijk",
+      "name": "Patta",
+      "address": "Zeedijk 67",
+      "text": "Amsterdam's own streetwear and sneaker label, with its flagship store here."
+    },
+    {
       "id": "fromagerie-abraham-kef",
       "cat": "shopping",
       "name": "Fromagerie Abraham Kef",
@@ -410,6 +424,13 @@
       "name": "Tony's Chocolonely Super Store",
       "address": "Oudebrugsteeg 15",
       "text": "Near the Damrak, about a 5-minute walk from Centraal Station. Daily 10am-7pm, free entry. Make your own bar, taste the bars and learn about the cocoa problem. Small, often a queue, steep stairs and not wheelchair accessible."
+    },
+    {
+      "id": "condomerie",
+      "cat": "shopping",
+      "name": "Condomerie Het Gulden Vlies",
+      "address": "Warmoesstraat 141",
+      "text": "Specialist condom shop with condoms in every size, colour and flavour. A fun gift. Mon-Wed 11am-6pm, Thu 11am-7pm, Fri-Sat 11am-9pm, Sun 1-5pm."
     },
     {
       "id": "albert-cuypmarkt",

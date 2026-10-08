@@ -333,6 +333,18 @@
     },
     "damrak": {
       "text": "In de namiddag. Mooi licht op de gevels."
+    },
+    "condomerie": {
+      "name": "Condomerie Het Gulden Vlies",
+      "text": "Speciaalzaak in condooms, in elke maat, kleur en smaak. Leuk als cadeautje. Ma–wo 11–18, do 11–19, vr–za 11–21, zo 13–17."
+    },
+    "stussy-amsterdam": {
+      "name": "Stüssy Amsterdam",
+      "text": "Winkel van het Californische streetwearmerk, bekend om de T-shirts met de handtekening van de oprichter als logo."
+    },
+    "patta": {
+      "name": "Patta",
+      "text": "Het Amsterdamse streetwear- en sneakermerk, met hier de flagshipstore."
     }
   }
 }

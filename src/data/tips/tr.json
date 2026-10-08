@@ -418,6 +418,18 @@
     "damrak": {
       "name": "Damrak",
       "text": "Öğleden sonranın geç saatlerinde. Cephelerde çok güzel bir ışık olur."
+    },
+    "condomerie": {
+      "name": "Condomerie Het Gulden Vlies",
+      "text": "Her beden, renk ve aromada prezervatif satan özel bir dükkân. Eğlenceli bir hediye. Pzt–Çar 11.00–18.00, Per 11.00–19.00, Cum–Cmt 11.00–21.00, Paz 13.00–17.00."
+    },
+    "stussy-amsterdam": {
+      "name": "Stüssy Amsterdam",
+      "text": "Kurucusunun el yazısı imzasını logo olarak kullanan tişörtleriyle ünlü Kaliforniyalı sokak modası markasının mağazası."
+    },
+    "patta": {
+      "name": "Patta",
+      "text": "Amsterdam'ın kendi sokak modası ve spor ayakkabı markası; ana mağazası burada."
     }
   }
 }

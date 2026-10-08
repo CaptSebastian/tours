@@ -418,6 +418,18 @@
     "damrak": {
       "name": "Damrak",
       "text": "Nel tardo pomeriggio. Una luce bellissima sulle facciate."
+    },
+    "condomerie": {
+      "name": "Condomerie Het Gulden Vlies",
+      "text": "Negozio specializzato in preservativi di ogni misura, colore e gusto. Un regalo divertente. Lun–mer 11–18, gio 11–19, ven–sab 11–21, dom 13–17."
+    },
+    "stussy-amsterdam": {
+      "name": "Stüssy Amsterdam",
+      "text": "Negozio del marchio californiano di streetwear, famoso per le magliette con la firma autografa del fondatore come logo."
+    },
+    "patta": {
+      "name": "Patta",
+      "text": "Il marchio di streetwear e sneaker nato ad Amsterdam, con il negozio principale qui."
     }
   }
 }

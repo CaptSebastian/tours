@@ -418,6 +418,18 @@
     "damrak": {
       "name": "Damrak",
       "text": "傍晚时分来。阳光洒在建筑立面上，非常美。"
+    },
+    "condomerie": {
+      "name": "Condomerie Het Gulden Vlies",
+      "text": "避孕套专卖店，各种尺寸、颜色和口味都有。适合买来当有趣的小礼物。周一至周三 11:00–18:00，周四 11:00–19:00，周五至周六 11:00–21:00，周日 13:00–17:00。"
+    },
+    "stussy-amsterdam": {
+      "name": "Stüssy Amsterdam",
+      "text": "加州街头服饰品牌的门店，以印有创始人手写签名标志的 T 恤闻名。"
+    },
+    "patta": {
+      "name": "Patta",
+      "text": "阿姆斯特丹本土的街头服饰和球鞋品牌，旗舰店就在这里。"
     }
   }
 }
