@@ -186,12 +186,7 @@
       ],
       "name": "Café Luxembourg",
       "address": "Spui",
-      "text": "Famous café with three prize-winning bitterballen: beef, shrimp and Dutch cheese.",
-      "image": "/images/commons/tips-cafe-luxembourg.webp",
-      "photoCredit": {
-        "text": "Txllxt TxllxT · CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Spui_-_View_on_Athenaeum_Boekhandel_%26_American_Bookstore.jpg"
-      }
+      "text": "Famous café with three prize-winning bitterballen: beef, shrimp and Dutch cheese."
     },
     {
       "id": "cafe-de-tuin",
@@ -562,8 +557,8 @@
       "text": "A science museum for young and old with experiments, workshops and a rooftop square with views over the city.",
       "image": "/images/commons/tips-nemo-science-museum.webp",
       "photoCredit": {
-        "text": "Ank Kumar · CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:2018_-_NEMO_Science_Museum,_Amsterdam,_Netherlands_(_Ank_Kumar_)_04.jpg"
+        "text": "Elekes Andor · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Nemo_Science_Museum.jpg"
       }
     },
     {
@@ -820,12 +815,7 @@
       "cat": "shops",
       "name": "Tony's Chocolonely Super Store",
       "address": "Oudebrugsteeg 15",
-      "text": "Near the Damrak, about a 5-minute walk from Centraal Station. Daily 10am-7pm, free entry. Make your own bar, taste the bars and learn about the cocoa problem. Small, often a queue, steep stairs and not wheelchair accessible.",
-      "image": "/images/commons/tips-tony-s-chocolonely-super-store.webp",
-      "photoCredit": {
-        "text": "Piecesofuk · CC BY-SA 3.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Oudebrugsteeg.jpg"
-      }
+      "text": "Near the Damrak, about a 5-minute walk from Centraal Station. Daily 10am-7pm, free entry. Make your own bar, taste the bars and learn about the cocoa problem. Small, often a queue, steep stairs and not wheelchair accessible."
     },
     {
       "id": "condomerie",
@@ -848,7 +838,7 @@
       "image": "/images/commons/tips-pc-hooftstraat.webp",
       "photoCredit": {
         "text": "Alf van Beem · Public domain",
-        "url": "https://commons.wikimedia.org/wiki/File:Pieter_Cornelisz_Hooftstraat_foto_1.JPG"
+        "url": "https://commons.wikimedia.org/wiki/File:Pieter_Cornelisz_Hooftstraat_foto_2.JPG"
       }
     },
     {
@@ -890,8 +880,8 @@
       "text": "Mon-Sat about 9am-5.30pm, Sun 11am-5.30pm.",
       "image": "/images/commons/tips-bloemenmarkt-flower-market.webp",
       "photoCredit": {
-        "text": "Txllxt TxllxT · CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Singel_-_Bloemenmarkt_-_Flowermarket_-_View_WNW_I.jpg"
+        "text": "Massimo Catarinella · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:SingelBloemenmarkt.jpg"
       }
     },
     {
@@ -977,5 +967,5 @@
       }
     }
   ],
-  "commonsConfig": "233098d14418"
+  "commonsConfig": "a4644941f4eb"
 }
