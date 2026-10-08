@@ -5,7 +5,7 @@
   "card": {
     "title": "KINBoat Anne Frank House",
     "text": "Choose your favourite language in the menu and enjoy the tour.",
-    "image": "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Bastion-Hotels-Anne-Frank-Huis.jpg"
+    "image": "/images/commons/annefrank1-anne-frank-house.jpg"
   },
   "stops": [
     {
@@ -13,165 +13,245 @@
       "number": 1,
       "title": "Anne Frank House",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Bastion-Hotels-Anne-Frank-Huis.jpg"
+        "/images/commons/annefrank1-anne-frank-house.jpg"
       ],
-      "body": "<p>The Anne Frank House is where Anne Frank wrote her famous diary while hiding from the Nazis during World War II. The secret annex where she lived has since become a museum, attracting visitors from around the world who seek to learn about her life and the history of the Holocaust.</p>"
+      "body": "<p>The Anne Frank House is where Anne Frank wrote her famous diary while hiding from the Nazis during World War II. The secret annex where she lived has since become a museum, attracting visitors from around the world who seek to learn about her life and the history of the Holocaust.</p>",
+      "photoCredit": {
+        "text": "Dietmar Rabich · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Anne-Frank-Huis_--_2015_--_7185.jpg"
+      }
     },
     {
       "id": "de-wester",
       "number": 2,
       "title": "De Wester",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/1000_F_251209732_VKJBAxYt9VKdadVXqnGPb8Fd11XTqh9B.jpg"
+        "/images/commons/annefrank1-de-wester.jpg"
       ],
-      "body": "<p>The Westerkerk was completed in 1631 and is known for its tower, about 85 meters tall, the highest church tower in the city. Rembrandt was buried here in 1669, in an unmarked grave.</p><p>While hiding in the Secret Annex nearby, Anne Frank could hear the bells of the Westertoren. She wrote in her diary how much comfort they gave her.</p>"
+      "body": "<p>The Westerkerk was completed in 1631 and is known for its tower, about 85 meters tall, the highest church tower in the city. Rembrandt was buried here in 1669, in an unmarked grave.</p><p>While hiding in the Secret Annex nearby, Anne Frank could hear the bells of the Westertoren. She wrote in her diary how much comfort they gave her.</p>",
+      "photoCredit": {
+        "text": "Zairon · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_Prinsengracht_%26_Westerkerk_4.jpg"
+      }
     },
     {
       "id": "the-canal-ring",
       "number": 3,
       "title": "The Canal Ring",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/3f3s9rakzfx11-e1742940448787.jpg"
+        "/images/commons/annefrank1-the-canal-ring.jpg"
       ],
-      "body": "<p>The VOC (Dutch East India Company) was a trading company that played a major role in Amsterdam’s Golden Age, and the canal ring is a unique system of <strong>concentric canals</strong> from the 17th century that was built during Amsterdam’s largest expansion. These two elements are closely connected because the wealth from VOC trade directly contributed to the construction and development of the canal ring, where rich merchants built their impressive houses.</p>"
+      "body": "<p>The VOC (Dutch East India Company) was a trading company that played a major role in Amsterdam’s Golden Age, and the canal ring is a unique system of <strong>concentric canals</strong> from the 17th century that was built during Amsterdam’s largest expansion. These two elements are closely connected because the wealth from VOC trade directly contributed to the construction and development of the canal ring, where rich merchants built their impressive houses.</p>",
+      "photoCredit": {
+        "text": "Massimo Catarinella · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:KeizersgrachtReguliersgrachtAmsterdam.jpg"
+      }
     },
     {
       "id": "high-and-dry",
       "number": 4,
       "title": "High and dry",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/amsterdam-holland-netherlands-building-attic-where-were-stored-goods-with-hook-rope-view_771335-2850.avif"
+        "/images/commons/annefrank1-high-and-dry.jpg"
       ],
-      "body": "<p>The VOC primarily traded in spices and other valuable goods from Asia, which were stored in the warehouses of merchant houses along Amsterdam’s canals. These warehouses were specially designed with large attics and <strong>hoisting beams</strong> on their facades to store the precious trade goods ‘high and dry’.</p>"
+      "body": "<p>The VOC primarily traded in spices and other valuable goods from Asia, which were stored in the warehouses of merchant houses along Amsterdam’s canals. These warehouses were specially designed with large attics and <strong>hoisting beams</strong> on their facades to store the precious trade goods ‘high and dry’.</p>",
+      "photoCredit": {
+        "text": "A. Bakker · CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Groenburgwal_59-a.JPG"
+      }
     },
     {
       "id": "the-houseboat-museum",
       "number": 5,
       "title": "The Houseboat Museum",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Houseboatmuseum-exterior-scaled-1-1024x576.jpg"
+        "/images/commons/annefrank1-the-houseboat-museum.jpg"
       ],
-      "body": "<p>Amsterdam has around 2,500 houseboats. People have lived on boats here for a long time, but houseboats really took off after the Second World War, as a solution to the housing shortage. In this museum, a former cargo ship from 1914, you can see what life on the water is like.</p>"
+      "body": "<p>Amsterdam has around 2,500 houseboats. People have lived on boats here for a long time, but houseboats really took off after the Second World War, as a solution to the housing shortage. In this museum, a former cargo ship from 1914, you can see what life on the water is like.</p>",
+      "photoCredit": {
+        "text": "Zairon · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_Woonbootmuseum_2.jpg"
+      }
     },
     {
       "id": "facade-stones",
       "number": 6,
       "title": "Facade stones",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/1024px-gevelsteen_met_afbeelding_van_schip_-_medemblik_-_20333433_-_rce_0.jpg"
+        "/images/commons/annefrank1-facade-stones.jpg"
       ],
-      "body": "<p>These facade stones served as orientation points for the seventeenth-century residents of the Dutch city. The small artistic works showed where the baker sold his breads and where you could go for shoe repairs.</p>"
+      "body": "<p>These facade stones served as orientation points for the seventeenth-century residents of the Dutch city. The small artistic works showed where the baker sold his breads and where you could go for shoe repairs.</p>",
+      "photoCredit": {
+        "text": "Alf van Beem · CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Gevelsteen_Herengracht,_afbeelding_van_een_papiermolen.jpg"
+      }
     },
     {
       "id": "night-watch",
       "number": 7,
       "title": "Night Watch",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/SK-C-5-copy.webp"
+        "/images/commons/annefrank1-night-watch.jpg"
       ],
       "caption": "Rembrandt van Rijn: The Night Watch, 1642, oil on canvas. Photo: courtesy Rijksmuseum, Amsterdam",
-      "body": "<p>Without a doubt, <em>Night Watch</em>, by Dutch Golden Age painter Rembrandt Harmenszoon van Rijn (1606–1669), is the heart of the Rijksmuseum. Not only is it the museum’s largest and most important work, but the entire collection is literally built around it, with the Night Watch Gallery at the core of the museum opening into the Gallery of Honor. This enormous, true-to-life-size painting is famed for its dramatic play of light and shadow as well for being an innovative portrayal of a group in motion rather than a static military scene.</p>"
+      "body": "<p>Without a doubt, <em>Night Watch</em>, by Dutch Golden Age painter Rembrandt Harmenszoon van Rijn (1606–1669), is the heart of the Rijksmuseum. Not only is it the museum’s largest and most important work, but the entire collection is literally built around it, with the Night Watch Gallery at the core of the museum opening into the Gallery of Honor. This enormous, true-to-life-size painting is famed for its dramatic play of light and shadow as well for being an innovative portrayal of a group in motion rather than a static military scene.</p>",
+      "photoCredit": {
+        "text": "Rembrandt · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg"
+      }
     },
     {
       "id": "spiegelkwartier",
       "number": 8,
       "title": "Spiegelkwartier",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/43998381312_a84fe1fc41_o-1024x682-1.jpg"
+        "/images/commons/annefrank1-spiegelkwartier.jpg"
       ],
-      "body": "<p>Nice neighborhood offering quality shopping experience in typical Amsterdam old town setting. Good selection of art, antique, vintage shops, as well as pubs and restaurants. Makes for nice strolling and browsing.</p>"
+      "body": "<p>Nice neighborhood offering quality shopping experience in typical Amsterdam old town setting. Good selection of art, antique, vintage shops, as well as pubs and restaurants. Makes for nice strolling and browsing.</p>",
+      "photoCredit": {
+        "text": "Bouzinac · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Nieuwe_spiegelstraat.jpg"
+      }
     },
     {
       "id": "de-amstelkerk",
       "number": 9,
       "title": "De Amstelkerk",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.01.52.png"
+        "/images/commons/annefrank1-de-amstelkerk.jpg"
       ],
-      "body": "<p>The Amstelveld square features Amsterdam’s only surviving wooden emergency church. This rare wooden structure hosts concerts and art exhibitions. With its beautifully proportioned windows, the intimate building resembles an elegant jewelry box.</p>"
+      "body": "<p>The Amstelveld square features Amsterdam’s only surviving wooden emergency church. This rare wooden structure hosts concerts and art exhibitions. With its beautifully proportioned windows, the intimate building resembles an elegant jewelry box.</p>",
+      "photoCredit": {
+        "text": "Stadsherstel020 · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amstelveld-10-Oud-1990-Amstelkerk-oud.jpg"
+      }
     },
     {
       "id": "de-duif",
       "number": 10,
       "title": "De Duif",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.28.15.png"
+        "/images/commons/annefrank1-de-duif.jpg"
       ],
-      "body": "<p>De Duif (The Dove) is a historic catholic church building notable for its impressive facade and classical architecture.</p><p>The church has remarkable acoustics, making it a popular venue for classical music performances and choir concerts. Its interior features beautiful stained glass windows and a historic Smits organ from 1862, which is still in use today.</p>"
+      "body": "<p>De Duif (The Dove) is a historic catholic church building notable for its impressive facade and classical architecture.</p><p>The church has remarkable acoustics, making it a popular venue for classical music performances and choir concerts. Its interior features beautiful stained glass windows and a historic Smits organ from 1862, which is still in use today.</p>",
+      "photoCredit": {
+        "text": "Gerard Dukker · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:De_Duif,_Prinsengracht,_Amsterdam_-_20013589_-_RCE.jpg"
+      }
     },
     {
       "id": "de-amstel",
       "number": 11,
       "title": "De Amstel",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-23.16.51.png"
+        "/images/commons/annefrank1-de-amstel.jpg"
       ],
-      "body": "<p>Traditionally an important shipping route between the Zuiderzee and the hinterland, and the river our city is named after. Around 1270 a dam was built in the Amstel, which quickly turned the fishing village into a trading town. The oldest document that mentions Amsterdam dates from 1275: a toll privilege from Count Floris V, which freed its people from paying toll in Holland. In it the town is called <em>Amestelledamme</em> (“dam in the Amstel”), a name that gradually became Amsterdam. City rights followed around 1300.</p>"
+      "body": "<p>Traditionally an important shipping route between the Zuiderzee and the hinterland, and the river our city is named after. Around 1270 a dam was built in the Amstel, which quickly turned the fishing village into a trading town. The oldest document that mentions Amsterdam dates from 1275: a toll privilege from Count Floris V, which freed its people from paying toll in Holland. In it the town is called <em>Amestelledamme</em> (“dam in the Amstel”), a name that gradually became Amsterdam. City rights followed around 1300.</p>",
+      "photoCredit": {
+        "text": "Marco Ober · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amstel_river,_Halvemaanbrug,_Amsterdam.jpg"
+      }
     },
     {
       "id": "de-magere-brug",
       "number": 12,
       "title": "De Magere Brug",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.44.58.png"
+        "/images/commons/annefrank1-de-magere-brug.jpg"
       ],
-      "body": "<p>De Magere Brug, “the Skinny Bridge”, probably owes its name to the very narrow wooden bridge first built here in 1691. A popular legend says two sisters named Mager, living on opposite banks, paid for it so they could visit each other; a nice story, but there is no evidence for it.</p><p>The bridge is internationally famous from the James Bond film “Diamonds Are Forever” (1971). And the newest legend of all: if there are loving couples on board, give each other a kiss exactly under the bridge, and you’ll stay in love for the rest of your life!</p>"
+      "body": "<p>De Magere Brug, “the Skinny Bridge”, probably owes its name to the very narrow wooden bridge first built here in 1691. A popular legend says two sisters named Mager, living on opposite banks, paid for it so they could visit each other; a nice story, but there is no evidence for it.</p><p>The bridge is internationally famous from the James Bond film “Diamonds Are Forever” (1971). And the newest legend of all: if there are loving couples on board, give each other a kiss exactly under the bridge, and you’ll stay in love for the rest of your life!</p>",
+      "photoCredit": {
+        "text": "S Sepp · CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Magere_Brug.jpg"
+      }
     },
     {
       "id": "hart-museum",
       "number": 13,
       "title": "H’ART Museum",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.45.26.png"
+        "/images/commons/annefrank1-hart-museum.jpg"
       ],
-      "body": "<p>In the 17th century many Amsterdam women were left on their own: their husbands went to sea, and a large share of them never came back. To care for elderly women, the deacons of the Reformed Church built the Amstelhof here, begun in 1681 on what was then cheap land on the far side of the Amstel. It served as a home for the elderly until 2007.</p><p>In 2009 the building reopened as Hermitage Amsterdam, a branch of the Hermitage in St Petersburg. After Russia invaded Ukraine in 2022, the museum cut its ties with Russia and was renamed H’ART Museum.</p>"
+      "body": "<p>In the 17th century many Amsterdam women were left on their own: their husbands went to sea, and a large share of them never came back. To care for elderly women, the deacons of the Reformed Church built the Amstelhof here, begun in 1681 on what was then cheap land on the far side of the Amstel. It served as a home for the elderly until 2007.</p><p>In 2009 the building reopened as Hermitage Amsterdam, a branch of the Hermitage in St Petersburg. After Russia invaded Ukraine in 2022, the museum cut its ties with Russia and was renamed H’ART Museum.</p>",
+      "photoCredit": {
+        "text": "Ymblanter · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_Amstelhof_seen_from_Blauwbrug.jpg"
+      }
     },
     {
       "id": "city-hall-national-ballet-theatre",
       "number": 14,
       "title": "City Hall & National Ballet Theatre",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.00.37.png"
+        "/images/commons/annefrank1-city-hall-national-ballet-theatre.jpg"
       ],
-      "body": "<p>The current Royal Palace on Dam Square was the original Amsterdam City Hall, from the early 19th century, the city hall moved to the Oudezijds Voorburgwal, eventually, this building became too small and in the 1980s, architects Holzbauer, Holt & Cees Dam designed a new city hall at the location of Waterlooplein/Oude Vlooienburg. This building has a dual function as the Amsterdam City Hall and a theater for the National Opera & Ballet.</p>"
+      "body": "<p>The current Royal Palace on Dam Square was the original Amsterdam City Hall, from the early 19th century, the city hall moved to the Oudezijds Voorburgwal, eventually, this building became too small and in the 1980s, architects Holzbauer, Holt & Cees Dam designed a new city hall at the location of Waterlooplein/Oude Vlooienburg. This building has a dual function as the Amsterdam City Hall and a theater for the National Opera & Ballet.</p>",
+      "photoCredit": {
+        "text": "C messier · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Stopera_2063.jpg"
+      }
     },
     {
       "id": "de-herengracht",
       "number": 15,
       "title": "De Herengracht",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.20.03.png"
+        "/images/commons/annefrank1-de-herengracht.jpg"
       ],
-      "body": "<p>We are now sailing on the Herengracht, part of the prestigious expansion of the city in the early 17th century. This stretch runs from the Leidsegracht to the Amstel, and here you mainly see very large buildings: the city council only issued large plots here, to attract the rich merchant families.</p><p><strong>Popular story:</strong> taxes were said to be based on the width of the house and the number of windows, and even a double staircase was taxed extra. Guides love to tell it, but historians doubt it; the high price of land along the canal is the more likely reason most houses are so narrow.</p>"
+      "body": "<p>We are now sailing on the Herengracht, part of the prestigious expansion of the city in the early 17th century. This stretch runs from the Leidsegracht to the Amstel, and here you mainly see very large buildings: the city council only issued large plots here, to attract the rich merchant families.</p><p><strong>Popular story:</strong> taxes were said to be based on the width of the house and the number of windows, and even a double staircase was taxed extra. Guides love to tell it, but historians doubt it; the high price of land along the canal is the more likely reason most houses are so narrow.</p>",
+      "photoCredit": {
+        "text": "Agnes Monkelbaan · CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Hortus_Botanicus_Amsterdam._(actm.).jpg"
+      }
     },
     {
       "id": "de-reguliersgracht",
       "number": 16,
       "title": "De Reguliersgracht",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-23-om-00.01.23.png"
+        "/images/commons/annefrank1-de-reguliersgracht.jpg"
       ],
-      "body": "<p>One of the most beautiful canals – famous for its seven identical arched bridges. In 1901, the city council wanted to fill in this canal for the new Electric Tram, but fortunately, it was rejected due to many protests. In the evening, it is very beautiful because the arches are illuminated, and from Thorbeckeplein, this is a beautiful sight!</p>"
+      "body": "<p>One of the most beautiful canals – famous for its seven identical arched bridges. In 1901, the city council wanted to fill in this canal for the new Electric Tram, but fortunately, it was rejected due to many protests. In the evening, it is very beautiful because the arches are illuminated, and from Thorbeckeplein, this is a beautiful sight!</p>",
+      "photoCredit": {
+        "text": "Unknown author Unknown author · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Amsterdam,_de_Zeven_Bruggen,_Reguliersgracht,_Afb_010137000209.jpg"
+      }
     },
     {
       "id": "proeverij-van-wees",
       "number": 17,
       "title": "Proeverij Van Wees",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/medium_Proeflokaal_2_0fc85bbe3b.jpg"
+        "/images/commons/annefrank1-proeverij-van-wees.jpg"
       ],
-      "body": "<p>At this former distillery, you can enjoy traditional jenever (Dutch gin—older and better!), beer, and their famous fondue or bitterballen. The Nine Streets area offers a cozy atmosphere with its lively mix of tourists and locals.</p>"
+      "body": "<p>At this former distillery, you can enjoy traditional jenever (Dutch gin—older and better!), beer, and their famous fondue or bitterballen. The Nine Streets area offers a cozy atmosphere with its lively mix of tourists and locals.</p>",
+      "photoCredit": {
+        "text": "Adriaan de Lelie · Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:De_kunstgalerij_van_Jan_Gildemeester_Jansz_Rijksmuseum_SK-A-4100.jpeg"
+      }
     },
     {
       "id": "huis-bartolotti",
       "number": 18,
       "title": "Huis Bartolotti",
       "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Amsterdam-Huis-Bartolotti-foto-Arjan-Bronkhorst-5_13.jpg"
+        "/images/commons/annefrank1-huis-bartolotti.jpg"
       ],
-      "body": "<p>The Bartolotti House was built around 1617 for Willem van den Heuvel tot Beichlingen, one of the wealthiest Amsterdammers of that time, who had inherited a fortune from a childless uncle by marriage, Giovanni Battista Bartolotti, a merchant from Bologna. The design is attributed to Hendrick de Keyser, the same architect who crowned the Montelbaanstoren.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">More about the Bartolotti House</a></p>"
+      "body": "<p>The Bartolotti House was built around 1617 for Willem van den Heuvel tot Beichlingen, one of the wealthiest Amsterdammers of that time, who had inherited a fortune from a childless uncle by marriage, Giovanni Battista Bartolotti, a merchant from Bologna. The design is attributed to Hendrick de Keyser, the same architect who crowned the Montelbaanstoren.</p><p><a href=\"https://www.hendrickdekeyser.nl/de-huizen/huis-bartolotti\" target=\"_blank\" rel=\"noopener\">More about the Bartolotti House</a></p>",
+      "photoCredit": {
+        "text": "Marcel mulder · CC BY-SA 3.0 nl",
+        "url": "https://commons.wikimedia.org/wiki/File:Huis_Bartolotti_Herengracht.JPG"
+      }
     }
   ],
-  "endImage": "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/96.jpg",
-  "reviewUrl": "https://www.tripadvisor.nl/UserReviewEdit-g188590-d24129377-Amsterdam_Canal_Cruise_in_Open_Boat_with_Unlimited_Drinks_Option-Amsterdam_North_Holland_Pr.html"
+  "endImage": "/images/commons/annefrank1-end.jpg",
+  "reviewUrl": "https://www.tripadvisor.nl/UserReviewEdit-g188590-d24129377-Amsterdam_Canal_Cruise_in_Open_Boat_with_Unlimited_Drinks_Option-Amsterdam_North_Holland_Pr.html",
+  "cardCredit": {
+    "text": "Dietmar Rabich · CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Anne-Frank-Huis_--_2015_--_7185.jpg"
+  },
+  "endCredit": {
+    "text": "Tezd · CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_canal_boat.jpg"
+  }
 }
