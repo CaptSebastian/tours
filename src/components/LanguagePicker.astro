@@ -18,13 +18,15 @@ const { target, heading } = Astro.props;
 const codes = enabledLocales.map((l) => l.code);
 // Volgorde in de keuzelijst: Nederlands, Engels, daarna ruwweg naar hoeveel bezoekers Amsterdam uit dat taalgebied krijgt
 const firstOrder = ['nl', 'en', 'de', 'fr', 'it', 'es', 'pt', 'zh', 'hi', 'he', 'pl', 'sv', 'tr', 'ja', 'ko', 'el', 'ar', 'uk', 'ru'];
+// De vraag 'Kies je taal' in elke actieve taal; het script zet hem in de taal van de telefoon.
+const titles = Object.fromEntries(enabledLocales.map((l) => [l.code, { text: t(l.code, 'picker.title'), dir: l.dir ?? 'ltr' }]));
 const pickerLocales = [...enabledLocales].sort((a, b) => {
   const ia = firstOrder.indexOf(a.code), ib = firstOrder.indexOf(b.code);
   return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
 });
 ---
 <Base bare title={heading}>
-  <div class="picker" data-target={target} data-codes={codes.join(',')} data-default={defaultLocale}>
+  <div class="picker" data-target={target} data-codes={codes.join(',')} data-default={defaultLocale} data-titles={JSON.stringify(titles)}>
     <p class="picker-logo">{site.name}</p>
     {heading && <p class="picker-dest">{heading}</p>}
     <h1 class="picker-title">Choose your language</h1>
@@ -57,6 +59,12 @@ const pickerLocales = [...enabledLocales].sort((a, b) => {
     const prefs = (navigator.languages ?? [navigator.language]).map((l) => l.toLowerCase().split('-')[0]);
     const best = prefs.find((p) => codes.includes(p));
     if (best) {
+      // Stel de vraag in de taal van de telefoon (anders blijft het Engels staan).
+      try {
+        const titles = JSON.parse(el.dataset.titles ?? '{}');
+        const h1 = el.querySelector<HTMLElement>('.picker-title');
+        if (h1 && titles[best]) { h1.textContent = titles[best].text; h1.lang = best; h1.dir = titles[best].dir; }
+      } catch {}
       const li = el.querySelector(`[data-code="${best}"]`)?.closest('li');
       if (li) { li.parentElement!.prepend(li); li.classList.add('suggested'); }
     }
