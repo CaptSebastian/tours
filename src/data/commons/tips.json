@@ -14,19 +14,6 @@
         "kaart"
       ]
     },
-    "cafe-winkel-43": {
-      "q": [
-        "Noordermarkt Amsterdam Noorderkerk",
-        "Noorderkerk Amsterdam"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "cafe-americain": {
       "q": [
         "American Hotel Amsterdam",
@@ -102,19 +89,6 @@
         "kaart"
       ]
     },
-    "in-t-aepjen": {
-      "q": [
-        "In 't Aepjen Zeedijk",
-        "Zeedijk 1 Amsterdam houten huis"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "cafe-papeneiland": {
       "q": [
         "Papeneiland Amsterdam",
@@ -128,34 +102,9 @@
         "kaart"
       ]
     },
-    "cafe-t-smalle": {
-      "q": [
-        "'t Smalle Amsterdam",
-        "Egelantiersgracht café"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "cafe-de-prins": {
       "q": [
         "Prinsengracht 124"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
-    "pension-homeland": {
-      "q": [
-        "Marineterrein Amsterdam"
       ],
       "exclude": [
         "interior",
@@ -178,18 +127,6 @@
         "kaart"
       ]
     },
-    "de-belhamel": {
-      "q": [
-        "Brouwersgracht Herengracht Amsterdam"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "rijks": {
       "q": [
         "Rijksmuseum Amsterdam"
@@ -202,34 +139,9 @@
         "kaart"
       ]
     },
-    "de-kas": {
-      "q": [
-        "De Kas Frankendael",
-        "Park Frankendael"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "more-at-de-l-europe": {
       "q": [
         "Hotel de l'Europe Amsterdam"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
-    "flore": {
-      "q": [
-        "Hotel de l'Europe Amsterdam Amstel"
       ],
       "exclude": [
         "interior",
@@ -313,46 +225,9 @@
         "kaart"
       ]
     },
-    "swimming-at-the-marineterrein": {
-      "q": [
-        "Marineterrein zwemmen",
-        "Marineterrein Amsterdam"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
-    "de-hollandsche-manege": {
-      "q": [
-        "Hollandsche Manege"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "reguliersdwarsstraat": {
       "q": [
         "Reguliersdwarsstraat"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
-    "paradiso": {
-      "q": [
-        "Paradiso Amsterdam"
       ],
       "exclude": [
         "interior",
@@ -449,31 +324,6 @@
         "kaart"
       ]
     },
-    "het-stenen-hoofd": {
-      "q": [
-        "Stenen Hoofd Amsterdam"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
-    "marineterrein-and-the-voc-ship": {
-      "q": [
-        "Amsterdam (schip, 1991)",
-        "VOC-schip Amsterdam Scheepvaartmuseum"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "brouwersgracht": {
       "q": [
         "Brouwersgracht Amsterdam"
@@ -536,34 +386,9 @@
         "kaart"
       ]
     },
-    "antiekcentrum": {
-      "q": [
-        "Antiekcentrum Amsterdam",
-        "Elandsgracht"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "albert-cuypmarkt": {
       "q": [
         "Albert Cuypmarkt"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
-    "noordermarkt": {
-      "q": [
-        "Noordermarkt Amsterdam"
       ],
       "exclude": [
         "interior",
@@ -601,18 +426,6 @@
     "dappermarkt": {
       "q": [
         "Dappermarkt"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
-    "ten-katemarkt": {
-      "q": [
-        "Ten Katemarkt"
       ],
       "exclude": [
         "interior",
