@@ -260,14 +260,7 @@
       "id": "de-dansende-huisjes",
       "number": 22,
       "title": "De Dansende Huisjes",
-      "images": [
-        "/images/commons/central-station-tour-1-de-dansende-huisjes.webp"
-      ],
-      "body": "<p>The Dancing Houses are a row of crooked old canal houses that lean against each other. The reason is underground: Amsterdam is built on wooden piles, and the firm sand layer that can carry a house lies about 13 meters deep. Piles that don’t reach it, or that rot over the centuries, let a house sink unevenly. So what do you get? A row of dancing houses.</p>",
-      "photoCredit": {
-        "text": "G.Th. Delemarre · CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Overzicht_-_Amsterdam_-_20015674_-_RCE.jpg"
-      }
+      "body": "<p>The Dancing Houses are a row of crooked old canal houses that lean against each other. The reason is underground: Amsterdam is built on wooden piles, and the firm sand layer that can carry a house lies about 13 meters deep. Piles that don’t reach it, or that rot over the centuries, let a house sink unevenly. So what do you get? A row of dancing houses.</p>"
     },
     {
       "id": "spinoza-monument",
@@ -377,7 +370,7 @@
   ],
   "endImage": "/images/commons/central-station-tour-1-end.webp",
   "reviewUrl": "https://www.tripadvisor.nl/UserReviewEdit-g188590-d24129377-Amsterdam_Canal_Cruise_in_Open_Boat_with_Unlimited_Drinks_Option-Amsterdam_North_Holland_Pr.html",
-  "commonsConfig": "49a59306f430",
+  "commonsConfig": "f01ec3cd077a",
   "cardCredit": {
     "text": "Dietmar Rabich · CC BY-SA 4.0",
     "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Centraal_Station_--_2015_--_7269.jpg"

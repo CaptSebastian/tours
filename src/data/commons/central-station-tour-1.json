@@ -96,20 +96,6 @@
     "city-hall-national-ballet-theatre": {
       "file": "Stopera 2063.jpg"
     },
-    "de-dansende-huisjes": {
-      "q": [
-        "dansende huizen Amstel",
-        "scheve huizen Amstel Amsterdam",
-        "Amstel crooked houses Amsterdam",
-        "Amstel houses Amsterdam"
-      ],
-      "exclude": [
-        "Demping",
-        "Papenbrug",
-        "Warmoesstraat",
-        "SK-A"
-      ]
-    },
     "spinoza-monument": {
       "q": [
         "Spinoza standbeeld Zwanenburgwal",
