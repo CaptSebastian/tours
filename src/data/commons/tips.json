@@ -362,18 +362,6 @@
         "kaart"
       ]
     },
-    "tony-s-chocolonely-super-store": {
-      "q": [
-        "Oudebrugsteeg Amsterdam"
-      ],
-      "exclude": [
-        "interior",
-        "interieur",
-        "plattegrond",
-        "map",
-        "kaart"
-      ]
-    },
     "albert-cuypmarkt": {
       "q": [
         "Albert Cuypmarkt"
