@@ -14,6 +14,7 @@
 
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync, rmSync } from 'node:fs';
 import { join } from 'node:path';
+import { createHash } from 'node:crypto';
 
 const root = new URL('..', import.meta.url).pathname;
 const API = 'https://commons.wikimedia.org/w/api.php';
@@ -85,7 +86,7 @@ async function choose(spec) {
     return { chosen: acceptable(c, { allowPortrait: true }) ? c : null, alternatives: [], note: c ? `licentie: ${c.license}` : 'bestand niet gevonden' };
   }
   for (const q of spec.q ?? []) {
-    const ok = (await search(q)).filter((c) => acceptable(c, { exclude: spec.exclude ?? [] }));
+    const ok = (await search(q)).filter((c) => acceptable(c, { exclude: spec.exclude ?? [], allowPortrait: Boolean(spec.portrait) }));
     if (ok.length) return { chosen: ok[spec.pick ?? 0] ?? ok[0], alternatives: ok.slice(0, 5), query: q };
     await sleep(300);
   }
@@ -106,8 +107,12 @@ const credit = (c) => ({ text: `${c.artist} · ${c.license}`, url: c.page });
 async function runTour(slug) {
   const cfgPath = join(root, 'src/data/commons', `${slug}.json`);
   const tourPath = join(root, 'src/data/tours/en', `${slug}.json`);
-  const cfg = JSON.parse(readFileSync(cfgPath, 'utf8'));
+  const cfgText = readFileSync(cfgPath, 'utf8');
+  const cfg = JSON.parse(cfgText);
   const tour = JSON.parse(readFileSync(tourPath, 'utf8'));
+  const hash = createHash('sha1').update(cfgText).digest('hex').slice(0, 12);
+  if (tour.commonsConfig === hash && !process.env.FORCE) { console.log('  ongewijzigd, overgeslagen'); return; }
+  tour.commonsConfig = hash;
   const imgDir = join(root, 'public/images/commons');
   const reviewDir = join(root, 'review/commons', slug);
   mkdirSync(imgDir, { recursive: true });

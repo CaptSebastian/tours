@@ -1,0 +1,187 @@
+{
+  "_uitleg": "Zoekopdrachten voor rechtenvrije foto's op Wikimedia Commons, per stop-id. 'q' = zoektermen (eerste die iets oplevert wint), 'pick' = welke goedgekeurde treffer (0 = eerste), of 'file' = een exacte bestandsnaam. Draai daarna de GitHub Action 'Commons images'. 'exclude' = woorden in bestandsnamen die je niet wilt (oude zwart-wit archieffoto's worden altijd al overgeslagen).",
+  "card": "amsterdam-central-station",
+  "stops": {
+    "amsterdam-central-station": {
+      "q": [
+        "Amsterdam Centraal Station facade",
+        "Amsterdam Centraal station"
+      ],
+      "exclude": [
+        "interior",
+        "interieur",
+        "perron",
+        "platform"
+      ]
+    },
+    "de-schreierstoren": {
+      "q": [
+        "Schreierstoren Amsterdam",
+        "Schreierstoren"
+      ]
+    },
+    "het-scheepvaarthuis": {
+      "q": [
+        "Scheepvaarthuis Amsterdam",
+        "Scheepvaarthuis Prins Hendrikkade"
+      ]
+    },
+    "sea-palace": {
+      "q": [
+        "Sea Palace Amsterdam",
+        "Sea Palace restaurant Oosterdok"
+      ]
+    },
+    "nemo-science-museum": {
+      "q": [
+        "NEMO Science Museum Amsterdam",
+        "NEMO Amsterdam Oosterdok"
+      ]
+    },
+    "adam-lookout": {
+      "q": [
+        "A'DAM Toren Amsterdam",
+        "ADAM Toren Overhoeks",
+        "A'DAM Lookout"
+      ]
+    },
+    "het-scheepvaartmuseum": {
+      "q": [
+        "Scheepvaartmuseum Amsterdam",
+        "Het Scheepvaartmuseum"
+      ],
+      "exclude": [
+        "interieur",
+        "interior"
+      ]
+    },
+    "hoog-en-droog": {
+      "file": "Brouwersgracht pakhuizen.jpg"
+    },
+    "portuguese-jewish-synagogue": {
+      "q": [
+        "Portugese Synagoge Amsterdam",
+        "Portuguese Synagogue Amsterdam"
+      ],
+      "exclude": [
+        "interieur",
+        "interior"
+      ]
+    },
+    "de-amstel": {
+      "file": "Amstel river, Halvemaanbrug, Amsterdam.jpg"
+    },
+    "hart-museum": {
+      "file": "Amsterdam Amstelhof seen from Blauwbrug.jpg"
+    },
+    "de-magere-brug": {
+      "file": "Magere Brug.jpg"
+    },
+    "de-blauwbrug": {
+      "q": [
+        "Blauwbrug Amsterdam",
+        "Blauwbrug"
+      ]
+    },
+    "city-hall-national-ballet-theatre": {
+      "file": "Stopera 2063.jpg"
+    },
+    "spinoza-monument": {
+      "q": [
+        "Spinoza standbeeld Zwanenburgwal",
+        "Spinoza statue Amsterdam",
+        "Spinoza Nicolas Dings"
+      ],
+      "portrait": true
+    },
+    "waterlooplein": {
+      "q": [
+        "Waterlooplein markt",
+        "Waterlooplein Amsterdam"
+      ]
+    },
+    "zuiderkerk": {
+      "q": [
+        "Zuiderkerk Amsterdam",
+        "Zuiderkerk"
+      ]
+    },
+    "de-dansende-huisjes": {
+      "q": [
+        "dansende huizen Amsterdam",
+        "scheve huizen Amsterdam",
+        "crooked houses Amsterdam"
+      ]
+    },
+    "million-dollar-view": {
+      "q": [
+        "Groenburgwal Zuiderkerk",
+        "Groenburgwal Amsterdam"
+      ]
+    },
+    "hotel-de-leurope-amsterdam": {
+      "q": [
+        "Hotel de l'Europe Amsterdam",
+        "De L'Europe Amsterdam Amstel"
+      ]
+    },
+    "grimburgwal": {
+      "q": [
+        "Grimburgwal Amsterdam",
+        "Huis aan de Drie Grachten"
+      ]
+    },
+    "stadsbank-van-lening": {
+      "q": [
+        "Stadsbank van Lening Amsterdam",
+        "Bank van Lening Oudezijds Voorburgwal"
+      ]
+    },
+    "coffeeshop-the-bulldog-the-first": {
+      "q": [
+        "Bulldog coffeeshop Amsterdam",
+        "The Bulldog Oudezijds Voorburgwal"
+      ]
+    },
+    "de-oude-kerk": {
+      "q": [
+        "Oude Kerk Amsterdam",
+        "Oude Kerk Oudekerksplein"
+      ],
+      "exclude": [
+        "interieur",
+        "interior",
+        "orgel"
+      ]
+    },
+    "gevelstenen": {
+      "file": "Gevelsteen Herengracht, afbeelding van een papiermolen.jpg"
+    },
+    "zeedijk-bridge-lock": {
+      "q": [
+        "Sint Olofssluis Zeedijk",
+        "Zeedijk Amsterdam brug",
+        "Zeedijk Amsterdam"
+      ]
+    },
+    "saint-nicholas-church": {
+      "q": [
+        "Sint-Nicolaasbasiliek Amsterdam",
+        "Saint Nicholas Church Amsterdam"
+      ],
+      "exclude": [
+        "interieur",
+        "interior"
+      ]
+    },
+    "victoria-hotel-amsterdam": {
+      "q": [
+        "Victoria Hotel Damrak Amsterdam",
+        "Victoria Hotel Amsterdam"
+      ]
+    }
+  },
+  "end": {
+    "file": "Amsterdam canal boat.jpg"
+  }
+}

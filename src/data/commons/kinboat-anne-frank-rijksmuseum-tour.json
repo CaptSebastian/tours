@@ -1,0 +1,83 @@
+{
+  "_uitleg": "Zoekopdrachten voor rechtenvrije foto's op Wikimedia Commons, per stop-id. 'q' = zoektermen (eerste die iets oplevert wint), 'pick' = welke goedgekeurde treffer (0 = eerste), of 'file' = een exacte bestandsnaam. Draai daarna de GitHub Action 'Commons images'. 'exclude' = woorden in bestandsnamen die je niet wilt (oude zwart-wit archieffoto's worden altijd al overgeslagen).",
+  "card": "rijksmuseum",
+  "stops": {
+    "anne-frank-house": {
+      "file": "Amsterdam (NL), Anne-Frank-Huis -- 2015 -- 7185.jpg"
+    },
+    "de-wester": {
+      "file": "Amsterdam Prinsengracht & Westerkerk 4.jpg"
+    },
+    "the-canal-ring": {
+      "file": "KeizersgrachtReguliersgrachtAmsterdam.jpg"
+    },
+    "high-and-dry": {
+      "file": "Brouwersgracht pakhuizen.jpg"
+    },
+    "the-houseboat-museum": {
+      "file": "Amsterdam Woonbootmuseum 2.jpg"
+    },
+    "spiegelkwartier": {
+      "file": "Amsterdam, Nieuwe Spiegelstraat, corner Kerkstraat, Netherlands - panoramio (94).jpg"
+    },
+    "rijksmuseum": {
+      "q": [
+        "Rijksmuseum Amsterdam",
+        "Rijksmuseum"
+      ],
+      "exclude": [
+        "interieur",
+        "interior",
+        "Gallery"
+      ]
+    },
+    "night-watch": {
+      "file": "La ronda de noche, por Rembrandt van Rijn.jpg"
+    },
+    "van-gogh-museum": {
+      "q": [
+        "Van Gogh Museum Amsterdam",
+        "Van Gogh Museum"
+      ]
+    },
+    "paradiso": {
+      "q": [
+        "Paradiso Amsterdam Weteringschans",
+        "Paradiso Amsterdam"
+      ]
+    },
+    "casino": {
+      "q": [
+        "Holland Casino Amsterdam",
+        "Max Euweplein Amsterdam"
+      ]
+    },
+    "the-vondelpark": {
+      "q": [
+        "Vondelpark Amsterdam",
+        "Vondelpark"
+      ]
+    },
+    "singelgracht": {
+      "q": [
+        "Singelgracht Amsterdam",
+        "Singelgracht"
+      ]
+    },
+    "facade-stones": {
+      "file": "Gevelsteen Herengracht, afbeelding van een papiermolen.jpg"
+    },
+    "de-herengracht": {
+      "file": "Amsterdam (NL), Herengracht -- 2015 -- 7174.jpg"
+    },
+    "proeverij-van-wees": {
+      "file": "Amsterdam, Herengracht 272-280 RM1790tm3 IMG 3393 2024-06-24 12.40.jpg"
+    },
+    "huis-bartolotti": {
+      "file": "Huis Bartolotti Herengracht.JPG"
+    }
+  },
+  "end": {
+    "file": "Amsterdam canal boat.jpg"
+  }
+}
