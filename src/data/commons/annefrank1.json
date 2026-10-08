@@ -86,8 +86,23 @@
     },
     "hart-museum": {
       "q": [
-        "Amstelhof Amsterdam",
-        "Hermitage Amsterdam Amstel"
+        "Amstelhof fronton",
+        "Amstelhof timpaan",
+        "Amstelhof ingang",
+        "Amstelhof Amsterdam gevel",
+        "Hermitage Amsterdam entrance",
+        "Amstelhof Amsterdam"
+      ],
+      "exclude": [
+        "Magere",
+        "magere",
+        "brug",
+        "Brug",
+        "bridge",
+        "Bridge",
+        "Blauwbrug",
+        "nacht",
+        "night"
       ]
     },
     "city-hall-national-ballet-theatre": {

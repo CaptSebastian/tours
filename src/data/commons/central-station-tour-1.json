@@ -61,7 +61,25 @@
       ]
     },
     "hart-museum": {
-      "file": "Amsterdam Amstelhof seen from Blauwbrug.jpg"
+      "q": [
+        "Amstelhof fronton",
+        "Amstelhof timpaan",
+        "Amstelhof ingang",
+        "Amstelhof Amsterdam gevel",
+        "Hermitage Amsterdam entrance",
+        "Amstelhof Amsterdam"
+      ],
+      "exclude": [
+        "Magere",
+        "magere",
+        "brug",
+        "Brug",
+        "bridge",
+        "Bridge",
+        "Blauwbrug",
+        "nacht",
+        "night"
+      ]
     },
     "de-amstel": {
       "file": "Amstel river, Halvemaanbrug, Amsterdam.jpg"
