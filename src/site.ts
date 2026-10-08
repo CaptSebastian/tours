@@ -2,8 +2,6 @@
 
 export const site = {
   name: 'Captain Sebastian',
-  logo: 'https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-22-om-22.34.23.png',
-  favicon: 'https://captain.vanderpaardt.com/wp-content/uploads/2025/02/cropped-Schermafbeelding-2025-02-12-om-15.59.56-270x270.png',
   email: 'hello@captainsebastian.nl',
   // Fooi via SumUp — staat onderaan elke tour.
   tipUrl: 'https://pay.sumup.com/b2c/QPJ3X2ZI',

@@ -23,7 +23,7 @@ const tours = getTours(lang);
   <section class="wrap tour-grid" aria-label={t(lang, 'nav.tours')}>
     {tours.map((tour) => (
       <a class="tour-card" href={`/${lang}/${tour.slug}/`}>
-        <img src={tour.card.image} alt="" loading="lazy" decoding="async" />
+        {tour.card.image && <img src={tour.card.image} alt="" loading="lazy" decoding="async" />}
         <div class="tour-card-body">
           <h2>{tour.card.title}</h2>
           <p>{tour.card.text}</p>

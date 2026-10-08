@@ -6,190 +6,148 @@
   "credit": "Artwork descriptions © Amsterdam Light Festival",
   "card": {
     "title": "Amsterdam Light Festival Cruise",
-    "text": "Enjoy the Amsterdam Light Festival tour even if you don’t speak English! Select your preferred language from the menu.",
-    "image": "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/amsterdam-light-festival-mooiste-fotos.webp"
+    "text": "Enjoy the Amsterdam Light Festival tour even if you don’t speak English! Select your preferred language from the menu."
   },
   "stops": [
     {
       "id": "the-sun",
       "number": 1,
       "title": "The Sun",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.47.37.png"
-      ],
+      "images": [],
       "body": "<p>The Sun by studio Zenisk is a light artwork, consisting of more than eight hundred light bulbs that form an electric sun. The work simulates solar activity and invites reflection on our relationship with light, the sun as a symbol of life and connection, and the challenges for a sustainable future.</p>"
     },
     {
       "id": "fracture-point",
       "number": 2,
       "title": "Fracture Point",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.44.44.png"
-      ],
+      "images": [],
       "body": "<p>Fracture Point by Filip Roca projects enormous grid structures onto the copper NEMO facade (designed by Renzo Piano) that break and shift—a visual metaphor for letting go of old ideas and being open to change. The artist poses the question: are we really evolving, or are we repeating old patterns with new means?</p>"
     },
     {
       "id": "whale-fall",
       "number": 3,
       "title": "Whale Fall",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.46.46.png"
-      ],
+      "images": [],
       "body": "<p>WHALE FALL is a 14-meter-long floating whale skeleton made of steel, illuminated with blood-red light. The work tells the story of ‘whale fall’: when a whale dies and sinks to the ocean floor, its body nourishes a deep-sea ecosystem for decades. The sculpture symbolizes that the end of one life is the beginning of another, and reminds us of our legacy after death. The red light refers both to the power of life and to the impact of whaling.</p>"
     },
     {
       "id": "making-waves",
       "number": 4,
       "title": "Making Waves",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.45.22.png"
-      ],
+      "images": [],
       "body": "<p>Making Waves shows the reflections of Amsterdam’s city lights on the water. The 39 screens display how street lamps, traffic lights, and facades are reflected in the canals, with passing boats constantly creating new light patterns. The work of Jos Agasi and Noortje van den Eijnde invites you to discover the everyday beauty of the interplay between light, water, and humanity.</p>"
     },
     {
       "id": "under-pressure",
       "number": 5,
       "title": "Under Pressure",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.46.33.png"
-      ],
+      "images": [],
       "body": "<p>UNDER PRESSURE by Pavol Truben shows eight figures in yoga poses with inflated heads, bound tightly with straps. The work symbolizes the mental pressure of modern life, where apps track every movement and we are constantly compared. Inspired by his own burnout, the Slovak artist asks: is yoga enough to find balance? Come closer and listen to their breathing – a reminder that relaxation is possible by simply exhaling.</p>"
     },
     {
       "id": "orb",
       "number": 6,
       "title": "ORB",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.46.18.png"
-      ],
+      "images": [],
       "body": "<p>ORB is a sculpture of convex traffic mirrors that connects ancient Egyptian mathematical principles (π) with modern urban materials. The spherical mirrors provide a new perspective on the surroundings each time and symbolize creation and rebirth. The work shows how knowledge from the past still influences our modern world.</p>"
     },
     {
       "id": "o-t-1407",
       "number": 7,
       "title": "O.T. 1407",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.47.49.png"
-      ],
+      "images": [],
       "body": "<p>O.T. 1407 is an 8-meter-wide, harp-shaped light installation by Stefan Reiss that translates language into color and form. With 26 illuminated ropes and a unique color system based on the Latin alphabet – where vowels are shades of gray and consonants are various colors – the work creates a visual symphony. Hidden Morse code refers to the maritime communication used in the Netherlands until 1998. The result: a three-dimensional composition that explores the boundary between digital and physical.</p>"
     },
     {
       "id": "i-contain-multitudes",
       "number": 8,
       "title": "I Contain Multitudes",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.45.02.png"
-      ],
+      "images": [],
       "body": "<p>I CONTAIN MULTITUDES is a 20-meter-wide light sculpture by the Amstel that brings the ancient Italian luminary tradition to Amsterdam. Artist Marinella Senatore created this work as a meeting place that – inspired by a poem by Walt Whitman – calls for connection in a polarized world. The sculpture, expertly made by the Italian family business Mariano Light (active since 1898), combines traditional craftsmanship with modern LED technology, thus forming a living archive of artisanal knowledge and a contemporary artwork that builds bridges between cultures, times, and communities.</p>"
     },
     {
       "id": "ten-thousand-thoughts",
       "number": 9,
       "title": "Ten Thousand Thoughts",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.46.56.png"
-      ],
+      "images": [],
       "body": "<p>Ten Thousand Thoughts is a sculptural installation by Esther Rolinson consisting of thousands of hand-bent aluminum tubes, each representing a thought. The work embodies the process of letting go – of habits, memories, and mental patterns that limit us. Through moving light and reflections, a dynamic network is created that resembles brain activity, where thoughts appear, merge, and dissolve. The installation invites meditation on legacy and mental health, emphasizing the importance of releasing old patterns to make room for new possibilities.</p>"
     },
     {
       "id": "kwantumfantum-multiversum",
       "number": 10,
       "title": "Kwantumfantum Multiversum",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.48.38.png"
-      ],
+      "images": [],
       "body": "<p>Kwantumfantum Multiversum is a light artwork that showcases the imagination of 1600 children from Amsterdam, who during workshops drew their vision of the future using iPads and digital tools. Inspired by the arrival of Amsterdam’s first quantum computer in 2026, the children created futuristic worlds with reimagined nature, innovative homes, and new forms of coexistence. Their drawings are projected onto large LED screens, with each screen serving as a window to a possible parallel universe. The artwork, created by the collective Beeldjutters in collaboration with Amsterdam Light Festival and QuantumDelta NL, invites visitors to reflect on how quantum technology can transform our world and illustrates the limitless possibilities when we dare to dream about the future.</p>"
     },
     {
       "id": "abri-maximaal",
       "number": 11,
       "title": "Abri Maximaal",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.44.28.png"
-      ],
+      "images": [],
       "body": "<p>Abri Maximaal by Jop Vissers Vorstenbosch transforms the everyday advertising column into a poetic artwork in the heart of Amsterdam. Where normally advertisements scream for attention, this work offers painted light structures reminiscent of clouds, molds, and sound waves. The work stands at the intersection of analog and digital, functional and poetic, and poses a fundamental question: what if we no longer use the structures of our public space to sell, but to imagine? In line with the festival theme Legacy, it explores how we can leave and transform our visual culture – from consumption to contemplation.</p>"
     },
     {
       "id": "windows",
       "number": 12,
       "title": "Windows",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.46.08.png"
-      ],
+      "images": [],
       "body": "<p>Windows by Lynne Leegte makes the hidden history of the Singelkerk visible by bringing two illuminated church windows from the inside to the street side. The Singelkerk was a 17th-century hiding church where Mennonites could secretly practice their faith. By literally bringing the hidden out into the open, the artwork invites reflection on freedom, inclusion, and the right to be seen – themes that are relevant both then and now. The work honors Amsterdam’s past of religious tolerance and illuminates the path to an inclusive future.</p>"
     },
     {
       "id": "metamorfaunes",
       "number": 13,
       "title": "Metamorfaunes",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.45.33.png"
-      ],
+      "images": [],
       "body": "<p>Metamorfaunen is a nocturnal light artwork on the Herengracht, created by the French duo Luminarisite. The fresco depicts hybrid beings – half flora, half fauna – that reinterpret Dutch folklore: a peacock with tulip feathers, a frog in a wooden shoe. The ten hand-drawn panels, laser-etched on glass filters, play with the tension between heritage and cliché. In a city with 122 souvenir shops, the work poses the question: how do we preserve authenticity while culture is constantly changing?</p>"
     },
     {
       "id": "swans",
       "number": 14,
       "title": "Swans",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.45.55.png"
-      ],
+      "images": [],
       "body": "<p>“Swans” by Jon Voss is an impressive sculpture of two swans about to take flight, made of stainless steel and plexiglass with 400 acrylic feathers per wing and built-in lighting. The work symbolizes the lifelong bond and dedication of swans, which are known for their monogamous relationships and joint care for their young. The British artist, now living in southern France, combines architectural precision with biomimicry to emulate the natural grace of these birds in industrial materials, bridging the gap between technology and nature and inviting us to reflect on love, collaboration, and continuity in our own lives.</p>"
     },
     {
       "id": "rhapsoidia",
       "number": 15,
       "title": "Rhapsōidia",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.47.26.png"
-      ],
+      "images": [],
       "body": "<p>RHAPSŌIDIA is an interactive light artwork on the facade of a former telephone exchange from 1955 in Amsterdam. The work consists of 68 LED lines (a total of 1020 meters) woven like a carpet for the building. Visitors can submit their personal wishes for the future, after which an algorithm converts these messages into a continuously changing light display. The artwork symbolizes the transition of the building: where conversations once traveled through copper cables, now collective dreams shine through light—a poetic reference to the switch to fiber optics in the city.</p>"
     },
     {
       "id": "coralluminance",
       "number": 16,
       "title": "CoralLuminance",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.45.44.png"
-      ],
+      "images": [],
       "body": "<p>CoralLuminance is an installation of coral polyps along the Amsterdam canals, created by diver and artist Henry Hu. Inspired by his confrontation with coral bleaching at Tioman Island, the work visualizes the bleaching process from vibrant colors to white – caused by ocean warming and acidification. The returning colors symbolize hope: coral reefs can recover if we take action in time. The work calls for responsibility and shows that restoration is still possible.</p>"
     },
     {
       "id": "solid-void",
       "number": 17,
       "title": "Solid Void",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.48.05.png"
-      ],
+      "images": [],
       "body": "<p>Solid Void depicts neutrinos – invisible particles that move through everything. The artwork consists of a cube made of aluminum slats with aquamarine light lines that move randomly, like neutrinos through matter. Vendel & De Wolf demonstrate how art can make the incomprehensible visible, and that wonder is the first step towards understanding our universe.</p>"
     },
     {
       "id": "antenna-sud",
       "number": 18,
       "title": "Antenna Sud",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.47.06.png"
-      ],
+      "images": [],
       "body": "<p>ANTENNA SUD shows illuminated TV antennas rising from the waters of the Amsterdam canals. Once a symbol of progress on the rooftops, these antennas have now disappeared from the skyline. In this edition, they float above the water – a poetic yet prophetic reference to rising sea levels. The artwork transforms from a nostalgic monument to a subtle warning: what once adorned the rooftops may, due to climate change, disappear underwater along with historic houses.</p>"
     },
     {
       "id": "keep-me-warm",
       "number": 19,
       "title": "Keep Me Warm",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.48.14.png"
-      ],
+      "images": [],
       "body": "<p>A glowing radiator on an Amsterdam houseboat, a familiar object in an unexpected place. The work invites reflection on our shared dependence on warmth and energy, both physically and emotionally. As the warm light attracts like a campfire, it reminds us that warmth, shelter, and safety are unevenly distributed across the world. In times of rising costs and global conflicts, even our most basic needs have become vulnerable. The artwork symbolizes the small, everyday gestures that connect us and provide us with a sense of security.</p>"
     },
     {
       "id": "all-the-light-you-see",
       "number": 20,
       "title": "All The Light You See",
-      "images": [
-        "https://captain.vanderpaardt.com/wp-content/uploads/2025/03/Schermafbeelding-2025-03-25-om-17.15.20.png"
-      ],
+      "images": [],
       "body": "<p>“All The Light You See” by Alicia Eggert beautifully visualizes that light takes time to travel. Styled like a nostalgic American billboard, the work reveals the message “All you see is past”: a poetic reminder of transience and that everything we experience now will soon become history.</p>"
     }
-  ],
-  "endImage": "https://captain.vanderpaardt.com/wp-content/uploads/2025/12/Schermafbeelding-2025-12-03-om-00.45.10.png"
+  ]
 }

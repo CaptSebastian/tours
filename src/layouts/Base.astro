@@ -29,7 +29,9 @@ const fullTitle = title ? `${title} | ${site.name}` : `${site.name} | ${t(lang, 
     <!-- Net als op de huidige site: niet indexeren door zoekmachines. Verwijder deze regel als dat wel mag. -->
     <meta name="robots" content="noindex, nofollow" />
     <meta name="theme-color" content="#0f2a3d" />
-    <link rel="icon" href={site.favicon} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
