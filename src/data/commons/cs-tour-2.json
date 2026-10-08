@@ -97,18 +97,16 @@
     },
     "de-dansende-huisjes": {
       "q": [
-        "Damrak Amsterdam",
-        "Damrak water huizen",
-        "scheve grachtenpanden Amsterdam"
+        "dansende huizen Amstel",
+        "scheve huizen Amstel Amsterdam",
+        "Amstel crooked houses Amsterdam",
+        "Amstel houses Amsterdam"
       ],
       "exclude": [
         "Demping",
         "Papenbrug",
         "Warmoesstraat",
-        "Bestand",
-        "SK-A",
-        "1890",
-        "19"
+        "SK-A"
       ]
     },
     "million-dollar-view": {
