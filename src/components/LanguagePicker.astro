@@ -16,6 +16,12 @@ interface Props {
 }
 const { target, heading } = Astro.props;
 const codes = enabledLocales.map((l) => l.code);
+// Volgorde in de keuzelijst: Nederlands, dan Engels, dan de rest
+const firstOrder = ['nl', 'en'];
+const pickerLocales = [...enabledLocales].sort((a, b) => {
+  const ia = firstOrder.indexOf(a.code), ib = firstOrder.indexOf(b.code);
+  return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+});
 ---
 <Base bare title={heading}>
   <div class="picker" data-target={target} data-codes={codes.join(',')} data-default={defaultLocale}>
@@ -23,7 +29,7 @@ const codes = enabledLocales.map((l) => l.code);
     {heading && <p class="picker-dest">{heading}</p>}
     <h1 class="picker-title">Choose your language</h1>
     <ul class="picker-list">
-      {enabledLocales.map((l) => (
+      {pickerLocales.map((l) => (
         <li>
           <a href={`/${l.code}/${target}`} lang={l.code} dir={l.dir ?? 'ltr'} data-code={l.code}>
             <span class="picker-name">{l.name}</span>
