@@ -16,19 +16,12 @@ interface Props {
 }
 const { target, heading } = Astro.props;
 const codes = enabledLocales.map((l) => l.code);
-// "Kies je taal" in alle actieve talen, zodat iedereen het herkent
-const otherTitles = enabledLocales.filter((l) => l.code !== 'en').map((l) => ({ code: l.code, dir: l.dir ?? 'ltr', text: t(l.code, 'picker.title') }));
 ---
 <Base bare title={heading}>
   <div class="picker" data-target={target} data-codes={codes.join(',')} data-default={defaultLocale}>
     <p class="picker-logo">{site.name}</p>
     {heading && <p class="picker-dest">{heading}</p>}
     <h1 class="picker-title">Choose your language</h1>
-    {otherTitles.length > 0 && (
-      <p class="picker-sub">
-        {otherTitles.map((o, i) => (<>{i > 0 && ' · '}<span lang={o.code} dir={o.dir}>{o.text}</span></>))}
-      </p>
-    )}
     <ul class="picker-list">
       {enabledLocales.map((l) => (
         <li>
@@ -76,8 +69,7 @@ const otherTitles = enabledLocales.filter((l) => l.code !== 'en').map((l) => ({ 
   }
   .picker-logo { margin: 0 0 1rem; font: 600 .82rem/1 var(--font-body); letter-spacing: .16em; text-transform: uppercase; color: #d8e3ea; }
   .picker-dest { margin: 0; color: var(--brass); font-weight: 600; letter-spacing: .08em; text-transform: uppercase; font-size: .8rem; }
-  .picker-title { margin: 0; font-size: clamp(1.6rem, 6vw, 2.4rem); }
-  .picker-sub { margin: 0 0 .5rem; color: #a9bccb; max-width: 40ch; }
+  .picker-title { margin: 0 0 .75rem; font-size: clamp(1.6rem, 6vw, 2.4rem); }
   .picker-list {
     list-style: none; margin: 0; padding: 0; width: min(100%, 520px);
     display: grid; grid-template-columns: repeat(3, 1fr); gap: .5rem;
