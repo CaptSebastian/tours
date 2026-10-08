@@ -5,7 +5,8 @@
 // Per tour leest het src/data/commons/<tour>.json (zoektermen per stop) en:
 //  - zoekt per stop op Commons, alleen foto's met een vrije licentie (CC0, publiek domein, CC BY, CC BY-SA),
 //    liggend formaat en minstens 1000 px breed;
-//  - downloadt de gekozen foto (max. 1400 px breed) naar public/images/commons/;
+//  - downloadt de gekozen foto (1280 px breed, als WebP als 'sharp' er is) naar public/images/commons/;
+//  - slaat oude archief-persfoto's (Nationaal Archief 'Bestanddeelnr', Stadsarchief 'Afb') over, tenzij 'file' is opgegeven;
 //  - zet de foto + bronvermelding in src/data/tours/en/<tour>.json;
 //  - zet kleine voorbeelden van de eerste alternatieven in review/commons/<tour>/ om te kunnen kiezen;
 //  - schrijft een overzicht naar review/commons/<tour>.md.
@@ -18,6 +19,9 @@ const root = new URL('..', import.meta.url).pathname;
 const API = 'https://commons.wikimedia.org/w/api.php';
 const UA = 'CaptainSebastianSite/1.0 (https://captainsebastian.nl; hello@captainsebastian.nl)';
 const FREE = /^(cc0|public domain|pd\b|pd-|cc by(-sa)? \d)/i;
+let sharp = null;
+try { sharp = (await import('sharp')).default; } catch {}
+const EXT = sharp ? 'webp' : 'jpg';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 const strip = (html = '') =>
@@ -36,7 +40,7 @@ async function api(params) {
 const IMAGEINFO = {
   prop: 'imageinfo',
   iiprop: 'url|size|mime|extmetadata',
-  iiurlwidth: '1400',
+  iiurlwidth: '1280',
   iiextmetadatafilter: 'LicenseShortName|Artist|Credit|NonFree|ObjectName',
 };
 
@@ -57,7 +61,10 @@ function toCandidate(page) {
   };
 }
 
-function acceptable(c, { allowPortrait = false } = {}) {
+const EXCLUDE = /Bestanddeelnr|Afb 0\d{5}/i;
+
+function acceptable(c, { allowPortrait = false, exclude = [] } = {}) {
+  if (c && (EXCLUDE.test(c.file) || exclude.some((x) => c.file.toLowerCase().includes(x.toLowerCase())))) return false;
   return c && /image\/(jpeg|png|webp)/.test(c.mime) && !c.nonFree && FREE.test(c.license) && !/\b(nc|nd)\b/i.test(c.license)
     && c.width >= 1000 && (allowPortrait || c.width >= c.height * 1.1);
 }
@@ -78,17 +85,20 @@ async function choose(spec) {
     return { chosen: acceptable(c, { allowPortrait: true }) ? c : null, alternatives: [], note: c ? `licentie: ${c.license}` : 'bestand niet gevonden' };
   }
   for (const q of spec.q ?? []) {
-    const ok = (await search(q)).filter((c) => acceptable(c));
+    const ok = (await search(q)).filter((c) => acceptable(c, { exclude: spec.exclude ?? [] }));
     if (ok.length) return { chosen: ok[spec.pick ?? 0] ?? ok[0], alternatives: ok.slice(0, 5), query: q };
     await sleep(300);
   }
   return { chosen: null, alternatives: [] };
 }
 
-async function download(url, dest) {
+async function download(url, dest, { width = 1280, quality = 72 } = {}) {
   const res = await fetch(url, { headers: { 'User-Agent': UA } });
   if (!res.ok) throw new Error(`download ${res.status}: ${url}`);
-  writeFileSync(dest, Buffer.from(await res.arrayBuffer()));
+  const buf = Buffer.from(await res.arrayBuffer());
+  if (sharp && dest.endsWith('.webp')) {
+    await sharp(buf).rotate().resize({ width, withoutEnlargement: true }).webp({ quality }).toFile(dest);
+  } else writeFileSync(dest, buf);
 }
 
 const credit = (c) => ({ text: `${c.artist} · ${c.license}`, url: c.page });
@@ -116,7 +126,7 @@ async function runTour(slug) {
       report.push(`| ${stop.number} | ${stop.title} | — niets gevonden | | |`);
       continue;
     }
-    const name = `${slug}-${stop.id}.jpg`;
+    const name = `${slug}-${stop.id}.${EXT}`;
     await download(chosen.url, join(imgDir, name));
     stop.images = [`/images/commons/${name}`];
     stop.photoCredit = credit(chosen);
@@ -126,8 +136,8 @@ async function runTour(slug) {
 
     // Kleine voorbeelden van alternatieven, om eventueel een andere te kiezen ('pick')
     for (const [i, alt] of alternatives.entries()) {
-      const thumb = alt.url.replace(/\/(\d+)px-/, '/320px-');
-      try { await download(thumb, join(reviewDir, `${String(stop.number).padStart(2, '0')}-${stop.id}-${i}.jpg`)); } catch {}
+      const thumb = alt.url.replace(/\/(\d+)px-/, '/330px-');
+      try { await download(thumb, join(reviewDir, `${String(stop.number).padStart(2, '0')}-${stop.id}-${i}.${EXT}`), { width: 330, quality: 60 }); } catch (e) { console.warn(`  (voorbeeld ${i} mislukt: ${e.message})`); }
     }
     if (alternatives.length) report.push(`|  |  | alternatieven (${query}): ${alternatives.map((a, i) => `${i}: ${a.file.replace(/^File:/, '')}`).join(' · ')} | | |`);
     await sleep(300);
@@ -141,7 +151,7 @@ async function runTour(slug) {
   if (cfg.end) {
     const { chosen } = await choose(cfg.end);
     if (chosen) {
-      const name = `${slug}-end.jpg`;
+      const name = `${slug}-end.${EXT}`;
       await download(chosen.url, join(imgDir, name));
       tour.endImage = `/images/commons/${name}`;
       tour.endCredit = credit(chosen);
@@ -150,6 +160,10 @@ async function runTour(slug) {
   }
 
   writeFileSync(tourPath, JSON.stringify(tour, null, 2) + '\n');
+
+  // Oude foto's van deze tour die niet meer gebruikt worden, opruimen
+  const used = JSON.stringify(tour);
+  for (const f of readdirSync(imgDir)) if (f.startsWith(`${slug}-`) && !used.includes(`/images/commons/${f}`)) rmSync(join(imgDir, f));
   writeFileSync(join(root, 'review/commons', `${slug}.md`), report.join('\n') + '\n');
 }
 
