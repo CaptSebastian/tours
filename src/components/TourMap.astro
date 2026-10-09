@@ -8,9 +8,7 @@ const points = data
   ? stops.filter((s) => data.points[s.number]).map((s) => ({ n: s.number, t: s.title, p: data.points[s.number] }))
   : [];
 ---
-{data && (
-  <>
-  <div class="map tour-map" aria-label={label} data-route={JSON.stringify(data.route)} data-points={JSON.stringify(points)}>
+<div class="map tour-map" aria-label={label} data-route={JSON.stringify(data?.route ?? [])} data-points={JSON.stringify(points)}>
     <div class="tour-map-canvas"></div>
   </div>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
@@ -36,5 +34,3 @@ const points = data
       map.fitBounds(L.featureGroup([line, ...points.map((s) => L.marker(s.p))]).getBounds(), { padding: [24, 24] });
     })();
   </script>
-  </>
-)}
