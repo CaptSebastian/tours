@@ -330,3 +330,14 @@ nav { display: flex; align-items: center; gap: .25rem; }
 /* Tourkaart: "Hier kom je langs:" */
 .tour-highlights { color: var(--muted); }
 .tour-highlights strong { color: var(--ink); font-weight: 600; }
+
+/* Eigen routekaart */
+.tour-map-canvas { height: min(62vh, 480px); background: #e8eef1; }
+.tour-map .leaflet-container { font: inherit; }
+.map-num span {
+  display: grid; place-items: center; width: 30px; height: 30px; border-radius: 999px;
+  background: var(--brass); color: #1b1307; font-weight: 600; font-size: 13px;
+  border: 2px solid #fff; box-shadow: 0 2px 6px rgba(15,42,61,.35); cursor: pointer;
+}
+.map-num:hover span, .map-num:focus span { background: #0f2a3d; color: #fff; }
+.tour-map .leaflet-control-attribution { font-size: 10px; }

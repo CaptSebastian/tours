@@ -1,0 +1,38 @@
+---
+// Eigen routekaart (Leaflet + CARTO-tegels). Nummers linken naar #stop-n op de pagina.
+interface Props { slug: string; label: string; stops: { number: number; title: string }[] }
+const { slug, label, stops } = Astro.props;
+const all = import.meta.glob('../data/maps/*.json', { eager: true }) as Record<string, any>;
+const data = all[`../data/maps/${slug}.json`]?.default;
+const points = data
+  ? stops.filter((s) => data.points[s.number]).map((s) => ({ n: s.number, t: s.title, p: data.points[s.number] }))
+  : [];
+---
+{data && (
+  <div class="map tour-map" aria-label={label} data-route={JSON.stringify(data.route)} data-points={JSON.stringify(points)}>
+    <div class="tour-map-canvas"></div>
+  </div>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script is:inline>
+    (() => {
+      const el = document.querySelector('.tour-map');
+      if (!el || !window.L) return;
+      const route = JSON.parse(el.dataset.route);
+      const points = JSON.parse(el.dataset.points);
+      const map = L.map(el.querySelector('.tour-map-canvas'), { scrollWheelZoom: false, zoomControl: true, attributionControl: true });
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+        maxZoom: 19, subdomains: 'abcd',
+        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · © <a href="https://carto.com/attributions">CARTO</a>',
+      }).addTo(map);
+      L.polyline(route, { color: '#0f2a3d', weight: 7, opacity: .18, lineJoin: 'round' }).addTo(map);
+      const line = L.polyline(route, { color: '#c8923a', weight: 4, lineJoin: 'round', dashArray: '1 8', lineCap: 'round' }).addTo(map);
+      for (const s of points) {
+        const icon = L.divIcon({ className: 'map-num', html: `<span>${s.n}</span>`, iconSize: [30, 30], iconAnchor: [15, 15] });
+        L.marker(s.p, { icon, title: `${s.n}. ${s.t}`, keyboard: true }).addTo(map)
+          .on('click', () => { location.hash = `stop-${s.n}`; });
+      }
+      map.fitBounds(L.featureGroup([line, ...points.map((s) => L.marker(s.p))]).getBounds(), { padding: [24, 24] });
+    })();
+  </script>
+)}

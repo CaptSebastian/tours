@@ -2,6 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import Stop from '../../components/Stop.astro';
 import TipsPromo from '../../components/TipsPromo.astro';
+import TourMap from '../../components/TourMap.astro';
+const maps = import.meta.glob('../../data/maps/*.json');
 import { enabledLocales } from '../../i18n/locales';
 import { t } from '../../i18n/ui';
 import { getTour, tourSlugs } from '../../lib/content';
@@ -13,6 +15,7 @@ export function getStaticPaths() {
 
 const { lang, slug } = Astro.params as { lang: string; slug: string };
 const tour = getTour(slug, lang);
+const hasOwnMap = `../../data/maps/${slug}.json` in maps;
 const { title, intro, credit, map, stops, card, endImage, reviewUrl, fallback } = tour;
 
 // Alles wat nodig is om de tour offline te lezen: de pagina, de foto's en de tipspagina.
@@ -39,7 +42,11 @@ const offlineUrls = [
     <p class="wrap notice">{t(lang, 'tour.fallback')}</p>
   )}
 
-  {map && (
+  {hasOwnMap ? (
+    <section class="wrap">
+      <TourMap slug={slug} label={`${t(lang, 'tour.map')} – ${title}`} stops={stops} />
+    </section>
+  ) : map && (
     <section class="wrap">
       <div class="map">
         <iframe src={map} title={`${t(lang, 'tour.map')} – ${title}`} loading="lazy"></iframe>
