@@ -3,7 +3,6 @@ import Base from '../../layouts/Base.astro';
 import Stop from '../../components/Stop.astro';
 import TipsPromo from '../../components/TipsPromo.astro';
 import TourMap from '../../components/TourMap.astro';
-const maps = import.meta.glob('../../data/maps/*.json');
 import { enabledLocales } from '../../i18n/locales';
 import { t } from '../../i18n/ui';
 import { getTour, tourSlugs } from '../../lib/content';
@@ -15,7 +14,7 @@ export function getStaticPaths() {
 
 const { lang, slug } = Astro.params as { lang: string; slug: string };
 const tour = getTour(slug, lang);
-const hasOwnMap = `../../data/maps/${slug}.json` in maps;
+const hasOwnMap = Object.keys(import.meta.glob('../../data/maps/*.json')).some((k) => k.endsWith(`/${slug}.json`));
 const { title, intro, credit, map, stops, card, endImage, reviewUrl, fallback } = tour;
 
 // Alles wat nodig is om de tour offline te lezen: de pagina, de foto's en de tipspagina.
