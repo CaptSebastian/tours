@@ -43,7 +43,7 @@ const offlineUrls = [
 
   {hasOwnMap ? (
     <section class="wrap">
-      <TourMap slug={slug} label={`${t(lang, 'tour.map')} – ${title}`} stops={stops} />
+      <TourMap slug={slug} lang={lang} label={`${t(lang, 'tour.map')} – ${title}`} stops={stops} />
     </section>
   ) : map && (
     <section class="wrap">

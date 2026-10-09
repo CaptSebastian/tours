@@ -343,3 +343,15 @@ nav { display: flex; align-items: center; gap: .25rem; }
 .tour-map .leaflet-control-attribution { font-size: 10px; }
 .tour-map .leaflet-tile-pane { filter: saturate(.45) contrast(.95) brightness(1.03); }
 @media (prefers-color-scheme: dark) { .tour-map .leaflet-tile-pane { filter: saturate(.3) brightness(.8); } }
+.map-locate {
+  font: 600 14px/1 var(--font-body); padding: 9px 14px; border-radius: 999px; border: 0; cursor: pointer;
+  background: #0f2a3d; color: #fff; box-shadow: 0 2px 8px rgba(15,42,61,.3);
+}
+.map-locate.is-busy { opacity: .7; }
+.map-locate.is-on { background: var(--brass); color: #1b1307; }
+.map-me span {
+  display: block; width: 20px; height: 20px; border-radius: 999px; background: #2f80ed;
+  border: 3px solid #fff; box-shadow: 0 0 0 0 rgba(47,128,237,.5); animation: me-pulse 2s infinite;
+}
+@keyframes me-pulse { 0% { box-shadow: 0 0 0 0 rgba(47,128,237,.5); } 70% { box-shadow: 0 0 0 14px rgba(47,128,237,0); } 100% { box-shadow: 0 0 0 0 rgba(47,128,237,0); } }
+@media (prefers-reduced-motion: reduce) { .map-me span { animation: none; } }
