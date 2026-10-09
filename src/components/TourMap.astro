@@ -24,8 +24,8 @@ const points = data
         maxZoom: 19,
         attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }).addTo(map);
-      L.polyline(route, { color: '#0f2a3d', weight: 7, opacity: .18, lineJoin: 'round' }).addTo(map);
-      const line = L.polyline(route, { color: '#c8923a', weight: 4, lineJoin: 'round', dashArray: '1 8', lineCap: 'round' }).addTo(map);
+      L.polyline(route, { color: '#ffffff', weight: 8, opacity: .9, lineJoin: 'round', lineCap: 'round' }).addTo(map);
+      const line = L.polyline(route, { color: '#17405c', weight: 4, opacity: .9, lineJoin: 'round', lineCap: 'round' }).addTo(map);
       for (const s of points) {
         const icon = L.divIcon({ className: 'map-num', html: `<span>${s.n}</span>`, iconSize: [30, 30], iconAnchor: [15, 15] });
         L.marker(s.p, { icon, title: `${s.n}. ${s.t}`, keyboard: true }).addTo(map)
