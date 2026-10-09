@@ -9,6 +9,7 @@ const points = data
   : [];
 ---
 {data && (
+  <>
   <div class="map tour-map" aria-label={label} data-route={JSON.stringify(data.route)} data-points={JSON.stringify(points)}>
     <div class="tour-map-canvas"></div>
   </div>
@@ -35,4 +36,5 @@ const points = data
       map.fitBounds(L.featureGroup([line, ...points.map((s) => L.marker(s.p))]).getBounds(), { padding: [24, 24] });
     })();
   </script>
+  </>
 )}
