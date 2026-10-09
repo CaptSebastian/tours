@@ -65,6 +65,34 @@ const fullTitle = title ? `${title} | ${site.name}` : `${site.name} | ${t(lang, 
           io.observe(el);
         });
       })();
+
+      // Foto's vooruit laden: ruim voordat een foto in beeld scrolt staat hij al klaar,
+      // en zodra de pagina rustig is worden de rest één voor één op de achtergrond geladen.
+      (() => {
+        const imgs = [...document.querySelectorAll('img[loading="lazy"]')];
+        if (!imgs.length) return;
+        const ready = (img) => {
+          if (img.dataset.pre) return;
+          img.dataset.pre = '1';
+          img.loading = 'eager';
+          if (img.decode) img.decode().catch(() => {});
+        };
+        if ('IntersectionObserver' in window) {
+          const ahead = new IntersectionObserver((entries) => {
+            for (const e of entries) if (e.isIntersecting) { ready(e.target); ahead.unobserve(e.target); }
+          }, { rootMargin: '2000px 0px' });
+          imgs.forEach((img) => ahead.observe(img));
+        }
+        const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 300));
+        const rest = () => {
+          const next = imgs.find((img) => !img.dataset.pre);
+          if (!next) return;
+          ready(next);
+          const go = () => idle(rest);
+          if (next.complete) go(); else { next.addEventListener('load', go, { once: true }); next.addEventListener('error', go, { once: true }); }
+        };
+        if (document.readyState === 'complete') idle(rest); else addEventListener('load', () => idle(rest), { once: true });
+      })();
     </script>
   </body>
 </html>
