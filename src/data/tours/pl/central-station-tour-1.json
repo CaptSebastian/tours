@@ -1,8 +1,8 @@
 {
-  "title": "Stromma Rejs z Damraku",
-  "menuTitle": "Damrak",
+  "title": "Rejs z Dworca Centralnego 1",
+  "menuTitle": "Dworzec Centralny 1",
   "card": {
-    "title": "Stromma Damrak",
+    "title": "Rejs z Dworca Centralnego 1",
     "text": "Godzinny rejs otwartą łodzią. Stary port, statek VOC, Amstel i siedem mostów."
   },
   "stops": {

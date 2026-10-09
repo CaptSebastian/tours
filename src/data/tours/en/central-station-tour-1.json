@@ -1,10 +1,10 @@
 {
-  "title": "Stromma Damrak Tour",
-  "menuTitle": "Damrak",
+  "title": "Central Station Tour 1",
+  "menuTitle": "Central Station 1",
   "order": 2,
   "map": "https://www.google.com/maps/d/embed?mid=1OTMyTrbzE3lEID0kwFkrI02i50L3ofI&ehbc=2E312F",
   "card": {
-    "title": "Stromma Damrak",
+    "title": "Central Station Tour 1",
     "text": "One hour open boat tour. See the old Harbour, VOC ship, Amstel, Seven bridges.",
     "image": "/images/commons/central-station-tour-1-amsterdam-central-station.webp"
   },
@@ -378,5 +378,12 @@
   "endCredit": {
     "text": "Tezd · CC BY-SA 3.0",
     "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_canal_boat.jpg"
-  }
+  },
+  "highlights": [
+    "het-scheepvaartmuseum",
+    "de-magere-brug",
+    "de-reguliersgracht",
+    "de-dansende-huisjes",
+    "museum-rembrandthuis"
+  ]
 }

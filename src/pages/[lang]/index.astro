@@ -26,7 +26,12 @@ const tours = getTours(lang);
         {tour.card.image && <img src={tour.card.image} alt="" loading="lazy" decoding="async" />}
         <div class="tour-card-body">
           <h2>{tour.card.title}</h2>
-          <p>{tour.card.text}</p>
+          {tour.highlights?.length ? (
+            <p class="tour-highlights">
+              <strong>{t(lang, 'tour.highlights')}</strong>{' '}
+              {tour.highlights.map((id) => tour.stops.find((s) => s.id === id)?.title).filter(Boolean).join(' · ')}
+            </p>
+          ) : <p>{tour.card.text}</p>}
           <span class="button">{t(lang, 'home.start')}</span>
         </div>
       </a>

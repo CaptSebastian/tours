@@ -1,9 +1,9 @@
 {
-  "title": "Stromma Anne Frank Amstel Tour",
-  "menuTitle": "Anne Frank Amstel",
+  "title": "Anne Frank Tour",
+  "menuTitle": "Anne Frank",
   "order": 4,
   "card": {
-    "title": "Stromma Anne Frank House",
+    "title": "Anne Frank Tour",
     "text": "Choose your favourite language in the menu and enjoy the tour.",
     "image": "/images/commons/annefrank1-anne-frank-house.webp"
   },
@@ -254,5 +254,12 @@
     "text": "Tezd · CC BY-SA 3.0",
     "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_canal_boat.jpg"
   },
-  "commonsConfig": "4a2ee7fbe519"
+  "commonsConfig": "4a2ee7fbe519",
+  "highlights": [
+    "anne-frank-house",
+    "de-wester",
+    "the-houseboat-museum",
+    "de-magere-brug",
+    "de-reguliersgracht"
+  ]
 }

@@ -30,6 +30,8 @@ export interface Tour {
   credit?: string;
   map?: string;
   card: { title: string; text: string; image: string };
+  /** Stop-id's die op de tourkaart onder 'Hier kom je langs' staan */
+  highlights?: string[];
   stops: Stop[];
   endImage?: string;
   reviewUrl?: string;

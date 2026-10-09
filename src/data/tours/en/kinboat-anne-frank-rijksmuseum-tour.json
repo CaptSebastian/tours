@@ -1,9 +1,9 @@
 {
-  "title": "Stromma Anne Frank Rijksmuseum Tour",
-  "menuTitle": "Anne Frank Rijksmuseum Tour",
+  "title": "Rijksmuseum Tour",
+  "menuTitle": "Rijksmuseum",
   "order": 5,
   "card": {
-    "title": "Stromma Rijksmuseum Tour",
+    "title": "Rijksmuseum Tour",
     "text": "Choose your favourite language in the menu and enjoy the tour.",
     "image": "/images/commons/kinboat-anne-frank-rijksmuseum-tour-rijksmuseum.webp"
   },
@@ -241,5 +241,12 @@
   "endCredit": {
     "text": "Tezd · CC BY-SA 3.0",
     "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_canal_boat.jpg"
-  }
+  },
+  "highlights": [
+    "anne-frank-house",
+    "the-houseboat-museum",
+    "rijksmuseum",
+    "van-gogh-museum",
+    "the-vondelpark"
+  ]
 }

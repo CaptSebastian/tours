@@ -1,10 +1,10 @@
 {
-  "title": "Eco Boats Central Station Tour",
+  "title": "Central Station Tour 2",
   "menuTitle": "Central Station 2",
   "order": 3,
   "map": "https://www.google.com/maps/d/u/0/embed?mid=1Pf78SSa3GSMWBPOTbZExpd888GH3o8o&ehbc=2E312F",
   "card": {
-    "title": "Eco Boats Central Station",
+    "title": "Central Station Tour 2",
     "text": "Choose your favourite language in the menu and enjoy the tour.",
     "image": "/images/commons/cs-tour-2-amsterdam-central-station.webp"
   },
@@ -378,5 +378,12 @@
   "endCredit": {
     "text": "Tezd · CC BY-SA 3.0",
     "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_canal_boat.jpg"
-  }
+  },
+  "highlights": [
+    "het-scheepvaartmuseum",
+    "de-magere-brug",
+    "de-dansende-huisjes",
+    "de-oude-kerk",
+    "zeedijk-bridge-lock"
+  ]
 }
