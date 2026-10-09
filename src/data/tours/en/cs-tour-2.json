@@ -119,7 +119,7 @@
       "number": 9,
       "title": "Hortus Botanicus",
       "images": [
-        "/images/commons/central-station-tour-1-hortus-botanicus.webp"
+        "/images/commons/cs-tour-2-hortus-botanicus.webp"
       ],
       "body": "<p>Founded in 1638, the Hortus Botanicus is one of the oldest botanical gardens in the world. The small garden has over 6,000 trees and plants, a greenhouse with three different tropical climates, and a butterfly house filled with hundreds of butterflies. Look out for the Eastern Cape cycad in the Palm House: it is about 300 years old.</p>",
       "photoCredit": {
@@ -383,7 +383,7 @@
   ],
   "endImage": "/images/commons/cs-tour-2-end.webp",
   "reviewUrl": "https://www.tripadvisor.nl/UserReviewEdit-g188590-d12934129-Eco_Boats_Amsterdam-Amsterdam_North_Holland_Province.html",
-  "commonsConfig": "a4c7d761f0fc",
+  "commonsConfig": "ccd11f87c9a6",
   "cardCredit": {
     "text": "Dietmar Rabich · CC BY-SA 4.0",
     "url": "https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Centraal_Station_--_2015_--_7269.jpg"
