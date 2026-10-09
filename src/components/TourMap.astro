@@ -9,7 +9,7 @@ const points = data
   ? stops.filter((s) => data.points[s.number]).map((s) => ({ n: s.number, t: s.title, p: data.points[s.number] }))
   : [];
 ---
-<div class="map tour-map" aria-label={label} data-locate={t(lang, 'map.locate')} data-locate-error={t(lang, 'map.locateError')} data-route={JSON.stringify(data?.route ?? [])} data-points={JSON.stringify(points)}>
+<div class="map tour-map" aria-label={label} data-locate={t(lang, 'map.locate')} data-locate-error={t(lang, 'map.locateError')} data-locate-denied={t(lang, 'map.locateDenied')} data-route={JSON.stringify(data?.route ?? [])} data-points={JSON.stringify(points)}>
     <div class="tour-map-canvas"></div>
   </div>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
@@ -50,22 +50,38 @@ const points = data
         });
         const ctl = new Locate().addTo(map);
         let dot, ring, watching = false, centered = false;
+        function show(pos) {
+          const ll = [pos.coords.latitude, pos.coords.longitude];
+          ctl.btn.classList.remove('is-busy'); ctl.btn.classList.add('is-on');
+          ctl.btn.textContent = el.dataset.locate;
+          if (!dot) {
+            ring = L.circle(ll, { radius: pos.coords.accuracy, color: '#2f80ed', weight: 1, opacity: .4, fillOpacity: .08, interactive: false }).addTo(map);
+            dot = L.marker(ll, { icon: L.divIcon({ className: 'map-me', html: '<span></span>', iconSize: [20, 20], iconAnchor: [10, 10] }), interactive: false, zIndexOffset: 1000 }).addTo(map);
+          } else { dot.setLatLng(ll); ring.setLatLng(ll).setRadius(pos.coords.accuracy); }
+          if (!centered) { centered = true; map.setView(ll, Math.max(map.getZoom(), 16)); }
+        }
+        function fail(err) {
+          watching = false; ctl.btn.classList.remove('is-busy', 'is-on');
+          console.warn('[kaart] locatie mislukt', err && err.code, err && err.message, 'secure:', window.isSecureContext);
+          const msg = !window.isSecureContext || (err && err.code === 1) ? el.dataset.locateDenied : el.dataset.locateError;
+          ctl.btn.textContent = msg;
+          setTimeout(() => { if (!watching) ctl.btn.textContent = el.dataset.locate; }, 5000);
+        }
+        function watch(precise) {
+          return navigator.geolocation.watchPosition(show, (err) => {
+            // Binnen of op wifi lukt nauwkeurige gps soms niet: dan nog één keer grof proberen.
+            if (precise && err.code !== 1) { navigator.geolocation.clearWatch(id); id = watch(false); }
+            else fail(err);
+          }, precise
+            ? { enableHighAccuracy: true, maximumAge: 5000, timeout: 12000 }
+            : { enableHighAccuracy: false, maximumAge: 60000, timeout: 20000 });
+        }
+        let id;
         function start() {
           if (watching) { if (dot) map.setView(dot.getLatLng(), Math.max(map.getZoom(), 16)); return; }
+          if (!window.isSecureContext) return fail({ code: 1, message: 'insecure context' });
           watching = true; ctl.btn.classList.add('is-busy');
-          navigator.geolocation.watchPosition((pos) => {
-            const ll = [pos.coords.latitude, pos.coords.longitude];
-            ctl.btn.classList.remove('is-busy'); ctl.btn.classList.add('is-on');
-            if (!dot) {
-              ring = L.circle(ll, { radius: pos.coords.accuracy, color: '#2f80ed', weight: 1, opacity: .4, fillOpacity: .08, interactive: false }).addTo(map);
-              dot = L.marker(ll, { icon: L.divIcon({ className: 'map-me', html: '<span></span>', iconSize: [20, 20], iconAnchor: [10, 10] }), interactive: false, zIndexOffset: 1000 }).addTo(map);
-            } else { dot.setLatLng(ll); ring.setLatLng(ll).setRadius(pos.coords.accuracy); }
-            if (!centered) { centered = true; map.setView(ll, Math.max(map.getZoom(), 16)); }
-          }, () => {
-            watching = false; ctl.btn.classList.remove('is-busy');
-            ctl.btn.textContent = el.dataset.locateError;
-            setTimeout(() => { ctl.btn.textContent = el.dataset.locate; }, 3000);
-          }, { enableHighAccuracy: true, maximumAge: 5000, timeout: 15000 });
+          id = watch(true);
         }
       }
     })();
