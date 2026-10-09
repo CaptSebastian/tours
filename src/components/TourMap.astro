@@ -20,9 +20,9 @@ const points = data
       const route = JSON.parse(el.dataset.route);
       const points = JSON.parse(el.dataset.points);
       const map = L.map(el.querySelector('.tour-map-canvas'), { scrollWheelZoom: false, zoomControl: true, attributionControl: true });
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-        maxZoom: 19, subdomains: 'abcd',
-        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · © <a href="https://carto.com/attributions">CARTO</a>',
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }).addTo(map);
       L.polyline(route, { color: '#0f2a3d', weight: 7, opacity: .18, lineJoin: 'round' }).addTo(map);
       const line = L.polyline(route, { color: '#c8923a', weight: 4, lineJoin: 'round', dashArray: '1 8', lineCap: 'round' }).addTo(map);
@@ -31,6 +31,6 @@ const points = data
         L.marker(s.p, { icon, title: `${s.n}. ${s.t}`, keyboard: true }).addTo(map)
           .on('click', () => { location.hash = `stop-${s.n}`; });
       }
-      map.fitBounds(L.featureGroup([line, ...points.map((s) => L.marker(s.p))]).getBounds(), { padding: [24, 24] });
+      map.fitBounds(line.getBounds(), { padding: [28, 28] });
     })();
   </script>

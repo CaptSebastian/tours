@@ -341,3 +341,5 @@ nav { display: flex; align-items: center; gap: .25rem; }
 }
 .map-num:hover span, .map-num:focus span { background: #0f2a3d; color: #fff; }
 .tour-map .leaflet-control-attribution { font-size: 10px; }
+.tour-map .leaflet-tile-pane { filter: saturate(.45) contrast(.95) brightness(1.03); }
+@media (prefers-color-scheme: dark) { .tour-map .leaflet-tile-pane { filter: saturate(.3) brightness(.8); } }
