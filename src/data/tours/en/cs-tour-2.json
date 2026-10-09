@@ -115,8 +115,21 @@
       }
     },
     {
-      "id": "portuguese-jewish-synagogue",
+      "id": "hortus-botanicus",
       "number": 9,
+      "title": "Hortus Botanicus",
+      "images": [
+        "/images/commons/central-station-tour-1-hortus-botanicus.webp"
+      ],
+      "body": "<p>Founded in 1638, the Hortus Botanicus is one of the oldest botanical gardens in the world. The small garden has over 6,000 trees and plants, a greenhouse with three different tropical climates, and a butterfly house filled with hundreds of butterflies. Look out for the Eastern Cape cycad in the Palm House: it is about 300 years old.</p>",
+      "photoCredit": {
+        "text": "Marcelmulder68 · CC BY-SA 3.0 nl",
+        "url": "https://commons.wikimedia.org/wiki/File:Palmen-_en_varenkas_Hortus_Botanicus_Amsterdam.jpg"
+      }
+    },
+    {
+      "id": "portuguese-jewish-synagogue",
+      "number": 10,
       "title": "Portuguese Jewish Synagogue",
       "images": [
         "/images/commons/cs-tour-2-portuguese-jewish-synagogue.webp"
@@ -129,7 +142,7 @@
     },
     {
       "id": "de-amstel",
-      "number": 10,
+      "number": 11,
       "title": "De Amstel",
       "images": [
         "/images/commons/cs-tour-2-de-amstel.webp"
@@ -142,7 +155,7 @@
     },
     {
       "id": "hart-museum",
-      "number": 11,
+      "number": 12,
       "title": "H’ART Museum",
       "images": [
         "/images/commons/cs-tour-2-hart-museum.webp"
@@ -155,7 +168,7 @@
     },
     {
       "id": "de-magere-brug",
-      "number": 12,
+      "number": 13,
       "title": "De Magere Brug",
       "images": [
         "/images/commons/cs-tour-2-de-magere-brug.webp"
@@ -168,7 +181,7 @@
     },
     {
       "id": "de-blauwbrug",
-      "number": 13,
+      "number": 14,
       "title": "De Blauwbrug",
       "images": [
         "/images/commons/cs-tour-2-de-blauwbrug.webp"
@@ -181,7 +194,7 @@
     },
     {
       "id": "city-hall-national-ballet-theatre",
-      "number": 14,
+      "number": 15,
       "title": "City Hall & National Ballet Theatre",
       "images": [
         "/images/commons/cs-tour-2-city-hall-national-ballet-theatre.webp"
@@ -194,7 +207,7 @@
     },
     {
       "id": "spinoza-monument",
-      "number": 15,
+      "number": 16,
       "title": "Spinoza Monument",
       "images": [
         "/images/commons/cs-tour-2-spinoza-monument.webp"
@@ -207,7 +220,7 @@
     },
     {
       "id": "waterlooplein",
-      "number": 16,
+      "number": 17,
       "title": "Waterlooplein",
       "images": [
         "/images/commons/cs-tour-2-waterlooplein.webp"
@@ -220,7 +233,7 @@
     },
     {
       "id": "zuiderkerk",
-      "number": 17,
+      "number": 18,
       "title": "Zuiderkerk",
       "images": [
         "/images/commons/cs-tour-2-zuiderkerk.webp"
@@ -233,13 +246,13 @@
     },
     {
       "id": "de-dansende-huisjes",
-      "number": 18,
+      "number": 19,
       "title": "De Dansende Huisjes",
       "body": "<p>The Dancing Houses are a row of crooked old canal houses that lean against each other. The reason is underground: Amsterdam is built on wooden piles, and the firm sand layer that can carry a house lies about 13 meters deep. Piles that don’t reach it, or that rot over the centuries, let a house sink unevenly. So what do you get? A row of dancing houses.</p>"
     },
     {
       "id": "million-dollar-view",
-      "number": 19,
+      "number": 20,
       "title": "Million dollar view",
       "images": [
         "/images/commons/cs-tour-2-million-dollar-view.webp"
@@ -252,7 +265,7 @@
     },
     {
       "id": "hotel-de-leurope-amsterdam",
-      "number": 20,
+      "number": 21,
       "title": "Hotel de L’Europe Amsterdam",
       "images": [
         "/images/commons/cs-tour-2-hotel-de-leurope-amsterdam.webp"
@@ -265,7 +278,7 @@
     },
     {
       "id": "grimburgwal",
-      "number": 21,
+      "number": 22,
       "title": "Grimburgwal",
       "images": [
         "/images/commons/cs-tour-2-grimburgwal.webp"
@@ -278,7 +291,7 @@
     },
     {
       "id": "stadsbank-van-lening",
-      "number": 22,
+      "number": 23,
       "title": "Stadsbank van Lening",
       "images": [
         "/images/commons/cs-tour-2-stadsbank-van-lening.webp"
@@ -291,7 +304,7 @@
     },
     {
       "id": "coffeeshop-the-bulldog-the-first",
-      "number": 23,
+      "number": 24,
       "title": "Coffeeshop The Bulldog “The First”",
       "images": [
         "/images/commons/cs-tour-2-coffeeshop-the-bulldog-the-first.webp"
@@ -304,7 +317,7 @@
     },
     {
       "id": "de-oude-kerk",
-      "number": 24,
+      "number": 25,
       "title": "De Oude Kerk",
       "images": [
         "/images/commons/cs-tour-2-de-oude-kerk.webp"
@@ -317,7 +330,7 @@
     },
     {
       "id": "gevelstenen",
-      "number": 25,
+      "number": 26,
       "title": "Facade stones",
       "images": [
         "/images/commons/cs-tour-2-gevelstenen.webp"
@@ -330,7 +343,7 @@
     },
     {
       "id": "zeedijk-bridge-lock",
-      "number": 26,
+      "number": 27,
       "title": "Zeedijk Bridge & Lock",
       "images": [
         "/images/commons/cs-tour-2-zeedijk-bridge-lock.webp"
@@ -343,7 +356,7 @@
     },
     {
       "id": "saint-nicholas-church",
-      "number": 27,
+      "number": 28,
       "title": "Saint Nicholas Church",
       "images": [
         "/images/commons/cs-tour-2-saint-nicholas-church.webp"
@@ -356,7 +369,7 @@
     },
     {
       "id": "victoria-hotel-amsterdam",
-      "number": 28,
+      "number": 29,
       "title": "Victoria Hotel Amsterdam",
       "images": [
         "/images/commons/cs-tour-2-victoria-hotel-amsterdam.webp"
